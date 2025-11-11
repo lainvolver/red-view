@@ -17,7 +17,7 @@ def match_titles(reddit_data, anime_titles, threshold=75):
     matches = []
     for post in reddit_data["posts"]:
         title = post["title"]
-        match, score = process.extractOne(title, all_titles, scorer=fuzz.partial_ratio)
+        match, score, _ = process.extractOne(title, all_titles, scorer=fuzz.partial_ratio)
         if score >= threshold:
             matches.append({
                 "reddit_title": title,
