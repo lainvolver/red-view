@@ -41,29 +41,24 @@ def prepare_anime_titles(anime_titles):
 # ------------------------------------------------------------
 def strict_match(reddit_title, anime_title_pairs):
     cleaned_r = clean_title(reddit_title)
-    words_r = set(cleaned_r.split())
+    words_r = {w for w in cleaned_r.split() if len(w) >= 5}
 
     best = None
     best_score = 0
 
     for original, cleaned_a in anime_title_pairs:
-        # fuzzy の厳密度を上げる
-        score = fuzz.ratio(cleaned_r, cleaned_a)
+        score = fuzz.token_set_ratio(cleaned_r, cleaned_a)
 
-        # 共通単語チェック（誤爆回避）
-        words_a = set(cleaned_a.split())
-        common = words_r & words_a
-
-        # 共通語がゼロならスキップ（WanDance → Philosophy no Dance 対策）
-        if len(common) == 0:
+        # 5文字以上の単語の交差で誤爆防止
+        words_a = {w for w in cleaned_a.split() if len(w) >= 5}
+        if len(words_r & words_a) == 0:
             continue
 
         if score > best_score:
             best_score = score
             best = original
 
-    # 閾値設定（80前後が安全）
-    if best_score >= 80:
+    if best_score >= 72:   # ちょうどいいライン
         return best, best_score
 
     return None, 0
