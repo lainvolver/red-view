@@ -1,61 +1,712 @@
 {
-  "snapshot_at": "2025-12-07T16:33:40.921303+00:00",
+  "snapshot_at": "2025-12-07T17:01:31.777690+00:00",
   "matched_posts": [
+    {
+      "reddit_title": "\"My Hero Academia: Vigilantes\" Season 2 Key Visual",
+      "matched_anime": "My Hero Academia FINAL SEASON",
+      "score": 88.46153846153847,
+      "num_comments": 81,
+      "url": "https://reddit.com/r/anime/comments/1pg83dp/my_hero_academia_vigilantes_season_2_key_visual/"
+    },
+    {
+      "reddit_title": "Frieren: Beyond Journey's End Season 2 - New 30-sec Trailer (new OST teaser)",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/anime/comments/1pgi8ed/frieren_beyond_journeys_end_season_2_new_30sec/"
+    },
+    {
+      "reddit_title": "Welcome to Demon School! Iruma-kun Season 4 Ne Visual",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 219,
+      "url": "https://reddit.com/r/anime/comments/1pfso4w/welcome_to_demon_school_irumakun_season_4_ne/"
+    },
+    {
+      "reddit_title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. • Dad is a Hero, Mom is a Spirit, I'm a Reincarnator - Episode 10 discussion",
+      "matched_anime": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "score": 100.0,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/anime/comments/1pgjr38/chichi_wa_eiyuu_haha_wa_seirei_musume_no_watashi/"
+    },
+    {
+      "reddit_title": "Alma-chan wa Kazoku ni Naritai • Alma-chan Wants to Be a Family! - Episode 10 discussion",
+      "matched_anime": "Alma-chan wa Kazoku ni Naritai",
+      "score": 100.0,
+      "num_comments": 17,
+      "url": "https://reddit.com/r/anime/comments/1pgjr1s/almachan_wa_kazoku_ni_naritai_almachan_wants_to/"
+    },
+    {
+      "reddit_title": "Chanto Suenai Kyuuketsuki-chan • Li'l Miss Vampire Can't Suck Right - Episode 9 discussion",
+      "matched_anime": "Chanto Suenai Kyuuketsuki-chan",
+      "score": 100.0,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/anime/comments/1pgigqy/chanto_suenai_kyuuketsukichan_lil_miss_vampire/"
+    },
+    {
+      "reddit_title": "Kikaijikake no Marie • Mechanical Marie - Episode 10 discussion",
+      "matched_anime": "Kikaijikake no Marie",
+      "score": 100.0,
+      "num_comments": 17,
+      "url": "https://reddit.com/r/anime/comments/1pgj36f/kikaijikake_no_marie_mechanical_marie_episode_10/"
+    },
+    {
+      "reddit_title": "My Hero Academia: Vigilantes Season 2 Trailer",
+      "matched_anime": "My Hero Academia FINAL SEASON",
+      "score": 88.46153846153847,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/anime/comments/1pg85ph/my_hero_academia_vigilantes_season_2_trailer/"
+    },
+    {
+      "reddit_title": "‘Wistoria: Wand and Sword’ Season 2 Key Visual",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 124,
+      "url": "https://reddit.com/r/anime/comments/1pfnoj4/wistoria_wand_and_sword_season_2_key_visual/"
+    },
+    {
+      "reddit_title": "Spy x Family Season 3 - Episode 10 discussion",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 188,
+      "url": "https://reddit.com/r/anime/comments/1pfqpj9/spy_x_family_season_3_episode_10_discussion/"
+    },
+    {
+      "reddit_title": "Welcome to Demon School! Iruma-kun Season 4 | Official Trailer | Crunchyroll",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 49,
+      "url": "https://reddit.com/r/anime/comments/1pfspm4/welcome_to_demon_school_irumakun_season_4/"
+    },
+    {
+      "reddit_title": "Gnosia - Episode 9 discussion",
+      "matched_anime": "Gnosia",
+      "score": 100.0,
+      "num_comments": 284,
+      "url": "https://reddit.com/r/anime/comments/1pftfmt/gnosia_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "Yasei no Last Boss ga Arawareta! • A Wild Last Boss Appeared! - Episode 11 discussion",
+      "matched_anime": "Yasei no Last Boss ga Arawareta!",
+      "score": 100.0,
+      "num_comments": 375,
+      "url": "https://reddit.com/r/anime/comments/1pfq1yh/yasei_no_last_boss_ga_arawareta_a_wild_last_boss/"
+    },
+    {
+      "reddit_title": "Ranma ½ (2024) Season 2 - Episode 10 discussion",
+      "matched_anime": "Ranma 1/2 (2024) 2nd Season",
+      "score": 86.36363636363636,
+      "num_comments": 81,
+      "url": "https://reddit.com/r/anime/comments/1pfu5v7/ranma_½_2024_season_2_episode_10_discussion/"
+    },
+    {
+      "reddit_title": "Nageki no Bourei wa Intai shitai Season 2 • Let This Grieving Soul Retire Season 2 - Episode 23 discussion",
+      "matched_anime": "Nageki no Bourei wa Intai shitai 2",
+      "score": 100.0,
+      "num_comments": 173,
+      "url": "https://reddit.com/r/anime/comments/1pfs1h6/nageki_no_bourei_wa_intai_shitai_season_2_let/"
+    },
+    {
+      "reddit_title": "Boku no Hero Academia Final Season • My Hero Academia: Final Season - Episode 10 discussion",
+      "matched_anime": "Boku no Hero Academia FINAL SEASON",
+      "score": 100.0,
+      "num_comments": 421,
+      "url": "https://reddit.com/r/anime/comments/1pfkv5a/boku_no_hero_academia_final_season_my_hero/"
+    },
+    {
+      "reddit_title": "Fumetsu no Anata e Season 3 • To Your Eternity Season 3 - Episode 10 discussion",
+      "matched_anime": "Fumetsu no Anata e Season 3",
+      "score": 100.0,
+      "num_comments": 149,
+      "url": "https://reddit.com/r/anime/comments/1pfsg85/fumetsu_no_anata_e_season_3_to_your_eternity/"
+    },
+    {
+      "reddit_title": "Kingdom Season 6 - Episode 10 discussion",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 13,
+      "url": "https://reddit.com/r/anime/comments/1pfx9bj/kingdom_season_6_episode_10_discussion/"
+    },
+    {
+      "reddit_title": "Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me! - Episode 10 discussion",
+      "matched_anime": "Tomodachi no Imouto ga Ore ni dake Uzai",
+      "score": 100.0,
+      "num_comments": 53,
+      "url": "https://reddit.com/r/anime/comments/1pfuw59/tomodachi_no_imouto_ga_ore_ni_dake_uzai_my/"
+    },
+    {
+      "reddit_title": "Shuumatsu Touring • Touring After the Apocalypse - Episode 10 discussion",
+      "matched_anime": "Shuumatsu Touring",
+      "score": 100.0,
+      "num_comments": 47,
+      "url": "https://reddit.com/r/anime/comments/1pfsqbe/shuumatsu_touring_touring_after_the_apocalypse/"
+    },
+    {
+      "reddit_title": "Kekkon Yubiwa Monogatari Ⅱ • Tales of Wedding Rings Season 2 - Episode 10 discussion",
+      "matched_anime": "Tales of Wedding Rings Season 2",
+      "score": 100.0,
+      "num_comments": 25,
+      "url": "https://reddit.com/r/anime/comments/1pfod0i/kekkon_yubiwa_monogatari_ⅱ_tales_of_wedding_rings/"
+    },
+    {
+      "reddit_title": "TV Anime “Wistoria: Wand and Sword” Season 2 – Teaser PV │ Begins airing April 2026",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/anime/comments/1pfnoad/tv_anime_wistoria_wand_and_sword_season_2_teaser/"
+    },
     {
       "reddit_title": "Wild Last Boss Appeared song episode 11",
       "matched_anime": "A Wild Last Boss Appeared!",
-      "score": 86.79245283018868,
+      "score": 95.83333333333333,
       "num_comments": 14,
       "url": "https://reddit.com/r/anime/comments/1pfzglv/wild_last_boss_appeared_song_episode_11/"
     },
     {
+      "reddit_title": "Hyakushou Kizoku Season 3 • Hyakusho Kizoku-the farmer's days Season 3 - Episode 38 discussion",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 1,
+      "url": "https://reddit.com/r/anime/comments/1pg6897/hyakushou_kizoku_season_3_hyakusho_kizokuthe/"
+    },
+    {
+      "reddit_title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka • May I Ask For One Final Thing? - Episode 11 discussion",
+      "matched_anime": "May I Ask for One Final Thing?",
+      "score": 100.0,
+      "num_comments": 144,
+      "url": "https://reddit.com/r/anime/comments/1peznw2/saigo_ni_hitotsu_dake_onegai_shitemo_yoroshii/"
+    },
+    {
+      "reddit_title": "Sanda - Episode 10 discussion",
+      "matched_anime": "SANDA",
+      "score": 100.0,
+      "num_comments": 68,
+      "url": "https://reddit.com/r/anime/comments/1pf1vtm/sanda_episode_10_discussion/"
+    },
+    {
+      "reddit_title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift Mugen Gacha de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & Zamaa! Shimasu! • My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! - Episode 10 discussion",
+      "matched_anime": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "score": 100.0,
+      "num_comments": 287,
+      "url": "https://reddit.com/r/anime/comments/1pexc5v/shinjiteita_nakamatachi_ni_dungeon_okuchi_de/"
+    },
+    {
+      "reddit_title": "GNOSIA | EPISODE #9 PREVIEW",
+      "matched_anime": "Gnosia",
+      "score": 100.0,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/anime/comments/1pfbmal/gnosia_episode_9_preview/"
+    },
+    {
+      "reddit_title": "Shabake - Episode 10 discussion",
+      "matched_anime": "Shabake",
+      "score": 100.0,
+      "num_comments": 15,
+      "url": "https://reddit.com/r/anime/comments/1peyv97/shabake_episode_10_discussion/"
+    },
+    {
+      "reddit_title": "Chitose-kun wa Ramune Bin no Naka • Chitose Is in the Ramune Bottle - Episode 7 - Preview Images and Synopsis",
+      "matched_anime": "Chitose-kun wa Ramune Bin no Naka",
+      "score": 100.0,
+      "num_comments": 4,
+      "url": "https://reddit.com/r/anime/comments/1peuqad/chitosekun_wa_ramune_bin_no_naka_chitose_is_in/"
+    },
+    {
+      "reddit_title": "This Monster Wants to Eat Me Updated Visual",
+      "matched_anime": "This Monster Wants to Eat Me",
+      "score": 100.0,
+      "num_comments": 66,
+      "url": "https://reddit.com/r/anime/comments/1pe265q/this_monster_wants_to_eat_me_updated_visual/"
+    },
+    {
+      "reddit_title": "Watashi wo Tabetai, Hitodenashi • This Monster Wants to Eat Me - Episode 10 discussion",
+      "matched_anime": "Watashi wo Tabetai, Hitodenashi",
+      "score": 100.0,
+      "num_comments": 239,
+      "url": "https://reddit.com/r/anime/comments/1pe1ijf/watashi_wo_tabetai_hitodenashi_this_monster_wants/"
+    },
+    {
+      "reddit_title": "[GundamIsHere] One Punch Man Season 3 Disappointing fans one frame at a time",
+      "matched_anime": "One Punch Man 3",
+      "score": 100.0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/anime/comments/1pfljic/gundamishere_one_punch_man_season_3_disappointing/"
+    },
+    {
+      "reddit_title": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! • Pass the Monster Meat, Milady! - Episode 10 discussion",
+      "matched_anime": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
+      "score": 100.0,
+      "num_comments": 46,
+      "url": "https://reddit.com/r/anime/comments/1pe5dbt/akujiki_reijou_to_kyouketsu_koushaku_sono_mamono/"
+    },
+    {
+      "reddit_title": "Help me find an anime where the antagonist looks like the protagonist of \"A wild last boss appeared\" and the characters were comimg out from a novel or game the mc played or read",
+      "matched_anime": "A Wild Last Boss Appeared!",
+      "score": 100.0,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/anime/comments/1pf60p6/help_me_find_an_anime_where_the_antagonist_looks/"
+    },
+    {
+      "reddit_title": "Bukiyou na Senpai. • My Awkward Senpai - Episode 10 discussion",
+      "matched_anime": "Bukiyou na Senpai.",
+      "score": 100.0,
+      "num_comments": 61,
+      "url": "https://reddit.com/r/anime/comments/1pe0sy8/bukiyou_na_senpai_my_awkward_senpai_episode_10/"
+    },
+    {
+      "reddit_title": "Taiyou yori mo Mabushii Hoshi • A Star Brighter Than the Sun - Episode 10 discussion",
+      "matched_anime": "Taiyou yori mo Mabushii Hoshi",
+      "score": 100.0,
+      "num_comments": 70,
+      "url": "https://reddit.com/r/anime/comments/1pe3lyg/taiyou_yori_mo_mabushii_hoshi_a_star_brighter/"
+    },
+    {
+      "reddit_title": "One-Punch Man Season 3 Episode 9 Preview Images",
+      "matched_anime": "One Punch Man 3",
+      "score": 100.0,
+      "num_comments": 149,
+      "url": "https://reddit.com/r/anime/comments/1pdp7jq/onepunch_man_season_3_episode_9_preview_images/"
+    },
+    {
+      "reddit_title": "What did they eat?! Wind Breaker Season 2 - Episode 11 15:38",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/anime/comments/1pen869/what_did_they_eat_wind_breaker_season_2_episode/"
+    },
+    {
+      "reddit_title": "I Tried Defending OPM Season 3… I Can’t Anymore",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 5,
+      "url": "https://reddit.com/r/anime/comments/1pf6kyd/i_tried_defending_opm_season_3_i_cant_anymore/"
+    },
+    {
+      "reddit_title": "My Thoughts on Sasami Magical Girls Club Season 2",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/anime/comments/1pelivh/my_thoughts_on_sasami_magical_girls_club_season_2/"
+    },
+    {
+      "reddit_title": "Tensei Akujo no Kuro Rekishi • The Dark History of the Reincarnated Villainess - Episode 9 discussion",
+      "matched_anime": "Tensei Akujo no Kuro Rekishi",
+      "score": 100.0,
+      "num_comments": 83,
+      "url": "https://reddit.com/r/anime/comments/1pd863l/tensei_akujo_no_kuro_rekishi_the_dark_history_of/"
+    },
+    {
+      "reddit_title": "Wandance - Episode 9 discussion",
+      "matched_anime": "WanDance",
+      "score": 100.0,
+      "num_comments": 68,
+      "url": "https://reddit.com/r/anime/comments/1pd7d5w/wandance_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattan da ga • Hero Without a Class: Who Even Needs Skills?! - Episode 11 discussion",
+      "matched_anime": "Hero Without a Class: Who Even Needs Skills?!",
+      "score": 100.0,
+      "num_comments": 135,
+      "url": "https://reddit.com/r/anime/comments/1pd3klk/mushoku_no_eiyuu_betsu_ni_skill_nanka_iranakattan/"
+    },
+    {
+      "reddit_title": "Kakuriyo no Yadomeshi Ni • Kakuriyo: Bed & Breakfast for Spirits Season 2 - Episode 10 discussion",
+      "matched_anime": "Kakuriyo -Bed & Breakfast for Spirits- 2",
+      "score": 100.0,
+      "num_comments": 17,
+      "url": "https://reddit.com/r/anime/comments/1pd7d49/kakuriyo_no_yadomeshi_ni_kakuriyo_bed_breakfast/"
+    },
+    {
+      "reddit_title": "Ao no Orchestra Season 2 • Blue Orchestra Season 2 - Episode 9 discussion",
+      "matched_anime": "Ao no Orchestra Season 2",
+      "score": 100.0,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/anime/comments/1pd6kap/ao_no_orchestra_season_2_blue_orchestra_season_2/"
+    },
+    {
       "reddit_title": "The Dark History of the Reincarnated Villainess question",
       "matched_anime": "The Dark History of the Reincarnated Villainess",
-      "score": 91.2621359223301,
+      "score": 100.0,
       "num_comments": 8,
       "url": "https://reddit.com/r/anime/comments/1pdi45o/the_dark_history_of_the_reincarnated_villainess/"
     },
     {
+      "reddit_title": "My Thoughts on Sasami Magical Girls Club Season 1",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 2,
+      "url": "https://reddit.com/r/anime/comments/1pdr5qx/my_thoughts_on_sasami_magical_girls_club_season_1/"
+    },
+    {
+      "reddit_title": "Disney Twisted-Wonderland: The Animation - Episode 6 discussion",
+      "matched_anime": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL",
+      "score": 87.64044943820224,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/anime/comments/1pcynbt/disney_twistedwonderland_the_animation_episode_6/"
+    },
+    {
+      "reddit_title": "Is there a website that will let me search anime based on series completion? (IE, Anime that have finished the story entirely, are not ongoing, canceled, complete for only the season, etc?)",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 25,
+      "url": "https://reddit.com/r/anime/comments/1pd0mp8/is_there_a_website_that_will_let_me_search_anime/"
+    },
+    {
+      "reddit_title": "Tondemo Skill de Isekai Hourou Meshi Season 2 • Campfire Cooking in Another World with My Absurd Skill Season 2 - Episode 9 discussion",
+      "matched_anime": "Tondemo Skill de Isekai Hourou Meshi 2",
+      "score": 100.0,
+      "num_comments": 135,
+      "url": "https://reddit.com/r/anime/comments/1pcbhf4/tondemo_skill_de_isekai_hourou_meshi_season_2/"
+    },
+    {
+      "reddit_title": "Yano-kun no Futsuu no Hibi • Yano-kun's Ordinary Days - Episode 10 discussion",
+      "matched_anime": "Yano-kun no Futsuu no Hibi",
+      "score": 100.0,
+      "num_comments": 69,
+      "url": "https://reddit.com/r/anime/comments/1pcew2z/yanokun_no_futsuu_no_hibi_yanokuns_ordinary_days/"
+    },
+    {
       "reddit_title": "Anybody seen my status as an assassin obviously exceeds the hero’s?",
       "matched_anime": "My Status as an Assassin Obviously Exceeds the Hero’s",
-      "score": 89.07563025210084,
+      "score": 100.0,
       "num_comments": 72,
       "url": "https://reddit.com/r/anime/comments/1pcsrhu/anybody_seen_my_status_as_an_assassin_obviously/"
     },
     {
+      "reddit_title": "Chitose-kun wa Ramune Bin no Naka • Chitose Is in the Ramune Bottle - Episode 6 discussion",
+      "matched_anime": "Chitose-kun wa Ramune Bin no Naka",
+      "score": 100.0,
+      "num_comments": 108,
+      "url": "https://reddit.com/r/anime/comments/1pcd2nj/chitosekun_wa_ramune_bin_no_naka_chitose_is_in/"
+    },
+    {
+      "reddit_title": "\"Peleliu - Guernica of Paradise\" collaboration music video with the movie's theme song \"Kiseki no You na Koto\" by Kamishiraishi Mone",
+      "matched_anime": "Peleliu: Rakuen no Guernica",
+      "score": 84.44444444444444,
+      "num_comments": 3,
+      "url": "https://reddit.com/r/anime/comments/1pcvesp/peleliu_guernica_of_paradise_collaboration_music/"
+    },
+    {
+      "reddit_title": "Kimi to Koete Koi ni Naru • With You, Our Love Will Make It Through - Episode 8 discussion",
+      "matched_anime": "Kimi to Koete Koi ni Naru",
+      "score": 100.0,
+      "num_comments": 66,
+      "url": "https://reddit.com/r/anime/comments/1pcapky/kimi_to_koete_koi_ni_naru_with_you_our_love_will/"
+    },
+    {
+      "reddit_title": "Ninja to Gokudou • Ninja Vs. Gokudo - Episode 9 discussion",
+      "matched_anime": "Ninja to Gokudou",
+      "score": 100.0,
+      "num_comments": 32,
+      "url": "https://reddit.com/r/anime/comments/1pceq0t/ninja_to_gokudou_ninja_vs_gokudo_episode_9/"
+    },
+    {
+      "reddit_title": "[Fanart] Sui (Campfire Cooking) & Night (Assassin's Status Exceeds the Hero) Highfive",
+      "matched_anime": "My Status as an Assassin Obviously Exceeds the Hero’s",
+      "score": 78.16091954022988,
+      "num_comments": 6,
+      "url": "https://reddit.com/r/anime/comments/1pc6its/fanart_sui_campfire_cooking_night_assassins/"
+    },
+    {
       "reddit_title": "Hot to enjoy \"Chitose-kun wa Ramune Bin no Naka\"",
       "matched_anime": "Chitose-kun wa Ramune Bin no Naka",
-      "score": 83.54430379746836,
+      "score": 100.0,
       "num_comments": 13,
       "url": "https://reddit.com/r/anime/comments/1pd4lsn/hot_to_enjoy_chitosekun_wa_ramune_bin_no_naka/"
     },
     {
       "reddit_title": "Recipes of Campfire Cooking in Another World with My Absurd Skill",
       "matched_anime": "Campfire Cooking in Another World with my Absurd Skill Season 2",
-      "score": 84.375,
+      "score": 92.3076923076923,
       "num_comments": 21,
       "url": "https://reddit.com/r/anime/comments/1pclp2b/recipes_of_campfire_cooking_in_another_world_with/"
     },
     {
+      "reddit_title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga • My Status as an Assassin Obviously Exceeds the Hero's - Episode 9 discussion",
+      "matched_anime": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "score": 100.0,
+      "num_comments": 181,
+      "url": "https://reddit.com/r/anime/comments/1pbhf6e/ansatsusha_de_aru_ore_no_status_ga_yuusha_yori_mo/"
+    },
+    {
+      "reddit_title": "Isekai Quartet Season 3 - Episode 8 discussion",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 85,
+      "url": "https://reddit.com/r/anime/comments/1pbeade/isekai_quartet_season_3_episode_8_discussion/"
+    },
+    {
+      "reddit_title": "Egao no Taenai Shokuba desu. • A Mangaka's Weirdly Wonderful Workplace - Episode 9 discussion",
+      "matched_anime": "Egao no Taenai Shokuba desu.",
+      "score": 100.0,
+      "num_comments": 83,
+      "url": "https://reddit.com/r/anime/comments/1pbc7zl/egao_no_taenai_shokuba_desu_a_mangakas_weirdly/"
+    },
+    {
+      "reddit_title": "3-nen Z-gumi Ginpachi-sensei • Gintama: Mr. Ginpachi's Zany Class - Episode 9 discussion",
+      "matched_anime": "3-nen Z-gumi Ginpachi-sensei",
+      "score": 100.0,
+      "num_comments": 28,
+      "url": "https://reddit.com/r/anime/comments/1pbgm0a/3nen_zgumi_ginpachisensei_gintama_mr_ginpachis/"
+    },
+    {
+      "reddit_title": "What anime this season were the biggest surprise for you?",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 43,
+      "url": "https://reddit.com/r/anime/comments/1pbglx3/what_anime_this_season_were_the_biggest_surprise/"
+    },
+    {
+      "reddit_title": "Debu to Love to Ayamachi to! • Plus-sized Misadventures in Love! - Episode 9 discussion",
+      "matched_anime": "Debu to Love to Ayamachi to!",
+      "score": 100.0,
+      "num_comments": 24,
+      "url": "https://reddit.com/r/anime/comments/1pbf12w/debu_to_love_to_ayamachi_to_plussized/"
+    },
+    {
+      "reddit_title": "Chitose-kun wa Ramune Bin no Naka • Chitose Is in the Ramune Bottle - Episode 6 - Preview Images and Synopsis",
+      "matched_anime": "Chitose-kun wa Ramune Bin no Naka",
+      "score": 100.0,
+      "num_comments": 11,
+      "url": "https://reddit.com/r/anime/comments/1pb7nio/chitosekun_wa_ramune_bin_no_naka_chitose_is_in/"
+    },
+    {
       "reddit_title": "One-Punch Man Season 3 - Episode 8 discussion",
-      "matched_anime": "One-Punch Man Season 3",
-      "score": 80.0,
+      "matched_anime": "One Punch Man 3",
+      "score": 100.0,
       "num_comments": 330,
       "url": "https://reddit.com/r/anime/comments/1paktap/onepunch_man_season_3_episode_8_discussion/"
     },
     {
+      "reddit_title": "Japanese Animation TV Ranking, November 17-23. My Hero Academia final season earns 3.5% rating",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/anime/comments/1pas7mw/japanese_animation_tv_ranking_november_1723_my/"
+    },
+    {
+      "reddit_title": "Season 3 for Fruit of Evolution?",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 7,
+      "url": "https://reddit.com/r/anime/comments/1pbz8mo/season_3_for_fruit_of_evolution/"
+    },
+    {
+      "reddit_title": "Alma-chan wa Kazoku ni Naritai • Alma-chan Wants to Be a Family! - Episode 9 discussion",
+      "matched_anime": "Alma-chan wa Kazoku ni Naritai",
+      "score": 100.0,
+      "num_comments": 65,
+      "url": "https://reddit.com/r/anime/comments/1pajos1/almachan_wa_kazoku_ni_naritai_almachan_wants_to/"
+    },
+    {
       "reddit_title": "Episode 10 WEB Preview｜「Watashi wo Tabetai、Hitodenashi」",
       "matched_anime": "Watashi wo Tabetai, Hitodenashi",
-      "score": 83.33333333333334,
+      "score": 100.0,
       "num_comments": 0,
       "url": "https://reddit.com/r/anime/comments/1pb2fqn/episode_10_web_previewwatashi_wo/"
     },
     {
+      "reddit_title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. • Dad is a Hero, Mom is a Spirit, I'm a Reincarnator - Episode 9 discussion",
+      "matched_anime": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "score": 100.0,
+      "num_comments": 209,
+      "url": "https://reddit.com/r/anime/comments/1pajtgi/chichi_wa_eiyuu_haha_wa_seirei_musume_no_watashi/"
+    },
+    {
+      "reddit_title": "Kikaijikake no Marie • Mechanical Marie - Episode 9 discussion",
+      "matched_anime": "Kikaijikake no Marie",
+      "score": 100.0,
+      "num_comments": 36,
+      "url": "https://reddit.com/r/anime/comments/1paj14s/kikaijikake_no_marie_mechanical_marie_episode_9/"
+    },
+    {
+      "reddit_title": "Chanto Suenai Kyuuketsuki-chan • Li'l Miss Vampire Can't Suck Right - Episode 8 discussion",
+      "matched_anime": "Chanto Suenai Kyuuketsuki-chan",
+      "score": 100.0,
+      "num_comments": 24,
+      "url": "https://reddit.com/r/anime/comments/1paie8f/chanto_suenai_kyuuketsukichan_lil_miss_vampire/"
+    },
+    {
+      "reddit_title": "Fire Force Season 3 Part 2 Main PV",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 60,
+      "url": "https://reddit.com/r/anime/comments/1pacpj1/fire_force_season_3_part_2_main_pv/"
+    },
+    {
+      "reddit_title": "Spy x Family Season 3 - Episode 9 discussion",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 100.0,
+      "num_comments": 228,
+      "url": "https://reddit.com/r/anime/comments/1p9qdvd/spy_x_family_season_3_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "Gnosia - Episode 8 discussion",
+      "matched_anime": "Gnosia",
+      "score": 100.0,
+      "num_comments": 448,
+      "url": "https://reddit.com/r/anime/comments/1p9t7hi/gnosia_episode_8_discussion/"
+    },
+    {
+      "reddit_title": "Ranma ½ (2024) Season 2 - Episode 9 discussion",
+      "matched_anime": "Ranma 1/2 (2024) 2nd Season",
+      "score": 86.36363636363636,
+      "num_comments": 112,
+      "url": "https://reddit.com/r/anime/comments/1p9tyc3/ranma_½_2024_season_2_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "Nageki no Bourei wa Intai shitai Season 2 • Let This Grieving Soul Retire Season 2 - Episode 22 discussion",
+      "matched_anime": "Nageki no Bourei wa Intai shitai 2",
+      "score": 100.0,
+      "num_comments": 209,
+      "url": "https://reddit.com/r/anime/comments/1p9rrxf/nageki_no_bourei_wa_intai_shitai_season_2_let/"
+    },
+    {
+      "reddit_title": "Yasei no Last Boss ga Arawareta! • A Wild Last Boss Appeared! - Episode 10 discussion",
+      "matched_anime": "Yasei no Last Boss ga Arawareta!",
+      "score": 100.0,
+      "num_comments": 373,
+      "url": "https://reddit.com/r/anime/comments/1p9ppo3/yasei_no_last_boss_ga_arawareta_a_wild_last_boss/"
+    },
+    {
+      "reddit_title": "Boku no Hero Academia Final Season • My Hero Academia: Final Season - Episode 9 discussion",
+      "matched_anime": "Boku no Hero Academia FINAL SEASON",
+      "score": 100.0,
+      "num_comments": 529,
+      "url": "https://reddit.com/r/anime/comments/1p9kdx3/boku_no_hero_academia_final_season_my_hero/"
+    },
+    {
+      "reddit_title": "Fumetsu no Anata e Season 3 • To Your Eternity Season 3 - Episode 9 discussion",
+      "matched_anime": "Fumetsu no Anata e Season 3",
+      "score": 100.0,
+      "num_comments": 218,
+      "url": "https://reddit.com/r/anime/comments/1p9s77z/fumetsu_no_anata_e_season_3_to_your_eternity/"
+    },
+    {
+      "reddit_title": "Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me! - Episode 9 discussion",
+      "matched_anime": "Tomodachi no Imouto ga Ore ni dake Uzai",
+      "score": 100.0,
+      "num_comments": 64,
+      "url": "https://reddit.com/r/anime/comments/1p9uoky/tomodachi_no_imouto_ga_ore_ni_dake_uzai_my/"
+    },
+    {
+      "reddit_title": "Kingdom Season 6 - Episode 9 discussion",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/anime/comments/1p9x1dt/kingdom_season_6_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "Gnosia Anime New Visual",
+      "matched_anime": "Gnosia",
+      "score": 100.0,
+      "num_comments": 23,
+      "url": "https://reddit.com/r/anime/comments/1p9rq16/gnosia_anime_new_visual/"
+    },
+    {
+      "reddit_title": "Honest question: Is One Punch Man Season 3 really that bad?",
+      "matched_anime": "One Punch Man 3",
+      "score": 100.0,
+      "num_comments": 31,
+      "url": "https://reddit.com/r/anime/comments/1pb5svy/honest_question_is_one_punch_man_season_3_really/"
+    },
+    {
+      "reddit_title": "Shuumatsu Touring • Touring After the Apocalypse - Episode 9 discussion",
+      "matched_anime": "Shuumatsu Touring",
+      "score": 100.0,
+      "num_comments": 108,
+      "url": "https://reddit.com/r/anime/comments/1p9shg3/shuumatsu_touring_touring_after_the_apocalypse/"
+    },
+    {
       "reddit_title": "\"Pass the Monster Meat, Milady!\" New Visual",
       "matched_anime": "Pass the Monster Meat, Milady!",
-      "score": 83.5820895522388,
+      "score": 100.0,
       "num_comments": 20,
       "url": "https://reddit.com/r/anime/comments/1p9gpan/pass_the_monster_meat_milady_new_visual/"
+    },
+    {
+      "reddit_title": "Kekkon Yubiwa Monogatari Ⅱ • Tales of Wedding Rings Season 2 - Episode 9 discussion",
+      "matched_anime": "Tales of Wedding Rings Season 2",
+      "score": 100.0,
+      "num_comments": 40,
+      "url": "https://reddit.com/r/anime/comments/1p9nvpu/kekkon_yubiwa_monogatari_ⅱ_tales_of_wedding_rings/"
+    },
+    {
+      "reddit_title": "Kohana Lam『Hoshi no Kodou』(Anime Special Ver.)「Tomodachi no Imouto ga Ore ni dake Uzai」ED",
+      "matched_anime": "Tomodachi no Imouto ga Ore ni dake Uzai",
+      "score": 100.0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/anime/comments/1pa0lws/kohana_lamhoshi_no_kodouanime_special/"
+    },
+    {
+      "reddit_title": "'Saga of Tanya the Evil' Season 2 Key Visual",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 464,
+      "url": "https://reddit.com/r/anime/comments/1p8r60c/saga_of_tanya_the_evil_season_2_key_visual/"
+    },
+    {
+      "reddit_title": "‘Hell’s Paradise’ Season 2 Key Visual",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 126,
+      "url": "https://reddit.com/r/anime/comments/1p8s46k/hells_paradise_season_2_key_visual/"
+    },
+    {
+      "reddit_title": "Sanda - Episode 9 discussion",
+      "matched_anime": "SANDA",
+      "score": 100.0,
+      "num_comments": 90,
+      "url": "https://reddit.com/r/anime/comments/1p92gfg/sanda_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka • May I Ask For One Final Thing? - Episode 10 discussion",
+      "matched_anime": "May I Ask for One Final Thing?",
+      "score": 100.0,
+      "num_comments": 213,
+      "url": "https://reddit.com/r/anime/comments/1p8z9im/saigo_ni_hitotsu_dake_onegai_shitemo_yoroshii/"
+    },
+    {
+      "reddit_title": "My Thoughts on Blood Blockade Battlefront & Beyond (Season 2)",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/anime/comments/1pa7vkn/my_thoughts_on_blood_blockade_battlefront_beyond/"
+    },
+    {
+      "reddit_title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift Mugen Gacha de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & Zamaa! Shimasu! • My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! - Episode 9 discussion",
+      "matched_anime": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "score": 100.0,
+      "num_comments": 177,
+      "url": "https://reddit.com/r/anime/comments/1p8x38o/shinjiteita_nakamatachi_ni_dungeon_okuchi_de/"
+    },
+    {
+      "reddit_title": "'Saga of Tanya the Evil' Season 2 PV",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 40,
+      "url": "https://reddit.com/r/anime/comments/1p8r6xo/saga_of_tanya_the_evil_season_2_pv/"
+    },
+    {
+      "reddit_title": "GNOSIA | EPISODE #8 PREVIEW",
+      "matched_anime": "Gnosia",
+      "score": 100.0,
+      "num_comments": 0,
+      "url": "https://reddit.com/r/anime/comments/1p9ekt4/gnosia_episode_8_preview/"
+    },
+    {
+      "reddit_title": "Shabake - Episode 9 discussion",
+      "matched_anime": "Shabake",
+      "score": 100.0,
+      "num_comments": 18,
+      "url": "https://reddit.com/r/anime/comments/1p8yhz3/shabake_episode_9_discussion/"
+    },
+    {
+      "reddit_title": "My Thoughts on Blood Blockade Battlefront Season 1",
+      "matched_anime": "不滅のあなたへ Season 3",
+      "score": 85.71428571428571,
+      "num_comments": 8,
+      "url": "https://reddit.com/r/anime/comments/1p9ggoj/my_thoughts_on_blood_blockade_battlefront_season_1/"
     }
   ]
 }
