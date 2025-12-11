@@ -109,10 +109,10 @@ def match_title(reddit_title, anime_index, token_usage):
 # メイン処理
 # ========================
 def main():
-    with open("data/current_season_anime.json", encoding="utf-8") as f:
-        anime_list = json.load(f)
+    from fetch_anilist import get_current_season_anime
+    anime_list = get_current_season_anime()
 
-    with open("data/reddit_threads.json", encoding="utf-8") as f:
+    with open("data/latest.json", encoding="utf-8") as f:
         reddit_posts = json.load(f)
 
     anime_index, token_usage = build_anime_index(anime_list)
