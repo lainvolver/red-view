@@ -8,6 +8,8 @@ from rapidfuzz import fuzz
 # ========================
 FUZZY_THRESHOLD = 80
 MIN_TOKEN_MATCH = 2
+# If fuzzy score is >= this, allow match even when token overlap < MIN_TOKEN_MATCH
+HIGH_FUZZY_OVERRIDE = 85
 
 STOPWORDS = {
     "the", "a", "an", "of", "to", "and", "or", "in", "on",
@@ -79,14 +81,9 @@ def match_title(reddit_title, anime_index, token_usage):
         shared = r_tokens & anime["tokens"]
 
         # --- 1単語マッチ制限 ---
-        if len(shared) < MIN_TOKEN_MATCH:
-            if len(shared) == 1:
-                token = next(iter(shared))
-                # その単語が今期で唯一なら許可
-                if token_usage[token] > 1:
-                    continue
-            else:
-                continue
+        # Allow a match when token overlap is sufficient, or when a high
+        # fuzzy score indicates a strong match despite low token overlap
+        low_token_overlap = len(shared) < MIN_TOKEN_MATCH
 
         # --- ファジーマッチ（タイトル全体） ---
         for alias in anime["aliases"]:
@@ -94,6 +91,18 @@ def match_title(reddit_title, anime_index, token_usage):
                 normalize(reddit_title),
                 normalize(alias)
             )
+
+            # If tokens are few, require a high fuzzy score to override
+            if low_token_overlap:
+                if len(shared) == 1:
+                    token = next(iter(shared))
+                    # If that single token is common across many titles, prefer
+                    # to skip unless fuzzy score is very high (override)
+                    if token_usage[token] > 1 and score < HIGH_FUZZY_OVERRIDE:
+                        continue
+                else:
+                    if score < HIGH_FUZZY_OVERRIDE:
+                        continue
 
             if score > best_score:
                 best = anime
