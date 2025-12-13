@@ -1,4 +1,10 @@
-import requests
+try:
+  import requests
+except ImportError as e:
+  raise RuntimeError(
+    "Missing dependency 'requests'. Install dependencies with:\n"
+    "python -m pip install -r requirements.txt"
+  ) from e
 import json
 import os
 
