@@ -109,8 +109,16 @@ def match_title(reddit_title, anime_index, token_usage):
 # メイン処理
 # ========================
 def main():
-    from fetch_anilist import get_current_season_anime
-    anime_list = get_current_season_anime()
+    # Load AniList data from local cache created by `fetch_anilist.py`.
+    # To re-enable live fetching, uncomment the fallback below.
+    try:
+        with open("data/anilist.json", encoding="utf-8") as f:
+            anime_list = json.load(f)
+    except FileNotFoundError:
+        # Fallback (commented): fetch from AniList and save
+        # from fetch_anilist import get_current_season_anime
+        # anime_list = get_current_season_anime()
+        raise RuntimeError("data/anilist.json not found. Run fetch_anilist.py to create it.")
 
     with open("data/latest.json", encoding="utf-8") as f:
         reddit_posts = json.load(f)
