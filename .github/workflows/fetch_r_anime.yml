@@ -25,6 +25,11 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Fetch AniList (create data/anilist.json)
+        run: |
+          echo "Fetching AniList titles to data/anilist.json"
+          python fetch_anilist.py
+
       # Test-mode: use existing snapshot instead of fetching from Reddit
       - name: Use existing reddit snapshot (test mode)
         run: |
