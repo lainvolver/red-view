@@ -92,15 +92,16 @@ def main():
     }
 
     os.makedirs("data", exist_ok=True)
-    filename = f"data/r_anime_snapshot_{now.strftime('%Y%m%d')}.json"
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=2)
+    # Test mode: skip writing full dated snapshot to avoid creating many files in tests
+    # filename = f"data/r_anime_snapshot_{now.strftime('%Y%m%d')}.json"
+    # with open(filename, "w", encoding="utf-8") as f:
+    #     json.dump(out, f, ensure_ascii=False, indent=2)
 
     # latest.json を上書き（Pages 側で常に最新を参照する用）
     with open("data/latest.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved snapshot: {filename} (total {len(merged)} posts)")
+    print(f"Updated data/latest.json (total {len(merged)} posts). Snapshot file creation skipped in test mode.")
 
 if __name__ == "__main__":
     main()
