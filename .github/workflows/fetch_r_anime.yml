@@ -1,8 +1,8 @@
 name: Fetch r/anime threads daily
 
 on:
-#  schedule:
-#    - cron: '0 6 * * *'  # UTCで毎日06:00（日本時間15:00）に実行。必要に応じて変更してね
+  schedule:
+    - cron: '0 22 * * *'  # UTCで毎日22:00（日本時間07:00）に実行。必要に応じて変更してね
   workflow_dispatch: {}  # 手動実行も可
 
 permissions:
@@ -43,14 +43,16 @@ jobs:
 
       # The real reddit fetch step is commented out for faster test runs.
       # To re-enable live fetching, uncomment the following block.
-      # - name: Fetch reddit data
-      #   env:
-      #     REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-      #     REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-      #     REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-      #     REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
-      #     REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-      #   run: python fetch_r_anime.py
+      # ↓ ここから latest.json を fetch_r_anime.py で取得するステップ ※コメントアウトすると既存のlatest.jsonを使うテストモードになる
+      - name: Fetch reddit data
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+        run: python fetch_r_anime.py
+      # ↑ ここまで
 
       - name: Match AniList titles
         run: python match_titles.py
