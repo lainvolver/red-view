@@ -158,6 +158,62 @@ def main():
     with open("data/matched_results.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
+    # Also create a filtered file containing only posts that mention "Episode XX"
+    # and keep only the entry with the largest episode number for each `matched_anime`.
+    ep_re = re.compile(r"Episode\s+(\d+)\s+discussion", re.IGNORECASE)
+    ep_map = {}
+    for entry in results:
+        title = entry.get("reddit_title", "")
+        nums = [int(n) for n in ep_re.findall(title)]
+        if not nums:
+            continue
+        ep = max(nums)
+        key = entry["matched_anime"]
+        cur = ep_map.get(key)
+        if cur is None or ep > cur[0]:
+            ep_map[key] = (ep, entry)
+
+    latest_episode_results = [v[1] for v in ep_map.values()]
+    with open("data/matched_results_latest-Episode.json", "w", encoding="utf-8") as f:
+        json.dump(latest_episode_results, f, ensure_ascii=False, indent=2)
+
+    # Generate a GitHub README.md summarizing latest-episode results as a table
+    try:
+        sorted_rows = sorted(
+            latest_episode_results,
+            key=lambda e: e.get("num_comments", 0),
+            reverse=True,
+        )
+
+        lines = [
+            "# Latest Episode Ranking\n",
+            "Generated from data/matched_results_latest-Episode.json\n",
+            "| rank | matched_anime | num_comments | Episode | URL |",
+            "|---|---|---:|---:|---|",
+        ]
+
+        def _escape_pipe(s: str) -> str:
+            return (s or "").replace("|", "&#124;")
+
+        for idx, r in enumerate(sorted_rows, start=1):
+            rank = idx
+            anime = _escape_pipe(r.get("matched_anime", ""))
+            num = r.get("num_comments", 0)
+            url = r.get("url", "")
+            url_md = f"[URL]({url})" if url else ""
+            # extract episode number from reddit_title
+            title_txt = r.get("reddit_title", "")
+            ep_match = ep_re.search(title_txt)
+            episode = ep_match.group(1) if ep_match else ""
+            lines.append(f"| {rank} | {anime} | {num} | {episode} | {url_md} |")
+
+        readme_text = "\n".join(lines) + "\n"
+        with open("README.md", "w", encoding="utf-8") as rf:
+            rf.write(readme_text)
+    except Exception:
+        # Do not fail the whole run on README generation errors
+        pass
+
 
 if __name__ == "__main__":
     main()
