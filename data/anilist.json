@@ -144,12 +144,6 @@
     "native": "結婚指輪物語Ⅱ"
   },
   {
-    "id": 177271,
-    "romaji": "Kakuriyo no Yadomeshi 2nd Season",
-    "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
-    "native": "かくりよの宿飯 第２期"
-  },
-  {
     "id": 177474,
     "romaji": "Tougen Anki",
     "english": "TOUGEN ANKI",
@@ -198,22 +192,10 @@
     "native": "ワンダンス"
   },
   {
-    "id": 183291,
-    "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
-    "english": "Pass the Monster Meat, Milady!",
-    "native": "悪食令嬢と狂血公爵　～その魔物、私が美味しくいただきます！～"
-  },
-  {
     "id": 183385,
     "romaji": "Watashi wo Tabetai, Hitodenashi",
     "english": "This Monster Wants to Eat Me",
     "native": "私を喰べたい、ひとでなし"
-  },
-  {
-    "id": 183965,
-    "romaji": "Yano-kun no Futsuu no Hibi",
-    "english": "Yano-kun's Ordinary Days",
-    "native": "矢野くんの普通の日々"
   },
   {
     "id": 184322,
@@ -246,12 +228,6 @@
     "native": "グノーシア"
   },
   {
-    "id": 185575,
-    "romaji": "Bukiyou na Senpai.",
-    "english": "My Awkward Senpai",
-    "native": "不器用な先輩。"
-  },
-  {
     "id": 185731,
     "romaji": "Ranma 1/2 (2024) 2nd Season",
     "english": "Ranma1/2 (2024) Season 2",
@@ -268,12 +244,6 @@
     "romaji": "Kimi to Koete Koi ni Naru",
     "english": "With You, Our Love Will Make It Through",
     "native": "キミと越えて恋になる"
-  },
-  {
-    "id": 186190,
-    "romaji": "Alma-chan wa Kazoku ni Naritai",
-    "english": "Alma-chan Wants to Be a Family!",
-    "native": "アルマちゃんは家族になりたい"
   },
   {
     "id": 186524,
@@ -348,22 +318,10 @@
     "native": "キングダム 第6シリーズ"
   },
   {
-    "id": 193968,
-    "romaji": "Let’s Play: Quest Darake no My Life",
-    "english": "Let’s Play",
-    "native": "Let’s Play クエストだらけのマイライフ"
-  },
-  {
     "id": 194832,
     "romaji": "Oshiri Tantei 9 Part 2",
     "english": null,
     "native": "おしりたんてい(第9シリーズ)"
-  },
-  {
-    "id": 195153,
-    "romaji": "Towa no Yuugure",
-    "english": "Dusk Beyond the End of the World",
-    "native": "永久のユウグレ"
   },
   {
     "id": 195240,
