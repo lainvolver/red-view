@@ -186,7 +186,7 @@ def main():
         )
 
         lines = [
-            "# Latest Episode Ranking\n",
+            "# Reddit Latest Episode Ranking\n",
             "Generated from data/matched_results_latest-Episode.json\n",
             "| rank | matched_anime | num_comments | Episode | URL |",
             "|---|---|---:|---:|---|",
