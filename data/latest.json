@@ -1,18 +1,18 @@
 {
-  "snapshot_at": "2025-12-18T170837Z",
+  "snapshot_at": "2025-12-18T222251Z",
   "source_subreddit": "anime",
   "counts": {
     "hot_count": 800,
     "new_count": 800,
-    "top_count": 73,
-    "merged_count": 826
+    "top_count": 81,
+    "merged_count": 825
   },
   "posts": [
     {
       "id": "1ppn519",
       "title": "Anime Questions, Recommendations, and Discussion - December 18, 2025",
-      "score": 10,
-      "num_comments": 49,
+      "score": 11,
+      "num_comments": 96,
       "created_utc": 1766052066,
       "author": "AnimeMod",
       "permalink": "/r/anime/comments/1ppn519/anime_questions_recommendations_and_discussion/",
@@ -23,7 +23,7 @@
     {
       "id": "1pg3whh",
       "title": "Mod Applications — Fall 2025",
-      "score": 20,
+      "score": 21,
       "num_comments": 5,
       "created_utc": 1765065546,
       "author": "AnimeMod",
@@ -35,8 +35,8 @@
     {
       "id": "1ppszlt",
       "title": "Yona of the Dawn Gets Sequel Anime",
-      "score": 1176,
-      "num_comments": 231,
+      "score": 2432,
+      "num_comments": 404,
       "created_utc": 1766070163,
       "author": "zenzen_0",
       "permalink": "/r/anime/comments/1ppszlt/yona_of_the_dawn_gets_sequel_anime/",
@@ -47,8 +47,8 @@
     {
       "id": "1pptkns",
       "title": "\"Everything has become shallower.” Tokyo Godfathers, Lain producer says the Japanese corporate mindset is why 90% of anime just adapts existing works",
-      "score": 561,
-      "num_comments": 73,
+      "score": 1728,
+      "num_comments": 164,
       "created_utc": 1766071614,
       "author": "TheMcG",
       "permalink": "/r/anime/comments/1pptkns/everything_has_become_shallower_tokyo_godfathers/",
@@ -57,22 +57,10 @@
       "flair": "Misc."
     },
     {
-      "id": "1ppomkv",
-      "title": "\"EVANGELION\" New Short Anime Announced",
-      "score": 339,
-      "num_comments": 49,
-      "created_utc": 1766057610,
-      "author": "Mitsuyan_",
-      "permalink": "/r/anime/comments/1ppomkv/evangelion_new_short_anime_announced/",
-      "url": "https://x.com/evangelion_co/status/2001578185121759276",
-      "is_self": false,
-      "flair": "Official Media"
-    },
-    {
       "id": "1ppscwg",
       "title": "Watashi wo Tabetai, Hitodenashi • This Monster Wants to Eat Me - Episode 12 discussion",
-      "score": 178,
-      "num_comments": 53,
+      "score": 355,
+      "num_comments": 167,
       "created_utc": 1766068585,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1ppscwg/watashi_wo_tabetai_hitodenashi_this_monster_wants/",
@@ -81,10 +69,22 @@
       "flair": "Episode"
     },
     {
+      "id": "1ppomkv",
+      "title": "\"EVANGELION\" New Short Anime Announced",
+      "score": 436,
+      "num_comments": 69,
+      "created_utc": 1766057610,
+      "author": "Mitsuyan_",
+      "permalink": "/r/anime/comments/1ppomkv/evangelion_new_short_anime_announced/",
+      "url": "https://x.com/evangelion_co/status/2001578185121759276",
+      "is_self": false,
+      "flair": "Official Media"
+    },
+    {
       "id": "1ppmb6w",
       "title": "LIAR GAME New Teaser Visual",
-      "score": 472,
-      "num_comments": 81,
+      "score": 572,
+      "num_comments": 94,
       "created_utc": 1766048722,
       "author": "zenzen_0",
       "permalink": "/r/anime/comments/1ppmb6w/liar_game_new_teaser_visual/",
@@ -93,10 +93,22 @@
       "flair": "Official Media"
     },
     {
+      "id": "1ppzxxu",
+      "title": "Yor, spy x family",
+      "score": 83,
+      "num_comments": 6,
+      "created_utc": 1766086515,
+      "author": "luigul",
+      "permalink": "/r/anime/comments/1ppzxxu/yor_spy_x_family/",
+      "url": "https://i.redd.it/v5tbbawxl08g1.jpeg",
+      "is_self": false,
+      "flair": "Fanart"
+    },
+    {
       "id": "1ppm9n2",
       "title": "There's No Freaking Way I'll be Your Lover! Unless... Next Shine! (Episode 13-17) to broadcast on January 1, 2026",
-      "score": 318,
-      "num_comments": 41,
+      "score": 438,
+      "num_comments": 47,
       "created_utc": 1766048549,
       "author": "zenzen_0",
       "permalink": "/r/anime/comments/1ppm9n2/theres_no_freaking_way_ill_be_your_lover_unless/",
@@ -105,22 +117,22 @@
       "flair": "News"
     },
     {
-      "id": "1ppg5hi",
-      "title": "One-Punch Man Season 3 Episode 11 Preview Images",
-      "score": 746,
-      "num_comments": 172,
-      "created_utc": 1766027055,
-      "author": "krsy123",
-      "permalink": "/r/anime/comments/1ppg5hi/onepunch_man_season_3_episode_11_preview_images/",
-      "url": "https://www.reddit.com/gallery/1ppg5hi",
-      "is_self": false,
-      "flair": "Official Media"
+      "id": "1ppw3h6",
+      "title": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! • Pass the Monster Meat, Milady! - Episode 12 discussion",
+      "score": 96,
+      "num_comments": 71,
+      "created_utc": 1766077586,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1ppw3h6/akujiki_reijou_to_kyouketsu_koushaku_sono_mamono/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppw3h6/akujiki_reijou_to_kyouketsu_koushaku_sono_mamono/",
+      "is_self": true,
+      "flair": "Episode"
     },
     {
       "id": "1pprnmv",
       "title": "Bukiyou na Senpai. • My Awkward Senpai - Episode 12 discussion",
-      "score": 79,
-      "num_comments": 36,
+      "score": 138,
+      "num_comments": 61,
       "created_utc": 1766066785,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pprnmv/bukiyou_na_senpai_my_awkward_senpai_episode_12/",
@@ -129,34 +141,10 @@
       "flair": "Episode"
     },
     {
-      "id": "1pptk63",
-      "title": "A Star Brighter Than the Sun Season 2 Announced",
-      "score": 56,
-      "num_comments": 10,
-      "created_utc": 1766071579,
-      "author": "Turbostrider27",
-      "permalink": "/r/anime/comments/1pptk63/a_star_brighter_than_the_sun_season_2_announced/",
-      "url": "https://moca-news.net/artdisp.php?artid=202512190026aa_",
-      "is_self": false,
-      "flair": "News"
-    },
-    {
-      "id": "1ppnetb",
-      "title": "\"Magical Sisters LuluttoLilly\" New Visual",
-      "score": 120,
-      "num_comments": 3,
-      "created_utc": 1766053138,
-      "author": "RGBkano",
-      "permalink": "/r/anime/comments/1ppnetb/magical_sisters_luluttolilly_new_visual/",
-      "url": "https://i.redd.it/1giasu3pux7g1.jpeg",
-      "is_self": false,
-      "flair": "Official Media"
-    },
-    {
       "id": "1ppuexu",
       "title": "Towa no Yugure • Dusk Beyond the End of the World - Episode 12 discussion",
-      "score": 35,
-      "num_comments": 36,
+      "score": 97,
+      "num_comments": 192,
       "created_utc": 1766073627,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1ppuexu/towa_no_yugure_dusk_beyond_the_end_of_the_world/",
@@ -165,10 +153,130 @@
       "flair": "Episode"
     },
     {
+      "id": "1pptk63",
+      "title": "A Star Brighter Than the Sun Season 2 Announced",
+      "score": 98,
+      "num_comments": 26,
+      "created_utc": 1766071579,
+      "author": "Turbostrider27",
+      "permalink": "/r/anime/comments/1pptk63/a_star_brighter_than_the_sun_season_2_announced/",
+      "url": "https://moca-news.net/artdisp.php?artid=202512190026aa_",
+      "is_self": false,
+      "flair": "News"
+    },
+    {
+      "id": "1ppvbtb",
+      "title": "Futari Solo Camp • Solo Camping for Two - Episode 24 discussion",
+      "score": 79,
+      "num_comments": 37,
+      "created_utc": 1766075785,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1ppvbtb/futari_solo_camp_solo_camping_for_two_episode_24/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppvbtb/futari_solo_camp_solo_camping_for_two_episode_24/",
+      "is_self": true,
+      "flair": "Episode"
+    },
+    {
+      "id": "1ppui6u",
+      "title": "My Hero Academia voice actors reflect on an emotional final season: 'I’m kind of a weepy mess'",
+      "score": 81,
+      "num_comments": 3,
+      "created_utc": 1766073829,
+      "author": "Turbostrider27",
+      "permalink": "/r/anime/comments/1ppui6u/my_hero_academia_voice_actors_reflect_on_an/",
+      "url": "https://www.polygon.com/my-hero-academia-final-season-english-cast-interview/",
+      "is_self": false,
+      "flair": "Misc."
+    },
+    {
+      "id": "1ppg5hi",
+      "title": "One-Punch Man Season 3 Episode 11 Preview Images",
+      "score": 839,
+      "num_comments": 190,
+      "created_utc": 1766027055,
+      "author": "krsy123",
+      "permalink": "/r/anime/comments/1ppg5hi/onepunch_man_season_3_episode_11_preview_images/",
+      "url": "https://www.reddit.com/gallery/1ppg5hi",
+      "is_self": false,
+      "flair": "Official Media"
+    },
+    {
+      "id": "1ppuf00",
+      "title": "Taiyou yori mo Mabushii Hoshi • A Star Brighter Than the Sun - Episode 12 discussion",
+      "score": 76,
+      "num_comments": 80,
+      "created_utc": 1766073631,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1ppuf00/taiyou_yori_mo_mabushii_hoshi_a_star_brighter/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppuf00/taiyou_yori_mo_mabushii_hoshi_a_star_brighter/",
+      "is_self": true,
+      "flair": "Episode"
+    },
+    {
+      "id": "1ppnetb",
+      "title": "\"Magical Sisters LuluttoLilly\" New Visual",
+      "score": 156,
+      "num_comments": 7,
+      "created_utc": 1766053138,
+      "author": "RGBkano",
+      "permalink": "/r/anime/comments/1ppnetb/magical_sisters_luluttolilly_new_visual/",
+      "url": "https://i.redd.it/1giasu3pux7g1.jpeg",
+      "is_self": false,
+      "flair": "Official Media"
+    },
+    {
+      "id": "1pq3ae9",
+      "title": "Frieren: Beyond Journey's End Rewatch Episode 11 Discussion",
+      "score": 16,
+      "num_comments": 6,
+      "created_utc": 1766094542,
+      "author": "TheDanubianCommunard",
+      "permalink": "/r/anime/comments/1pq3ae9/frieren_beyond_journeys_end_rewatch_episode_11/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq3ae9/frieren_beyond_journeys_end_rewatch_episode_11/",
+      "is_self": true,
+      "flair": "Rewatch"
+    },
+    {
+      "id": "1pq22n4",
+      "title": "[Rewatch] The Rose of Versailles - Overall Series Discussion",
+      "score": 18,
+      "num_comments": 30,
+      "created_utc": 1766091630,
+      "author": "Pixelsabre",
+      "permalink": "/r/anime/comments/1pq22n4/rewatch_the_rose_of_versailles_overall_series/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq22n4/rewatch_the_rose_of_versailles_overall_series/",
+      "is_self": true,
+      "flair": "Rewatch"
+    },
+    {
+      "id": "1pq22b1",
+      "title": "Toradora! Christmas Club Rewatch (2025) Episode 13 Discussion",
+      "score": 15,
+      "num_comments": 49,
+      "created_utc": 1766091609,
+      "author": "ChristmasClub-",
+      "permalink": "/r/anime/comments/1pq22b1/toradora_christmas_club_rewatch_2025_episode_13/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq22b1/toradora_christmas_club_rewatch_2025_episode_13/",
+      "is_self": true,
+      "flair": "Rewatch"
+    },
+    {
+      "id": "1ppu8ck",
+      "title": "[Ranma 1/2] I drew Ranma-chan from one of the OVAs",
+      "score": 31,
+      "num_comments": 28,
+      "created_utc": 1766073190,
+      "author": "BryceCzuba",
+      "permalink": "/r/anime/comments/1ppu8ck/ranma_12_i_drew_ranmachan_from_one_of_the_ovas/",
+      "url": "https://www.reddit.com/gallery/1ppu8ck",
+      "is_self": false,
+      "flair": "Fanart"
+    },
+    {
       "id": "1ppbjbd",
       "title": "\"Mobile Suit Gundam: Hathaway - The Sorcery of Nymph Circe\" IMAX Visual",
-      "score": 630,
-      "num_comments": 35,
+      "score": 659,
+      "num_comments": 36,
       "created_utc": 1766014016,
       "author": "RGBkano",
       "permalink": "/r/anime/comments/1ppbjbd/mobile_suit_gundam_hathaway_the_sorcery_of_nymph/",
@@ -179,8 +287,8 @@
     {
       "id": "1ppkfuo",
       "title": "A NEW DAWN Key Visual",
-      "score": 131,
-      "num_comments": 5,
+      "score": 161,
+      "num_comments": 7,
       "created_utc": 1766041257,
       "author": "Turbostrider27",
       "permalink": "/r/anime/comments/1ppkfuo/a_new_dawn_key_visual/",
@@ -189,34 +297,46 @@
       "flair": "Official Media"
     },
     {
-      "id": "1ppuf00",
-      "title": "Taiyou yori mo Mabushii Hoshi • A Star Brighter Than the Sun - Episode 12 discussion",
-      "score": 27,
-      "num_comments": 22,
-      "created_utc": 1766073631,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1ppuf00/taiyou_yori_mo_mabushii_hoshi_a_star_brighter/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppuf00/taiyou_yori_mo_mabushii_hoshi_a_star_brighter/",
+      "id": "1ppuemq",
+      "title": "[REWATCH] Undead Unluck - Episode 18 Discussion",
+      "score": 21,
+      "num_comments": 18,
+      "created_utc": 1766073607,
+      "author": "italeteller",
+      "permalink": "/r/anime/comments/1ppuemq/rewatch_undead_unluck_episode_18_discussion/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppuemq/rewatch_undead_unluck_episode_18_discussion/",
       "is_self": true,
-      "flair": "Episode"
+      "flair": "Rewatch"
     },
     {
-      "id": "1ppvbtb",
-      "title": "Futari Solo Camp • Solo Camping for Two - Episode 24 discussion",
-      "score": 17,
-      "num_comments": 4,
-      "created_utc": 1766075785,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1ppvbtb/futari_solo_camp_solo_camping_for_two_episode_24/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppvbtb/futari_solo_camp_solo_camping_for_two_episode_24/",
+      "id": "1ppmj3c",
+      "title": "\"Liar Game\" Teaser PV",
+      "score": 56,
+      "num_comments": 15,
+      "created_utc": 1766049614,
+      "author": "RGBkano",
+      "permalink": "/r/anime/comments/1ppmj3c/liar_game_teaser_pv/",
+      "url": "https://youtu.be/8I8htshfXsI?si=MS4Jf39xXAWGyu3b",
+      "is_self": false,
+      "flair": "Official Media"
+    },
+    {
+      "id": "1pq22yt",
+      "title": "Transformers Cybertron rewatch - Episode 48 discussion",
+      "score": 7,
+      "num_comments": 11,
+      "created_utc": 1766091648,
+      "author": "Nebresto",
+      "permalink": "/r/anime/comments/1pq22yt/transformers_cybertron_rewatch_episode_48/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq22yt/transformers_cybertron_rewatch_episode_48/",
       "is_self": true,
-      "flair": "Episode"
+      "flair": "Rewatch"
     },
     {
       "id": "1pph08d",
       "title": "A Blu-ray boxset for \"The Vision of Escaflowne\", which includes 26 episodes of the TV anime and the \"Escaflowne\" movie, will be released on 25 March. The movie will also be screened in Japan from 20 March.",
-      "score": 117,
-      "num_comments": 7,
+      "score": 130,
+      "num_comments": 9,
       "created_utc": 1766029716,
       "author": "mr_beanoz",
       "permalink": "/r/anime/comments/1pph08d/a_bluray_boxset_for_the_vision_of_escaflowne/",
@@ -225,9 +345,21 @@
       "flair": "News"
     },
     {
+      "id": "1ppwvd4",
+      "title": "Potion, Wagami wo Tasukeru - Episode 12 discussion",
+      "score": 9,
+      "num_comments": 10,
+      "created_utc": 1766079386,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1ppwvd4/potion_wagami_wo_tasukeru_episode_12_discussion/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppwvd4/potion_wagami_wo_tasukeru_episode_12_discussion/",
+      "is_self": true,
+      "flair": "Episode"
+    },
+    {
       "id": "1ppbk4i",
       "title": "“MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe” Main Trailer",
-      "score": 255,
+      "score": 271,
       "num_comments": 45,
       "created_utc": 1766014071,
       "author": "LongjumpingShip3657",
@@ -237,34 +369,22 @@
       "flair": "Official Media"
     },
     {
-      "id": "1ppui6u",
-      "title": "My Hero Academia voice actors reflect on an emotional final season: 'I’m kind of a weepy mess'",
-      "score": 12,
-      "num_comments": 1,
-      "created_utc": 1766073829,
-      "author": "Turbostrider27",
-      "permalink": "/r/anime/comments/1ppui6u/my_hero_academia_voice_actors_reflect_on_an/",
-      "url": "https://www.polygon.com/my-hero-academia-final-season-english-cast-interview/",
+      "id": "1pq0823",
+      "title": "Digimon Beatbreak English Dub Announced",
+      "score": 7,
+      "num_comments": 4,
+      "created_utc": 1766087169,
+      "author": "Magister_Xehanort",
+      "permalink": "/r/anime/comments/1pq0823/digimon_beatbreak_english_dub_announced/",
+      "url": "https://withthewill.net/threads/digimon-beatbreak-english-dub-announced.35252/",
       "is_self": false,
-      "flair": "Misc."
-    },
-    {
-      "id": "1ppmj3c",
-      "title": "\"Liar Game\" Teaser PV",
-      "score": 42,
-      "num_comments": 13,
-      "created_utc": 1766049614,
-      "author": "RGBkano",
-      "permalink": "/r/anime/comments/1ppmj3c/liar_game_teaser_pv/",
-      "url": "https://youtu.be/8I8htshfXsI?si=MS4Jf39xXAWGyu3b",
-      "is_self": false,
-      "flair": "Official Media"
+      "flair": "News"
     },
     {
       "id": "1ppcu6a",
       "title": "In your opinion What Anime has the most creative use of magic?",
-      "score": 185,
-      "num_comments": 178,
+      "score": 196,
+      "num_comments": 203,
       "created_utc": 1766017454,
       "author": "GodlyCree",
       "permalink": "/r/anime/comments/1ppcu6a/in_your_opinion_what_anime_has_the_most_creative/",
@@ -275,8 +395,8 @@
     {
       "id": "1ppmg30",
       "title": "\"Odekake Kozame\" Season 2 visual",
-      "score": 32,
-      "num_comments": 5,
+      "score": 38,
+      "num_comments": 6,
       "created_utc": 1766049280,
       "author": "mr_beanoz",
       "permalink": "/r/anime/comments/1ppmg30/odekake_kozame_season_2_visual/",
@@ -285,10 +405,22 @@
       "flair": "Official Media"
     },
     {
+      "id": "1pps17r",
+      "title": "Is there an anime or manga in which the protagonist dies and the story continues without him/her?",
+      "score": 13,
+      "num_comments": 102,
+      "created_utc": 1766067744,
+      "author": "cyber_killer0",
+      "permalink": "/r/anime/comments/1pps17r/is_there_an_anime_or_manga_in_which_the/",
+      "url": "https://www.reddit.com/r/anime/comments/1pps17r/is_there_an_anime_or_manga_in_which_the/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
       "id": "1povn2f",
       "title": "I finally watch Mushoku Tensei",
-      "score": 1382,
-      "num_comments": 1895,
+      "score": 1408,
+      "num_comments": 1929,
       "created_utc": 1765975572,
       "author": "losermale",
       "permalink": "/r/anime/comments/1povn2f/i_finally_watch_mushoku_tensei/",
@@ -297,33 +429,69 @@
       "flair": "Review"
     },
     {
-      "id": "1ppu8ck",
-      "title": "[Ranma 1/2] I drew Ranma-chan from one of the OVAs",
-      "score": 9,
-      "num_comments": 10,
-      "created_utc": 1766073190,
-      "author": "BryceCzuba",
-      "permalink": "/r/anime/comments/1ppu8ck/ranma_12_i_drew_ranmachan_from_one_of_the_ovas/",
-      "url": "https://www.reddit.com/gallery/1ppu8ck",
-      "is_self": false,
-      "flair": "Fanart"
-    },
-    {
-      "id": "1ppuemq",
-      "title": "[REWATCH] Undead Unluck - Episode 18 Discussion",
-      "score": 6,
-      "num_comments": 7,
-      "created_utc": 1766073607,
-      "author": "italeteller",
-      "permalink": "/r/anime/comments/1ppuemq/rewatch_undead_unluck_episode_18_discussion/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppuemq/rewatch_undead_unluck_episode_18_discussion/",
+      "id": "1pq3kx6",
+      "title": "I My Me! Strawberry Eggs 25th Anniversary Rewatch Schedule/Index",
+      "score": 3,
+      "num_comments": 4,
+      "created_utc": 1766095248,
+      "author": "Holofan4life",
+      "permalink": "/r/anime/comments/1pq3kx6/i_my_me_strawberry_eggs_25th_anniversary_rewatch/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq3kx6/i_my_me_strawberry_eggs_25th_anniversary_rewatch/",
       "is_self": true,
       "flair": "Rewatch"
     },
     {
+      "id": "1ppsxfu",
+      "title": "Ganso! Bandori-chan • GANSO! BanG Dream Chan - Episode 12 discussion",
+      "score": 8,
+      "num_comments": 1,
+      "created_utc": 1766070026,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1ppsxfu/ganso_bandorichan_ganso_bang_dream_chan_episode/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppsxfu/ganso_bandorichan_ganso_bang_dream_chan_episode/",
+      "is_self": true,
+      "flair": "Episode"
+    },
+    {
+      "id": "1pq1pmp",
+      "title": "What shows do loneliness really well?",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": 1766090743,
+      "author": "Melodic_Elephant9130",
+      "permalink": "/r/anime/comments/1pq1pmp/what_shows_do_loneliness_really_well/",
+      "url": "https://youtu.be/ChhcBOlMR5U?si=oNopMn867hb2aLdY",
+      "is_self": false,
+      "flair": "Video"
+    },
+    {
+      "id": "1pq0ka4",
+      "title": "Give me some anime recommendations",
+      "score": 2,
+      "num_comments": 26,
+      "created_utc": 1766087969,
+      "author": "Regular_Subject451",
+      "permalink": "/r/anime/comments/1pq0ka4/give_me_some_anime_recommendations/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq0ka4/give_me_some_anime_recommendations/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
+      "id": "1pq313x",
+      "title": "Recommendations for fluffy but interesting anime similar to The Angel Next Door Spoils Me Rotten",
+      "score": 1,
+      "num_comments": 4,
+      "created_utc": 1766093907,
+      "author": "Massive-Appearance19",
+      "permalink": "/r/anime/comments/1pq313x/recommendations_for_fluffy_but_interesting_anime/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq313x/recommendations_for_fluffy_but_interesting_anime/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
       "id": "1pp81bu",
       "title": "Ado will perform the new opening for \"Chibi Maruko-chan\", song will be used from the 28 December episode",
-      "score": 144,
+      "score": 151,
       "num_comments": 8,
       "created_utc": 1766005421,
       "author": "mr_beanoz",
@@ -333,9 +501,21 @@
       "flair": "News"
     },
     {
+      "id": "1ppq3gj",
+      "title": "Finished watching Kanon (2006) by Kyoto Animation…",
+      "score": 7,
+      "num_comments": 6,
+      "created_utc": 1766062451,
+      "author": "Suitable_Tutor6006",
+      "permalink": "/r/anime/comments/1ppq3gj/finished_watching_kanon_2006_by_kyoto_animation/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppq3gj/finished_watching_kanon_2006_by_kyoto_animation/",
+      "is_self": true,
+      "flair": "Review"
+    },
+    {
       "id": "1powwof",
       "title": "Voice Actress Sally Amaki to go on 1-month hiatus to undergo surgery for tonsillitis and recovery",
-      "score": 547,
+      "score": 552,
       "num_comments": 31,
       "created_utc": 1765979185,
       "author": "zenzen_0",
@@ -347,7 +527,7 @@
     {
       "id": "1post9z",
       "title": "\"Eren the Southpaw\" Key Visual",
-      "score": 1056,
+      "score": 1066,
       "num_comments": 115,
       "created_utc": 1765965693,
       "author": "Task_Force-191",
@@ -357,58 +537,22 @@
       "flair": "Official Media"
     },
     {
-      "id": "1ppsxfu",
-      "title": "Ganso! Bandori-chan • GANSO! BanG Dream Chan - Episode 12 discussion",
-      "score": 6,
-      "num_comments": 1,
-      "created_utc": 1766070026,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1ppsxfu/ganso_bandorichan_ganso_bang_dream_chan_episode/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppsxfu/ganso_bandorichan_ganso_bang_dream_chan_episode/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
-      "id": "1ppq3gj",
-      "title": "Finished watching Kanon (2006) by Kyoto Animation…",
-      "score": 6,
-      "num_comments": 5,
-      "created_utc": 1766062451,
-      "author": "Suitable_Tutor6006",
-      "permalink": "/r/anime/comments/1ppq3gj/finished_watching_kanon_2006_by_kyoto_animation/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppq3gj/finished_watching_kanon_2006_by_kyoto_animation/",
-      "is_self": true,
-      "flair": "Review"
-    },
-    {
-      "id": "1pps17r",
-      "title": "Is there an anime or manga in which the protagonist dies and the story continues without him/her?",
-      "score": 4,
-      "num_comments": 50,
-      "created_utc": 1766067744,
-      "author": "cyber_killer0",
-      "permalink": "/r/anime/comments/1pps17r/is_there_an_anime_or_manga_in_which_the/",
-      "url": "https://www.reddit.com/r/anime/comments/1pps17r/is_there_an_anime_or_manga_in_which_the/",
+      "id": "1pq3z1g",
+      "title": "Looking for Only The Best Anime/Manga Recommendations",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1766096195,
+      "author": "Equivalent_Branch200",
+      "permalink": "/r/anime/comments/1pq3z1g/looking_for_only_the_best_animemanga/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq3z1g/looking_for_only_the_best_animemanga/",
       "is_self": true,
       "flair": "What to Watch?"
     },
     {
-      "id": "1ppw3h6",
-      "title": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! • Pass the Monster Meat, Milady! - Episode 12 discussion",
-      "score": 2,
-      "num_comments": 1,
-      "created_utc": 1766077586,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1ppw3h6/akujiki_reijou_to_kyouketsu_koushaku_sono_mamono/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppw3h6/akujiki_reijou_to_kyouketsu_koushaku_sono_mamono/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
       "id": "1ppq45l",
       "title": "Which anime has the most unhinged narrator dialogue?",
-      "score": 4,
-      "num_comments": 9,
+      "score": 5,
+      "num_comments": 10,
       "created_utc": 1766062506,
       "author": "BlackFinch90",
       "permalink": "/r/anime/comments/1ppq45l/which_anime_has_the_most_unhinged_narrator/",
@@ -417,10 +561,22 @@
       "flair": "What to Watch?"
     },
     {
+      "id": "1pq2zqt",
+      "title": "Looking for one pure slice-of-life anime to watch",
+      "score": 1,
+      "num_comments": 3,
+      "created_utc": 1766093814,
+      "author": "Used_Extension8169",
+      "permalink": "/r/anime/comments/1pq2zqt/looking_for_one_pure_sliceoflife_anime_to_watch/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq2zqt/looking_for_one_pure_sliceoflife_anime_to_watch/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
       "id": "1pp8lmo",
       "title": "Frieren: Beyond Journey's End Rewatch Episode 10 Discussion",
-      "score": 64,
-      "num_comments": 57,
+      "score": 69,
+      "num_comments": 58,
       "created_utc": 1766006762,
       "author": "TheDanubianCommunard",
       "permalink": "/r/anime/comments/1pp8lmo/frieren_beyond_journeys_end_rewatch_episode_10/",
@@ -429,10 +585,34 @@
       "flair": "Rewatch"
     },
     {
+      "id": "1ppo5dk",
+      "title": "TV Anime “Noble Reincarnation Born Blessed, So I'll Obtain Ultimate Power” PV #3",
+      "score": 5,
+      "num_comments": 10,
+      "created_utc": 1766055886,
+      "author": "Task_Force-191",
+      "permalink": "/r/anime/comments/1ppo5dk/tv_anime_noble_reincarnation_born_blessed_so_ill/",
+      "url": "https://youtu.be/RIj0yJCVNuU?si=10THiIZbofN6ESUT",
+      "is_self": false,
+      "flair": "Official Media"
+    },
+    {
+      "id": "1ppzzek",
+      "title": "What animes are you planning to watch in winter 2026 season?",
+      "score": 0,
+      "num_comments": 16,
+      "created_utc": 1766086611,
+      "author": "gud_fellow",
+      "permalink": "/r/anime/comments/1ppzzek/what_animes_are_you_planning_to_watch_in_winter/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppzzek/what_animes_are_you_planning_to_watch_in_winter/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
       "id": "1porwwn",
       "title": "\"From Old Country Bumpkin to Master Swordsman\" Season 2 broadcast starts July 2026",
-      "score": 570,
-      "num_comments": 75,
+      "score": 581,
+      "num_comments": 76,
       "created_utc": 1765962119,
       "author": "zenzen_0",
       "permalink": "/r/anime/comments/1porwwn/from_old_country_bumpkin_to_master_swordsman/",
@@ -441,10 +621,22 @@
       "flair": "News"
     },
     {
+      "id": "1ppzr3w",
+      "title": "Please help me finding this",
+      "score": 0,
+      "num_comments": 2,
+      "created_utc": 1766086074,
+      "author": "Yeagerist_90",
+      "permalink": "/r/anime/comments/1ppzr3w/please_help_me_finding_this/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppzr3w/please_help_me_finding_this/",
+      "is_self": true,
+      "flair": "Help"
+    },
+    {
       "id": "1ppcv8o",
       "title": "what's your thoughts on the Cinderella Gray Anime?",
       "score": 29,
-      "num_comments": 22,
+      "num_comments": 28,
       "created_utc": 1766017535,
       "author": "Nerdcorefan23",
       "permalink": "/r/anime/comments/1ppcv8o/whats_your_thoughts_on_the_cinderella_gray_anime/",
@@ -455,8 +647,8 @@
     {
       "id": "1pp0dq4",
       "title": "Tensei Akujo no Kuro Rekishi • The Dark History of the Reincarnated Villainess - Episode 11 discussion",
-      "score": 138,
-      "num_comments": 71,
+      "score": 142,
+      "num_comments": 72,
       "created_utc": 1765987585,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pp0dq4/tensei_akujo_no_kuro_rekishi_the_dark_history_of/",
@@ -465,52 +657,28 @@
       "flair": "Episode"
     },
     {
+      "id": "1ppxx9k",
+      "title": "Chainsaw man Reze arc Amv - Jane Doe",
+      "score": 0,
+      "num_comments": 1,
+      "created_utc": 1766081835,
+      "author": "Makhumu",
+      "permalink": "/r/anime/comments/1ppxx9k/chainsaw_man_reze_arc_amv_jane_doe/",
+      "url": "https://youtu.be/m_naApWR8Gw",
+      "is_self": false,
+      "flair": "Video Edit"
+    },
+    {
       "id": "1pozaak",
       "title": "Wandance - Episode 11 discussion",
-      "score": 124,
-      "num_comments": 88,
+      "score": 126,
+      "num_comments": 89,
       "created_utc": 1765985064,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pozaak/wandance_episode_11_discussion/",
       "url": "https://www.reddit.com/r/anime/comments/1pozaak/wandance_episode_11_discussion/",
       "is_self": true,
       "flair": "Episode"
-    },
-    {
-      "id": "1ppo5dk",
-      "title": "TV Anime “Noble Reincarnation Born Blessed, So I'll Obtain Ultimate Power” PV #3",
-      "score": 3,
-      "num_comments": 8,
-      "created_utc": 1766055886,
-      "author": "Task_Force-191",
-      "permalink": "/r/anime/comments/1ppo5dk/tv_anime_noble_reincarnation_born_blessed_so_ill/",
-      "url": "https://youtu.be/RIj0yJCVNuU?si=10THiIZbofN6ESUT",
-      "is_self": false,
-      "flair": "Official Media"
-    },
-    {
-      "id": "1ppvzub",
-      "title": "Need help with source",
-      "score": 1,
-      "num_comments": 3,
-      "created_utc": 1766077353,
-      "author": "Upbeat_Amount12",
-      "permalink": "/r/anime/comments/1ppvzub/need_help_with_source/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppvzub/need_help_with_source/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1ppvyqi",
-      "title": "How did Denji Store the Flower? And how to in real life?",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1766077286,
-      "author": "gud_fellow",
-      "permalink": "/r/anime/comments/1ppvyqi/how_did_denji_store_the_flower_and_how_to_in_real/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppvyqi/how_did_denji_store_the_flower_and_how_to_in_real/",
-      "is_self": true,
-      "flair": "Discussion"
     },
     {
       "id": "1pp16mn",
@@ -525,22 +693,10 @@
       "flair": "Misc."
     },
     {
-      "id": "1ppecw7",
-      "title": "Any good slice of life romcoms",
-      "score": 17,
-      "num_comments": 27,
-      "created_utc": 1766021783,
-      "author": "Serious_Clerk2875",
-      "permalink": "/r/anime/comments/1ppecw7/any_good_slice_of_life_romcoms/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppecw7/any_good_slice_of_life_romcoms/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
       "id": "1ppvw98",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 21",
-      "score": 0,
-      "num_comments": 2,
+      "score": 1,
+      "num_comments": 25,
       "created_utc": 1766077139,
       "author": "Holofan4life",
       "permalink": "/r/anime/comments/1ppvw98/spoilers_shakugan_no_shana_20th_anniversary/",
@@ -549,9 +705,21 @@
       "flair": "Rewatch"
     },
     {
+      "id": "1ppvr1a",
+      "title": "Is High School DxD getting a Season 5?",
+      "score": 0,
+      "num_comments": 13,
+      "created_utc": 1766076790,
+      "author": "Mother-Inspection137",
+      "permalink": "/r/anime/comments/1ppvr1a/is_high_school_dxd_getting_a_season_5/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppvr1a/is_high_school_dxd_getting_a_season_5/",
+      "is_self": true,
+      "flair": "Help"
+    },
+    {
       "id": "1pov3ez",
       "title": "Cyborg 009's Cyborg 002/Jet Link Voice Actor Ryō Ishihara Dies at 94",
-      "score": 165,
+      "score": 171,
       "num_comments": 9,
       "created_utc": 1765973817,
       "author": "Task_Force-191",
@@ -563,14 +731,38 @@
     {
       "id": "1pp7wkd",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 12 Discussion",
-      "score": 29,
-      "num_comments": 226,
+      "score": 34,
+      "num_comments": 230,
       "created_utc": 1766005110,
       "author": "ChristmasClub-",
       "permalink": "/r/anime/comments/1pp7wkd/toradora_christmas_club_rewatch_2025_episode_12/",
       "url": "https://www.reddit.com/r/anime/comments/1pp7wkd/toradora_christmas_club_rewatch_2025_episode_12/",
       "is_self": true,
       "flair": "Rewatch"
+    },
+    {
+      "id": "1pp3dys",
+      "title": "Akeboshi - Wind / THE FIRST TAKE (Naruto ED1)",
+      "score": 53,
+      "num_comments": 3,
+      "created_utc": 1765994541,
+      "author": "yaswa910",
+      "permalink": "/r/anime/comments/1pp3dys/akeboshi_wind_the_first_take_naruto_ed1/",
+      "url": "https://www.youtube.com/watch?v=ev8G3y0tHQE",
+      "is_self": false,
+      "flair": "Official Media"
+    },
+    {
+      "id": "1ppmq1t",
+      "title": "PetitCure: Precure Fairies - Episode 38 discussion",
+      "score": 5,
+      "num_comments": 1,
+      "created_utc": 1766050401,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1ppmq1t/petitcure_precure_fairies_episode_38_discussion/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppmq1t/petitcure_precure_fairies_episode_38_discussion/",
+      "is_self": true,
+      "flair": "Episode"
     },
     {
       "id": "1pptnzd",
@@ -585,22 +777,34 @@
       "flair": "Help"
     },
     {
-      "id": "1pp3dys",
-      "title": "Akeboshi - Wind / THE FIRST TAKE (Naruto ED1)",
-      "score": 48,
-      "num_comments": 2,
-      "created_utc": 1765994541,
-      "author": "yaswa910",
-      "permalink": "/r/anime/comments/1pp3dys/akeboshi_wind_the_first_take_naruto_ed1/",
-      "url": "https://www.youtube.com/watch?v=ev8G3y0tHQE",
-      "is_self": false,
-      "flair": "Official Media"
+      "id": "1pptft1",
+      "title": "Suggest me anime to watch!",
+      "score": 0,
+      "num_comments": 23,
+      "created_utc": 1766071274,
+      "author": "Superb-Paint-3145",
+      "permalink": "/r/anime/comments/1pptft1/suggest_me_anime_to_watch/",
+      "url": "https://www.reddit.com/r/anime/comments/1pptft1/suggest_me_anime_to_watch/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
+      "id": "1ppdsm9",
+      "title": "Oshi no Ko Rewatch - Season 1, Episode 6 Discussion",
+      "score": 11,
+      "num_comments": 15,
+      "created_utc": 1766020129,
+      "author": "Heda-of-Aincrad",
+      "permalink": "/r/anime/comments/1ppdsm9/oshi_no_ko_rewatch_season_1_episode_6_discussion/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppdsm9/oshi_no_ko_rewatch_season_1_episode_6_discussion/",
+      "is_self": true,
+      "flair": "Rewatch"
     },
     {
       "id": "1ppj8e8",
       "title": "Looking for an anime that has decent fighting scenes but more importantly alot of rock/punk/metal music.",
-      "score": 6,
-      "num_comments": 20,
+      "score": 3,
+      "num_comments": 23,
       "created_utc": 1766036924,
       "author": "SignificanceSweet751",
       "permalink": "/r/anime/comments/1ppj8e8/looking_for_an_anime_that_has_decent_fighting/",
@@ -611,7 +815,7 @@
     {
       "id": "1pp7xen",
       "title": "[Rewatch] The Rose of Versailles - Episode 40 Discussion",
-      "score": 24,
+      "score": 23,
       "num_comments": 59,
       "created_utc": 1766005169,
       "author": "Pixelsabre",
@@ -623,8 +827,8 @@
     {
       "id": "1pp1ro2",
       "title": "Let’s Play: Quest Darake no My Life • Let’s Play - Episode 12 discussion",
-      "score": 42,
-      "num_comments": 46,
+      "score": 49,
+      "num_comments": 50,
       "created_utc": 1765990827,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pp1ro2/lets_play_quest_darake_no_my_life_lets_play/",
@@ -633,58 +837,10 @@
       "flair": "Episode"
     },
     {
-      "id": "1ppmq1t",
-      "title": "PetitCure: Precure Fairies - Episode 38 discussion",
-      "score": 2,
-      "num_comments": 1,
-      "created_utc": 1766050401,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1ppmq1t/petitcure_precure_fairies_episode_38_discussion/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppmq1t/petitcure_precure_fairies_episode_38_discussion/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
-      "id": "1ppvr1a",
-      "title": "Is High School DxD getting a Season 5?",
-      "score": 0,
-      "num_comments": 4,
-      "created_utc": 1766076790,
-      "author": "Mother-Inspection137",
-      "permalink": "/r/anime/comments/1ppvr1a/is_high_school_dxd_getting_a_season_5/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppvr1a/is_high_school_dxd_getting_a_season_5/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1ppdsm9",
-      "title": "Oshi no Ko Rewatch - Season 1, Episode 6 Discussion",
-      "score": 9,
-      "num_comments": 15,
-      "created_utc": 1766020129,
-      "author": "Heda-of-Aincrad",
-      "permalink": "/r/anime/comments/1ppdsm9/oshi_no_ko_rewatch_season_1_episode_6_discussion/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppdsm9/oshi_no_ko_rewatch_season_1_episode_6_discussion/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
-      "id": "1ppawqv",
-      "title": "D.Gray-man 20th Anniversary Rewatch - Episode 74",
-      "score": 12,
-      "num_comments": 28,
-      "created_utc": 1766012399,
-      "author": "Shimmering-Sky",
-      "permalink": "/r/anime/comments/1ppawqv/dgrayman_20th_anniversary_rewatch_episode_74/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppawqv/dgrayman_20th_anniversary_rewatch_episode_74/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
       "id": "1pozl27",
       "title": "Kakuriyo no Yadomeshi Ni • Kakuriyo: Bed & Breakfast for Spirits Season 2 - Episode 12 discussion",
-      "score": 46,
-      "num_comments": 19,
+      "score": 44,
+      "num_comments": 20,
       "created_utc": 1765985784,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pozl27/kakuriyo_no_yadomeshi_ni_kakuriyo_bed_breakfast/",
@@ -693,21 +849,21 @@
       "flair": "Episode"
     },
     {
-      "id": "1pptft1",
-      "title": "Suggest me anime to watch!",
-      "score": 0,
-      "num_comments": 15,
-      "created_utc": 1766071274,
-      "author": "Superb-Paint-3145",
-      "permalink": "/r/anime/comments/1pptft1/suggest_me_anime_to_watch/",
-      "url": "https://www.reddit.com/r/anime/comments/1pptft1/suggest_me_anime_to_watch/",
+      "id": "1ppawqv",
+      "title": "D.Gray-man 20th Anniversary Rewatch - Episode 74",
+      "score": 12,
+      "num_comments": 31,
+      "created_utc": 1766012399,
+      "author": "Shimmering-Sky",
+      "permalink": "/r/anime/comments/1ppawqv/dgrayman_20th_anniversary_rewatch_episode_74/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppawqv/dgrayman_20th_anniversary_rewatch_episode_74/",
       "is_self": true,
-      "flair": "What to Watch?"
+      "flair": "Rewatch"
     },
     {
       "id": "1pom71t",
       "title": "“TRIGUN STARGAZE” New Character Visual",
-      "score": 357,
+      "score": 356,
       "num_comments": 15,
       "created_utc": 1765942122,
       "author": "AashyLarry",
@@ -717,10 +873,130 @@
       "flair": "Official Media"
     },
     {
+      "id": "1poytzu",
+      "title": "Ao no Orchestra Season 2 • Blue Orchestra Season 2 - Episode 11 discussion",
+      "score": 44,
+      "num_comments": 8,
+      "created_utc": 1765983985,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1poytzu/ao_no_orchestra_season_2_blue_orchestra_season_2/",
+      "url": "https://www.reddit.com/r/anime/comments/1poytzu/ao_no_orchestra_season_2_blue_orchestra_season_2/",
+      "is_self": true,
+      "flair": "Episode"
+    },
+    {
+      "id": "1ppkg8z",
+      "title": "I need help finding a anime",
+      "score": 3,
+      "num_comments": 15,
+      "created_utc": 1766041296,
+      "author": "Scr3aming_Banshee",
+      "permalink": "/r/anime/comments/1ppkg8z/i_need_help_finding_a_anime/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppkg8z/i_need_help_finding_a_anime/",
+      "is_self": true,
+      "flair": "Help"
+    },
+    {
+      "id": "1ppz9zo",
+      "title": "Looking for smth to watch",
+      "score": 0,
+      "num_comments": 17,
+      "created_utc": 1766084965,
+      "author": "pawelek251",
+      "permalink": "/r/anime/comments/1ppz9zo/looking_for_smth_to_watch/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppz9zo/looking_for_smth_to_watch/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
+      "id": "1ppx7pm",
+      "title": "I need some good anime reccomendations",
+      "score": 0,
+      "num_comments": 11,
+      "created_utc": 1766080192,
+      "author": "BSD_Akiko_Yosano",
+      "permalink": "/r/anime/comments/1ppx7pm/i_need_some_good_anime_reccomendations/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppx7pm/i_need_some_good_anime_reccomendations/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
+      "id": "1pp7yms",
+      "title": "Transformers Cybertron rewatch - Episode 47 discussion",
+      "score": 10,
+      "num_comments": 15,
+      "created_utc": 1766005247,
+      "author": "Nebresto",
+      "permalink": "/r/anime/comments/1pp7yms/transformers_cybertron_rewatch_episode_47/",
+      "url": "https://www.reddit.com/r/anime/comments/1pp7yms/transformers_cybertron_rewatch_episode_47/",
+      "is_self": true,
+      "flair": "Rewatch"
+    },
+    {
+      "id": "1ppxlim",
+      "title": "Why Kanagawa ni Sunderu Elf don't have english version yet?",
+      "score": 0,
+      "num_comments": 7,
+      "created_utc": 1766081076,
+      "author": "Ponczo123",
+      "permalink": "/r/anime/comments/1ppxlim/why_kanagawa_ni_sunderu_elf_dont_have_english/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppxlim/why_kanagawa_ni_sunderu_elf_dont_have_english/",
+      "is_self": true,
+      "flair": "Discussion"
+    },
+    {
+      "id": "1pos8ox",
+      "title": "I made a small app that generates a tier list of your completed anime from your MyAnimeList account",
+      "score": 78,
+      "num_comments": 46,
+      "created_utc": 1765963442,
+      "author": "MoreThanLuck",
+      "permalink": "/r/anime/comments/1pos8ox/i_made_a_small_app_that_generates_a_tier_list_of/",
+      "url": "https://mal-tier-list-generator.vercel.app/",
+      "is_self": false,
+      "flair": "Misc."
+    },
+    {
+      "id": "1pp07ok",
+      "title": "[REWATCH] Undead Unluck - Episode 17 Discussion",
+      "score": 21,
+      "num_comments": 31,
+      "created_utc": 1765987211,
+      "author": "italeteller",
+      "permalink": "/r/anime/comments/1pp07ok/rewatch_undead_unluck_episode_17_discussion/",
+      "url": "https://www.reddit.com/r/anime/comments/1pp07ok/rewatch_undead_unluck_episode_17_discussion/",
+      "is_self": true,
+      "flair": "Rewatch"
+    },
+    {
+      "id": "1po15i7",
+      "title": "Smell Test [Asobi Asobase]",
+      "score": 2995,
+      "num_comments": 96,
+      "created_utc": 1765889498,
+      "author": "NekoWafers",
+      "permalink": "/r/anime/comments/1po15i7/smell_test_asobi_asobase/",
+      "url": "https://v.redd.it/qhajrnembk7g1",
+      "is_self": false,
+      "flair": "Clip"
+    },
+    {
+      "id": "1ppohh3",
+      "title": "Anime like NaNa but more music focused?",
+      "score": 0,
+      "num_comments": 7,
+      "created_utc": 1766057101,
+      "author": "Agreeable-Increase39",
+      "permalink": "/r/anime/comments/1ppohh3/anime_like_nana_but_more_music_focused/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppohh3/anime_like_nana_but_more_music_focused/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
       "id": "1ppt0e7",
       "title": "Help me find the title of the Anime",
       "score": 0,
-      "num_comments": 3,
+      "num_comments": 6,
       "created_utc": 1766070216,
       "author": "MT-Lican",
       "permalink": "/r/anime/comments/1ppt0e7/help_me_find_the_title_of_the_anime/",
@@ -729,16 +1005,28 @@
       "flair": "Help"
     },
     {
-      "id": "1poytzu",
-      "title": "Ao no Orchestra Season 2 • Blue Orchestra Season 2 - Episode 11 discussion",
-      "score": 43,
-      "num_comments": 8,
-      "created_utc": 1765983985,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1poytzu/ao_no_orchestra_season_2_blue_orchestra_season_2/",
-      "url": "https://www.reddit.com/r/anime/comments/1poytzu/ao_no_orchestra_season_2_blue_orchestra_season_2/",
+      "id": "1poz6gy",
+      "title": "Looking for a cute and wholesome romance anime (no drama)",
+      "score": 18,
+      "num_comments": 48,
+      "created_utc": 1765984815,
+      "author": "Ayaka_2008",
+      "permalink": "/r/anime/comments/1poz6gy/looking_for_a_cute_and_wholesome_romance_anime_no/",
+      "url": "https://www.reddit.com/r/anime/comments/1poz6gy/looking_for_a_cute_and_wholesome_romance_anime_no/",
       "is_self": true,
-      "flair": "Episode"
+      "flair": "What to Watch?"
+    },
+    {
+      "id": "1ponn2u",
+      "title": "Got hooked on Spy Family way faster than I expected",
+      "score": 124,
+      "num_comments": 39,
+      "created_utc": 1765946597,
+      "author": "Virtual_Obligation17",
+      "permalink": "/r/anime/comments/1ponn2u/got_hooked_on_spy_family_way_faster_than_i/",
+      "url": "https://www.reddit.com/r/anime/comments/1ponn2u/got_hooked_on_spy_family_way_faster_than_i/",
+      "is_self": true,
+      "flair": "Discussion"
     },
     {
       "id": "1ppnj65",
@@ -753,130 +1041,10 @@
       "flair": "Discussion"
     },
     {
-      "id": "1ppu593",
-      "title": "Which Bebop character do you think never actually moves on?",
-      "score": 0,
-      "num_comments": 3,
-      "created_utc": 1766072983,
-      "author": "Melodic_Elephant9130",
-      "permalink": "/r/anime/comments/1ppu593/which_bebop_character_do_you_think_never_actually/",
-      "url": "https://youtu.be/5rXTnurkhj8",
-      "is_self": false,
-      "flair": "Video"
-    },
-    {
-      "id": "1pp7yms",
-      "title": "Transformers Cybertron rewatch - Episode 47 discussion",
-      "score": 11,
-      "num_comments": 15,
-      "created_utc": 1766005247,
-      "author": "Nebresto",
-      "permalink": "/r/anime/comments/1pp7yms/transformers_cybertron_rewatch_episode_47/",
-      "url": "https://www.reddit.com/r/anime/comments/1pp7yms/transformers_cybertron_rewatch_episode_47/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
-      "id": "1pos8ox",
-      "title": "I made a small app that generates a tier list of your completed anime from your MyAnimeList account",
-      "score": 76,
-      "num_comments": 46,
-      "created_utc": 1765963442,
-      "author": "MoreThanLuck",
-      "permalink": "/r/anime/comments/1pos8ox/i_made_a_small_app_that_generates_a_tier_list_of/",
-      "url": "https://mal-tier-list-generator.vercel.app/",
-      "is_self": false,
-      "flair": "Misc."
-    },
-    {
-      "id": "1pp07ok",
-      "title": "[REWATCH] Undead Unluck - Episode 17 Discussion",
-      "score": 21,
-      "num_comments": 30,
-      "created_utc": 1765987211,
-      "author": "italeteller",
-      "permalink": "/r/anime/comments/1pp07ok/rewatch_undead_unluck_episode_17_discussion/",
-      "url": "https://www.reddit.com/r/anime/comments/1pp07ok/rewatch_undead_unluck_episode_17_discussion/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
-      "id": "1ppsgc7",
-      "title": "Duvida sobre um nome de anime",
-      "score": 0,
-      "num_comments": 1,
-      "created_utc": 1766068830,
-      "author": "xGold_Master3644",
-      "permalink": "/r/anime/comments/1ppsgc7/duvida_sobre_um_nome_de_anime/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppsgc7/duvida_sobre_um_nome_de_anime/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1po15i7",
-      "title": "Smell Test [Asobi Asobase]",
-      "score": 2970,
-      "num_comments": 94,
-      "created_utc": 1765889498,
-      "author": "NekoWafers",
-      "permalink": "/r/anime/comments/1po15i7/smell_test_asobi_asobase/",
-      "url": "https://v.redd.it/qhajrnembk7g1",
-      "is_self": false,
-      "flair": "Clip"
-    },
-    {
-      "id": "1ppohh3",
-      "title": "Anime like NaNa but more music focused?",
-      "score": 0,
-      "num_comments": 6,
-      "created_utc": 1766057101,
-      "author": "Agreeable-Increase39",
-      "permalink": "/r/anime/comments/1ppohh3/anime_like_nana_but_more_music_focused/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppohh3/anime_like_nana_but_more_music_focused/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
-      "id": "1poz6gy",
-      "title": "Looking for a cute and wholesome romance anime (no drama)",
-      "score": 18,
-      "num_comments": 47,
-      "created_utc": 1765984815,
-      "author": "Ayaka_2008",
-      "permalink": "/r/anime/comments/1poz6gy/looking_for_a_cute_and_wholesome_romance_anime_no/",
-      "url": "https://www.reddit.com/r/anime/comments/1poz6gy/looking_for_a_cute_and_wholesome_romance_anime_no/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
-      "id": "1ppkg8z",
-      "title": "I need help finding a anime",
-      "score": 2,
-      "num_comments": 15,
-      "created_utc": 1766041296,
-      "author": "Scr3aming_Banshee",
-      "permalink": "/r/anime/comments/1ppkg8z/i_need_help_finding_a_anime/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppkg8z/i_need_help_finding_a_anime/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1ponn2u",
-      "title": "Got hooked on Spy Family way faster than I expected",
-      "score": 122,
-      "num_comments": 38,
-      "created_utc": 1765946597,
-      "author": "Virtual_Obligation17",
-      "permalink": "/r/anime/comments/1ponn2u/got_hooked_on_spy_family_way_faster_than_i/",
-      "url": "https://www.reddit.com/r/anime/comments/1ponn2u/got_hooked_on_spy_family_way_faster_than_i/",
-      "is_self": true,
-      "flair": "Discussion"
-    },
-    {
       "id": "1ppjw77",
       "title": "need help finding an anime",
       "score": 1,
-      "num_comments": 6,
+      "num_comments": 7,
       "created_utc": 1766039278,
       "author": "YURIVEXZ",
       "permalink": "/r/anime/comments/1ppjw77/need_help_finding_an_anime/",
@@ -885,9 +1053,21 @@
       "flair": "Help"
     },
     {
+      "id": "1ppx063",
+      "title": "Most Anticipated Anime From WINTER 2026 Season ? New Year Starting Great",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1766079707,
+      "author": "ARES_GOD",
+      "permalink": "/r/anime/comments/1ppx063/most_anticipated_anime_from_winter_2026_season/",
+      "url": "https://www.youtube.com/watch?v=mH_-tEUsRZ8",
+      "is_self": false,
+      "flair": "Video"
+    },
+    {
       "id": "1po76xj",
       "title": "Crunchyroll Winter 2026 Anime Season Lineup Announced!",
-      "score": 951,
+      "score": 959,
       "num_comments": 308,
       "created_utc": 1765904431,
       "author": "Turbostrider27",
@@ -911,14 +1091,50 @@
     {
       "id": "1ppiwgj",
       "title": "Any anime recommendations similar to Jujutsu kaisen?",
-      "score": 2,
-      "num_comments": 18,
+      "score": 0,
+      "num_comments": 19,
       "created_utc": 1766035816,
       "author": "Realistic-Safe1647",
       "permalink": "/r/anime/comments/1ppiwgj/any_anime_recommendations_similar_to_jujutsu/",
       "url": "https://www.reddit.com/r/anime/comments/1ppiwgj/any_anime_recommendations_similar_to_jujutsu/",
       "is_self": true,
       "flair": "What to Watch?"
+    },
+    {
+      "id": "1pp7d0i",
+      "title": "Beyblade X - Episode 108 discussion",
+      "score": 5,
+      "num_comments": 2,
+      "created_utc": 1766003785,
+      "author": "AutoLovepon",
+      "permalink": "/r/anime/comments/1pp7d0i/beyblade_x_episode_108_discussion/",
+      "url": "https://www.reddit.com/r/anime/comments/1pp7d0i/beyblade_x_episode_108_discussion/",
+      "is_self": true,
+      "flair": "Episode"
+    },
+    {
+      "id": "1ppu593",
+      "title": "Which Bebop character do you think never actually moves on?",
+      "score": 0,
+      "num_comments": 5,
+      "created_utc": 1766072983,
+      "author": "Melodic_Elephant9130",
+      "permalink": "/r/anime/comments/1ppu593/which_bebop_character_do_you_think_never_actually/",
+      "url": "https://youtu.be/5rXTnurkhj8",
+      "is_self": false,
+      "flair": "Video"
+    },
+    {
+      "id": "1ppsgc7",
+      "title": "Duvida sobre um nome de anime",
+      "score": 0,
+      "num_comments": 1,
+      "created_utc": 1766068830,
+      "author": "xGold_Master3644",
+      "permalink": "/r/anime/comments/1ppsgc7/duvida_sobre_um_nome_de_anime/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppsgc7/duvida_sobre_um_nome_de_anime/",
+      "is_self": true,
+      "flair": "Help"
     },
     {
       "id": "1ppi774",
@@ -936,7 +1152,7 @@
       "id": "1pphnft",
       "title": "Hello guys! Please give me as many examples of anime where characters dress up in Christmas outfits as possible",
       "score": 0,
-      "num_comments": 11,
+      "num_comments": 12,
       "created_utc": 1766031762,
       "author": "Last_Lie8610",
       "permalink": "/r/anime/comments/1pphnft/hello_guys_please_give_me_as_many_examples_of/",
@@ -947,7 +1163,7 @@
     {
       "id": "1pp1r9a",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 20",
-      "score": 8,
+      "score": 10,
       "num_comments": 51,
       "created_utc": 1765990801,
       "author": "Holofan4life",
@@ -957,22 +1173,10 @@
       "flair": "Rewatch"
     },
     {
-      "id": "1pp7d0i",
-      "title": "Beyblade X - Episode 108 discussion",
-      "score": 5,
-      "num_comments": 2,
-      "created_utc": 1766003785,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1pp7d0i/beyblade_x_episode_108_discussion/",
-      "url": "https://www.reddit.com/r/anime/comments/1pp7d0i/beyblade_x_episode_108_discussion/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
       "id": "1pph6rw",
       "title": "I can’t find it!",
       "score": 0,
-      "num_comments": 4,
+      "num_comments": 5,
       "created_utc": 1766030294,
       "author": "Connect-Albatross-20",
       "permalink": "/r/anime/comments/1pph6rw/i_cant_find_it/",
@@ -981,22 +1185,10 @@
       "flair": "Help"
     },
     {
-      "id": "1pps33i",
-      "title": "I got a question about the anime \"The Apothecary Diaries\"",
-      "score": 0,
-      "num_comments": 25,
-      "created_utc": 1766067885,
-      "author": "Lemonade_Passenger",
-      "permalink": "/r/anime/comments/1pps33i/i_got_a_question_about_the_anime_the_apothecary/",
-      "url": "https://www.reddit.com/r/anime/comments/1pps33i/i_got_a_question_about_the_anime_the_apothecary/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
       "id": "1por39v",
       "title": "Disney Twisted-Wonderland: The Animation - Episode 8 discussion",
-      "score": 36,
-      "num_comments": 24,
+      "score": 38,
+      "num_comments": 26,
       "created_utc": 1765958784,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1por39v/disney_twistedwonderland_the_animation_episode_8/",
@@ -1005,16 +1197,28 @@
       "flair": "Episode"
     },
     {
-      "id": "1ppr1rb",
-      "title": "What's the name of this anime?",
+      "id": "1ppvyqi",
+      "title": "How did Denji Store the Flower? And how to in real life?",
       "score": 0,
       "num_comments": 4,
-      "created_utc": 1766065168,
-      "author": "Cool-University-1689",
-      "permalink": "/r/anime/comments/1ppr1rb/whats_the_name_of_this_anime/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppr1rb/whats_the_name_of_this_anime/",
+      "created_utc": 1766077286,
+      "author": "gud_fellow",
+      "permalink": "/r/anime/comments/1ppvyqi/how_did_denji_store_the_flower_and_how_to_in_real/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppvyqi/how_did_denji_store_the_flower_and_how_to_in_real/",
       "is_self": true,
-      "flair": "Help"
+      "flair": "Discussion"
+    },
+    {
+      "id": "1pp0l2f",
+      "title": "what is an anime you didn't think you'd like but ended up loving?",
+      "score": 8,
+      "num_comments": 79,
+      "created_utc": 1765988062,
+      "author": "tryppidreams",
+      "permalink": "/r/anime/comments/1pp0l2f/what_is_an_anime_you_didnt_think_youd_like_but/",
+      "url": "https://www.reddit.com/r/anime/comments/1pp0l2f/what_is_an_anime_you_didnt_think_youd_like_but/",
+      "is_self": true,
+      "flair": "Discussion"
     },
     {
       "id": "1pot0yq",
@@ -1029,21 +1233,9 @@
       "flair": "Official Media"
     },
     {
-      "id": "1pp0l2f",
-      "title": "what is an anime you didn't think you'd like but ended up loving?",
-      "score": 7,
-      "num_comments": 77,
-      "created_utc": 1765988062,
-      "author": "tryppidreams",
-      "permalink": "/r/anime/comments/1pp0l2f/what_is_an_anime_you_didnt_think_youd_like_but/",
-      "url": "https://www.reddit.com/r/anime/comments/1pp0l2f/what_is_an_anime_you_didnt_think_youd_like_but/",
-      "is_self": true,
-      "flair": "Discussion"
-    },
-    {
       "id": "1ppfo5e",
       "title": "What Anime should I watch next?",
-      "score": 2,
+      "score": 0,
       "num_comments": 19,
       "created_utc": 1766025605,
       "author": "Delicious-Lab3750",
@@ -1053,9 +1245,21 @@
       "flair": "What to Watch?"
     },
     {
+      "id": "1ppr1rb",
+      "title": "What's the name of this anime?",
+      "score": 0,
+      "num_comments": 5,
+      "created_utc": 1766065168,
+      "author": "Cool-University-1689",
+      "permalink": "/r/anime/comments/1ppr1rb/whats_the_name_of_this_anime/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppr1rb/whats_the_name_of_this_anime/",
+      "is_self": true,
+      "flair": "Help"
+    },
+    {
       "id": "1pof002",
       "title": "L'étoile de Paris en fleur New Visual",
-      "score": 176,
+      "score": 173,
       "num_comments": 20,
       "created_utc": 1765922496,
       "author": "Turbostrider27",
@@ -1067,8 +1271,8 @@
     {
       "id": "1pofpwe",
       "title": "What are some safe anime to show my little brother?",
-      "score": 137,
-      "num_comments": 271,
+      "score": 139,
+      "num_comments": 275,
       "created_utc": 1765924226,
       "author": "Endlessly_unfunny",
       "permalink": "/r/anime/comments/1pofpwe/what_are_some_safe_anime_to_show_my_little_brother/",
@@ -1079,8 +1283,8 @@
     {
       "id": "1possli",
       "title": "Anime Questions, Recommendations, and Discussion - December 17, 2025",
-      "score": 16,
-      "num_comments": 191,
+      "score": 15,
+      "num_comments": 192,
       "created_utc": 1765965633,
       "author": "AnimeMod",
       "permalink": "/r/anime/comments/1possli/anime_questions_recommendations_and_discussion/",
@@ -1103,8 +1307,8 @@
     {
       "id": "1pohuej",
       "title": "What makes u STOP watching anime?",
-      "score": 91,
-      "num_comments": 410,
+      "score": 89,
+      "num_comments": 414,
       "created_utc": 1765929710,
       "author": "teencandyy",
       "permalink": "/r/anime/comments/1pohuej/what_makes_u_stop_watching_anime/",
@@ -1127,8 +1331,8 @@
     {
       "id": "1po8sym",
       "title": "Yano-kun no Futsuu no Hibi • Yano-kun's Ordinary Days - Episode 12 discussion",
-      "score": 254,
-      "num_comments": 98,
+      "score": 257,
+      "num_comments": 101,
       "created_utc": 1765908025,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1po8sym/yanokun_no_futsuu_no_hibi_yanokuns_ordinary_days/",
@@ -1139,7 +1343,7 @@
     {
       "id": "1po8gyq",
       "title": "Anime Streamer HIDIVE Exploring Sequel Rights, Co-Productions, Re-Releases, and Legacy Title Acquisitions in New Details of Sentai Deal With MBS",
-      "score": 221,
+      "score": 223,
       "num_comments": 45,
       "created_utc": 1765907276,
       "author": "Turbostrider27",
@@ -1147,6 +1351,18 @@
       "url": "https://animecorner.me/anime-streamer-hidive-exploring-sequel-rights-co-productions-re-releases-and-legacy-titles-in-new-details-of-mbs-deal/",
       "is_self": false,
       "flair": "News"
+    },
+    {
+      "id": "1ppm2hl",
+      "title": "A friend keeps telling me to watch anime he recommends, but never watches anything I suggest.",
+      "score": 0,
+      "num_comments": 46,
+      "created_utc": 1766047732,
+      "author": "roshanakotkar1",
+      "permalink": "/r/anime/comments/1ppm2hl/a_friend_keeps_telling_me_to_watch_anime_he/",
+      "url": "https://www.reddit.com/r/anime/comments/1ppm2hl/a_friend_keeps_telling_me_to_watch_anime_he/",
+      "is_self": true,
+      "flair": "Help"
     },
     {
       "id": "1po5016",
@@ -1161,21 +1377,9 @@
       "flair": "Episode"
     },
     {
-      "id": "1pp0v63",
-      "title": "Looking for Romance anime with messy plot",
-      "score": 1,
-      "num_comments": 37,
-      "created_utc": 1765988715,
-      "author": "gud_fellow",
-      "permalink": "/r/anime/comments/1pp0v63/looking_for_romance_anime_with_messy_plot/",
-      "url": "https://www.reddit.com/r/anime/comments/1pp0v63/looking_for_romance_anime_with_messy_plot/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
       "id": "1po6k6y",
       "title": "Chitose-kun wa Ramune Bin no Naka • Chitose Is in the Ramune Bottle - Episode 8 discussion",
-      "score": 249,
+      "score": 252,
       "num_comments": 104,
       "created_utc": 1765902985,
       "author": "AutoLovepon",
@@ -1185,9 +1389,21 @@
       "flair": "Episode"
     },
     {
+      "id": "1pp0v63",
+      "title": "Looking for Romance anime with messy plot",
+      "score": 3,
+      "num_comments": 37,
+      "created_utc": 1765988715,
+      "author": "gud_fellow",
+      "permalink": "/r/anime/comments/1pp0v63/looking_for_romance_anime_with_messy_plot/",
+      "url": "https://www.reddit.com/r/anime/comments/1pp0v63/looking_for_romance_anime_with_messy_plot/",
+      "is_self": true,
+      "flair": "What to Watch?"
+    },
+    {
       "id": "1po5mpp",
       "title": "I grew up with My Hero Academia, and I’m grateful I stayed till the end",
-      "score": 270,
+      "score": 263,
       "num_comments": 59,
       "created_utc": 1765900848,
       "author": "Odd_Echo3248",
@@ -1195,18 +1411,6 @@
       "url": "https://www.reddit.com/r/anime/comments/1po5mpp/i_grew_up_with_my_hero_academia_and_im_grateful_i/",
       "is_self": true,
       "flair": "Discussion"
-    },
-    {
-      "id": "1ppm2hl",
-      "title": "A friend keeps telling me to watch anime he recommends, but never watches anything I suggest.",
-      "score": 0,
-      "num_comments": 45,
-      "created_utc": 1766047732,
-      "author": "roshanakotkar1",
-      "permalink": "/r/anime/comments/1ppm2hl/a_friend_keeps_telling_me_to_watch_anime_he/",
-      "url": "https://www.reddit.com/r/anime/comments/1ppm2hl/a_friend_keeps_telling_me_to_watch_anime_he/",
-      "is_self": true,
-      "flair": "Help"
     },
     {
       "id": "1pp95j8",
@@ -1223,7 +1427,7 @@
     {
       "id": "1pp8nui",
       "title": "Looking for romance animes",
-      "score": 1,
+      "score": 0,
       "num_comments": 26,
       "created_utc": 1766006915,
       "author": "superdrila",
@@ -1236,7 +1440,7 @@
       "id": "1pp8j7m",
       "title": "Help find anime title",
       "score": 2,
-      "num_comments": 9,
+      "num_comments": 12,
       "created_utc": 1766006599,
       "author": "Metwisun_",
       "permalink": "/r/anime/comments/1pp8j7m/help_find_anime_title/",
@@ -1272,7 +1476,7 @@
       "id": "1pp6eda",
       "title": "Any good recommendations to watch?",
       "score": 0,
-      "num_comments": 23,
+      "num_comments": 24,
       "created_utc": 1766001533,
       "author": "Amelie_asthetic",
       "permalink": "/r/anime/comments/1pp6eda/any_good_recommendations_to_watch/",
@@ -1283,7 +1487,7 @@
     {
       "id": "1potyee",
       "title": "Ugoku! Neko Mukashibanashi • Cat Tales - Episode 10 discussion",
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "created_utc": 1765969944,
       "author": "AutoLovepon",
@@ -1295,8 +1499,8 @@
     {
       "id": "1pntwsy",
       "title": "\"MarriageToxin\" Anime Main Visual",
-      "score": 1151,
-      "num_comments": 70,
+      "score": 1158,
+      "num_comments": 71,
       "created_utc": 1765862718,
       "author": "RGBkano",
       "permalink": "/r/anime/comments/1pntwsy/marriagetoxin_anime_main_visual/",
@@ -1319,7 +1523,7 @@
     {
       "id": "1pow60v",
       "title": "2200-nen Neko no Kuni Nippon - Episode 9 discussion",
-      "score": 4,
+      "score": 2,
       "num_comments": 2,
       "created_utc": 1765977144,
       "author": "AutoLovepon",
@@ -1332,7 +1536,7 @@
       "id": "1ppdade",
       "title": "Need help finding info about a specific weapon from Irregular at Magic High.",
       "score": 0,
-      "num_comments": 9,
+      "num_comments": 10,
       "created_utc": 1766018707,
       "author": "GreyEyedMouse",
       "permalink": "/r/anime/comments/1ppdade/need_help_finding_info_about_a_specific_weapon/",
@@ -1343,7 +1547,7 @@
     {
       "id": "1pom88b",
       "title": "「Egao no Taenai Shokuba desu。」WEB Preview #12",
-      "score": 16,
+      "score": 18,
       "num_comments": 0,
       "created_utc": 1765942223,
       "author": "inspyral",
@@ -1355,7 +1559,7 @@
     {
       "id": "1pnqhr5",
       "title": "Crunchyroll suggesting In another world with my smartphone in it's \"new to anime\" section is cold blooded",
-      "score": 1575,
+      "score": 1584,
       "num_comments": 174,
       "created_utc": 1765852270,
       "author": "DrFillGood",
@@ -1368,7 +1572,7 @@
       "id": "1ppibn1",
       "title": "Any powers/magic/fantasy anime with a Female that doesn't completely suck",
       "score": 0,
-      "num_comments": 39,
+      "num_comments": 40,
       "created_utc": 1766033945,
       "author": "Outrageous_Wait9849",
       "permalink": "/r/anime/comments/1ppibn1/any_powersmagicfantasy_anime_with_a_female_that/",
@@ -1380,7 +1584,7 @@
       "id": "1poj6ts",
       "title": "Oshi no Ko Rewatch - Season 1, Episode 5 Discussion",
       "score": 25,
-      "num_comments": 18,
+      "num_comments": 19,
       "created_utc": 1765933400,
       "author": "Heda-of-Aincrad",
       "permalink": "/r/anime/comments/1poj6ts/oshi_no_ko_rewatch_season_1_episode_5_discussion/",
@@ -1415,7 +1619,7 @@
     {
       "id": "1pp1qqw",
       "title": "Completely enjoyed Vermeil in Gold's MUSIC, art, and romance story. Any recs on similar vibe shows?",
-      "score": 3,
+      "score": 0,
       "num_comments": 2,
       "created_utc": 1765990767,
       "author": "Gay_Black_Atheist",
@@ -1427,7 +1631,7 @@
     {
       "id": "1potf0i",
       "title": "Horror anime that feels unsettling in a Junji Ito kind of way?",
-      "score": 4,
+      "score": 3,
       "num_comments": 18,
       "created_utc": 1765967969,
       "author": "Warm-Tea8890",
@@ -1439,7 +1643,7 @@
     {
       "id": "1podg2s",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 11 Discussion",
-      "score": 36,
+      "score": 34,
       "num_comments": 289,
       "created_utc": 1765918808,
       "author": "ChristmasClub-",
@@ -1463,7 +1667,7 @@
     {
       "id": "1po48ug",
       "title": "Kimi to Koete Koi ni Naru • With You, Our Love Will Make It Through - Episode 10 discussion",
-      "score": 80,
+      "score": 82,
       "num_comments": 62,
       "created_utc": 1765897585,
       "author": "AutoLovepon",
@@ -1475,7 +1679,7 @@
     {
       "id": "1po26dt",
       "title": "So I Finished Re:Creators",
-      "score": 92,
+      "score": 91,
       "num_comments": 48,
       "created_utc": 1765892371,
       "author": "Tomokakase13",
@@ -1487,7 +1691,7 @@
     {
       "id": "1po2nng",
       "title": "The Meaning Behind Haruhi's Hair Tie Colors in the First Episode",
-      "score": 80,
+      "score": 77,
       "num_comments": 8,
       "created_utc": 1765893651,
       "author": "LegendaryZXT",
@@ -1523,7 +1727,7 @@
     {
       "id": "1po85yq",
       "title": "Ninja to Gokudou • Ninja Vs. Gokudo - Episode 11 discussion",
-      "score": 33,
+      "score": 38,
       "num_comments": 13,
       "created_utc": 1765906584,
       "author": "AutoLovepon",
@@ -1548,7 +1752,7 @@
       "id": "1ppdv12",
       "title": "I want to feel something",
       "score": 0,
-      "num_comments": 21,
+      "num_comments": 22,
       "created_utc": 1766020319,
       "author": "Sharklife192",
       "permalink": "/r/anime/comments/1ppdv12/i_want_to_feel_something/",
@@ -1559,7 +1763,7 @@
     {
       "id": "1pnpvw3",
       "title": "\"I Became a Legend After My 10 Year-Long Last Stand\" New Teaser Visual",
-      "score": 577,
+      "score": 578,
       "num_comments": 142,
       "created_utc": 1765850557,
       "author": "zenzen_0",
@@ -1595,7 +1799,7 @@
     {
       "id": "1podfu8",
       "title": "[Rewatch] The Rose of Versailles - Episode 39 Discussion",
-      "score": 17,
+      "score": 20,
       "num_comments": 46,
       "created_utc": 1765918793,
       "author": "Pixelsabre",
@@ -1608,7 +1812,7 @@
       "id": "1pozvw6",
       "title": "Help me find this anime plz",
       "score": 0,
-      "num_comments": 2,
+      "num_comments": 3,
       "created_utc": 1765986458,
       "author": "Curious-Dog-4953",
       "permalink": "/r/anime/comments/1pozvw6/help_me_find_this_anime_plz/",
@@ -1631,7 +1835,7 @@
     {
       "id": "1polgxo",
       "title": "Recommendation for tolkien codes anime?",
-      "score": 7,
+      "score": 4,
       "num_comments": 20,
       "created_utc": 1765939990,
       "author": "Ok-Life2287",
@@ -1655,7 +1859,7 @@
     {
       "id": "1pny0g7",
       "title": "Gachiakuta Episode 24 preview images (Season 1 finale)",
-      "score": 107,
+      "score": 112,
       "num_comments": 21,
       "created_utc": 1765878442,
       "author": "unoiamaQT",
@@ -1679,7 +1883,7 @@
     {
       "id": "1poh2d5",
       "title": "\"Cardfight!! Vanguard: Divinez Genma Seisen-hen\" trailer",
-      "score": 8,
+      "score": 6,
       "num_comments": 5,
       "created_utc": 1765927659,
       "author": "mr_beanoz",
@@ -1691,7 +1895,7 @@
     {
       "id": "1po5t34",
       "title": "The Real Work Behind Fate/strange Fake | Gigguk Interviews Shun Enokido and Takahito Sakazume",
-      "score": 27,
+      "score": 25,
       "num_comments": 2,
       "created_utc": 1765901250,
       "author": "FierceAlchemist",
@@ -1703,7 +1907,7 @@
     {
       "id": "1pnxb9z",
       "title": "\"Milky☆Subway: The Galactic Limited Express Movie\" Trailer",
-      "score": 92,
+      "score": 94,
       "num_comments": 5,
       "created_utc": 1765875576,
       "author": "RGBkano",
@@ -1715,7 +1919,7 @@
     {
       "id": "1po5m96",
       "title": "[REWATCH] Undead Unluck - Episode 16 Discussion",
-      "score": 23,
+      "score": 24,
       "num_comments": 26,
       "created_utc": 1765900822,
       "author": "italeteller",
@@ -1723,18 +1927,6 @@
       "url": "https://www.reddit.com/r/anime/comments/1po5m96/rewatch_undead_unluck_episode_16_discussion/",
       "is_self": true,
       "flair": "Rewatch"
-    },
-    {
-      "id": "1pp28z8",
-      "title": "Any mystery animes? Like severance?",
-      "score": 0,
-      "num_comments": 16,
-      "created_utc": 1765991935,
-      "author": "Conscious-Material43",
-      "permalink": "/r/anime/comments/1pp28z8/any_mystery_animes_like_severance/",
-      "url": "https://www.reddit.com/r/anime/comments/1pp28z8/any_mystery_animes_like_severance/",
-      "is_self": true,
-      "flair": "What to Watch?"
     },
     {
       "id": "1pp5y60",
@@ -1747,6 +1939,18 @@
       "url": "https://www.animenewsnetwork.com/news/2025-12-15/81produce-agency-ai-company-elevenlabs-partner-on-ai-dubs-based-on-voice-talent/.232136",
       "is_self": false,
       "flair": "News"
+    },
+    {
+      "id": "1pp28z8",
+      "title": "Any mystery animes? Like severance?",
+      "score": 0,
+      "num_comments": 16,
+      "created_utc": 1765991935,
+      "author": "Conscious-Material43",
+      "permalink": "/r/anime/comments/1pp28z8/any_mystery_animes_like_severance/",
+      "url": "https://www.reddit.com/r/anime/comments/1pp28z8/any_mystery_animes_like_severance/",
+      "is_self": true,
+      "flair": "What to Watch?"
     },
     {
       "id": "1por8ey",
@@ -1763,7 +1967,7 @@
     {
       "id": "1pnhlrt",
       "title": "You will never guess what happens next [Gridman Universe]",
-      "score": 757,
+      "score": 761,
       "num_comments": 39,
       "created_utc": 1765829345,
       "author": "shapeeq",
@@ -1775,7 +1979,7 @@
     {
       "id": "1pntivx",
       "title": "Anime MARRIAGETOXIN First Trailer",
-      "score": 146,
+      "score": 149,
       "num_comments": 15,
       "created_utc": 1765861454,
       "author": "inspyral",
@@ -1799,7 +2003,7 @@
     {
       "id": "1pom7vf",
       "title": "「Chanto Suenai Kyuuketsuki-chan」WEB Preview #11",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": 1765942193,
       "author": "inspyral",
@@ -1823,7 +2027,7 @@
     {
       "id": "1podgq5",
       "title": "Transformers Cybertron rewatch - Episode 46 discussion",
-      "score": 8,
+      "score": 7,
       "num_comments": 28,
       "created_utc": 1765918846,
       "author": "Nebresto",
@@ -1835,7 +2039,7 @@
     {
       "id": "1pnavh6",
       "title": "Yume.exe is loading......↻ [SSSS.Dynazenon]",
-      "score": 1243,
+      "score": 1241,
       "num_comments": 56,
       "created_utc": 1765814135,
       "author": "Dazzling-Primary4909",
@@ -1847,7 +2051,7 @@
     {
       "id": "1podvgb",
       "title": "Just finished \"Boogiepop wa warawanai\"",
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "created_utc": 1765919813,
       "author": "-Boton-",
@@ -1871,7 +2075,7 @@
     {
       "id": "1pobwa1",
       "title": "Best anime to watch after a long stop",
-      "score": 8,
+      "score": 4,
       "num_comments": 38,
       "created_utc": 1765915104,
       "author": "Cultural_Turn8818",
@@ -1883,7 +2087,7 @@
     {
       "id": "1pogz32",
       "title": "Looking for anime with a similar villain",
-      "score": 3,
+      "score": 4,
       "num_comments": 5,
       "created_utc": 1765927426,
       "author": "biggerzap",
@@ -1896,7 +2100,7 @@
       "id": "1pooc0i",
       "title": "Are you ready for Winter 2026 anime?",
       "score": 0,
-      "num_comments": 22,
+      "num_comments": 23,
       "created_utc": 1765948848,
       "author": "OddTea74",
       "permalink": "/r/anime/comments/1pooc0i/are_you_ready_for_winter_2026_anime/",
@@ -1907,7 +2111,7 @@
     {
       "id": "1pnxw2t",
       "title": "『Medalist』Yagi Yuna (CV. Abe Natsuko)【Self Introduction】",
-      "score": 32,
+      "score": 31,
       "num_comments": 1,
       "created_utc": 1765877953,
       "author": "inspyral",
@@ -1955,7 +2159,7 @@
     {
       "id": "1poasct",
       "title": "Any good romance/action anime’s?",
-      "score": 3,
+      "score": 2,
       "num_comments": 27,
       "created_utc": 1765912513,
       "author": "DemonizedJackal",
@@ -1979,7 +2183,7 @@
     {
       "id": "1pnlnb2",
       "title": "Can't resist the charm of the cute, handsome, and cool tomboy (How I Attended an All-Guy's Mixer)",
-      "score": 150,
+      "score": 147,
       "num_comments": 21,
       "created_utc": 1765839193,
       "author": "TheEVILPINGU",
@@ -2016,7 +2220,7 @@
       "id": "1poubhk",
       "title": "I may have hallucinated an anime😭😭",
       "score": 0,
-      "num_comments": 18,
+      "num_comments": 19,
       "created_utc": 1765971231,
       "author": "ParticularStorm5894",
       "permalink": "/r/anime/comments/1poubhk/i_may_have_hallucinated_an_anime/",
@@ -2028,7 +2232,7 @@
       "id": "1poh6gn",
       "title": "Help me find this anime!",
       "score": 0,
-      "num_comments": 10,
+      "num_comments": 12,
       "created_utc": 1765927964,
       "author": "ImaginationLimp7046",
       "permalink": "/r/anime/comments/1poh6gn/help_me_find_this_anime/",
@@ -2039,7 +2243,7 @@
     {
       "id": "1pny7za",
       "title": "Anime Questions, Recommendations, and Discussion - December 16, 2025",
-      "score": 12,
+      "score": 14,
       "num_comments": 178,
       "created_utc": 1765879272,
       "author": "AnimeMod",
@@ -2075,7 +2279,7 @@
     {
       "id": "1pntz8h",
       "title": "What are your favorite Kaiju anime?",
-      "score": 23,
+      "score": 24,
       "num_comments": 34,
       "created_utc": 1765862946,
       "author": "KaleidoArachnid",
@@ -2099,7 +2303,7 @@
     {
       "id": "1pmwqmm",
       "title": "Assassination Classroom The Movie: Our Time | Key Visual",
-      "score": 2873,
+      "score": 2886,
       "num_comments": 90,
       "created_utc": 1765767616,
       "author": "zenzen_0",
@@ -2111,7 +2315,7 @@
     {
       "id": "1pn8ttv",
       "title": "Isekai Quartet Season 3 - Episode 10 discussion",
-      "score": 341,
+      "score": 354,
       "num_comments": 50,
       "created_utc": 1765809205,
       "author": "AutoLovepon",
@@ -2124,7 +2328,7 @@
       "id": "1popu2g",
       "title": "Looking for hidden gems",
       "score": 0,
-      "num_comments": 26,
+      "num_comments": 27,
       "created_utc": 1765954069,
       "author": "Infilnated",
       "permalink": "/r/anime/comments/1popu2g/looking_for_hidden_gems/",
@@ -2135,7 +2339,7 @@
     {
       "id": "1pnoqkj",
       "title": "Sgt. Frog Movie (2026) Teaser Video",
-      "score": 42,
+      "score": 43,
       "num_comments": 5,
       "created_utc": 1765847327,
       "author": "RGBkano",
@@ -2147,7 +2351,7 @@
     {
       "id": "1po114x",
       "title": "Koupen Chan - Episode 37 discussion",
-      "score": 5,
+      "score": 3,
       "num_comments": 2,
       "created_utc": 1765889124,
       "author": "AutoLovepon",
@@ -2159,7 +2363,7 @@
     {
       "id": "1pnbvgi",
       "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga • My Status as an Assassin Obviously Exceeds the Hero's - Episode 11 discussion",
-      "score": 205,
+      "score": 211,
       "num_comments": 198,
       "created_utc": 1765816403,
       "author": "AutoLovepon",
@@ -2183,7 +2387,7 @@
     {
       "id": "1po1e0p",
       "title": "Looking for longer runtime anime",
-      "score": 2,
+      "score": 4,
       "num_comments": 55,
       "created_utc": 1765890186,
       "author": "MrDevice69",
@@ -2219,8 +2423,8 @@
     {
       "id": "1pn89pf",
       "title": "Anime where the Main Character goes from \"Civilian\" to a seasoned badass",
-      "score": 200,
-      "num_comments": 300,
+      "score": 206,
+      "num_comments": 303,
       "created_utc": 1765807784,
       "author": "Moreira12005",
       "permalink": "/r/anime/comments/1pn89pf/anime_where_the_main_character_goes_from_civilian/",
@@ -2231,7 +2435,7 @@
     {
       "id": "1pnolqc",
       "title": "Oshi no Ko Rewatch - Season 1, Episode 4 Discussion",
-      "score": 28,
+      "score": 23,
       "num_comments": 23,
       "created_utc": 1765846958,
       "author": "Heda-of-Aincrad",
@@ -2243,7 +2447,7 @@
     {
       "id": "1po40qp",
       "title": "Billain - Third Impact. An incredible one-of-a-kind homage to Evangelion.",
-      "score": 2,
+      "score": 1,
       "num_comments": 0,
       "created_utc": 1765897060,
       "author": "Cataclysma",
@@ -2267,7 +2471,7 @@
     {
       "id": "1pnvgtw",
       "title": "Hi, if it's not too much trouble, could you help me find a movie I saw a long time ago?",
-      "score": 10,
+      "score": 7,
       "num_comments": 7,
       "created_utc": 1765868219,
       "author": "Usual-Transition8143",
@@ -2279,7 +2483,7 @@
     {
       "id": "1pn6tme",
       "title": "Egao no Taenai Shokuba desu. • A Mangaka's Weirdly Wonderful Workplace - Episode 11 discussion",
-      "score": 209,
+      "score": 210,
       "num_comments": 87,
       "created_utc": 1765803804,
       "author": "AutoLovepon",
@@ -2303,7 +2507,7 @@
     {
       "id": "1pnb2y4",
       "title": "3-nen Z-gumi Ginpachi-sensei • Gintama: Mr. Ginpachi's Zany Class - Episode 11 discussion",
-      "score": 110,
+      "score": 108,
       "num_comments": 31,
       "created_utc": 1765814603,
       "author": "AutoLovepon",
@@ -2339,8 +2543,8 @@
     {
       "id": "1pmydfo",
       "title": "Top 10 Anime of the Week #10 - Fall 2025 (Anime Trending)",
-      "score": 755,
-      "num_comments": 90,
+      "score": 751,
+      "num_comments": 92,
       "created_utc": 1765772720,
       "author": "Nooble5",
       "permalink": "/r/anime/comments/1pmydfo/top_10_anime_of_the_week_10_fall_2025_anime/",
@@ -2351,7 +2555,7 @@
     {
       "id": "1pnab9r",
       "title": "Sozai Saishuka no Isekai Ryokouki • A Gatherer's Adventure in Isekai - Episode 12 discussion",
-      "score": 100,
+      "score": 102,
       "num_comments": 59,
       "created_utc": 1765812804,
       "author": "AutoLovepon",
@@ -2375,7 +2579,7 @@
     {
       "id": "1pnpacz",
       "title": "I'm relatively new to the internet, so I'd like to ask what software everyone uses to watch anime?",
-      "score": 17,
+      "score": 11,
       "num_comments": 42,
       "created_utc": 1765848879,
       "author": "Competitive_Lake7585",
@@ -2387,7 +2591,7 @@
     {
       "id": "1pnkdel",
       "title": "Megazone 23 40th Anniversary Rewatch Part II",
-      "score": 24,
+      "score": 23,
       "num_comments": 113,
       "created_utc": 1765836056,
       "author": "JustAnswerAQuestion",
@@ -2423,7 +2627,7 @@
     {
       "id": "1pniuro",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 10 Discussion",
-      "score": 26,
+      "score": 25,
       "num_comments": 245,
       "created_utc": 1765832450,
       "author": "ChristmasClub-",
@@ -2436,7 +2640,7 @@
       "id": "1pnypzr",
       "title": "Please Help Me Find This Anime ♡",
       "score": 2,
-      "num_comments": 20,
+      "num_comments": 21,
       "created_utc": 1765881213,
       "author": "Either-Mycologist-44",
       "permalink": "/r/anime/comments/1pnypzr/please_help_me_find_this_anime/",
@@ -2447,7 +2651,7 @@
     {
       "id": "1pnat8p",
       "title": "Maquia: An Exploration of Motherhood, Growing Up, and Life Itself",
-      "score": 57,
+      "score": 56,
       "num_comments": 25,
       "created_utc": 1765813981,
       "author": "KiwiBennydudez",
@@ -2483,7 +2687,7 @@
     {
       "id": "1po17op",
       "title": "[Beast in Black] Blind and Frozen - My Romantic Cover - Anime AMV",
-      "score": 2,
+      "score": 1,
       "num_comments": 0,
       "created_utc": 1765889680,
       "author": "RockyRock777",
@@ -2495,7 +2699,7 @@
     {
       "id": "1pnlt7s",
       "title": "D.Gray-man 20th Anniversary Rewatch - Episode 72",
-      "score": 9,
+      "score": 11,
       "num_comments": 32,
       "created_utc": 1765839605,
       "author": "lC3",
@@ -2543,7 +2747,7 @@
     {
       "id": "1pniupo",
       "title": "Transformers Cybertron rewatch - Episode 45 discussion",
-      "score": 12,
+      "score": 13,
       "num_comments": 11,
       "created_utc": 1765832446,
       "author": "Nebresto",
@@ -2567,7 +2771,7 @@
     {
       "id": "1pn9k32",
       "title": "Debu to Love to Ayamachi to! • Plus-sized Misadventures in Love! - Episode 11 discussion",
-      "score": 31,
+      "score": 29,
       "num_comments": 23,
       "created_utc": 1765811003,
       "author": "AutoLovepon",
@@ -2579,8 +2783,8 @@
     {
       "id": "1pmg222",
       "title": "PSYREN Anime Announced (Teaser Visual)",
-      "score": 2412,
-      "num_comments": 371,
+      "score": 2416,
+      "num_comments": 372,
       "created_utc": 1765724417,
       "author": "zenzen_0",
       "permalink": "/r/anime/comments/1pmg222/psyren_anime_announced_teaser_visual/",
@@ -2591,7 +2795,7 @@
     {
       "id": "1pmredx",
       "title": "2 Sides of Agnes Tachyon [Uma Musume Shin Jidai no Tobira]",
-      "score": 467,
+      "score": 474,
       "num_comments": 13,
       "created_utc": 1765752431,
       "author": "shirakawafel",
@@ -2651,7 +2855,7 @@
     {
       "id": "1pnr95x",
       "title": "Need some recommendations, feels like I have run out of stuff to watch. I know I haven't though.",
-      "score": 2,
+      "score": 3,
       "num_comments": 31,
       "created_utc": 1765854461,
       "author": "Lwood9560",
@@ -2675,7 +2879,7 @@
     {
       "id": "1pn2p29",
       "title": "『Champignon no Majo (Champignon Witch)』Special PV ┋ January 2026",
-      "score": 54,
+      "score": 51,
       "num_comments": 1,
       "created_utc": 1765788617,
       "author": "inspyral",
@@ -2723,7 +2927,7 @@
     {
       "id": "1pnazx3",
       "title": "[REWATCH] Undead Unluck - Episode 15 Discussion",
-      "score": 15,
+      "score": 16,
       "num_comments": 19,
       "created_utc": 1765814422,
       "author": "italeteller",
@@ -2735,7 +2939,7 @@
     {
       "id": "1pnq1em",
       "title": "Are there vocal insert songs for My Gift Lvl 9999 Unlimited Gacha?",
-      "score": 3,
+      "score": 4,
       "num_comments": 2,
       "created_utc": 1765850991,
       "author": "Current_Smell1231",
@@ -2759,7 +2963,7 @@
     {
       "id": "1pn4l66",
       "title": "[See You Tomorrow at the Food Court] Blu-ray BOX Bonus: Interview with Director Kozuomi Koga and Script Writer Jukki Hanada",
-      "score": 29,
+      "score": 28,
       "num_comments": 1,
       "created_utc": 1765796287,
       "author": "salic428",
@@ -2771,7 +2975,7 @@
     {
       "id": "1pnhhdd",
       "title": "what’s your most fun anime to watch",
-      "score": 6,
+      "score": 4,
       "num_comments": 74,
       "created_utc": 1765829059,
       "author": "TommyLee777",
@@ -2819,7 +3023,7 @@
     {
       "id": "1pmgeqg",
       "title": "r/anime Karma Ranking & Discussion | Week 11 [Fall 2025]",
-      "score": 840,
+      "score": 850,
       "num_comments": 136,
       "created_utc": 1765725317,
       "author": "Abysswatcherbel",
@@ -2831,8 +3035,8 @@
     {
       "id": "1pmg4sw",
       "title": "Gachiakuta - Episode 23 discussion",
-      "score": 856,
-      "num_comments": 280,
+      "score": 863,
+      "num_comments": 282,
       "created_utc": 1765724604,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pmg4sw/gachiakuta_episode_23_discussion/",
@@ -2843,7 +3047,7 @@
     {
       "id": "1pmaxx7",
       "title": "\"Rascal Does Not Dream of a Dear Friend\" Movie Teaser Visual (Fall 2026)",
-      "score": 1761,
+      "score": 1774,
       "num_comments": 91,
       "created_utc": 1765707967,
       "author": "zenzen_0",
@@ -2867,7 +3071,7 @@
     {
       "id": "1pnckhd",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 18",
-      "score": 8,
+      "score": 6,
       "num_comments": 74,
       "created_utc": 1765817949,
       "author": "Holofan4life",
@@ -2879,7 +3083,7 @@
     {
       "id": "1pnqpfa",
       "title": "Having a bad week, may I have some Isekai slop/fantasy recommendations? Looking for ones within that 6.0 - 7.0 MAL score range",
-      "score": 0,
+      "score": 3,
       "num_comments": 25,
       "created_utc": 1765852887,
       "author": "Fiyah_Crotch",
@@ -2963,8 +3167,8 @@
     {
       "id": "1pmgjv3",
       "title": "One-Punch Man Season 3 - Episode 10 discussion",
-      "score": 372,
-      "num_comments": 336,
+      "score": 369,
+      "num_comments": 334,
       "created_utc": 1765725684,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pmgjv3/onepunch_man_season_3_episode_10_discussion/",
@@ -2975,7 +3179,7 @@
     {
       "id": "1pmdjvp",
       "title": "TV Anime【Oshi no Ko】 Season 3 Promotion CM | Begins airing January 14, 2026",
-      "score": 541,
+      "score": 539,
       "num_comments": 95,
       "created_utc": 1765717350,
       "author": "Task_Force-191",
@@ -2999,7 +3203,7 @@
     {
       "id": "1pn3ppt",
       "title": "Anime Questions, Recommendations, and Discussion - December 15, 2025",
-      "score": 11,
+      "score": 10,
       "num_comments": 218,
       "created_utc": 1765792856,
       "author": "AnimeMod",
@@ -3035,7 +3239,7 @@
     {
       "id": "1pmhity",
       "title": "One Piece - Episode 1153 discussion",
-      "score": 248,
+      "score": 246,
       "num_comments": 59,
       "created_utc": 1765728184,
       "author": "AutoLovepon",
@@ -3047,8 +3251,8 @@
     {
       "id": "1pm8spd",
       "title": "Umamusume: Cinderella Gray - Episode 22 discussion",
-      "score": 1047,
-      "num_comments": 322,
+      "score": 1048,
+      "num_comments": 323,
       "created_utc": 1765699403,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pm8spd/umamusume_cinderella_gray_episode_22_discussion/",
@@ -3059,7 +3263,7 @@
     {
       "id": "1pmq1oc",
       "title": "Frieren: Beyond Journey's End Rewatch Episode 7 Discussion",
-      "score": 72,
+      "score": 73,
       "num_comments": 58,
       "created_utc": 1765748968,
       "author": "TheDanubianCommunard",
@@ -3131,7 +3335,7 @@
     {
       "id": "1pmvn74",
       "title": "Oshi no Ko Rewatch - Season 1, Episode 3 Discussion",
-      "score": 24,
+      "score": 27,
       "num_comments": 18,
       "created_utc": 1765764413,
       "author": "Heda-of-Aincrad",
@@ -3143,7 +3347,7 @@
     {
       "id": "1pmbpig",
       "title": "Completely independent from any current events, I want to share the love for when J.C.Staff did one of my favourite short, brutal fights: Ha det bra! [Railgun T]",
-      "score": 340,
+      "score": 343,
       "num_comments": 70,
       "created_utc": 1765710922,
       "author": "zairaner",
@@ -3179,7 +3383,7 @@
     {
       "id": "1pmfgb5",
       "title": "Alma-chan wa Kazoku ni Naritai • Alma-chan Wants to Be a Family! - Episode 11 discussion",
-      "score": 153,
+      "score": 152,
       "num_comments": 62,
       "created_utc": 1765722803,
       "author": "AutoLovepon",
@@ -3191,7 +3395,7 @@
     {
       "id": "1pmfgcz",
       "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. • Dad is a Hero, Mom is a Spirit, I'm a Reincarnator - Episode 11 discussion",
-      "score": 135,
+      "score": 140,
       "num_comments": 306,
       "created_utc": 1765722807,
       "author": "AutoLovepon",
@@ -3203,7 +3407,7 @@
     {
       "id": "1pmg1qx",
       "title": "Psyren Anime Adaptation Announced",
-      "score": 125,
+      "score": 120,
       "num_comments": 6,
       "created_utc": 1765724398,
       "author": "Turbostrider27",
@@ -3249,18 +3453,6 @@
       "flair": "Discussion"
     },
     {
-      "id": "1pmoue8",
-      "title": "Toradora! Christmas Club Rewatch (2025) Episode 9 Discussion",
-      "score": 31,
-      "num_comments": 269,
-      "created_utc": 1765746005,
-      "author": "ChristmasClub-",
-      "permalink": "/r/anime/comments/1pmoue8/toradora_christmas_club_rewatch_2025_episode_9/",
-      "url": "https://www.reddit.com/r/anime/comments/1pmoue8/toradora_christmas_club_rewatch_2025_episode_9/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
       "id": "1pmd2w0",
       "title": "\"Reincarnated as a Dragon Hatchling\" updated main visual",
       "score": 150,
@@ -3273,10 +3465,22 @@
       "flair": "Official Media"
     },
     {
+      "id": "1pmoue8",
+      "title": "Toradora! Christmas Club Rewatch (2025) Episode 9 Discussion",
+      "score": 33,
+      "num_comments": 269,
+      "created_utc": 1765746005,
+      "author": "ChristmasClub-",
+      "permalink": "/r/anime/comments/1pmoue8/toradora_christmas_club_rewatch_2025_episode_9/",
+      "url": "https://www.reddit.com/r/anime/comments/1pmoue8/toradora_christmas_club_rewatch_2025_episode_9/",
+      "is_self": true,
+      "flair": "Rewatch"
+    },
+    {
       "id": "1pnlykg",
       "title": "it’s time anotha one",
       "score": 0,
-      "num_comments": 5,
+      "num_comments": 6,
       "created_utc": 1765839966,
       "author": "StruggleMassive6747",
       "permalink": "/r/anime/comments/1pnlykg/its_time_anotha_one/",
@@ -3285,21 +3489,9 @@
       "flair": "What to Watch?"
     },
     {
-      "id": "1pmgfvm",
-      "title": "Gachiakuta: A new visual for Fu is out",
-      "score": 87,
-      "num_comments": 12,
-      "created_utc": 1765725396,
-      "author": "Turbostrider27",
-      "permalink": "/r/anime/comments/1pmgfvm/gachiakuta_a_new_visual_for_fu_is_out/",
-      "url": "https://pbs.twimg.com/media/G78vJ92boAAy-li.jpg",
-      "is_self": false,
-      "flair": "Official Media"
-    },
-    {
       "id": "1pme5y7",
       "title": "Chanto Suenai Kyuuketsuki-chan • Li'l Miss Vampire Can't Suck Right - Episode 10 discussion",
-      "score": 123,
+      "score": 124,
       "num_comments": 27,
       "created_utc": 1765719203,
       "author": "AutoLovepon",
@@ -3307,6 +3499,18 @@
       "url": "https://www.reddit.com/r/anime/comments/1pme5y7/chanto_suenai_kyuuketsukichan_lil_miss_vampire/",
       "is_self": true,
       "flair": "Episode"
+    },
+    {
+      "id": "1pmgfvm",
+      "title": "Gachiakuta: A new visual for Fu is out",
+      "score": 90,
+      "num_comments": 12,
+      "created_utc": 1765725396,
+      "author": "Turbostrider27",
+      "permalink": "/r/anime/comments/1pmgfvm/gachiakuta_a_new_visual_for_fu_is_out/",
+      "url": "https://pbs.twimg.com/media/G78vJ92boAAy-li.jpg",
+      "is_self": false,
+      "flair": "Official Media"
     },
     {
       "id": "1pnmsc3",
@@ -3323,7 +3527,7 @@
     {
       "id": "1pn07qb",
       "title": "Just getting into anime!!",
-      "score": 6,
+      "score": 5,
       "num_comments": 42,
       "created_utc": 1765778884,
       "author": "Azbufkin",
@@ -3335,7 +3539,7 @@
     {
       "id": "1pmesel",
       "title": "Kikaijikake no Marie • Mechanical Marie - Episode 11 discussion",
-      "score": 103,
+      "score": 102,
       "num_comments": 46,
       "created_utc": 1765721004,
       "author": "AutoLovepon",
@@ -3347,7 +3551,7 @@
     {
       "id": "1pn2fwx",
       "title": "Help Identifying Obscure Anime (Iflix) — Small teen/Robot Sci‑Fi Giant modern world",
-      "score": 3,
+      "score": 5,
       "num_comments": 2,
       "created_utc": 1765787557,
       "author": "adobongchikin",
@@ -3359,7 +3563,7 @@
     {
       "id": "1pn2eq8",
       "title": "Help find anime please",
-      "score": 2,
+      "score": 4,
       "num_comments": 2,
       "created_utc": 1765787414,
       "author": "Upset-Mud99",
@@ -3371,7 +3575,7 @@
     {
       "id": "1pm6h7v",
       "title": "VERY Hot Take: Comparing Fan Animations to Official Animations is stupid.",
-      "score": 420,
+      "score": 418,
       "num_comments": 83,
       "created_utc": 1765690810,
       "author": "MajorRobology",
@@ -3395,7 +3599,7 @@
     {
       "id": "1pmroph",
       "title": "D.Gray-man 20th Anniversary Rewatch - Episode 71",
-      "score": 20,
+      "score": 17,
       "num_comments": 35,
       "created_utc": 1765753204,
       "author": "lC3",
@@ -3407,7 +3611,7 @@
     {
       "id": "1pm7h8z",
       "title": "Ace of the Diamond Act II Season 2 New Key Visual - Spring 2026 Release Date Confirmed",
-      "score": 320,
+      "score": 321,
       "num_comments": 34,
       "created_utc": 1765694345,
       "author": "MemoryNK",
@@ -3443,7 +3647,7 @@
     {
       "id": "1pmoug1",
       "title": "[Rewatch] Prison School - OVA Mad Wax",
-      "score": 20,
+      "score": 19,
       "num_comments": 117,
       "created_utc": 1765746007,
       "author": "sisoko2",
@@ -3455,7 +3659,7 @@
     {
       "id": "1pmouc0",
       "title": "[Rewatch] The Rose of Versailles - Episode 37 Discussion",
-      "score": 19,
+      "score": 20,
       "num_comments": 39,
       "created_utc": 1765746001,
       "author": "JollyGee29",
@@ -3467,7 +3671,7 @@
     {
       "id": "1pmlxej",
       "title": "What Have You Watched This Past Week That is NOT a Currently Airing Show? [December 14th, 2025]",
-      "score": 25,
+      "score": 26,
       "num_comments": 62,
       "created_utc": 1765738800,
       "author": "MetaThPr4h",
@@ -3528,7 +3732,7 @@
       "id": "1pniyd0",
       "title": "Just finished Attack on Titan after watching all the Narutos and Boruto.",
       "score": 0,
-      "num_comments": 16,
+      "num_comments": 14,
       "created_utc": 1765832730,
       "author": "Skinn2Win",
       "permalink": "/r/anime/comments/1pniyd0/just_finished_attack_on_titan_after_watching_all/",
@@ -3564,7 +3768,7 @@
       "id": "1pnhm5a",
       "title": "What are some angel x devil anime",
       "score": 0,
-      "num_comments": 13,
+      "num_comments": 14,
       "created_utc": 1765829370,
       "author": "MusicianPrimary5278",
       "permalink": "/r/anime/comments/1pnhm5a/what_are_some_angel_x_devil_anime/",
@@ -3576,7 +3780,7 @@
       "id": "1pnvmd0",
       "title": "Anime without fanservice or women sexualization?",
       "score": 0,
-      "num_comments": 73,
+      "num_comments": 74,
       "created_utc": 1765868791,
       "author": "Confusedas3ver",
       "permalink": "/r/anime/comments/1pnvmd0/anime_without_fanservice_or_women_sexualization/",
@@ -3587,7 +3791,7 @@
     {
       "id": "1pmvkx5",
       "title": "Any anime recommendations for what to watch next based on my current top 20?",
-      "score": 2,
+      "score": 3,
       "num_comments": 32,
       "created_utc": 1765764237,
       "author": "General_Package7436",
@@ -3599,7 +3803,7 @@
     {
       "id": "1pmxd2e",
       "title": "Are there any anime that releasedthis season that will be having 24 episodes and going into winter 2026?",
-      "score": 4,
+      "score": 5,
       "num_comments": 12,
       "created_utc": 1765769535,
       "author": "bannedandbroken",
@@ -3611,8 +3815,8 @@
     {
       "id": "1pn36ix",
       "title": "Help me find an anime",
-      "score": 0,
-      "num_comments": 1,
+      "score": 1,
+      "num_comments": 2,
       "created_utc": 1765790639,
       "author": "Outside_Profit_3889",
       "permalink": "/r/anime/comments/1pn36ix/help_me_find_an_anime/",
@@ -3659,7 +3863,7 @@
     {
       "id": "1pmlw8e",
       "title": "Anime for my old dad?",
-      "score": 11,
+      "score": 13,
       "num_comments": 41,
       "created_utc": 1765738722,
       "author": "MissFabulouss",
@@ -3779,7 +3983,7 @@
     {
       "id": "1pmb7ya",
       "title": "\"A Misanthrope Teaches a Class for Demi-Humans\" Main Trailer [2026.1.10 ON AIR]",
-      "score": 35,
+      "score": 37,
       "num_comments": 6,
       "created_utc": 1765709074,
       "author": "Task_Force-191",
@@ -3791,7 +3995,7 @@
     {
       "id": "1pmvg7f",
       "title": "Anime recommendations for me",
-      "score": 3,
+      "score": 2,
       "num_comments": 15,
       "created_utc": 1765763879,
       "author": "ComprehensiveTea7660",
@@ -3803,7 +4007,7 @@
     {
       "id": "1pm3ksx",
       "title": "Digimon Beatbreak - Episode 11 discussion",
-      "score": 133,
+      "score": 131,
       "num_comments": 41,
       "created_utc": 1765681403,
       "author": "AutoLovepon",
@@ -3815,7 +4019,7 @@
     {
       "id": "1plmqyv",
       "title": "Spy x Family Season 3 - Episode 11 discussion",
-      "score": 1238,
+      "score": 1246,
       "num_comments": 184,
       "created_utc": 1765636403,
       "author": "AutoLovepon",
@@ -3827,7 +4031,7 @@
     {
       "id": "1pmd3nz",
       "title": "\"Reincarnated as a Dragon Hatchling\" main trailer",
-      "score": 23,
+      "score": 22,
       "num_comments": 1,
       "created_utc": 1765715870,
       "author": "mr_beanoz",
@@ -3863,8 +4067,8 @@
     {
       "id": "1plh2tb",
       "title": "Boku no Hero Academia Final Season • My Hero Academia: Final Season - Episode 11 discussion",
-      "score": 3624,
-      "num_comments": 1053,
+      "score": 3625,
+      "num_comments": 1052,
       "created_utc": 1765616603,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1plh2tb/boku_no_hero_academia_final_season_my_hero/",
@@ -3875,7 +4079,7 @@
     {
       "id": "1pmqnp2",
       "title": "Light/dark motifs beautifully portrayed in the Chainsaw man Reze arc film [Spoilers]",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": 1765750524,
       "author": "Liiraye-Sama",
@@ -3923,7 +4127,7 @@
     {
       "id": "1pmx9x1",
       "title": "80s - 90s - 00s recommendation to watch?",
-      "score": 0,
+      "score": 3,
       "num_comments": 15,
       "created_utc": 1765769271,
       "author": "CurrencyCheap",
@@ -3983,7 +4187,7 @@
     {
       "id": "1plpjvu",
       "title": "Gnosia - Episode 10 discussion",
-      "score": 496,
+      "score": 505,
       "num_comments": 402,
       "created_utc": 1765643604,
       "author": "AutoLovepon",
@@ -4007,8 +4211,8 @@
     {
       "id": "1plqa2q",
       "title": "Ranma ½ (2024) Season 2 - Episode 11 discussion",
-      "score": 417,
-      "num_comments": 84,
+      "score": 421,
+      "num_comments": 86,
       "created_utc": 1765645407,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1plqa2q/ranma_½_2024_season_2_episode_11_discussion/",
@@ -4019,7 +4223,7 @@
     {
       "id": "1plkar9",
       "title": "“My hero academia” final chapter visual",
-      "score": 937,
+      "score": 934,
       "num_comments": 75,
       "created_utc": 1765629043,
       "author": "Putrid-Cupcake2005",
@@ -4043,7 +4247,7 @@
     {
       "id": "1plo3wd",
       "title": "Nageki no Bourei wa Intai shitai Season 2 • Let This Grieving Soul Retire Season 2 - Episode 24 discussion",
-      "score": 491,
+      "score": 490,
       "num_comments": 331,
       "created_utc": 1765640003,
       "author": "AutoLovepon",
@@ -4103,7 +4307,7 @@
     {
       "id": "1pmiymb",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 17",
-      "score": 5,
+      "score": 4,
       "num_comments": 104,
       "created_utc": 1765731620,
       "author": "Holofan4life",
@@ -4139,7 +4343,7 @@
     {
       "id": "1pljsm4",
       "title": "Sentenced to Be a Hero will debut on January 3 with a 60-minute first episode, and the show has added 2 more cast members!",
-      "score": 753,
+      "score": 756,
       "num_comments": 68,
       "created_utc": 1765627261,
       "author": "Putrid-Cupcake2005",
@@ -4163,8 +4367,8 @@
     {
       "id": "1ploj0r",
       "title": "Fumetsu no Anata e Season 3 • To Your Eternity Season 3 - Episode 11 discussion",
-      "score": 367,
-      "num_comments": 175,
+      "score": 371,
+      "num_comments": 176,
       "created_utc": 1765641084,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1ploj0r/fumetsu_no_anata_e_season_3_to_your_eternity/",
@@ -4175,8 +4379,8 @@
     {
       "id": "1plm424",
       "title": "Yasei no Last Boss ga Arawareta! • A Wild Last Boss Appeared! - Episode 12 discussion",
-      "score": 476,
-      "num_comments": 320,
+      "score": 482,
+      "num_comments": 321,
       "created_utc": 1765634603,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1plm424/yasei_no_last_boss_ga_arawareta_a_wild_last_boss/",
@@ -4187,8 +4391,8 @@
     {
       "id": "1plqa18",
       "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai • Tojima Wants to Be a Kamen Rider - Episode 11 discussion",
-      "score": 261,
-      "num_comments": 166,
+      "score": 262,
+      "num_comments": 168,
       "created_utc": 1765645404,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1plqa18/toujima_tanzaburou_wa_kamen_rider_ni_naritai/",
@@ -4212,7 +4416,7 @@
       "id": "1pn94ud",
       "title": "An Anime without anime?",
       "score": 0,
-      "num_comments": 90,
+      "num_comments": 91,
       "created_utc": 1765809977,
       "author": "Hosota",
       "permalink": "/r/anime/comments/1pn94ud/an_anime_without_anime/",
@@ -4223,8 +4427,8 @@
     {
       "id": "1pljuz3",
       "title": "\"Sentenced to Be a Hero\" New Key Visual",
-      "score": 535,
-      "num_comments": 36,
+      "score": 540,
+      "num_comments": 37,
       "created_utc": 1765627488,
       "author": "zenzen_0",
       "permalink": "/r/anime/comments/1pljuz3/sentenced_to_be_a_hero_new_key_visual/",
@@ -4247,7 +4451,7 @@
     {
       "id": "1plr019",
       "title": "Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me! - Episode 11 discussion",
-      "score": 189,
+      "score": 190,
       "num_comments": 50,
       "created_utc": 1765647203,
       "author": "AutoLovepon",
@@ -4259,7 +4463,7 @@
     {
       "id": "1pm8og8",
       "title": "Anime like Banana Fish and The Summer Hikaru Died?",
-      "score": 12,
+      "score": 13,
       "num_comments": 19,
       "created_utc": 1765698973,
       "author": "Naur_Regrets",
@@ -4271,7 +4475,7 @@
     {
       "id": "1pm0dsv",
       "title": "86 -finished, follow up, possible spoiler",
-      "score": 48,
+      "score": 49,
       "num_comments": 21,
       "created_utc": 1765671873,
       "author": "Dandi21091987",
@@ -4283,7 +4487,7 @@
     {
       "id": "1plv5zu",
       "title": "Japanese Animation TV Ranking, December 1-7",
-      "score": 87,
+      "score": 89,
       "num_comments": 8,
       "created_utc": 1765657709,
       "author": "Putrid-Cupcake2005",
@@ -4307,7 +4511,7 @@
     {
       "id": "1pltbjp",
       "title": "Kingdom Season 6 - Episode 11 discussion",
-      "score": 114,
+      "score": 118,
       "num_comments": 45,
       "created_utc": 1765652963,
       "author": "AutoLovepon",
@@ -4331,7 +4535,7 @@
     {
       "id": "1plle37",
       "title": "Demon Slayer: Infinity Castle part 1 finishes it's theatrical run in China with BO collection of 675 million yuan (approx. 96 million USD) with screening extensions rejected possibly due to the recent China-Japan tensions",
-      "score": 273,
+      "score": 270,
       "num_comments": 28,
       "created_utc": 1765632517,
       "author": "No_Name0_0",
@@ -4379,7 +4583,7 @@
     {
       "id": "1plotkf",
       "title": "Shuumatsu Touring • Touring After the Apocalypse - Episode 11 discussion",
-      "score": 166,
+      "score": 169,
       "num_comments": 62,
       "created_utc": 1765641803,
       "author": "AutoLovepon",
@@ -4391,7 +4595,7 @@
     {
       "id": "1plwewu",
       "title": "Frieren: Beyond Journey's End Rewatch Episode 6 Discussion",
-      "score": 57,
+      "score": 54,
       "num_comments": 58,
       "created_utc": 1765661002,
       "author": "TheDanubianCommunard",
@@ -4463,7 +4667,7 @@
     {
       "id": "1pm2e3b",
       "title": "SI-VIS: The Sound of Heroes - Episode 11 discussion",
-      "score": 17,
+      "score": 19,
       "num_comments": 7,
       "created_utc": 1765677804,
       "author": "AutoLovepon",
@@ -4487,7 +4691,7 @@
     {
       "id": "1plawc7",
       "title": "Spy x Family Season 3 New Visual",
-      "score": 1285,
+      "score": 1288,
       "num_comments": 59,
       "created_utc": 1765594823,
       "author": "Turbostrider27",
@@ -4499,8 +4703,8 @@
     {
       "id": "1pmepqy",
       "title": "[Music] What are some anime songs that were released recently that already makes you feel nostalgic?",
-      "score": 1,
-      "num_comments": 6,
+      "score": 2,
+      "num_comments": 7,
       "created_utc": 1765720815,
       "author": "RedNovaDay",
       "permalink": "/r/anime/comments/1pmepqy/music_what_are_some_anime_songs_that_were/",
@@ -4511,8 +4715,8 @@
     {
       "id": "1pmbi8f",
       "title": "Animes like ‘girl who leapt through time’ or ‘summer ghost’?",
-      "score": 4,
-      "num_comments": 13,
+      "score": 3,
+      "num_comments": 14,
       "created_utc": 1765710139,
       "author": "Western-Fuel1304",
       "permalink": "/r/anime/comments/1pmbi8f/animes_like_girl_who_leapt_through_time_or_summer/",
@@ -4535,7 +4739,7 @@
     {
       "id": "1pm180w",
       "title": "Oshi no Ko Rewatch - Season 1, Episode 2 Discussion",
-      "score": 18,
+      "score": 17,
       "num_comments": 29,
       "created_utc": 1765674293,
       "author": "Heda-of-Aincrad",
@@ -4547,7 +4751,7 @@
     {
       "id": "1pm1sjm",
       "title": "Kimi to Idol Precure♪ • You and Idol Precure♪ - Episode 44 discussion",
-      "score": 17,
+      "score": 18,
       "num_comments": 10,
       "created_utc": 1765676003,
       "author": "AutoLovepon",
@@ -4559,7 +4763,7 @@
     {
       "id": "1pm245x",
       "title": "What is the anime with the most absurd humor",
-      "score": 17,
+      "score": 14,
       "num_comments": 119,
       "created_utc": 1765676970,
       "author": "thenordianmap",
@@ -4571,7 +4775,7 @@
     {
       "id": "1plvw7c",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 8 Discussion",
-      "score": 35,
+      "score": 39,
       "num_comments": 510,
       "created_utc": 1765659610,
       "author": "ChristmasClub-",
@@ -4583,7 +4787,7 @@
     {
       "id": "1plnf4m",
       "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu • The Banished Court Magician Aims to Become the Strongest - Episode 11 discussion",
-      "score": 108,
+      "score": 107,
       "num_comments": 42,
       "created_utc": 1765638203,
       "author": "AutoLovepon",
@@ -4607,7 +4811,7 @@
     {
       "id": "1pm0bfd",
       "title": "Princession Orchestra - Episode 34 discussion",
-      "score": 19,
+      "score": 17,
       "num_comments": 16,
       "created_utc": 1765671684,
       "author": "AutoLovepon",
@@ -4619,7 +4823,7 @@
     {
       "id": "1pljsiq",
       "title": "\"Sentenced to Be a Hero\" Main PV",
-      "score": 146,
+      "score": 148,
       "num_comments": 3,
       "created_utc": 1765627254,
       "author": "zenzen_0",
@@ -4643,7 +4847,7 @@
     {
       "id": "1plkw6q",
       "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun • Inexpressive Kashiwada and Expressive Oota - Episode 11 discussion",
-      "score": 112,
+      "score": 114,
       "num_comments": 32,
       "created_utc": 1765631005,
       "author": "AutoLovepon",
@@ -4667,7 +4871,7 @@
     {
       "id": "1plmjt8",
       "title": "Patlabor EZY Anime to Be 8 Parts Long",
-      "score": 75,
+      "score": 76,
       "num_comments": 13,
       "created_utc": 1765635846,
       "author": "Turbostrider27",
@@ -4679,7 +4883,7 @@
     {
       "id": "1plkclu",
       "title": "Kekkon Yubiwa Monogatari Ⅱ • Tales of Wedding Rings Season 2 - Episode 11 discussion",
-      "score": 104,
+      "score": 108,
       "num_comments": 48,
       "created_utc": 1765629215,
       "author": "AutoLovepon",
@@ -4751,7 +4955,7 @@
     {
       "id": "1pm1y62",
       "title": "Top 10 animes to watch for newcomers",
-      "score": 5,
+      "score": 7,
       "num_comments": 32,
       "created_utc": 1765676472,
       "author": "Quick-Turnover-7757",
@@ -4847,7 +5051,7 @@
     {
       "id": "1plg9ln",
       "title": "\"Crayon Shin-chan the Movie: Strange and Mysterious! My Yokai Vacation\" teaser visual",
-      "score": 123,
+      "score": 124,
       "num_comments": 8,
       "created_utc": 1765613308,
       "author": "mr_beanoz",
@@ -4931,7 +5135,7 @@
     {
       "id": "1plw8fu",
       "title": "Koupen Chan - Episode 36 discussion",
-      "score": 5,
+      "score": 9,
       "num_comments": 2,
       "created_utc": 1765660524,
       "author": "AutoLovepon",
@@ -4943,7 +5147,7 @@
     {
       "id": "1ploqkt",
       "title": "[REWATCH] Undead Unluck - Episode 13 Discussion",
-      "score": 19,
+      "score": 16,
       "num_comments": 33,
       "created_utc": 1765641606,
       "author": "italeteller",
@@ -5015,7 +5219,7 @@
     {
       "id": "1plhpt1",
       "title": "So, I ended up watching Oreimo Seasons 1 & 2 and...",
-      "score": 41,
+      "score": 38,
       "num_comments": 50,
       "created_utc": 1765619204,
       "author": "Adam_The_Actor",
@@ -5027,7 +5231,7 @@
     {
       "id": "1pm66c3",
       "title": "Kinda new but not really",
-      "score": 0,
+      "score": 2,
       "num_comments": 12,
       "created_utc": 1765689765,
       "author": "Ok-Being-4074",
@@ -5087,7 +5291,7 @@
     {
       "id": "1plwa5e",
       "title": "What is your favorite anime?",
-      "score": 3,
+      "score": 4,
       "num_comments": 63,
       "created_utc": 1765660646,
       "author": "Fit_Conference9056",
@@ -5111,7 +5315,7 @@
     {
       "id": "1pluv6h",
       "title": "Heika Watashi wo Wasurete Kudasai • Forget That Night, Your Majesty - Episode 9 discussion",
-      "score": 2,
+      "score": 1,
       "num_comments": 1,
       "created_utc": 1765656924,
       "author": "AutoLovepon",
@@ -5147,7 +5351,7 @@
     {
       "id": "1pkyimc",
       "title": "Sanda - Episode 11 discussion",
-      "score": 339,
+      "score": 342,
       "num_comments": 57,
       "created_utc": 1765562243,
       "author": "AutoLovepon",
@@ -5171,7 +5375,7 @@
     {
       "id": "1plp9w4",
       "title": "Fate stay Night Unlimted Unlimited Blade works: The Deen Series Fancut",
-      "score": 5,
+      "score": 4,
       "num_comments": 5,
       "created_utc": 1765642927,
       "author": "chevalierkraken",
@@ -5183,7 +5387,7 @@
     {
       "id": "1pkwcth",
       "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka • May I Ask For One Final Thing? - Episode 12 discussion",
-      "score": 412,
+      "score": 420,
       "num_comments": 223,
       "created_utc": 1765557203,
       "author": "AutoLovepon",
@@ -5207,7 +5411,7 @@
     {
       "id": "1pkuq38",
       "title": "May I Ask For One Final Thing? New Visual",
-      "score": 435,
+      "score": 438,
       "num_comments": 30,
       "created_utc": 1765553314,
       "author": "Turbostrider27",
@@ -5219,7 +5423,7 @@
     {
       "id": "1plvf34",
       "title": "Koupen Chan - Episode 35 discussion",
-      "score": 2,
+      "score": 4,
       "num_comments": 2,
       "created_utc": 1765658364,
       "author": "AutoLovepon",
@@ -5231,7 +5435,7 @@
     {
       "id": "1pl8a8m",
       "title": "Oshi no Ko Rewatch - Season 1, Episode 1 Discussion",
-      "score": 80,
+      "score": 76,
       "num_comments": 55,
       "created_utc": 1765587064,
       "author": "Heda-of-Aincrad",
@@ -5279,7 +5483,7 @@
     {
       "id": "1plhxg2",
       "title": "Anime Questions, Recommendations, and Discussion - December 13, 2025",
-      "score": 12,
+      "score": 13,
       "num_comments": 178,
       "created_utc": 1765620062,
       "author": "AnimeMod",
@@ -5303,7 +5507,7 @@
     {
       "id": "1pknbcd",
       "title": "My Hero Academia Final Season Epilogue Visual",
-      "score": 1067,
+      "score": 1074,
       "num_comments": 79,
       "created_utc": 1765530076,
       "author": "Turbostrider27",
@@ -5327,7 +5531,7 @@
     {
       "id": "1pku662",
       "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift Mugen Gacha de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & Zamaa! Shimasu! • My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! - Episode 11 discussion",
-      "score": 267,
+      "score": 269,
       "num_comments": 274,
       "created_utc": 1765551974,
       "author": "AutoLovepon",
@@ -5339,7 +5543,7 @@
     {
       "id": "1pkp017",
       "title": "U-NEXT, One of the biggest Japanese Streaming platforms, reveals their \"Top 10 Most Watched Anime Of 2025\".",
-      "score": 528,
+      "score": 521,
       "num_comments": 89,
       "created_utc": 1765536739,
       "author": "Electrical_Chance991",
@@ -5375,7 +5579,7 @@
     {
       "id": "1pl3b4u",
       "title": "Frieren: Beyond Journey's End Rewatch Episode 5 Discussion",
-      "score": 67,
+      "score": 68,
       "num_comments": 64,
       "created_utc": 1765573896,
       "author": "TheDanubianCommunard",
@@ -5387,7 +5591,7 @@
     {
       "id": "1pltmix",
       "title": "Looking for New Year episode for teens",
-      "score": 0,
+      "score": 1,
       "num_comments": 27,
       "created_utc": 1765653734,
       "author": "MyNewPhilosophy",
@@ -5411,7 +5615,7 @@
     {
       "id": "1plkca7",
       "title": "Meitantei Conan • Case Closed - Episode 1185 discussion",
-      "score": 3,
+      "score": 4,
       "num_comments": 8,
       "created_utc": 1765629185,
       "author": "AutoLovepon",
@@ -5471,7 +5675,7 @@
     {
       "id": "1pknbtp",
       "title": "ROLL OVER AND DIE New Key Visual",
-      "score": 385,
+      "score": 387,
       "num_comments": 55,
       "created_utc": 1765530130,
       "author": "zenzen_0",
@@ -5495,7 +5699,7 @@
     {
       "id": "1pldswk",
       "title": "The Dark History of the Reincarnated Villainess",
-      "score": 6,
+      "score": 9,
       "num_comments": 4,
       "created_utc": 1765604174,
       "author": "Korynna",
@@ -5531,7 +5735,7 @@
     {
       "id": "1pkqbrd",
       "title": "\"You and I Are Polar Opposites\" 4th Trailer｜Premieres January 2026!",
-      "score": 192,
+      "score": 193,
       "num_comments": 19,
       "created_utc": 1765541399,
       "author": "Task_Force-191",
@@ -5543,7 +5747,7 @@
     {
       "id": "1pkw1wc",
       "title": "Watari-kun no xx ga Houkai Sunzen • Watari-kun's ****** Is About to Collapse - Episode 24 discussion",
-      "score": 87,
+      "score": 85,
       "num_comments": 47,
       "created_utc": 1765556484,
       "author": "AutoLovepon",
@@ -5555,7 +5759,7 @@
     {
       "id": "1pl32uu",
       "title": "The Most Surprising Isekai of the Year? | A Wild Last Boss Appeared",
-      "score": 32,
+      "score": 34,
       "num_comments": 15,
       "created_utc": 1765573325,
       "author": "UsmacX",
@@ -5603,7 +5807,7 @@
     {
       "id": "1plau73",
       "title": "Hyakushou Kizoku Season 3 • Hyakusho Kizoku-the farmer's days Season 3 - Episode 39 discussion",
-      "score": 11,
+      "score": 12,
       "num_comments": 1,
       "created_utc": 1765594644,
       "author": "AutoLovepon",
@@ -5627,7 +5831,7 @@
     {
       "id": "1pl30yy",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 7 Discussion",
-      "score": 26,
+      "score": 30,
       "num_comments": 300,
       "created_utc": 1765573203,
       "author": "ChristmasClub-",
@@ -5651,7 +5855,7 @@
     {
       "id": "1pl5uij",
       "title": "D.Gray-man 20th Anniversary Rewatch - Episode 69",
-      "score": 19,
+      "score": 17,
       "num_comments": 50,
       "created_utc": 1765580401,
       "author": "lC3",
@@ -5687,7 +5891,7 @@
     {
       "id": "1pkt648",
       "title": "I drew the three main characters from the hyper-obscure 1986 anime Girls Detective Club",
-      "score": 66,
+      "score": 68,
       "num_comments": 10,
       "created_utc": 1765549512,
       "author": "Training_Penalty7047",
@@ -5699,7 +5903,7 @@
     {
       "id": "1pl337r",
       "title": "[Rewatch] The Rose of Versailles - Episode 35 Discussion",
-      "score": 22,
+      "score": 21,
       "num_comments": 39,
       "created_utc": 1765573348,
       "author": "Pixelsabre",
@@ -5711,7 +5915,7 @@
     {
       "id": "1pkn6zl",
       "title": "New Cat's Eye visual",
-      "score": 162,
+      "score": 161,
       "num_comments": 14,
       "created_utc": 1765529606,
       "author": "Putrid-Cupcake2005",
@@ -5735,8 +5939,8 @@
     {
       "id": "1pkuugp",
       "title": "Tougen Anki - Episode 22 discussion",
-      "score": 41,
-      "num_comments": 85,
+      "score": 44,
+      "num_comments": 86,
       "created_utc": 1765553603,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pkuugp/tougen_anki_episode_22_discussion/",
@@ -5759,7 +5963,7 @@
     {
       "id": "1pknvpb",
       "title": "High School! Kimengumi (2026) Main Visual",
-      "score": 107,
+      "score": 110,
       "num_comments": 12,
       "created_utc": 1765532402,
       "author": "zenzen_0",
@@ -5819,7 +6023,7 @@
     {
       "id": "1pkvlid",
       "title": "Shabake - Episode 11 discussion",
-      "score": 35,
+      "score": 34,
       "num_comments": 8,
       "created_utc": 1765555403,
       "author": "AutoLovepon",
@@ -5843,7 +6047,7 @@
     {
       "id": "1pl785g",
       "title": "Naruto Part 1 \"Anime Original Episodes\" rewatch week 15: Movie 3, OVA 5",
-      "score": 7,
+      "score": 6,
       "num_comments": 2,
       "created_utc": 1765584120,
       "author": "mr_beanoz",
@@ -5855,7 +6059,7 @@
     {
       "id": "1pldz9d",
       "title": "What to watch after Evangelion?",
-      "score": 2,
+      "score": 4,
       "num_comments": 37,
       "created_utc": 1765604792,
       "author": "No_Frame_1789",
@@ -5867,7 +6071,7 @@
     {
       "id": "1pl31lm",
       "title": "Transformers Cybertron rewatch - Episode 42 discussion",
-      "score": 11,
+      "score": 9,
       "num_comments": 12,
       "created_utc": 1765573242,
       "author": "Nebresto",
@@ -5879,7 +6083,7 @@
     {
       "id": "1pkoyy7",
       "title": "\"Yamishibai\" season 16 key visual",
-      "score": 65,
+      "score": 63,
       "num_comments": 5,
       "created_utc": 1765536623,
       "author": "mr_beanoz",
@@ -5975,7 +6179,7 @@
     {
       "id": "1pkqaxy",
       "title": "[Official MV] “I Like Myself.” (Short ver.) – HoneyWorks / Kaguya (cv. Yuuko Natsuyoshi) from Cosmic Princess Kaguya!",
-      "score": 37,
+      "score": 32,
       "num_comments": 1,
       "created_utc": 1765541323,
       "author": "Task_Force-191",
@@ -6047,7 +6251,7 @@
     {
       "id": "1pkjiuj",
       "title": "World Trigger, Where Have You Been?",
-      "score": 104,
+      "score": 101,
       "num_comments": 34,
       "created_utc": 1765516029,
       "author": "Accomplished-Pay3054",
@@ -6071,7 +6275,7 @@
     {
       "id": "1pknd0o",
       "title": "Roll Over and Die Anime's New Video Previews",
-      "score": 44,
+      "score": 40,
       "num_comments": 1,
       "created_utc": 1765530263,
       "author": "Putrid-Cupcake2005",
@@ -6131,7 +6335,7 @@
     {
       "id": "1pkmi6y",
       "title": "Kunon the Sorcerer Can See Anime Reveals Main Promo Video",
-      "score": 37,
+      "score": 39,
       "num_comments": 10,
       "created_utc": 1765526746,
       "author": "Putrid-Cupcake2005",
@@ -6143,7 +6347,7 @@
     {
       "id": "1pl6w9o",
       "title": "What is an anime with Good epic fight scenes but low stakes",
-      "score": 2,
+      "score": 3,
       "num_comments": 53,
       "created_utc": 1765583238,
       "author": "masiha97",
@@ -6155,7 +6359,7 @@
     {
       "id": "1pl10f7",
       "title": "Has there been any official announcement for \"A Wild Last Boss Appeared\" episode count?",
-      "score": 6,
+      "score": 2,
       "num_comments": 12,
       "created_utc": 1765568208,
       "author": "42tfish",
@@ -6167,7 +6371,7 @@
     {
       "id": "1pkwymz",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 15",
-      "score": 7,
+      "score": 5,
       "num_comments": 88,
       "created_utc": 1765558626,
       "author": "Holofan4life",
@@ -6179,7 +6383,7 @@
     {
       "id": "1pkp4lc",
       "title": "The Lenticulars - Episode 7 discussion",
-      "score": 17,
+      "score": 15,
       "num_comments": 6,
       "created_utc": 1765537223,
       "author": "AutoLovepon",
@@ -6191,7 +6395,7 @@
     {
       "id": "1pjyzaw",
       "title": "Watashi wo Tabetai, Hitodenashi • This Monster Wants to Eat Me - Episode 11 discussion",
-      "score": 708,
+      "score": 703,
       "num_comments": 271,
       "created_utc": 1765463604,
       "author": "AutoLovepon",
@@ -6203,7 +6407,7 @@
     {
       "id": "1pkpeb9",
       "title": "Chitose-kun wa Ramune Bin no Naka • Chitose Is in the Ramune Bottle - Episode 8 - Preview Images and Synopsis",
-      "score": 13,
+      "score": 15,
       "num_comments": 1,
       "created_utc": 1765538189,
       "author": "noctaviann",
@@ -6227,7 +6431,7 @@
     {
       "id": "1pkri3y",
       "title": "Binge watchers, what’s on your plan to watch list from this season?",
-      "score": 8,
+      "score": 9,
       "num_comments": 17,
       "created_utc": 1765545044,
       "author": "RedNovaDay",
@@ -6239,7 +6443,7 @@
     {
       "id": "1pl06y5",
       "title": "Beyblade X - Episode 107 discussion",
-      "score": 3,
+      "score": 1,
       "num_comments": 1,
       "created_utc": 1765566203,
       "author": "AutoLovepon",
@@ -6275,8 +6479,8 @@
     {
       "id": "1pjkm87",
       "title": "Gainax is officially dead",
-      "score": 5235,
-      "num_comments": 426,
+      "score": 5240,
+      "num_comments": 429,
       "created_utc": 1765416146,
       "author": "StrongXV",
       "permalink": "/r/anime/comments/1pjkm87/gainax_is_officially_dead/",
@@ -6287,7 +6491,7 @@
     {
       "id": "1pk6tdw",
       "title": "Makima from chainsawman fan art (by me)",
-      "score": 164,
+      "score": 166,
       "num_comments": 15,
       "created_utc": 1765481960,
       "author": "Top-Competition-277",
@@ -6299,7 +6503,7 @@
     {
       "id": "1pjugds",
       "title": "One-Punch Man Season 3 Episode 10 Preview Images",
-      "score": 800,
+      "score": 797,
       "num_comments": 139,
       "created_utc": 1765449612,
       "author": "krsy123",
@@ -6311,7 +6515,7 @@
     {
       "id": "1pko7md",
       "title": "Anime Questions, Recommendations, and Discussion - December 12, 2025",
-      "score": 11,
+      "score": 10,
       "num_comments": 144,
       "created_utc": 1765533679,
       "author": "AnimeMod",
@@ -6335,7 +6539,7 @@
     {
       "id": "1pkrupe",
       "title": "Heika Watashi wo Wasurete Kudasai • Forget That Night, Your Majesty - Episode 8 discussion",
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "created_utc": 1765546044,
       "author": "AutoLovepon",
@@ -6347,7 +6551,7 @@
     {
       "id": "1pkq4ng",
       "title": "Looking for shows with mcs who have very unique powers / use their powers in a creative way",
-      "score": 5,
+      "score": 4,
       "num_comments": 48,
       "created_utc": 1765540772,
       "author": "BenTheBobCutLover",
@@ -6359,7 +6563,7 @@
     {
       "id": "1pk91gu",
       "title": "Frieren: Beyond Journey's End Rewatch Episode 4 Discussion",
-      "score": 96,
+      "score": 94,
       "num_comments": 66,
       "created_utc": 1765487288,
       "author": "TheDanubianCommunard",
@@ -6371,8 +6575,8 @@
     {
       "id": "1pk17h2",
       "title": "Towa no Yugure • Dusk Beyond the End of the World - Episode 11 discussion",
-      "score": 226,
-      "num_comments": 250,
+      "score": 224,
+      "num_comments": 253,
       "created_utc": 1765469007,
       "author": "AutoLovepon",
       "permalink": "/r/anime/comments/1pk17h2/towa_no_yugure_dusk_beyond_the_end_of_the_world/",
@@ -6384,7 +6588,7 @@
       "id": "1pkd3ay",
       "title": "Casual Discussion Fridays - Week of December 12, 2025",
       "score": 49,
-      "num_comments": 4224,
+      "num_comments": 4412,
       "created_utc": 1765497632,
       "author": "AutoModerator",
       "permalink": "/r/anime/comments/1pkd3ay/casual_discussion_fridays_week_of_december_12_2025/",
@@ -6395,7 +6599,7 @@
     {
       "id": "1pk2rqi",
       "title": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! • Pass the Monster Meat, Milady! - Episode 11 discussion",
-      "score": 181,
+      "score": 178,
       "num_comments": 53,
       "created_utc": 1765472603,
       "author": "AutoLovepon",
@@ -6419,7 +6623,7 @@
     {
       "id": "1pkoddi",
       "title": "Shoji Kawamori's Labyrinth film has revealed 18 more cast",
-      "score": 6,
+      "score": 8,
       "num_comments": 2,
       "created_utc": 1765534315,
       "author": "Putrid-Cupcake2005",
@@ -6443,7 +6647,7 @@
     {
       "id": "1pkmqqv",
       "title": "“Anyway i’m falling in love with you” 2nd season main PV",
-      "score": 8,
+      "score": 9,
       "num_comments": 29,
       "created_utc": 1765527708,
       "author": "Putrid-Cupcake2005",
@@ -6467,7 +6671,7 @@
     {
       "id": "1pjya6e",
       "title": "Bukiyou na Senpai. • My Awkward Senpai - Episode 11 discussion",
-      "score": 252,
+      "score": 249,
       "num_comments": 59,
       "created_utc": 1765461803,
       "author": "AutoLovepon",
@@ -6503,7 +6707,7 @@
     {
       "id": "1pkegz5",
       "title": "REMINDER: Oshi no Ko Rewatch begins in one day!",
-      "score": 24,
+      "score": 26,
       "num_comments": 17,
       "created_utc": 1765501413,
       "author": "Heda-of-Aincrad",
@@ -6515,7 +6719,7 @@
     {
       "id": "1pk1zt9",
       "title": "Futari Solo Camp • Solo Camping for Two - Episode 23 discussion",
-      "score": 109,
+      "score": 110,
       "num_comments": 46,
       "created_utc": 1765470804,
       "author": "AutoLovepon",
@@ -6551,7 +6755,7 @@
     {
       "id": "1pjzqcu",
       "title": "WataTabe Episode 11 Special ED by Yui Ishikawa (Shiori)",
-      "score": 107,
+      "score": 105,
       "num_comments": 6,
       "created_utc": 1765465467,
       "author": "RGBkano",
@@ -6635,7 +6839,7 @@
     {
       "id": "1pkbrbd",
       "title": "D.Gray-man 20th Anniversary Rewatch - Episode 68",
-      "score": 24,
+      "score": 23,
       "num_comments": 41,
       "created_utc": 1765494040,
       "author": "lC3",
@@ -6659,7 +6863,7 @@
     {
       "id": "1pk8ujg",
       "title": "[Rewatch] The Rose of Versailles - Episode 34 Discussion",
-      "score": 31,
+      "score": 28,
       "num_comments": 44,
       "created_utc": 1765486830,
       "author": "Pixelsabre",
@@ -6707,7 +6911,7 @@
     {
       "id": "1pjaffw",
       "title": "Mugi commits a war crime [K-on]",
-      "score": 2603,
+      "score": 2611,
       "num_comments": 115,
       "created_utc": 1765391469,
       "author": "Baaasbas",
@@ -6719,7 +6923,7 @@
     {
       "id": "1pkn0ao",
       "title": "Scarlet (2025) Review - LIGHT SPOILER",
-      "score": 1,
+      "score": 2,
       "num_comments": 1,
       "created_utc": 1765528796,
       "author": "TheDancingJevil",
@@ -6743,7 +6947,7 @@
     {
       "id": "1pk14am",
       "title": "[REWATCH] Undead Unluck - Episode 11 Discussion",
-      "score": 41,
+      "score": 39,
       "num_comments": 39,
       "created_utc": 1765468812,
       "author": "italeteller",
@@ -6779,7 +6983,7 @@
     {
       "id": "1pk5a04",
       "title": "Bluelock C Man city Volume cover by me.",
-      "score": 21,
+      "score": 20,
       "num_comments": 5,
       "created_utc": 1765478390,
       "author": "Maxfilly1",
@@ -6791,7 +6995,7 @@
     {
       "id": "1pkbymv",
       "title": "My favorite goofy anime quotes of all time",
-      "score": 9,
+      "score": 8,
       "num_comments": 16,
       "created_utc": 1765494570,
       "author": "WolfTamer99",
@@ -6827,7 +7031,7 @@
     {
       "id": "1pjsxp0",
       "title": "\"Snowball Earth\" Teaser Visual",
-      "score": 113,
+      "score": 115,
       "num_comments": 21,
       "created_utc": 1765443604,
       "author": "zenzen_0",
@@ -6887,7 +7091,7 @@
     {
       "id": "1pk8ur0",
       "title": "Transformers Cybertron rewatch - Episode 41 discussion",
-      "score": 14,
+      "score": 12,
       "num_comments": 16,
       "created_utc": 1765486842,
       "author": "Nebresto",
@@ -6935,7 +7139,7 @@
     {
       "id": "1pjmpb9",
       "title": "Black Torch New Visual",
-      "score": 203,
+      "score": 200,
       "num_comments": 25,
       "created_utc": 1765422038,
       "author": "Turbostrider27",
@@ -6971,7 +7175,7 @@
     {
       "id": "1pkkcpy",
       "title": "Looking for some new anime series",
-      "score": 1,
+      "score": 3,
       "num_comments": 24,
       "created_utc": 1765518812,
       "author": "Ill-Astronaut-1754",
@@ -6983,7 +7187,7 @@
     {
       "id": "1pkc8m7",
       "title": "Nmeneko - Episode 26 discussion",
-      "score": 2,
+      "score": 5,
       "num_comments": 2,
       "created_utc": 1765495284,
       "author": "AutoLovepon",
@@ -7007,7 +7211,7 @@
     {
       "id": "1pjx8i2",
       "title": "Ganso! Bandori-chan • GANSO! BanG Dream Chan - Episode 11 discussion",
-      "score": 16,
+      "score": 18,
       "num_comments": 3,
       "created_utc": 1765458924,
       "author": "AutoLovepon",
@@ -7019,7 +7223,7 @@
     {
       "id": "1pj4jpj",
       "title": "'This Monster Wants to Eat Me' - New Character Visuals",
-      "score": 1085,
+      "score": 1087,
       "num_comments": 55,
       "created_utc": 1765378359,
       "author": "krsy123",
@@ -7043,7 +7247,7 @@
     {
       "id": "1pkj0qz",
       "title": "Any good anime suggestions i should watch?",
-      "score": 1,
+      "score": 0,
       "num_comments": 25,
       "created_utc": 1765514452,
       "author": "No-Mortgage4154",
@@ -7055,7 +7259,7 @@
     {
       "id": "1pjmqe2",
       "title": "\"Black Torch\" Main PV",
-      "score": 95,
+      "score": 93,
       "num_comments": 9,
       "created_utc": 1765422117,
       "author": "RGBkano",
@@ -7079,7 +7283,7 @@
     {
       "id": "1pj5xwa",
       "title": "World Trigger Reboot will start adapting from the first chapter of the original manga and is a \"completely new production\" project. Production will continue with Toei Animation.",
-      "score": 671,
+      "score": 676,
       "num_comments": 216,
       "created_utc": 1765381663,
       "author": "Turbostrider27",
@@ -7115,7 +7319,7 @@
     {
       "id": "1pk2ou1",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 14",
-      "score": 6,
+      "score": 4,
       "num_comments": 100,
       "created_utc": 1765472435,
       "author": "Holofan4life",
@@ -7139,7 +7343,7 @@
     {
       "id": "1pjljis",
       "title": "Dara-san of Reiwa Anime Announced",
-      "score": 78,
+      "score": 74,
       "num_comments": 16,
       "created_utc": 1765418757,
       "author": "Turbostrider27",
@@ -7151,7 +7355,7 @@
     {
       "id": "1pjs7z5",
       "title": "‘Planetes’ Blu-Ray Review: A Gem Of A Hard Science-Fiction Anime",
-      "score": 23,
+      "score": 26,
       "num_comments": 6,
       "created_utc": 1765440683,
       "author": "Cacophanus",
@@ -7175,7 +7379,7 @@
     {
       "id": "1pit2ag",
       "title": "I thought of drawing reze from chainsaw man",
-      "score": 3596,
+      "score": 3599,
       "num_comments": 86,
       "created_utc": 1765340028,
       "author": "Mario_Cow",
@@ -7187,7 +7391,7 @@
     {
       "id": "1pjtuhd",
       "title": "Anime Questions, Recommendations, and Discussion - December 11, 2025",
-      "score": 14,
+      "score": 15,
       "num_comments": 130,
       "created_utc": 1765447265,
       "author": "AnimeMod",
@@ -7223,7 +7427,7 @@
     {
       "id": "1pjw278",
       "title": "Monster Strike: Deadverse Reloaded - Episode 2 discussion",
-      "score": 7,
+      "score": 6,
       "num_comments": 6,
       "created_utc": 1765455325,
       "author": "AutoLovepon",
@@ -7271,7 +7475,7 @@
     {
       "id": "1pj9evh",
       "title": "BEEG Cat means BEEG trouble. [The Weakest Tamer Began a Journey to Pick Up Trash ]",
-      "score": 195,
+      "score": 191,
       "num_comments": 29,
       "created_utc": 1765389319,
       "author": "DatUpboatGuy",
@@ -7283,7 +7487,7 @@
     {
       "id": "1pixxds",
       "title": "\"NEEDY GIRL OVERDOSE\" New Key Visual",
-      "score": 829,
+      "score": 832,
       "num_comments": 32,
       "created_utc": 1765357274,
       "author": "zenzen_0",
@@ -7295,7 +7499,7 @@
     {
       "id": "1pj3bf1",
       "title": "Family Road Trip From Hell [Gachiakuta]",
-      "score": 307,
+      "score": 310,
       "num_comments": 24,
       "created_utc": 1765375306,
       "author": "Shimmering-Sky",
@@ -7307,7 +7511,7 @@
     {
       "id": "1pk8v9v",
       "title": "Where is this quote from?",
-      "score": 0,
+      "score": 1,
       "num_comments": 3,
       "created_utc": 1765486873,
       "author": "Blackeshadow",
@@ -7319,7 +7523,7 @@
     {
       "id": "1pjz86h",
       "title": "Daicon III & IV Annotations?",
-      "score": 4,
+      "score": 3,
       "num_comments": 1,
       "created_utc": 1765464240,
       "author": "hunterslullaby",
@@ -7331,7 +7535,7 @@
     {
       "id": "1pjldlq",
       "title": "After the Rain is very underrated",
-      "score": 31,
+      "score": 28,
       "num_comments": 15,
       "created_utc": 1765418303,
       "author": "ResidentWaifu",
@@ -7391,7 +7595,7 @@
     {
       "id": "1pj6cxk",
       "title": "Tensei Akujo no Kuro Rekishi • The Dark History of the Reincarnated Villainess - Episode 10 discussion",
-      "score": 160,
+      "score": 159,
       "num_comments": 72,
       "created_utc": 1765382603,
       "author": "AutoLovepon",
@@ -7403,7 +7607,7 @@
     {
       "id": "1pj59pp",
       "title": "Wandance - Episode 10 discussion",
-      "score": 162,
+      "score": 157,
       "num_comments": 60,
       "created_utc": 1765380084,
       "author": "AutoLovepon",
@@ -7427,7 +7631,7 @@
     {
       "id": "1pjvp6q",
       "title": "Finished re-watching Free! series… I missed the wonderful dive and I will miss it again…",
-      "score": 2,
+      "score": 3,
       "num_comments": 1,
       "created_utc": 1765454141,
       "author": "Suitable_Tutor6006",
@@ -7440,7 +7644,7 @@
       "id": "1pk9cjr",
       "title": "Finding a certain video of a black haired woman comically screaming internally at a dinner date",
       "score": 0,
-      "num_comments": 10,
+      "num_comments": 9,
       "created_utc": 1765488030,
       "author": "SuuSuraimu",
       "permalink": "/r/anime/comments/1pk9cjr/finding_a_certain_video_of_a_black_haired_woman/",
@@ -7451,7 +7655,7 @@
     {
       "id": "1pjf6mj",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 5 Discussion",
-      "score": 41,
+      "score": 38,
       "num_comments": 247,
       "created_utc": 1765402244,
       "author": "ChristmasClub-",
@@ -7463,7 +7667,7 @@
     {
       "id": "1pj211t",
       "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattan da ga • Hero Without a Class: Who Even Needs Skills?! - Episode 12 discussion",
-      "score": 177,
+      "score": 179,
       "num_comments": 182,
       "created_utc": 1765371792,
       "author": "AutoLovepon",
@@ -7523,7 +7727,7 @@
     {
       "id": "1pj7sue",
       "title": "Let’s Play: Quest Darake no My Life • Let’s Play - Episode 11 discussion",
-      "score": 59,
+      "score": 55,
       "num_comments": 41,
       "created_utc": 1765385843,
       "author": "AutoLovepon",
@@ -7535,8 +7739,8 @@
     {
       "id": "1pi8p9z",
       "title": "My wife's Bomb Devil cosplay [Chainsaw Man]",
-      "score": 7459,
-      "num_comments": 140,
+      "score": 7463,
+      "num_comments": 142,
       "created_utc": 1765290251,
       "author": "KrankyPenguin",
       "permalink": "/r/anime/comments/1pi8p9z/my_wifes_bomb_devil_cosplay_chainsaw_man/",
@@ -7547,7 +7751,7 @@
     {
       "id": "1pjya89",
       "title": "Nmeneko - Episode 25 discussion",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "created_utc": 1765461807,
       "author": "AutoLovepon",
@@ -7595,7 +7799,7 @@
     {
       "id": "1pjtfk8",
       "title": "PetitCure: Precure Fairies - Episode 37 discussion",
-      "score": 0,
+      "score": 1,
       "num_comments": 2,
       "created_utc": 1765445601,
       "author": "AutoLovepon",
@@ -7619,7 +7823,7 @@
     {
       "id": "1pj969m",
       "title": "Author Nikita Kitagawa Reveals TV Anime for Saijakuna Boku wa 'Kabenuke Bug' de Nariagaru Series",
-      "score": 34,
+      "score": 33,
       "num_comments": 14,
       "created_utc": 1765388793,
       "author": "Torque-A",
@@ -7631,7 +7835,7 @@
     {
       "id": "1pjqr4i",
       "title": "What are some of your favorite insert songs?",
-      "score": 2,
+      "score": 1,
       "num_comments": 19,
       "created_utc": 1765435073,
       "author": "Daedalus1701",
@@ -7655,7 +7859,7 @@
     {
       "id": "1piyu3m",
       "title": "Mononoke Movie 3: Hebigami | Teaser Visual",
-      "score": 128,
+      "score": 132,
       "num_comments": 4,
       "created_utc": 1765360920,
       "author": "zenzen_0",
@@ -7703,7 +7907,7 @@
     {
       "id": "1pj5km5",
       "title": "Kakuriyo no Yadomeshi Ni • Kakuriyo: Bed & Breakfast for Spirits Season 2 - Episode 11 discussion",
-      "score": 37,
+      "score": 38,
       "num_comments": 20,
       "created_utc": 1765380804,
       "author": "AutoLovepon",
@@ -7739,7 +7943,7 @@
     {
       "id": "1piy021",
       "title": "\"Scenes from Awajima\" New Character Visual",
-      "score": 124,
+      "score": 117,
       "num_comments": 17,
       "created_utc": 1765357580,
       "author": "zenzen_0",
@@ -7751,7 +7955,7 @@
     {
       "id": "1pirqfo",
       "title": "\"The Weakest Tamer Began a Journey to Pick Up Trash\" Season 2 Announced",
-      "score": 356,
+      "score": 359,
       "num_comments": 79,
       "created_utc": 1765336111,
       "author": "zenzen_0",
@@ -7847,7 +8051,7 @@
     {
       "id": "1pixzy6",
       "title": "\"Duel Masters LOST ~Oblivion Sun~\" key visual",
-      "score": 88,
+      "score": 87,
       "num_comments": 5,
       "created_utc": 1765357567,
       "author": "mr_beanoz",
@@ -7859,7 +8063,7 @@
     {
       "id": "1pjeeqn",
       "title": "Transformers Cybertron rewatch - Episode 40 discussion",
-      "score": 7,
+      "score": 8,
       "num_comments": 22,
       "created_utc": 1765400440,
       "author": "Nebresto",
@@ -7919,7 +8123,7 @@
     {
       "id": "1pjo3fm",
       "title": "Anime like Code Geass/Attack on Titan",
-      "score": 0,
+      "score": 2,
       "num_comments": 18,
       "created_utc": 1765426209,
       "author": "Kooky-Can6840",
@@ -7955,7 +8159,7 @@
     {
       "id": "1pitxy3",
       "title": "86 - how to describe",
-      "score": 107,
+      "score": 109,
       "num_comments": 50,
       "created_utc": 1765342811,
       "author": "Dandi21091987",
@@ -8051,7 +8255,7 @@
     {
       "id": "1piiabl",
       "title": "[SPOILERS] Reze Arc really surprised me",
-      "score": 335,
+      "score": 339,
       "num_comments": 56,
       "created_utc": 1765312078,
       "author": "NewBiscotti8159",
@@ -8075,7 +8279,7 @@
     {
       "id": "1piy7nc",
       "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - PV 2",
-      "score": 29,
+      "score": 27,
       "num_comments": 8,
       "created_utc": 1765358453,
       "author": "gianben123",
@@ -8099,7 +8303,7 @@
     {
       "id": "1pix2fy",
       "title": "Disney Twisted-Wonderland: The Animation - Episode 7 discussion",
-      "score": 34,
+      "score": 32,
       "num_comments": 30,
       "created_utc": 1765353803,
       "author": "AutoLovepon",
@@ -8111,7 +8315,7 @@
     {
       "id": "1pjm0eb",
       "title": "Recommendations for Films and Tv",
-      "score": 0,
+      "score": 1,
       "num_comments": 6,
       "created_utc": 1765420071,
       "author": "Due_Mind7032",
@@ -8123,7 +8327,7 @@
     {
       "id": "1pj1xz3",
       "title": "\"Shabake\" anime climax trailer",
-      "score": 10,
+      "score": 11,
       "num_comments": 0,
       "created_utc": 1765371560,
       "author": "mr_beanoz",
@@ -8135,7 +8339,7 @@
     {
       "id": "1pj7uw5",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 13",
-      "score": 6,
+      "score": 3,
       "num_comments": 98,
       "created_utc": 1765385970,
       "author": "Holofan4life",
@@ -8159,7 +8363,7 @@
     {
       "id": "1pi2s4l",
       "title": "\"Kaguya-sama: Love Is War\" TV Special New PV",
-      "score": 1467,
+      "score": 1470,
       "num_comments": 235,
       "created_utc": 1765270961,
       "author": "dorkmax_executives",
@@ -8183,7 +8387,7 @@
     {
       "id": "1piy6qd",
       "title": "\"Record of Ragnarok III\" non-credit ending video",
-      "score": 14,
+      "score": 17,
       "num_comments": 3,
       "created_utc": 1765358349,
       "author": "mr_beanoz",
@@ -8195,7 +8399,7 @@
     {
       "id": "1pi3og3",
       "title": "Medalist Season 2 Key Visual",
-      "score": 1093,
+      "score": 1096,
       "num_comments": 83,
       "created_utc": 1765274516,
       "author": "zenzen_0",
@@ -8207,8 +8411,8 @@
     {
       "id": "1pithwt",
       "title": "what's the best anime of 2025 in your opinion?",
-      "score": 35,
-      "num_comments": 93,
+      "score": 34,
+      "num_comments": 92,
       "created_utc": 1765341376,
       "author": "Virtual_Obligation17",
       "permalink": "/r/anime/comments/1pithwt/whats_the_best_anime_of_2025_in_your_opinion/",
@@ -8231,7 +8435,7 @@
     {
       "id": "1pilvfy",
       "title": "Frieren: Beyond Journey's End Rewatch Episode 2 Discussion",
-      "score": 100,
+      "score": 96,
       "num_comments": 88,
       "created_utc": 1765320560,
       "author": "TheDanubianCommunard",
@@ -8243,7 +8447,7 @@
     {
       "id": "1piaffx",
       "title": "Tondemo Skill de Isekai Hourou Meshi Season 2 • Campfire Cooking in Another World with My Absurd Skill Season 2 - Episode 10 discussion",
-      "score": 364,
+      "score": 367,
       "num_comments": 183,
       "created_utc": 1765294403,
       "author": "AutoLovepon",
@@ -8255,7 +8459,7 @@
     {
       "id": "1pivhnd",
       "title": "Anime like Campfire Cooking in Another World with My Absurd Skill",
-      "score": 23,
+      "score": 22,
       "num_comments": 24,
       "created_utc": 1765348008,
       "author": "Curious_Lie2727",
@@ -8267,7 +8471,7 @@
     {
       "id": "1pic0x5",
       "title": "Chitose-kun wa Ramune Bin no Naka • Chitose Is in the Ramune Bottle - Episode 7 discussion",
-      "score": 267,
+      "score": 270,
       "num_comments": 91,
       "created_utc": 1765298004,
       "author": "AutoLovepon",
@@ -8279,7 +8483,7 @@
     {
       "id": "1piy6by",
       "title": "\"The Case Book of Arne\" trailer",
-      "score": 14,
+      "score": 13,
       "num_comments": 1,
       "created_utc": 1765358300,
       "author": "mr_beanoz",
@@ -8303,7 +8507,7 @@
     {
       "id": "1pidthv",
       "title": "Yano-kun no Futsuu no Hibi • Yano-kun's Ordinary Days - Episode 11 discussion",
-      "score": 209,
+      "score": 208,
       "num_comments": 81,
       "created_utc": 1765301964,
       "author": "AutoLovepon",
@@ -8339,7 +8543,7 @@
     {
       "id": "1piknzp",
       "title": "I will always have what I need, for all eternity | Zombie Land Saga Revenge",
-      "score": 78,
+      "score": 80,
       "num_comments": 11,
       "created_utc": 1765317682,
       "author": "lechepicante",
@@ -8376,7 +8580,7 @@
       "id": "1pifeym",
       "title": "Which voice actors do you immediately recognize in Anime?",
       "score": 135,
-      "num_comments": 279,
+      "num_comments": 278,
       "created_utc": 1765305759,
       "author": "Shurae",
       "permalink": "/r/anime/comments/1pifeym/which_voice_actors_do_you_immediately_recognize/",
@@ -8399,7 +8603,7 @@
     {
       "id": "1piw8pc",
       "title": "Looking for Mature Anime",
-      "score": 12,
+      "score": 13,
       "num_comments": 47,
       "created_utc": 1765350642,
       "author": "Chimugen",
@@ -8423,7 +8627,7 @@
     {
       "id": "1pim7is",
       "title": "Toradora! Christmas Club Rewatch (2025) Episode 4 Discussion",
-      "score": 45,
+      "score": 47,
       "num_comments": 216,
       "created_utc": 1765321385,
       "author": "ChristmasClub-",
@@ -8459,7 +8663,7 @@
     {
       "id": "1pizlab",
       "title": "Searching for Cozy Wholesome Fantasy / Historical Anime with Female Protagonists ♡",
-      "score": 5,
+      "score": 6,
       "num_comments": 34,
       "created_utc": 1765363757,
       "author": "faeriechiffon",
@@ -8483,7 +8687,7 @@
     {
       "id": "1pi76qv",
       "title": "Gachiakuta Episode 23 preview images",
-      "score": 191,
+      "score": 188,
       "num_comments": 33,
       "created_utc": 1765286297,
       "author": "unoiamaQT",
@@ -8531,7 +8735,7 @@
     {
       "id": "1pj7te3",
       "title": "Can yall suggest me some Isekai anime I just watched loner life in another world and it was really good",
-      "score": 1,
+      "score": 0,
       "num_comments": 9,
       "created_utc": 1765385876,
       "author": "NewNegotiation9002",
@@ -8591,7 +8795,7 @@
     {
       "id": "1piuld2",
       "title": "What unjustified detail hooked you into trying an anime?",
-      "score": 6,
+      "score": 7,
       "num_comments": 28,
       "created_utc": 1765344930,
       "author": "Magmamaster8",
@@ -8603,7 +8807,7 @@
     {
       "id": "1pi3o4u",
       "title": "Medalist Season 2 PV 1",
-      "score": 238,
+      "score": 240,
       "num_comments": 27,
       "created_utc": 1765274486,
       "author": "zenzen_0",
@@ -8615,7 +8819,7 @@
     {
       "id": "1pild40",
       "title": "Looking for animes with NEET/otaku/loser female MCs",
-      "score": 23,
+      "score": 22,
       "num_comments": 47,
       "created_utc": 1765319302,
       "author": "Extreme-County-1824",
@@ -8663,7 +8867,7 @@
     {
       "id": "1pizx9w",
       "title": "Ugoku! Neko Mukashibanashi • Cat Tales - Episode 9 discussion",
-      "score": 5,
+      "score": 4,
       "num_comments": 1,
       "created_utc": 1765364963,
       "author": "AutoLovepon",
@@ -8699,7 +8903,7 @@
     {
       "id": "1pidnql",
       "title": "Ninja to Gokudou • Ninja Vs. Gokudo - Episode 10 discussion",
-      "score": 45,
+      "score": 44,
       "num_comments": 27,
       "created_utc": 1765301604,
       "author": "AutoLovepon",
@@ -8723,7 +8927,7 @@
     {
       "id": "1pij3zz",
       "title": "[Rewatch] The Rose of Versailles - Episode 32 Discussion",
-      "score": 18,
+      "score": 16,
       "num_comments": 37,
       "created_utc": 1765313940,
       "author": "Pixelsabre",
@@ -8843,7 +9047,7 @@
     {
       "id": "1piuki0",
       "title": "My Thoughts on Video Girl Ai",
-      "score": 2,
+      "score": 1,
       "num_comments": 4,
       "created_utc": 1765344850,
       "author": "SaberLover1000",
@@ -8867,7 +9071,7 @@
     {
       "id": "1pij5n8",
       "title": "Transformers Cybertron rewatch - Episode 39 discussion",
-      "score": 7,
+      "score": 9,
       "num_comments": 14,
       "created_utc": 1765314039,
       "author": "Nebresto",
@@ -8879,7 +9083,7 @@
     {
       "id": "1phxgv3",
       "title": "Give me the most traumatising animes you can think of",
-      "score": 211,
+      "score": 212,
       "num_comments": 356,
       "created_utc": 1765251782,
       "author": "Ghxsty1019",
@@ -8903,7 +9107,7 @@
     {
       "id": "1pi267m",
       "title": "Anime Wrapped Website [No Logins]",
-      "score": 68,
+      "score": 65,
       "num_comments": 46,
       "created_utc": 1765268413,
       "author": "frizzy135",
@@ -8939,7 +9143,7 @@
     {
       "id": "1pi4fd8",
       "title": "\"Cardfight!! Vanguard: Divinez Genma Seisen-hen\" key visual",
-      "score": 38,
+      "score": 36,
       "num_comments": 1,
       "created_utc": 1765277310,
       "author": "mr_beanoz",
@@ -8951,7 +9155,7 @@
     {
       "id": "1phcc58",
       "title": "\"Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle\" Nominated for Best Animated Film at Golden Globe Awards",
-      "score": 1796,
+      "score": 1801,
       "num_comments": 384,
       "created_utc": 1765200364,
       "author": "dorkmax_executives",
@@ -8963,7 +9167,7 @@
     {
       "id": "1phji89",
       "title": "Shangri La Frontier might run for 10 season+ or longer",
-      "score": 729,
+      "score": 723,
       "num_comments": 198,
       "created_utc": 1765217164,
       "author": "MememeSama",
@@ -8999,7 +9203,7 @@
     {
       "id": "1piu10j",
       "title": "Help me find this anime!!",
-      "score": 2,
+      "score": 1,
       "num_comments": 12,
       "created_utc": 1765343068,
       "author": "-Limata-",
@@ -9023,7 +9227,7 @@
     {
       "id": "1pioyid",
       "title": "Good shows for a young child?",
-      "score": 3,
+      "score": 1,
       "num_comments": 49,
       "created_utc": 1765328525,
       "author": "Dangle76",
@@ -9035,7 +9239,7 @@
     {
       "id": "1phsm6e",
       "title": "\"Ichijōma Mankitsu Gurashi!\" Teaser Visual",
-      "score": 186,
+      "score": 191,
       "num_comments": 23,
       "created_utc": 1765238383,
       "author": "dorkmax_executives",
@@ -9047,7 +9251,7 @@
     {
       "id": "1phleer",
       "title": "The 3rd Hokage really dropped the ball with young naruto",
-      "score": 447,
+      "score": 436,
       "num_comments": 126,
       "created_utc": 1765221369,
       "author": "DarkVoidInMySoul",
@@ -9083,7 +9287,7 @@
     {
       "id": "1picq7f",
       "title": "[Spoilers] Shakugan no Shana 20th Anniversary Rewatch -- Shakugan no Shana Final Episode 12",
-      "score": 7,
+      "score": 6,
       "num_comments": 134,
       "created_utc": 1765299575,
       "author": "Holofan4life",
@@ -9095,7 +9299,7 @@
     {
       "id": "1phwmjn",
       "title": "You Can't Be In a Rom-Com with Your Childhood Friends! PV 2",
-      "score": 77,
+      "score": 76,
       "num_comments": 16,
       "created_utc": 1765249316,
       "author": "Turbostrider27",
@@ -9143,7 +9347,7 @@
     {
       "id": "1phax1u",
       "title": "Jujutsu Kaisen: Execution opened at #4 in the U․S., earning an estimated US$10․1 million. Additionally, Kill Bill: The Whole Bloody Affair opened at #6.",
-      "score": 894,
+      "score": 892,
       "num_comments": 156,
       "created_utc": 1765196159,
       "author": "Putrid-Cupcake2005",
@@ -9179,7 +9383,7 @@
     {
       "id": "1pi8en6",
       "title": "\"Saioshi no Gikei o Mederu Tame, Nagaikishimasu!\" trailer #2",
-      "score": 7,
+      "score": 8,
       "num_comments": 1,
       "created_utc": 1765289483,
       "author": "mr_beanoz",
@@ -9191,7 +9395,7 @@
     {
       "id": "1pio871",
       "title": "Popularized foods/other things because of anime",
-      "score": 0,
+      "score": 1,
       "num_comments": 21,
       "created_utc": 1765326574,
       "author": "astrodancer2552",
@@ -9263,7 +9467,7 @@
     {
       "id": "1phdvm9",
       "title": "Isekai Quartet Season 3 - Episode 9 discussion",
-      "score": 377,
+      "score": 384,
       "num_comments": 120,
       "created_utc": 1765204403,
       "author": "AutoLovepon",
@@ -9311,7 +9515,7 @@
     {
       "id": "1pi3o2v",
       "title": "Anime Questions, Recommendations, and Discussion - December 09, 2025",
-      "score": 11,
+      "score": 10,
       "num_comments": 148,
       "created_utc": 1765274481,
       "author": "AnimeMod",
@@ -9323,7 +9527,7 @@
     {
       "id": "1phl52a",
       "title": "ALL YOU NEED IS KILL | Official Trailer - In Theatres January 16",
-      "score": 114,
+      "score": 120,
       "num_comments": 56,
       "created_utc": 1765220792,
       "author": "Task_Force-191",
@@ -9335,7 +9539,7 @@
     {
       "id": "1ph9oil",
       "title": "\"An Adventurer’s Daily Grind at Age 29\" New Key Visual",
-      "score": 504,
+      "score": 502,
       "num_comments": 133,
       "created_utc": 1765191905,
       "author": "zenzen_0",
@@ -9359,7 +9563,7 @@
     {
       "id": "1phchrh",
       "title": "Slam Dunk, Street Fighter Voice Actor Tomomichi Nishimura Dies",
-      "score": 236,
+      "score": 235,
       "num_comments": 14,
       "created_utc": 1765200799,
       "author": "Torque-A",
@@ -9371,7 +9575,7 @@
     {
       "id": "1phyh7l",
       "title": "I just finished watching bottom character Tomozaki and it absolutely amazing might be my favorite romance I’ve watched so far is there any anime like it I can watch?",
-      "score": 13,
+      "score": 11,
       "num_comments": 33,
       "created_utc": 1765254877,
       "author": "NewNegotiation9002",
@@ -9405,50 +9609,38 @@
       "flair": "What to Watch?"
     },
     {
-      "id": "1phbuwr",
-      "title": "Egao no Taenai Shokuba desu. • A Mangaka's Weirdly Wonderful Workplace - Episode 10 discussion",
-      "score": 212,
-      "num_comments": 61,
-      "created_utc": 1765199004,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1phbuwr/egao_no_taenai_shokuba_desu_a_mangakas_weirdly/",
-      "url": "https://www.reddit.com/r/anime/comments/1phbuwr/egao_no_taenai_shokuba_desu_a_mangakas_weirdly/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
-      "id": "1phazuy",
-      "title": "You don't have enough Rider! [Tojima Wants to Be a Kamen Rider]",
-      "score": 223,
-      "num_comments": 27,
-      "created_utc": 1765196412,
-      "author": "capitan_spiff",
-      "permalink": "/r/anime/comments/1phazuy/you_dont_have_enough_rider_tojima_wants_to_be_a/",
-      "url": "https://v.redd.it/0c5icgvu2z5g1",
-      "is_self": false,
-      "flair": "Clip"
-    },
-    {
-      "id": "1pi2q0e",
-      "title": "I would like to ask, what type of anime would you recommend to watch with the family?",
-      "score": 4,
-      "num_comments": 57,
-      "created_utc": 1765270738,
-      "author": "No-Resident8527",
-      "permalink": "/r/anime/comments/1pi2q0e/i_would_like_to_ask_what_type_of_anime_would_you/",
-      "url": "https://www.reddit.com/r/anime/comments/1pi2q0e/i_would_like_to_ask_what_type_of_anime_would_you/",
+      "id": "1pq498o",
+      "title": "Anime suggestions for gf",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1766096901,
+      "author": "Negative_Source3200",
+      "permalink": "/r/anime/comments/1pq498o/anime_suggestions_for_gf/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq498o/anime_suggestions_for_gf/",
       "is_self": true,
       "flair": "What to Watch?"
     },
     {
-      "id": "1pimw0p",
-      "title": "What series should I watch next based on the series Ive enjoyed so far? (Dark Sci-fi)",
+      "id": "1pq46b7",
+      "title": "Help With One Piece Cake",
+      "score": 2,
+      "num_comments": 1,
+      "created_utc": 1766096702,
+      "author": "PullDaLevaKronk",
+      "permalink": "/r/anime/comments/1pq46b7/help_with_one_piece_cake/",
+      "url": "https://www.reddit.com/r/anime/comments/1pq46b7/help_with_one_piece_cake/",
+      "is_self": true,
+      "flair": "Help"
+    },
+    {
+      "id": "1pirgf7",
+      "title": "Recommendations like Attack on Titan and Vinland Saga?",
       "score": 0,
-      "num_comments": 19,
-      "created_utc": 1765323085,
-      "author": "canadiancitizeninfo",
-      "permalink": "/r/anime/comments/1pimw0p/what_series_should_i_watch_next_based_on_the/",
-      "url": "https://www.reddit.com/r/anime/comments/1pimw0p/what_series_should_i_watch_next_based_on_the/",
+      "num_comments": 11,
+      "created_utc": 1765335332,
+      "author": "PalpitationOld243",
+      "permalink": "/r/anime/comments/1pirgf7/recommendations_like_attack_on_titan_and_vinland/",
+      "url": "https://www.reddit.com/r/anime/comments/1pirgf7/recommendations_like_attack_on_titan_and_vinland/",
       "is_self": true,
       "flair": "What to Watch?"
     },
@@ -9465,6 +9657,18 @@
       "flair": "Help"
     },
     {
+      "id": "1pinwfr",
+      "title": "I cannot find the continuation of an anime I really like, please help",
+      "score": 0,
+      "num_comments": 8,
+      "created_utc": 1765325722,
+      "author": "VirtualAd8903",
+      "permalink": "/r/anime/comments/1pinwfr/i_cannot_find_the_continuation_of_an_anime_i/",
+      "url": "https://www.reddit.com/r/anime/comments/1pinwfr/i_cannot_find_the_continuation_of_an_anime_i/",
+      "is_self": true,
+      "flair": "Help"
+    },
+    {
       "id": "1pinq4a",
       "title": "Looking for Anime Suggestions",
       "score": 0,
@@ -9477,148 +9681,16 @@
       "flair": "What to Watch?"
     },
     {
-      "id": "1pirgf7",
-      "title": "Recommendations like Attack on Titan and Vinland Saga?",
+      "id": "1pimw0p",
+      "title": "What series should I watch next based on the series Ive enjoyed so far? (Dark Sci-fi)",
       "score": 0,
-      "num_comments": 11,
-      "created_utc": 1765335332,
-      "author": "PalpitationOld243",
-      "permalink": "/r/anime/comments/1pirgf7/recommendations_like_attack_on_titan_and_vinland/",
-      "url": "https://www.reddit.com/r/anime/comments/1pirgf7/recommendations_like_attack_on_titan_and_vinland/",
+      "num_comments": 19,
+      "created_utc": 1765323085,
+      "author": "canadiancitizeninfo",
+      "permalink": "/r/anime/comments/1pimw0p/what_series_should_i_watch_next_based_on_the/",
+      "url": "https://www.reddit.com/r/anime/comments/1pimw0p/what_series_should_i_watch_next_based_on_the/",
       "is_self": true,
       "flair": "What to Watch?"
-    },
-    {
-      "id": "1pho690",
-      "title": "Toradora! Christmas Club Rewatch (2025) Episode 3 Discussion",
-      "score": 36,
-      "num_comments": 223,
-      "created_utc": 1765227602,
-      "author": "ChristmasClub-",
-      "permalink": "/r/anime/comments/1pho690/toradora_christmas_club_rewatch_2025_episode_3/",
-      "url": "https://www.reddit.com/r/anime/comments/1pho690/toradora_christmas_club_rewatch_2025_episode_3/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
-      "id": "1phaqoh",
-      "title": "“Blue Orchestra” Season 2 - New Visual",
-      "score": 181,
-      "num_comments": 27,
-      "created_utc": 1765195576,
-      "author": "Task_Force-191",
-      "permalink": "/r/anime/comments/1phaqoh/blue_orchestra_season_2_new_visual/",
-      "url": "https://i.redd.it/h746mbyp0z5g1.jpeg",
-      "is_self": false,
-      "flair": "Official Media"
-    },
-    {
-      "id": "1pi0g33",
-      "title": "Can’t find a particular anime",
-      "score": 7,
-      "num_comments": 17,
-      "created_utc": 1765261794,
-      "author": "TheHalloweenHorror",
-      "permalink": "/r/anime/comments/1pi0g33/cant_find_a_particular_anime/",
-      "url": "https://www.reddit.com/r/anime/comments/1pi0g33/cant_find_a_particular_anime/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1phpqet",
-      "title": "Megazone 23 40th Anniversary Rewatch Part I",
-      "score": 30,
-      "num_comments": 183,
-      "created_utc": 1765231223,
-      "author": "JustAnswerAQuestion",
-      "permalink": "/r/anime/comments/1phpqet/megazone_23_40th_anniversary_rewatch_part_i/",
-      "url": "https://www.reddit.com/r/anime/comments/1phpqet/megazone_23_40th_anniversary_rewatch_part_i/",
-      "is_self": true,
-      "flair": "Rewatch"
-    },
-    {
-      "id": "1phg7t0",
-      "title": "3-nen Z-gumi Ginpachi-sensei • Gintama: Mr. Ginpachi's Zany Class - Episode 10 discussion",
-      "score": 84,
-      "num_comments": 22,
-      "created_utc": 1765209803,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1phg7t0/3nen_zgumi_ginpachisensei_gintama_mr_ginpachis/",
-      "url": "https://www.reddit.com/r/anime/comments/1phg7t0/3nen_zgumi_ginpachisensei_gintama_mr_ginpachis/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
-      "id": "1ph7r0o",
-      "title": "The Demon King's Daughter Is Too Kind!! Main Key Visual",
-      "score": 285,
-      "num_comments": 17,
-      "created_utc": 1765184492,
-      "author": "zenzen_0",
-      "permalink": "/r/anime/comments/1ph7r0o/the_demon_kings_daughter_is_too_kind_main_key/",
-      "url": "https://maomusu.com/news/wp-content/uploads/2025/12/304bd34333103f7742fdf2aa7e1facea-725x1024.jpg",
-      "is_self": false,
-      "flair": "Official Media"
-    },
-    {
-      "id": "1phfeyp",
-      "title": "Sozai Saishuka no Isekai Ryokouki • A Gatherer's Adventure in Isekai - Episode 11 discussion",
-      "score": 89,
-      "num_comments": 31,
-      "created_utc": 1765208003,
-      "author": "AutoLovepon",
-      "permalink": "/r/anime/comments/1phfeyp/sozai_saishuka_no_isekai_ryokouki_a_gatherers/",
-      "url": "https://www.reddit.com/r/anime/comments/1phfeyp/sozai_saishuka_no_isekai_ryokouki_a_gatherers/",
-      "is_self": true,
-      "flair": "Episode"
-    },
-    {
-      "id": "1pgju3p",
-      "title": "I drew Reze from Chainsaw Man",
-      "score": 9932,
-      "num_comments": 141,
-      "created_utc": 1765118225,
-      "author": "shirakawafel",
-      "permalink": "/r/anime/comments/1pgju3p/i_drew_reze_from_chainsaw_man/",
-      "url": "https://i.redd.it/f2rtrk24ls5g1.jpeg",
-      "is_self": false,
-      "flair": "Fanart"
-    },
-    {
-      "id": "1ph2uyo",
-      "title": "Top 10 Anime of the Week #9 - Fall 2025 (Anime Trending)",
-      "score": 653,
-      "num_comments": 45,
-      "created_utc": 1765167080,
-      "author": "Nooble5",
-      "permalink": "/r/anime/comments/1ph2uyo/top_10_anime_of_the_week_9_fall_2025_anime/",
-      "url": "https://i.redd.it/nmyymcbxnw5g1.png",
-      "is_self": false,
-      "flair": "Infographic"
-    },
-    {
-      "id": "1phxswz",
-      "title": "asking for old school anime recommendation",
-      "score": 9,
-      "num_comments": 33,
-      "created_utc": 1765252777,
-      "author": "donotreadusername",
-      "permalink": "/r/anime/comments/1phxswz/asking_for_old_school_anime_recommendation/",
-      "url": "https://www.reddit.com/r/anime/comments/1phxswz/asking_for_old_school_anime_recommendation/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
-      "id": "1pinwfr",
-      "title": "I cannot find the continuation of an anime I really like, please help",
-      "score": 0,
-      "num_comments": 8,
-      "created_utc": 1765325722,
-      "author": "VirtualAd8903",
-      "permalink": "/r/anime/comments/1pinwfr/i_cannot_find_the_continuation_of_an_anime_i/",
-      "url": "https://www.reddit.com/r/anime/comments/1pinwfr/i_cannot_find_the_continuation_of_an_anime_i/",
-      "is_self": true,
-      "flair": "Help"
     },
     {
       "id": "1pimmi4",
@@ -9835,90 +9907,6 @@
       "url": "https://www.reddit.com/r/anime/comments/1pi8fif/rent_a_girlfriend_s12_review/",
       "is_self": true,
       "flair": "Review"
-    },
-    {
-      "id": "1pi6r4g",
-      "title": "Looking for a few binge worthy anime’s to watch",
-      "score": 0,
-      "num_comments": 37,
-      "created_utc": 1765285113,
-      "author": "PracticalResult5065",
-      "permalink": "/r/anime/comments/1pi6r4g/looking_for_a_few_binge_worthy_animes_to_watch/",
-      "url": "https://www.reddit.com/r/anime/comments/1pi6r4g/looking_for_a_few_binge_worthy_animes_to_watch/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
-      "id": "1pi4td2",
-      "title": "Ishura season 2 sub",
-      "score": 0,
-      "num_comments": 3,
-      "created_utc": 1765278698,
-      "author": "K4m4d0_Tanj1r0",
-      "permalink": "/r/anime/comments/1pi4td2/ishura_season_2_sub/",
-      "url": "https://www.reddit.com/r/anime/comments/1pi4td2/ishura_season_2_sub/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1pi1tjl",
-      "title": "Can someone recommend me some anime, here are some of my watched anime",
-      "score": 0,
-      "num_comments": 13,
-      "created_utc": 1765266989,
-      "author": "DingoPlastic7771",
-      "permalink": "/r/anime/comments/1pi1tjl/can_someone_recommend_me_some_anime_here_are_some/",
-      "url": "https://www.reddit.com/r/anime/comments/1pi1tjl/can_someone_recommend_me_some_anime_here_are_some/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
-      "id": "1pi0g61",
-      "title": "Anime Like Arifureta or Failure Frame",
-      "score": 0,
-      "num_comments": 14,
-      "created_utc": 1765261801,
-      "author": "101METERS",
-      "permalink": "/r/anime/comments/1pi0g61/anime_like_arifureta_or_failure_frame/",
-      "url": "https://www.reddit.com/r/anime/comments/1pi0g61/anime_like_arifureta_or_failure_frame/",
-      "is_self": true,
-      "flair": "What to Watch?"
-    },
-    {
-      "id": "1phycen",
-      "title": "Was there ever a Season 2 of Killing Bites, or did it never exist?",
-      "score": 0,
-      "num_comments": 6,
-      "created_utc": 1765254456,
-      "author": "Aguywhousereddit",
-      "permalink": "/r/anime/comments/1phycen/was_there_ever_a_season_2_of_killing_bites_or_did/",
-      "url": "https://www.reddit.com/r/anime/comments/1phycen/was_there_ever_a_season_2_of_killing_bites_or_did/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1phy1i8",
-      "title": "Need help looking for an anime",
-      "score": 0,
-      "num_comments": 12,
-      "created_utc": 1765253481,
-      "author": "Foxy-Goblin",
-      "permalink": "/r/anime/comments/1phy1i8/need_help_looking_for_an_anime/",
-      "url": "https://www.reddit.com/r/anime/comments/1phy1i8/need_help_looking_for_an_anime/",
-      "is_self": true,
-      "flair": "Help"
-    },
-    {
-      "id": "1phxxs9",
-      "title": "Romance rec for first timer",
-      "score": 0,
-      "num_comments": 16,
-      "created_utc": 1765253167,
-      "author": "DropNo6027",
-      "permalink": "/r/anime/comments/1phxxs9/romance_rec_for_first_timer/",
-      "url": "https://www.reddit.com/r/anime/comments/1phxxs9/romance_rec_for_first_timer/",
-      "is_self": true,
-      "flair": "What to Watch?"
     }
   ]
 }
