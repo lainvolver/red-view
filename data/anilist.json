@@ -1,0 +1,344 @@
+[
+  {
+    "id": 21,
+    "romaji": "ONE PIECE",
+    "english": "ONE PIECE",
+    "native": "ONE PIECE"
+  },
+  {
+    "id": 235,
+    "romaji": "Meitantei Conan",
+    "english": "Case Closed",
+    "native": "名探偵コナン"
+  },
+  {
+    "id": 966,
+    "romaji": "Crayon Shin-chan",
+    "english": "Shin Chan",
+    "native": "クレヨンしんちゃん"
+  },
+  {
+    "id": 1199,
+    "romaji": "Nintama Rantarou",
+    "english": null,
+    "native": "忍たま乱太郎"
+  },
+  {
+    "id": 1960,
+    "romaji": "Sore Ike! Anpanman",
+    "english": null,
+    "native": "それいけ!アンパンマン"
+  },
+  {
+    "id": 2406,
+    "romaji": "Sazae-san",
+    "english": null,
+    "native": "サザエさん"
+  },
+  {
+    "id": 6149,
+    "romaji": "Chibi Maruko-chan (1995)",
+    "english": "Chibi Maruko-chan",
+    "native": "ちびまる子ちゃん"
+  },
+  {
+    "id": 8687,
+    "romaji": "Doraemon (2005)",
+    "english": null,
+    "native": "ドラえもん (2005)"
+  },
+  {
+    "id": 101424,
+    "romaji": "PazuDora",
+    "english": "Puzzle & Dragon",
+    "native": "パズドラ"
+  },
+  {
+    "id": 129195,
+    "romaji": "Tomodachi no Imouto ga Ore ni dake Uzai",
+    "english": "My Friend's Little Sister Has It In for Me!",
+    "native": "友達の妹が俺にだけウザい"
+  },
+  {
+    "id": 142274,
+    "romaji": "Ninjala",
+    "english": "Ninjala the Animation",
+    "native": "ニンジャラ"
+  },
+  {
+    "id": 153800,
+    "romaji": "One Punch Man 3",
+    "english": "One-Punch Man Season 3",
+    "native": "ワンパンマン３"
+  },
+  {
+    "id": 158871,
+    "romaji": "Pocket Monsters (2023)",
+    "english": "Pokémon Horizons: The Series",
+    "native": "ポケットモンスター (2023)"
+  },
+  {
+    "id": 162669,
+    "romaji": "Fumetsu no Anata e Season 3",
+    "english": "To Your Eternity Season 3",
+    "native": "不滅のあなたへ Season 3"
+  },
+  {
+    "id": 162890,
+    "romaji": "3-nen Z-gumi Ginpachi-sensei",
+    "english": "GINTAMA - Mr. Ginpachi's Zany Class",
+    "native": "3年Z組銀八先生"
+  },
+  {
+    "id": 165159,
+    "romaji": "BEYBLADE X",
+    "english": "BEYBLADE X",
+    "native": "BEYBLADE X"
+  },
+  {
+    "id": 169420,
+    "romaji": "Watari-kun no xx ga Houkai Sunzen",
+    "english": "Watari-kun's ****** Is about to Collapse",
+    "native": "渡くんの××が崩壊寸前"
+  },
+  {
+    "id": 170018,
+    "romaji": "Ao no Orchestra Season 2",
+    "english": "Blue Orchestra Season 2",
+    "native": "青のオーケストラ Season2"
+  },
+  {
+    "id": 170577,
+    "romaji": "Tondemo Skill de Isekai Hourou Meshi 2",
+    "english": "Campfire Cooking in Another World with my Absurd Skill Season 2",
+    "native": "とんでもスキルで異世界放浪メシ2"
+  },
+  {
+    "id": 170936,
+    "romaji": "Debu to Love to Ayamachi to!",
+    "english": "Plus-sized Misadventures in Love!",
+    "native": "デブとラブと過ちと！"
+  },
+  {
+    "id": 173523,
+    "romaji": "Egao no Taenai Shokuba desu.",
+    "english": "A Mangaka's Weirdly Wonderful Workplace",
+    "native": "笑顔のたえない職場です。"
+  },
+  {
+    "id": 173692,
+    "romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+    "english": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+    "native": "父は英雄、母は精霊、娘の私は転生者。"
+  },
+  {
+    "id": 174914,
+    "romaji": "Tensei Akujo no Kuro Rekishi",
+    "english": "The Dark History of the Reincarnated Villainess",
+    "native": "転生悪女の黒歴史"
+  },
+  {
+    "id": 176298,
+    "romaji": "Kekkon Yubiwa Monogatari II",
+    "english": "Tales of Wedding Rings Season 2",
+    "native": "結婚指輪物語Ⅱ"
+  },
+  {
+    "id": 177474,
+    "romaji": "Tougen Anki",
+    "english": "TOUGEN ANKI",
+    "native": "桃源暗鬼"
+  },
+  {
+    "id": 177937,
+    "romaji": "SPY×FAMILY Season 3",
+    "english": "SPY x FAMILY Season 3",
+    "native": "SPY×FAMILY Season 3"
+  },
+  {
+    "id": 178025,
+    "romaji": "Gachiakuta",
+    "english": "Gachiakuta",
+    "native": "ガチアクタ"
+  },
+  {
+    "id": 178052,
+    "romaji": "Princess-Session Orchestra",
+    "english": null,
+    "native": "プリンセッション・オーケストラ"
+  },
+  {
+    "id": 179302,
+    "romaji": "SANDA",
+    "english": "SANDA",
+    "native": "SANDA"
+  },
+  {
+    "id": 179992,
+    "romaji": "Kikaijikake no Marie",
+    "english": "Mechanical Marie",
+    "native": "機械じかけのマリー"
+  },
+  {
+    "id": 180082,
+    "romaji": "Chitose-kun wa Ramune Bin no Naka",
+    "english": "Chitose Is in the Ramune Bottle",
+    "native": "千歳くんはラムネ瓶のなか"
+  },
+  {
+    "id": 180436,
+    "romaji": "WanDance",
+    "english": "Wandance",
+    "native": "ワンダンス"
+  },
+  {
+    "id": 183385,
+    "romaji": "Watashi wo Tabetai, Hitodenashi",
+    "english": "This Monster Wants to Eat Me",
+    "native": "私を喰べたい、ひとでなし"
+  },
+  {
+    "id": 184322,
+    "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+    "english": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！"
+  },
+  {
+    "id": 184470,
+    "romaji": "Himitsu no AiPri: Ring-hen",
+    "english": null,
+    "native": "ひみつのアイプリ リング編"
+  },
+  {
+    "id": 184997,
+    "romaji": "Shabake",
+    "english": "Shabake",
+    "native": "しゃばけ"
+  },
+  {
+    "id": 185073,
+    "romaji": "Kimi to Idol Precure♪",
+    "english": "You and Idol Precure ♪",
+    "native": "キミとアイドルプリキュア♪"
+  },
+  {
+    "id": 185116,
+    "romaji": "Gnosia",
+    "english": "GNOSIA",
+    "native": "グノーシア"
+  },
+  {
+    "id": 185731,
+    "romaji": "Ranma 1/2 (2024) 2nd Season",
+    "english": "Ranma1/2 (2024) Season 2",
+    "native": "らんま1/2 (2024) 第2期"
+  },
+  {
+    "id": 185965,
+    "romaji": "Futari Solo Camp",
+    "english": "Solo Camping for Two",
+    "native": "ふたりソロキャンプ"
+  },
+  {
+    "id": 186161,
+    "romaji": "Kimi to Koete Koi ni Naru",
+    "english": "With You, Our Love Will Make It Through",
+    "native": "キミと越えて恋になる"
+  },
+  {
+    "id": 186524,
+    "romaji": "Chanto Suenai Kyuuketsuki-chan",
+    "english": "Li'l Miss Vampire Can't Suck Right",
+    "native": "ちゃんと吸えない吸血鬼ちゃん"
+  },
+  {
+    "id": 186621,
+    "romaji": "Taiyou yori mo Mabushii Hoshi",
+    "english": "A Star Brighter Than the Sun",
+    "native": "太陽よりも眩しい星"
+  },
+  {
+    "id": 186736,
+    "romaji": "Kagaku×Bouken Survival! 2nd Season",
+    "english": null,
+    "native": "科学×冒険サバイバル！ 第2シリーズ"
+  },
+  {
+    "id": 186794,
+    "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "english": "My Status as an Assassin Obviously Exceeds the Hero’s",
+    "native": "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが"
+  },
+  {
+    "id": 186914,
+    "romaji": "Ninja to Gokudou",
+    "english": "Ninja Vs. Gokudo",
+    "native": "忍者と極道"
+  },
+  {
+    "id": 186920,
+    "romaji": "Shuumatsu Touring",
+    "english": "Touring After the Apocalypse",
+    "native": "終末ツーリング"
+  },
+  {
+    "id": 187464,
+    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "english": "Tojima Wants to Be a Kamen Rider",
+    "native": "東島丹三郎は仮面ライダーになりたい"
+  },
+  {
+    "id": 187860,
+    "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
+    "english": "Style of Hiroshi Nohara's Lunch",
+    "native": "野原ひろし 昼メシの流儀"
+  },
+  {
+    "id": 187940,
+    "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+    "english": "Inexpressive Kashiwada and Expressive Oota",
+    "native": "顔に出ない柏田さんと顔に出る太田君"
+  },
+  {
+    "id": 188388,
+    "romaji": "DIGIMON BEATBREAK",
+    "english": "DIGIMON BEATBREAK",
+    "native": "DIGIMON BEATBREAK"
+  },
+  {
+    "id": 188487,
+    "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+    "english": "The Banished Court Magician Aims to Become the Strongest",
+    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す"
+  },
+  {
+    "id": 190840,
+    "romaji": "Kingdom 6th Season",
+    "english": "Kingdom Season 6",
+    "native": "キングダム 第6シリーズ"
+  },
+  {
+    "id": 194832,
+    "romaji": "Oshiri Tantei 9 Part 2",
+    "english": null,
+    "native": "おしりたんてい(第9シリーズ)"
+  },
+  {
+    "id": 195240,
+    "romaji": "Uma Musume: Cinderella Gray Part 2",
+    "english": "Umamusume: Cinderella Gray 2nd Cour",
+    "native": "ウマ娘 シンデレラグレイ 第2クール"
+  },
+  {
+    "id": 196230,
+    "romaji": "Monster Strike: Deadverse Reloaded",
+    "english": null,
+    "native": "モンスターストライク　デッドバースリローデッド"
+  },
+  {
+    "id": 196553,
+    "romaji": "SI-VIS: The Sound of Heroes",
+    "english": "SI-VIS: The Sound of Heroes",
+    "native": "SI-VIS: The Sound of Heroes"
+  }
+]
