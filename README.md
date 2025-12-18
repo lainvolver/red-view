@@ -1,4 +1,4 @@
-# Latest Episode Ranking
+# Reddit Latest Episode Ranking
 
 Generated from data/matched_results_latest-Episode.json
 
