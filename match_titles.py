@@ -129,14 +129,14 @@ def main():
         # anime_list = get_current_season_anime()
         raise RuntimeError("data/anilist.json not found. Run fetch_anilist.py to create it.")
 
-    with open("data/latest.json", encoding="utf-8") as f:
+    with open("data/reddit_latest.json", encoding="utf-8") as f:
         loaded = json.load(f)
         if isinstance(loaded, dict) and "posts" in loaded:
             reddit_posts = loaded["posts"]
         elif isinstance(loaded, list):
             reddit_posts = loaded
         else:
-            raise RuntimeError("data/latest.json has unexpected format; expected list or {'posts': [...]}")
+            raise RuntimeError("data/reddit_latest.json has unexpected format; expected list or {'posts': [...]}")
 
     anime_index, token_usage = build_anime_index(anime_list)
 
