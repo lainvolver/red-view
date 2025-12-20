@@ -31,15 +31,16 @@ jobs:
           python fetch_anilist.py
 
       # Test-mode: use existing snapshot instead of fetching from Reddit
-      - name: Use existing reddit snapshot (test mode)
-        run: |
-          echo "Test mode: using existing data/reddit_latest.json instead of fetching from Reddit"
-          if [ -f data/reddit_latest.json ]; then
-            ls -l data/reddit_latest.json
-          else
-            echo "ERROR: data/reddit_latest.json not found; create or run fetch_r_anime.py once to generate it"
-            exit 1
-          fi
+      # reddit_latest.json の存在確認ブロック。 テストモード用。
+      # - name: Use existing reddit snapshot (test mode)
+      #   run: |
+      #     echo "Test mode: using existing data/reddit_latest.json instead of fetching from Reddit"
+      #     if [ -f data/reddit_latest.json ]; then
+      #       ls -l data/reddit_latest.json
+      #     else
+      #       echo "ERROR: data/reddit_latest.json not found; create or run fetch_r_anime.py once to generate it"
+      #       exit 1
+      #     fi
 
       # The real reddit fetch step is commented out for faster test runs.
       # To re-enable live fetching, uncomment the following block.
@@ -57,10 +58,13 @@ jobs:
       - name: Match AniList titles
         run: python match_titles.py
 
+      - name: Archive Reddit Data
+        run: python reddit_archiver.py
+
       - name: Commit results
         run: |
           git config user.name "anime-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data README.md || true
+          git add data || true
           git commit -m "data: update matched snapshot $(date -u +'%Y-%m-%d')" || echo "no changes to commit"
           git push
