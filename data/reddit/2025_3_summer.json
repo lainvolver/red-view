@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "year": 2025,
+    "season": "SUMMER"
+  },
+  "anime": {
+    "185965": {
+      "id": 185965,
+      "name_jp": "ふたりソロキャンプ",
+      "seasonYear": 2025,
+      "season": "SUMMER",
+      "episodes": {
+        "24": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1ppvbtb/futari_solo_camp_solo_camping_for_two_episode_24/",
+            "reddit_title": "Futari Solo Camp • Solo Camping for Two - Episode 24 discussion",
+            "created_utc": null,
+            "num_comments": 4,
+            "url": "https://www.reddit.com/r/anime/comments/1ppvbtb/futari_solo_camp_solo_camping_for_two_episode_24/",
+            "archived_at": 1766216551
+          }
+        ]
+      },
+      "latest_episode": 24
+    },
+    "178025": {
+      "id": 178025,
+      "name_jp": "ガチアクタ",
+      "seasonYear": 2025,
+      "season": "SUMMER",
+      "episodes": {
+        "23": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pmg4sw/gachiakuta_episode_23_discussion/",
+            "reddit_title": "Gachiakuta - Episode 23 discussion",
+            "created_utc": null,
+            "num_comments": 280,
+            "url": "https://www.reddit.com/r/anime/comments/1pmg4sw/gachiakuta_episode_23_discussion/",
+            "archived_at": 1766216551
+          }
+        ]
+      },
+      "latest_episode": 23
+    },
+    "169420": {
+      "id": 169420,
+      "name_jp": "渡くんの××が崩壊寸前",
+      "seasonYear": 2025,
+      "season": "SUMMER",
+      "episodes": {
+        "24": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pkw1wc/watarikun_no_xx_ga_houkai_sunzen_watarikuns_is/",
+            "reddit_title": "Watari-kun no xx ga Houkai Sunzen • Watari-kun's ****** Is About to Collapse - Episode 24 discussion",
+            "created_utc": null,
+            "num_comments": 47,
+            "url": "https://www.reddit.com/r/anime/comments/1pkw1wc/watarikun_no_xx_ga_houkai_sunzen_watarikuns_is/",
+            "archived_at": 1766216552
+          }
+        ]
+      },
+      "latest_episode": 24
+    },
+    "177474": {
+      "id": 177474,
+      "name_jp": "桃源暗鬼",
+      "seasonYear": 2025,
+      "season": "SUMMER",
+      "episodes": {
+        "22": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pkuugp/tougen_anki_episode_22_discussion/",
+            "reddit_title": "Tougen Anki - Episode 22 discussion",
+            "created_utc": null,
+            "num_comments": 85,
+            "url": "https://www.reddit.com/r/anime/comments/1pkuugp/tougen_anki_episode_22_discussion/",
+            "archived_at": 1766216552
+          }
+        ]
+      },
+      "latest_episode": 22
+    }
+  }
+}
