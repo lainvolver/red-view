@@ -33,17 +33,17 @@ jobs:
       # Test-mode: use existing snapshot instead of fetching from Reddit
       - name: Use existing reddit snapshot (test mode)
         run: |
-          echo "Test mode: using existing data/latest.json instead of fetching from Reddit"
-          if [ -f data/latest.json ]; then
-            ls -l data/latest.json
+          echo "Test mode: using existing data/reddit_latest.json instead of fetching from Reddit"
+          if [ -f data/reddit_latest.json ]; then
+            ls -l data/reddit_latest.json
           else
-            echo "ERROR: data/latest.json not found; create or run fetch_r_anime.py once to generate it"
+            echo "ERROR: data/reddit_latest.json not found; create or run fetch_r_anime.py once to generate it"
             exit 1
           fi
 
       # The real reddit fetch step is commented out for faster test runs.
       # To re-enable live fetching, uncomment the following block.
-      # ↓ ここから latest.json を fetch_r_anime.py で取得するステップ ※コメントアウトすると既存のlatest.jsonを使うテストモードになる
+      # ↓ ここから reddit_latest.json を fetch_r_anime.py で取得するステップ ※コメントアウトすると既存のreddit_latest.jsonを使うテストモードになる
       - name: Fetch reddit data
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
