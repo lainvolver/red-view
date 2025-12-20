@@ -54,12 +54,6 @@
     "native": "パズドラ"
   },
   {
-    "id": 129195,
-    "romaji": "Tomodachi no Imouto ga Ore ni dake Uzai",
-    "english": "My Friend's Little Sister Has It In for Me!",
-    "native": "友達の妹が俺にだけウザい"
-  },
-  {
     "id": 142274,
     "romaji": "Ninjala",
     "english": "Ninjala the Animation",
@@ -168,12 +162,6 @@
     "native": "プリンセッション・オーケストラ"
   },
   {
-    "id": 179302,
-    "romaji": "SANDA",
-    "english": "SANDA",
-    "native": "SANDA"
-  },
-  {
     "id": 179992,
     "romaji": "Kikaijikake no Marie",
     "english": "Mechanical Marie",
@@ -198,12 +186,6 @@
     "native": "私を喰べたい、ひとでなし"
   },
   {
-    "id": 184322,
-    "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-    "english": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！"
-  },
-  {
     "id": 184470,
     "romaji": "Himitsu no AiPri: Ring-hen",
     "english": null,
@@ -226,12 +208,6 @@
     "romaji": "Gnosia",
     "english": "GNOSIA",
     "native": "グノーシア"
-  },
-  {
-    "id": 185731,
-    "romaji": "Ranma 1/2 (2024) 2nd Season",
-    "english": "Ranma1/2 (2024) Season 2",
-    "native": "らんま1/2 (2024) 第2期"
   },
   {
     "id": 186161,
@@ -264,12 +240,6 @@
     "native": "忍者と極道"
   },
   {
-    "id": 186920,
-    "romaji": "Shuumatsu Touring",
-    "english": "Touring After the Apocalypse",
-    "native": "終末ツーリング"
-  },
-  {
     "id": 187464,
     "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "english": "Tojima Wants to Be a Kamen Rider",
@@ -282,22 +252,16 @@
     "native": "野原ひろし 昼メシの流儀"
   },
   {
-    "id": 187940,
-    "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
-    "english": "Inexpressive Kashiwada and Expressive Oota",
-    "native": "顔に出ない柏田さんと顔に出る太田君"
-  },
-  {
     "id": 188388,
     "romaji": "DIGIMON BEATBREAK",
     "english": "DIGIMON BEATBREAK",
     "native": "DIGIMON BEATBREAK"
   },
   {
-    "id": 188487,
-    "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
-    "english": "The Banished Court Magician Aims to Become the Strongest",
-    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す"
+    "id": 189258,
+    "romaji": "Ao no Miburo: Serizawa Ansatsu-hen",
+    "english": "Blue Miburo Season 2",
+    "native": "青のミブロ 芹沢暗殺編"
   },
   {
     "id": 190840,
