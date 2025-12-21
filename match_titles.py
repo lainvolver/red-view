@@ -186,7 +186,5 @@ def main():
     with open("data/matched_results_latest-Episode.json", "w", encoding="utf-8") as f:
         json.dump(latest_episode_results, f, ensure_ascii=False, indent=2)
 
-    # README 出力は不要とのことで省略
-
 if __name__ == "__main__":
     main()
