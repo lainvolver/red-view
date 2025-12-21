@@ -57,9 +57,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1pkw1wc/watarikun_no_xx_ga_houkai_sunzen_watarikuns_is/",
             "archived_at": 1766216552
           }
+        ],
+        "25": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pqp6q7/watarikun_no_xx_ga_houkai_sunzen_watarikuns_is/",
+            "reddit_title": "Watari-kun no xx ga Houkai Sunzen • Watari-kun's ****** Is About to Collapse - Episode 25 discussion",
+            "created_utc": null,
+            "num_comments": 53,
+            "url": "https://www.reddit.com/r/anime/comments/1pqp6q7/watarikun_no_xx_ga_houkai_sunzen_watarikuns_is/",
+            "archived_at": 1766254470
+          }
         ]
       },
-      "latest_episode": 24
+      "latest_episode": 25
     },
     "177474": {
       "id": 177474,
@@ -76,9 +86,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1pkuugp/tougen_anki_episode_22_discussion/",
             "archived_at": 1766216552
           }
+        ],
+        "23": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pqo46e/tougen_anki_episode_23_discussion/",
+            "reddit_title": "Tougen Anki - Episode 23 discussion",
+            "created_utc": null,
+            "num_comments": 32,
+            "url": "https://www.reddit.com/r/anime/comments/1pqo46e/tougen_anki_episode_23_discussion/",
+            "archived_at": 1766254470
+          }
         ]
       },
-      "latest_episode": 22
+      "latest_episode": 23
     }
   }
 }
