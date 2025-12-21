@@ -28,7 +28,7 @@ jobs:
       - name: Fetch AniList (create data/anilist.json)
         run: |
           echo "Fetching AniList titles to data/anilist.json"
-          python fetch_anilist.py
+          python scripts/fetch_anilist.py
 
       # Test-mode: use existing snapshot instead of fetching from Reddit
       # reddit_latest.json の存在確認ブロック。 テストモード用。
@@ -52,14 +52,14 @@ jobs:
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-        run: python fetch_r_anime.py
+        run: python scripts/fetch_r_anime.py
       # ↑ ここまで
 
       - name: Match AniList titles
-        run: python match_titles.py
+        run: python scripts/match_titles.py
 
       - name: Archive Reddit Data
-        run: python reddit_archiver.py
+        run: python scripts/reddit_archiver.py
 
       - name: Commit results
         run: |
