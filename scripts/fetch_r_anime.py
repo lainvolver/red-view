@@ -57,7 +57,7 @@ def pull_listing(list_type="hot", limit=MAX_PER_LIST):
         except Exception as e:
             # 取得で稀にエラー出ることがあるので無理せずスキップ
             print("warn: skipping post due to", e)
-        time.sleep(0.5)  # API負荷を下げるためにわずかに待つ
+        time.sleep(1)  # API負荷を下げるためにわずかに待つ
     return items
 
 def merge_unique(list_of_lists):
