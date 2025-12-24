@@ -45,14 +45,14 @@ jobs:
       # The real reddit fetch step is commented out for faster test runs.
       # To re-enable live fetching, uncomment the following block.
       # ↓ ここから reddit_latest.json を fetch_r_anime.py で取得するステップ ※コメントアウトすると既存のreddit_latest.jsonを使うテストモードになる
-      - name: Fetch reddit data
-        env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
-          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-        run: python scripts/fetch_r_anime.py
+      # - name: Fetch reddit data
+      #   env:
+      #     REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+      #     REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+      #     REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+      #     REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+      #     REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+      #   run: python scripts/fetch_r_anime.py
       # ↑ ここまで
 
       # RedditデータとAniListタイトルのマッチング
@@ -72,6 +72,6 @@ jobs:
         run: |
           git config user.name "anime-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data || true
+          git add data astro || true
           git commit -m "data: update matched snapshot $(date -u +'%Y-%m-%d')" || echo "no changes to commit"
           git push
