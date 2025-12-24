@@ -55,12 +55,19 @@ jobs:
         run: python scripts/fetch_r_anime.py
       # ↑ ここまで
 
+      # RedditデータとAniListタイトルのマッチング
       - name: Match AniList titles
         run: python scripts/match_titles.py
 
+      # Redditデータをアーカイブ data\reddit と astro\public\data\reddit に保存
       - name: Archive Reddit Data
         run: python scripts/reddit_archiver.py
 
+      # seasons.json を作成して astro\public\data\reddit に保存
+      - name: Generate seasons.json
+        run: node tools/generate-seasons.mjs
+
+      # コミットとプッシュ
       - name: Commit results
         run: |
           git config user.name "anime-bot"
