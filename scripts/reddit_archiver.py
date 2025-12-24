@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import shutil
 from datetime import datetime
 from typing import Optional
 
@@ -193,6 +194,13 @@ def archive_reddit_latest(
 
         _save_json(fpath, existing)
         summary["archived"] += 1
+
+    # 最新のデータを astro/public/data/reddit にコピーする
+    shutil.copytree(
+        "./data/reddit",
+        "./astro/public/data/reddit",
+        dirs_exist_ok=True
+    )
 
     return summary
 
