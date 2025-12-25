@@ -1,0 +1,179 @@
+---
+---
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <title>アニメコメントランキング</title>
+  </head>
+  <body>
+    <h1>アニメコメントランキング</h1>
+
+    <!-- コントロール -->
+    <div>
+      <label>
+        シーズン：
+        <select id="seasonSelect"></select>
+      </label>
+
+      <label>
+        ランキング種別：
+        <select id="modeSelect">
+          <option value="latest">最新話コメント数</option>
+          <option value="previous">前話コメント数</option>
+          <option value="total">トータルコメント数</option>
+          <option value="average">平均コメント数</option>
+        </select>
+      </label>
+    </div>
+
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <th>順位</th>
+          <th>作品名</th>
+          <th>話数</th>
+          <th>コメント数</th>
+          <th>URL</th>
+        </tr>
+      </thead>
+      <tbody id="rankingBody"></tbody>
+    </table>
+
+    <script>
+      const seasonSelect = document.getElementById("seasonSelect");
+      const modeSelect = document.getElementById("modeSelect");
+      const body = document.getElementById("rankingBody");
+
+      // シーズン一覧読み込み
+      const res = await fetch("/data/reddit/seasons.json");
+      const seasons = await res.json();
+
+      // セレクトボックスに追加
+      seasons.forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s.key + ".json";
+        opt.textContent = s.label;
+        seasonSelect.appendChild(opt);
+      });
+
+      // デフォルト選択
+      seasonSelect.value = seasons[0].key + ".json";
+
+      // 表描画
+      async function loadAndRender() {
+        const season = seasonSelect.value;
+        const mode = modeSelect.value;
+        // データ読み込み
+        const res = await fetch(`/data/reddit/${season}`);
+        const data = await res.json();
+        const rows = [];
+        // データ集計
+        for (const anime of Object.values(data.anime)) {
+          let count = 0;
+          let episodeLabel = "";
+          let url = "";
+
+          const latestEp = anime.latest_episode;
+
+          // 最新話コメント数
+          if (mode === "latest") {
+            const post = anime.episodes?.[latestEp]?.[0];
+            if (!post) continue;
+
+            count = post.num_comments ?? 0;
+            episodeLabel = `第${latestEp}話`;
+            url = post.url;
+          }
+
+          // 前話コメント数
+          if (mode === "previous") {
+            const prevEp = latestEp - 1;
+            const post = anime.episodes?.[prevEp]?.[0];
+            if (!post) continue;
+
+            count = post.num_comments ?? 0;
+            episodeLabel = `第${prevEp}話`;
+            url = post.url;
+          }
+
+          // トータルコメント数
+          if (mode === "total") {
+            let epCount = 0;
+            let latestUrl = "";
+
+            for (const [ep, posts] of Object.entries(anime.episodes ?? {})) {
+              for (const post of posts) {
+                count += post.num_comments ?? 0;
+                epCount++;
+                if (Number(ep) === latestEp) {
+                  latestUrl = post.url;
+                }
+              }
+            }
+
+            if (epCount === 0) continue;
+
+            episodeLabel = `全${epCount}話分`;
+            url = latestUrl;
+          }
+
+          // 平均コメント数
+          if (mode === "average") {
+            let epCount = 0;
+            let latestUrl = "";
+
+            for (const [ep, posts] of Object.entries(anime.episodes ?? {})) {
+              for (const post of posts) {
+                count += post.num_comments ?? 0;
+                epCount++;
+                if (Number(ep) === latestEp) {
+                  latestUrl = post.url;
+                }
+              }
+            }
+
+            if (epCount === 0) continue;
+
+            episodeLabel = `全${epCount}話分`;
+            url = latestUrl;
+            // 平均を計算
+            count = Math.round(count / epCount);
+          }
+
+          // 行追加
+          rows.push({
+            title: anime.name_jp,
+            episodeLabel,
+            count,
+            url
+          });
+        }
+
+        // コメント数でソート
+        rows.sort((a, b) => b.count - a.count);
+        // 表示
+        body.innerHTML = "";
+        rows.forEach((r, i) => {
+          body.insertAdjacentHTML(
+            "beforeend",
+            `<tr>
+              <td>${i + 1}</td>
+              <td>${r.title}</td>
+              <td>${r.episodeLabel}</td>
+              <td>${r.count}</td>
+              <td>
+                <a href="${r.url}" target="_blank" rel="noopener">URL</a>
+              </td>
+            </tr>`
+          );
+        });
+      }
+      // イベント登録
+      seasonSelect.addEventListener("change", loadAndRender);
+      // ランキング種別変更
+      modeSelect.addEventListener("change", loadAndRender);
+      // 初回描画
+      loadAndRender();
+    </script>
+  </body>
+</html>

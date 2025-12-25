@@ -57,7 +57,7 @@ def pull_listing(list_type="hot", limit=MAX_PER_LIST):
         except Exception as e:
             # 取得で稀にエラー出ることがあるので無理せずスキップ
             print("warn: skipping post due to", e)
-        time.sleep(0.5)  # API負荷を下げるためにわずかに待つ
+        time.sleep(1)  # API負荷を下げるためにわずかに待つ
     return items
 
 def merge_unique(list_of_lists):
@@ -97,11 +97,11 @@ def main():
     # with open(filename, "w", encoding="utf-8") as f:
     #     json.dump(out, f, ensure_ascii=False, indent=2)
 
-    # latest.json を上書き（Pages 側で常に最新を参照する用）
-    with open("data/latest.json", "w", encoding="utf-8") as f:
+    # reddit_latest.json を上書き（Pages 側で常に最新を参照する用）
+    with open("data/reddit_latest.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated data/latest.json (total {len(merged)} posts). Snapshot file creation skipped in test mode.")
+    print(f"Updated data/reddit_latest.json (total {len(merged)} posts). Snapshot file creation skipped in test mode.")
 
 if __name__ == "__main__":
     main()
