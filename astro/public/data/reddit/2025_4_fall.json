@@ -1475,9 +1475,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1pqovpe/shabake_episode_12_discussion/",
             "archived_at": 1766254470
           }
+        ],
+        "13": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pw7os7/shabake_episode_13_discussion/",
+            "reddit_title": "Shabake - Episode 13 discussion",
+            "created_utc": null,
+            "num_comments": 10,
+            "url": "https://www.reddit.com/r/anime/comments/1pw7os7/shabake_episode_13_discussion/",
+            "archived_at": 1766789010
+          }
         ]
       },
-      "latest_episode": 12
+      "latest_episode": 13
     },
     "201151": {
       "id": 201151,
@@ -1594,6 +1604,25 @@
         ]
       },
       "latest_episode": 12
+    },
+    "184718": {
+      "id": 184718,
+      "name_jp": "キャッツ♥アイ (2025)",
+      "seasonYear": 2025,
+      "season": "FALL",
+      "episodes": {
+        "7": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1pvzy5d/catseye_cats_eye_episode_7_discussion/",
+            "reddit_title": "Cat's❤︎Eye • Cat’s Eye - Episode 7 discussion",
+            "created_utc": null,
+            "num_comments": 14,
+            "url": "https://www.reddit.com/r/anime/comments/1pvzy5d/catseye_cats_eye_episode_7_discussion/",
+            "archived_at": 1766789010
+          }
+        ]
+      },
+      "latest_episode": 7
     }
   }
 }
