@@ -45,7 +45,7 @@
       const body = document.getElementById("rankingBody");
 
       // シーズン一覧読み込み
-      const res = await fetch("/data/reddit/seasons.json");
+      const res = await fetch("data/reddit/seasons.json");
       const seasons = await res.json();
 
       // セレクトボックスに追加
@@ -64,7 +64,7 @@
         const season = seasonSelect.value;
         const mode = modeSelect.value;
         // データ読み込み
-        const res = await fetch(`/data/reddit/${season}`);
+        const res = await fetch(`data/reddit/${season}`);
         const data = await res.json();
         const rows = [];
         // データ集計
