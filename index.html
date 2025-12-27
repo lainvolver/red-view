@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="ja"> <head><meta charset="utf-8"><title>アニメコメントランキング</title></head> <body> <h1>アニメコメントランキング</h1> <!-- コントロール --> <div> <label>
+シーズン：
+<select id="seasonSelect"></select> </label> <label>
+ランキング種別：
+<select id="modeSelect"> <option value="latest">最新話コメント数</option> <option value="previous">前話コメント数</option> <option value="total">トータルコメント数</option> <option value="average">平均コメント数</option> </select> </label> </div> <table border="1" cellpadding="6"> <thead> <tr> <th>順位</th> <th>作品名</th> <th>話数</th> <th>コメント数</th> <th>URL</th> </tr> </thead> <tbody id="rankingBody"></tbody> </table> <script type="module">const r=document.getElementById("seasonSelect"),h=document.getElementById("modeSelect"),b=document.getElementById("rankingBody"),E=await fetch("/data/reddit/seasons.json"),j=await E.json();j.forEach(i=>{const s=document.createElement("option");s.value=i.key+".json",s.textContent=i.label,r.appendChild(s)});r.value=j[0].key+".json";async function f(){const i=r.value,s=h.value,v=await(await fetch(`/data/reddit/${i}`)).json(),u=[];for(const t of Object.values(v.anime)){let o=0,a="",c="";const d=t.latest_episode;if(s==="latest"){const e=t.episodes?.[d]?.[0];if(!e)continue;o=e.num_comments??0,a=`第${d}話`,c=e.url}if(s==="previous"){const e=d-1,n=t.episodes?.[e]?.[0];if(!n)continue;o=n.num_comments??0,a=`第${e}話`,c=n.url}if(s==="total"){let e=0,n="";for(const[m,p]of Object.entries(t.episodes??{}))for(const l of p)o+=l.num_comments??0,e++,Number(m)===d&&(n=l.url);if(e===0)continue;a=`全${e}話分`,c=n}if(s==="average"){let e=0,n="";for(const[m,p]of Object.entries(t.episodes??{}))for(const l of p)o+=l.num_comments??0,e++,Number(m)===d&&(n=l.url);if(e===0)continue;a=`全${e}話分`,c=n,o=Math.round(o/e)}u.push({title:t.name_jp,episodeLabel:a,count:o,url:c})}u.sort((t,o)=>o.count-t.count),b.innerHTML="",u.forEach((t,o)=>{b.insertAdjacentHTML("beforeend",`<tr>
+              <td>${o+1}</td>
+              <td>${t.title}</td>
+              <td>${t.episodeLabel}</td>
+              <td>${t.count}</td>
+              <td>
+                <a href="${t.url}" target="_blank" rel="noopener">URL</a>
+              </td>
+            </tr>`)})}r.addEventListener("change",f);h.addEventListener("change",f);f();</script> </body> </html>
