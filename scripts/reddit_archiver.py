@@ -169,7 +169,7 @@ def archive_reddit_latest(
             "created_utc": entry.get("created_utc") or entry.get("created"),
             "num_comments": entry.get("num_comments"),
             "url": entry.get("url"),
-            "archived_at": int(datetime.utcnow().timestamp()),
+            "archived_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         }
 
         # ensure list exists

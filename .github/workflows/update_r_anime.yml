@@ -1,0 +1,41 @@
+name: Update json comments daily
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # UTCで毎日 6:00（日本時間15:00）に実行。必要に応じて変更してね
+    - cron: '0 14 * * *'  # UTCで毎日14:00（日本時間23:00）に実行。必要に応じて変更してね
+  workflow_dispatch: {}  # 手動実行も可
+
+permissions:
+  contents: write  # リポジトリに書き込むために必要
+
+jobs:
+  fetch_and_match:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Update json comments
+        run: |
+          echo "Update json comments"
+          python scripts/update_existing.py
+
+      # コミットとプッシュ
+      - name: Commit results
+        run: |
+          git config user.name "anime-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data astro/public/data || true
+          git commit -m "data: update json comments $(date -u +'%Y-%m-%d')" || echo "no changes to commit"
+          git push
