@@ -9,7 +9,7 @@ SEASON_COUNT = 4  # 直近何シーズン分を更新するか 1~
 EPISODE_COUNT = 6  # 直近何話分を更新するか 1~
 
 HEADERS = {
-    "User-Agent": "anime-comment-tracker/0.1"
+    "User-Agent": "script:anime_comment_tracker:v0.1 (by u/LedazenOshyqizan)"
 }
 
 def fetch_comment_count(reddit_url):
@@ -66,6 +66,10 @@ def iter_target_posts(data):
 
 season_keys = get_season_keys(SEASON_COUNT)
 
+
+MAX_403 = 3 # 403エラーが連続したら中断する
+count_403 = 0
+
 for key in season_keys:
     path = Path(f"data/reddit/{key}.json")
     if not path.exists():
@@ -82,9 +86,23 @@ for key in season_keys:
             post["num_comments"] = fetch_comment_count(post["reddit_id"])
             post["archived_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             updated += 1
-            time.sleep(1)
+            time.sleep(1.5) # API負荷を下げるためにわずかに待つ
+        except requests.exceptions.HTTPError as e:
+            if e.response is not None and e.response.status_code == 403:
+                count_403 += 1
+                print(f"403 skip ({count_403}/{MAX_403}):", post["reddit_id"])
+
+                if count_403 >= MAX_403:
+                    print("Too many 403s, abort this season")
+                    break   # ← このシーズンを中断
+
+                time.sleep(10)  # クールダウン
+                continue
+            else:
+                print("HTTP error:", post["reddit_id"], e)
+
         except Exception as e:
-            print("failed:", post["reddit_id"], e)
+            print("other error:", post["reddit_id"], e)
 
     with path.open("w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
