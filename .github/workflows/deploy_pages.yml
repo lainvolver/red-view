@@ -1,9 +1,10 @@
 name: Deploy Astro to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: [Fetch r/anime threads daily, Update json comments daily]
+    types:
+      - completed
 
 permissions:
   contents: write
