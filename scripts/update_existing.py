@@ -4,23 +4,39 @@ import requests
 from datetime import datetime
 from pathlib import Path
 import shutil
+import praw
+import os
 
 SEASON_COUNT = 4  # 直近何シーズン分を更新するか 1~
 EPISODE_COUNT = 6  # 直近何話分を更新するか 1~
 
-HEADERS = {
-    "User-Agent": "script:anime_comment_tracker:v0.1 (by u/LedazenOshyqizan)"
-}
+# 環境変数から取得
+CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
+CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
+USERNAME = os.getenv("REDDIT_USERNAME")
+PASSWORD = os.getenv("REDDIT_PASSWORD")
+USER_AGENT = os.getenv("REDDIT_USER_AGENT", "r-anime-scraper/0.1 by example")
 
-def fetch_comment_count(reddit_url):
+if not all([CLIENT_ID, CLIENT_SECRET, USERNAME, PASSWORD]):
+    raise SystemExit("Missing Reddit credentials in environment variables.")
+
+reddit = praw.Reddit(
+    client_id=CLIENT_ID,
+    client_secret=CLIENT_SECRET,
+    username=USERNAME,
+    password=PASSWORD,
+    user_agent=USER_AGENT,
+    check_for_updates=False,
+    ratelimit_seconds=60
+)
+
+# PRAWを使ったコメント数取得
+def fetch_comment_count_praw(reddit_url):
     post_id = reddit_url.split("/comments/")[1].split("/")[0]
-    api_url = f"https://www.reddit.com/comments/{post_id}.json"
+    submission = reddit.submission(id=post_id)
+    return submission.num_comments
 
-    r = requests.get(api_url, headers=HEADERS, timeout=10)
-    r.raise_for_status()
-    j = r.json()
-    return j[0]["data"]["children"][0]["data"]["num_comments"]
-
+# シーズン取得ヘルパー
 def get_current_season():
     now = datetime.now()
     y, m = now.year, now.month
@@ -33,7 +49,7 @@ def get_current_season():
         return (y, 3)  # summer
     return (y, 4)      # fall
 
-
+# シーズンキーリスト取得
 def get_season_keys(back=2):
     y, s = get_current_season()
     keys = []
@@ -49,7 +65,7 @@ def get_season_keys(back=2):
 
     return keys
 
-
+# 対象投稿イテレータ
 def iter_target_posts(data):
     for anime in data["anime"].values():
         latest = anime.get("latest_episode")
@@ -70,6 +86,7 @@ season_keys = get_season_keys(SEASON_COUNT)
 MAX_403 = 3 # 403エラーが連続したら中断する
 count_403 = 0
 
+# 各シーズンファイルを更新
 for key in season_keys:
     path = Path(f"data/reddit/{key}.json")
     if not path.exists():
@@ -81,11 +98,19 @@ for key in season_keys:
         data = json.load(f)
 
     updated = 0
+    checked = 0
     for post in iter_target_posts(data):
         try:
-            post["num_comments"] = fetch_comment_count(post["reddit_id"])
-            post["archived_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            updated += 1
+            # コメント数取得
+            new_count = fetch_comment_count_praw(post["reddit_id"])
+            old_count = post.get("num_comments")
+
+            # 更新があれば反映
+            if old_count != new_count:
+                post["num_comments"] = new_count
+                post["archived_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                updated += 1
+            checked += 1
             time.sleep(1.5) # API負荷を下げるためにわずかに待つ
         except requests.exceptions.HTTPError as e:
             if e.response is not None and e.response.status_code == 403:
@@ -107,6 +132,7 @@ for key in season_keys:
     with path.open("w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+    print("checked posts:", checked)
     print("updated posts:", updated)
 
 # 最新のデータを astro/public/data/reddit にコピーする
