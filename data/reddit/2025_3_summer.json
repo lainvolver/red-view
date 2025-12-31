@@ -129,6 +129,25 @@
         ]
       },
       "latest_episode": 24
+    },
+    "184591": {
+      "id": 184591,
+      "name_jp": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)",
+      "seasonYear": 2025,
+      "season": "SUMMER",
+      "episodes": {
+        "17": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q0kf62/watashi_ga_koibito_ni_nareru_wake_nai_jan_muri/",
+            "reddit_title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (Zoku-hen)) • There's No Freaking Way I'll be Your Lover! Unless... (Sequel) - Episode 17 discussion",
+            "created_utc": null,
+            "num_comments": 15,
+            "url": "https://www.reddit.com/r/anime/comments/1q0kf62/watashi_ga_koibito_ni_nareru_wake_nai_jan_muri/",
+            "archived_at": "2025-12-31 22:43:48"
+          }
+        ]
+      },
+      "latest_episode": 17
     }
   }
 }
