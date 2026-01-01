@@ -1,5 +1,11 @@
 [
   {
+    "key": "2026_1_winter",
+    "year": 2026,
+    "season": "WINTER",
+    "label": "2026年 冬"
+  },
+  {
     "key": "2025_4_fall",
     "year": 2025,
     "season": "FALL",
