@@ -48,9 +48,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q2c07j/rewatch_jigokuraku_hells_paradise_episode_6/",
             "archived_at": "2026-01-03 14:18:49"
           }
+        ],
+        "7": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q37hqr/rewatch_jigokuraku_hells_paradise_episode_7/",
+            "reddit_title": "[Rewatch] Jigokuraku • Hell's Paradise Episode 7 Discussion",
+            "created_utc": null,
+            "num_comments": 14,
+            "url": "https://www.reddit.com/r/anime/comments/1q37hqr/rewatch_jigokuraku_hells_paradise_episode_7/",
+            "archived_at": "2026-01-03 22:42:48"
+          }
         ]
       },
-      "latest_episode": 6
+      "latest_episode": 7
     },
     "199112": {
       "id": 199112,
@@ -134,9 +144,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q2ajgh/frieren_beyond_journeys_end_rewatch_episode_26/",
             "archived_at": "2026-01-03 14:19:01"
           }
+        ],
+        "27": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q36bpp/frieren_beyond_journeys_end_rewatch_episode_27/",
+            "reddit_title": "Frieren: Beyond Journey's End Rewatch Episode 27 Discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1q36bpp/frieren_beyond_journeys_end_rewatch_episode_27/",
+            "archived_at": "2026-01-03 22:42:48"
+          }
         ]
       },
-      "latest_episode": 26
+      "latest_episode": 27
     },
     "189258": {
       "id": 189258,
@@ -156,6 +176,63 @@
         ]
       },
       "latest_episode": 2
+    },
+    "167152": {
+      "id": 167152,
+      "name_jp": "勇者刑に処す　懲罰勇者9004隊刑務記録",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q2u3sf/yuushakei_ni_shosu_choubatsu_yuusha_9004tai_keimu/",
+            "reddit_title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku • Sentenced to Be a Hero - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 289,
+            "url": "https://www.reddit.com/r/anime/comments/1q2u3sf/yuushakei_ni_shosu_choubatsu_yuusha_9004tai_keimu/",
+            "archived_at": "2026-01-03 22:42:48"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "166617": {
+      "id": 166617,
+      "name_jp": "Fate/strange Fake",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q32kvx/fatestrange_fake_episode_1_discussion/",
+            "reddit_title": "Fate/strange Fake - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 78,
+            "url": "https://www.reddit.com/r/anime/comments/1q32kvx/fatestrange_fake_episode_1_discussion/",
+            "archived_at": "2026-01-03 22:42:48"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "199446": {
+      "id": 199446,
+      "name_jp": "最推しの義兄を愛でるため、長生きします！",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q32bsu/saioshi_no_gikei_wo_mederu_tame_nagaiki_shimasu/",
+            "reddit_title": "Saioshi no Gikei wo Mederu tame, Nagaiki Shimasu! - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 9,
+            "url": "https://www.reddit.com/r/anime/comments/1q32bsu/saioshi_no_gikei_wo_mederu_tame_nagaiki_shimasu/",
+            "archived_at": "2026-01-03 22:42:48"
+          }
+        ]
+      },
+      "latest_episode": 1
     }
   }
 }
