@@ -159,32 +159,5 @@ def main():
     with open("data/matched_results.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    # Also create a filtered file containing only posts that mention "Episode XX"
-    # and keep only the entry with the largest episode number for each matched_anime_id.
-    ep_re = re.compile(r"Episode\s+(\d+)\s+discussion", re.IGNORECASE)
-    ep_map = {}
-    for entry in results:
-        title = entry.get("reddit_title", "")
-        nums = [int(n) for n in ep_re.findall(title)]
-        if not nums:
-            continue
-        ep = max(nums)
-        key = entry["matched_anime_id"]
-        cur = ep_map.get(key)
-        if cur is None or ep > cur[0]:
-            ep_map[key] = (ep, entry)
-
-    latest_episode_results = []
-    for v in ep_map.values():
-        entry = v[1].copy()
-        entry["episode"] = v[0]
-        # ensure season/year are present in the latest file as well
-        entry["seasonYear"] = entry.get("seasonYear")
-        entry["season"] = entry.get("season")
-        latest_episode_results.append(entry)
-
-    with open("data/matched_results_latest-Episode.json", "w", encoding="utf-8") as f:
-        json.dump(latest_episode_results, f, ensure_ascii=False, indent=2)
-
 if __name__ == "__main__":
     main()
