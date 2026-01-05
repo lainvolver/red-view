@@ -52,7 +52,7 @@ def _japanese_title_from_anilist(anime: dict) -> str:
     return anime.get("romaji") or anime.get("english") or ""
 
 def archive_reddit_latest(
-    matched_path: str = "data/matched_results_latest-Episode.json",
+    matched_path: str = "data/matched_results.json",
     anilist_path: str = "data/anilist.json",
     out_dir: str = "data/reddit",
 ):
