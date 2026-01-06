@@ -125,6 +125,11 @@ def archive_reddit_latest(
         if ep is None:
             ep = _extract_episode(reddit_title)
 
+        # Skip if not a discussion thread or no episode number found
+        if "discussion" not in reddit_title.lower() or ep is None:
+            summary["skipped_invalid"] += 1
+            continue
+
         year = int(sy)
         idx = SEASON_ORDER.get(season.upper(), None)
         if idx is None:
