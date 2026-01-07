@@ -354,7 +354,7 @@
   {
     "id": 191718,
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-    "english": "ROLL OVER AND DIE",
+    "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -580,6 +580,14 @@
     "romaji": "GelPiyo",
     "english": null,
     "native": "ゲルぴよ",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "id": 205676,
+    "romaji": "Black Jack Yanen",
+    "english": null,
+    "native": "ブラックジャックやねん",
     "seasonYear": 2026,
     "season": "WINTER"
   },
