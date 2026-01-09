@@ -158,9 +158,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q4zjge/rewatch_jigokuraku_hells_paradise_episode_9/",
             "archived_at": "2026-01-09 01:18:15"
           }
+        ],
+        "13": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8lpkr/rewatch_jigokuraku_hells_paradise_episode_13/",
+            "reddit_title": "[Rewatch] Jigokuraku • Hell's Paradise Episode 13 Discussion",
+            "created_utc": null,
+            "num_comments": 11,
+            "url": "https://www.reddit.com/r/anime/comments/1q8lpkr/rewatch_jigokuraku_hells_paradise_episode_13/",
+            "archived_at": "2026-01-09 22:50:13"
+          }
         ]
       },
-      "latest_episode": 12
+      "latest_episode": 13
     },
     "199112": {
       "id": 199112,
@@ -1051,6 +1061,63 @@
             "num_comments": 201,
             "url": "https://www.reddit.com/r/anime/comments/1q4lwpe/kirei_ni_shitemoraemasu_ka_wash_it_all_away/",
             "archived_at": "2026-01-09 14:26:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "192867": {
+      "id": 192867,
+      "name_jp": "アンドロイドは経験人数に入りますか？？",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8dwdq/android_wa_keiken_ninzuu_ni_hairimasu_ka_does_it/",
+            "reddit_title": "Android wa Keiken Ninzuu ni Hairimasu ka?? • Does It Count If You Lose Your Virginity to an Android? - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 109,
+            "url": "https://www.reddit.com/r/anime/comments/1q8dwdq/android_wa_keiken_ninzuu_ni_hairimasu_ka_does_it/",
+            "archived_at": "2026-01-09 22:50:13"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "179062": {
+      "id": 179062,
+      "name_jp": "炎炎ノ消防隊 参ノ章 第2クール",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "13": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8fjkp/enen_no_shouboutai_san_no_shou_fire_force_season/",
+            "reddit_title": "Enen no Shouboutai: San no Shou • Fire Force Season 3 - Episode 13 discussion",
+            "created_utc": null,
+            "num_comments": 79,
+            "url": "https://www.reddit.com/r/anime/comments/1q8fjkp/enen_no_shouboutai_san_no_shou_fire_force_season/",
+            "archived_at": "2026-01-09 22:50:13"
+          }
+        ]
+      },
+      "latest_episode": 13
+    },
+    "185262": {
+      "id": 185262,
+      "name_jp": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8dea5/hell_mode_yarikomizuki_no_gamer_wa_hai_settei_no/",
+            "reddit_title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru • Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 101,
+            "url": "https://www.reddit.com/r/anime/comments/1q8dea5/hell_mode_yarikomizuki_no_gamer_wa_hai_settei_no/",
+            "archived_at": "2026-01-09 22:50:13"
           }
         ]
       },
