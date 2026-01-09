@@ -19,9 +19,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q15kji/mf_ghost_season_3_episode_1_discussion/",
             "archived_at": "2026-01-08 14:25:22"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7dgmo/mf_ghost_season_3_episode_2_discussion/",
+            "reddit_title": "MF Ghost Season 3 - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 48,
+            "url": "https://www.reddit.com/r/anime/comments/1q7dgmo/mf_ghost_season_3_episode_2_discussion/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "166613": {
       "id": 166613,
@@ -108,9 +118,49 @@
             "url": "https://www.reddit.com/r/anime/comments/1py3tn1/rewatch_jigokuraku_hells_paradise_episode_1/",
             "archived_at": "2026-01-05 11:49:34"
           }
+        ],
+        "12": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7ph85/rewatch_jigokuraku_hells_paradise_episode_12/",
+            "reddit_title": "[Rewatch] Jigokuraku • Hell's Paradise Episode 12 Discussion",
+            "created_utc": null,
+            "num_comments": 24,
+            "url": "https://www.reddit.com/r/anime/comments/1q7ph85/rewatch_jigokuraku_hells_paradise_episode_12/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ],
+        "11": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6t29h/rewatch_jigokuraku_hells_paradise_episode_11/",
+            "reddit_title": "[Rewatch] Jigokuraku • Hell's Paradise Episode 11 Discussion",
+            "created_utc": null,
+            "num_comments": 36,
+            "url": "https://www.reddit.com/r/anime/comments/1q6t29h/rewatch_jigokuraku_hells_paradise_episode_11/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ],
+        "10": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5wivy/rewatch_jigokuraku_hells_paradise_episode_10/",
+            "reddit_title": "[Rewatch] Jigokuraku • Hell's Paradise Episode 10 Discussion",
+            "created_utc": null,
+            "num_comments": 51,
+            "url": "https://www.reddit.com/r/anime/comments/1q5wivy/rewatch_jigokuraku_hells_paradise_episode_10/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ],
+        "9": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q4zjge/rewatch_jigokuraku_hells_paradise_episode_9/",
+            "reddit_title": "[Rewatch] Jigokuraku • Hell's Paradise Episode 9 Discussion",
+            "created_utc": null,
+            "num_comments": 47,
+            "url": "https://www.reddit.com/r/anime/comments/1q4zjge/rewatch_jigokuraku_hells_paradise_episode_9/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
         ]
       },
-      "latest_episode": 8
+      "latest_episode": 12
     },
     "199112": {
       "id": 199112,
@@ -186,9 +236,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q0gfds/tamonkun_ima_docchi_tamons_bside_episode_1/",
             "archived_at": "2026-01-08 14:25:47"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6jbim/tamonkun_ima_docchi_tamons_bside_episode_2/",
+            "reddit_title": "Tamon-kun Ima Docchi!? • Tamon's B-Side - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 130,
+            "url": "https://www.reddit.com/r/anime/comments/1q6jbim/tamonkun_ima_docchi_tamons_bside_episode_2/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "187264": {
       "id": 187264,
@@ -205,9 +265,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q0f5ow/yuusha_party_wo_oidasareta_kiyou_binbou/",
             "archived_at": "2026-01-08 14:25:50"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6ho5p/yuusha_party_wo_oidasareta_kiyou_binbou/",
+            "reddit_title": "Yuusha Party wo Oidasareta Kiyou binbou • Jack-of-All-Trades, Party of None - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 173,
+            "url": "https://www.reddit.com/r/anime/comments/1q6ho5p/yuusha_party_wo_oidasareta_kiyou_binbou/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "182255": {
       "id": 182255,
@@ -514,6 +584,473 @@
             "num_comments": 61,
             "url": "https://www.reddit.com/r/anime/comments/1q3s2x9/goumon_baitokun_no_nichijou_the_daily_life_of_a/",
             "archived_at": "2026-01-07 14:25:13"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "172463": {
+      "id": 172463,
+      "name_jp": "呪術廻戦 死滅回游 前編",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7gj2q/jujutsu_kaisen_shimetsu_kaiyu_zenpen_jujutsu/",
+            "reddit_title": "Jujutsu Kaisen Shimetsu Kaiyu Zenpen • Jujutsu Kaisen The Culling Game - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 309,
+            "url": "https://www.reddit.com/r/anime/comments/1q7gj2q/jujutsu_kaisen_shimetsu_kaiyu_zenpen_jujutsu/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ],
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7gj2i/jujutsu_kaisen_shimetsu_kaiyu_zenpen_jujutsu/",
+            "reddit_title": "Jujutsu Kaisen Shimetsu Kaiyu Zenpen • Jujutsu Kaisen The Culling Game - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 253,
+            "url": "https://www.reddit.com/r/anime/comments/1q7gj2i/jujutsu_kaisen_shimetsu_kaiyu_zenpen_jujutsu/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "176276": {
+      "id": 176276,
+      "name_jp": "魔都精兵のスレイブ2",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7euf2/mato_seihei_no_slave_season_2_chained_soldier/",
+            "reddit_title": "Mato Seihei no Slave Season 2 • Chained Soldier Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 147,
+            "url": "https://www.reddit.com/r/anime/comments/1q7euf2/mato_seihei_no_slave_season_2_chained_soldier/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "183270": {
+      "id": 183270,
+      "name_jp": "エリスの聖杯",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7e2lt/eris_no_seihai_the_holy_grail_of_eris_episode_1/",
+            "reddit_title": "Eris no Seihai • The Holy Grail of Eris - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 164,
+            "url": "https://www.reddit.com/r/anime/comments/1q7e2lt/eris_no_seihai_the_holy_grail_of_eris_episode_1/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "191718": {
+      "id": 191718,
+      "name_jp": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7fsvc/omae_gotoki_ga_maou_ni_kateru_to_omouna_to_yuusha/",
+            "reddit_title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai • Roll Over And Die - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 182,
+            "url": "https://www.reddit.com/r/anime/comments/1q7fsvc/omae_gotoki_ga_maou_ni_kateru_to_omouna_to_yuusha/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "185514": {
+      "id": 185514,
+      "name_jp": "シャンピニオンの魔女",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7j1rw/champignon_no_majo_champignon_witch_episode_1/",
+            "reddit_title": "Champignon no Majo • Champignon Witch - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 50,
+            "url": "https://www.reddit.com/r/anime/comments/1q7j1rw/champignon_no_majo_champignon_witch_episode_1/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7j1sc/champignon_no_majo_champignon_witch_episode_2/",
+            "reddit_title": "Champignon no Majo • Champignon Witch - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 39,
+            "url": "https://www.reddit.com/r/anime/comments/1q7j1sc/champignon_no_majo_champignon_witch_episode_2/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "185039": {
+      "id": 185039,
+      "name_jp": "透明男と人間女～そのうち夫婦になるふたり～",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7e2m7/toumei_otoko_to_ningen_onna_sonouchi_fuufu_ni/",
+            "reddit_title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari • The Invisible Man and His Soon-to-Be Wife - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 67,
+            "url": "https://www.reddit.com/r/anime/comments/1q7e2m7/toumei_otoko_to_ningen_onna_sonouchi_fuufu_ni/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "189137": {
+      "id": 189137,
+      "name_jp": "どうせ、恋してしまうんだ。Season 2",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q7hcpj/douse_koishite_shimaunda_season_2_anyway_im/",
+            "reddit_title": "Douse, Koishite Shimaunda. Season 2 • Anyway, I'm Falling in Love with You. Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 10,
+            "url": "https://www.reddit.com/r/anime/comments/1q7hcpj/douse_koishite_shimaunda_season_2_anyway_im/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "180746": {
+      "id": 180746,
+      "name_jp": "死亡遊戯で飯を食う。",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6gbbg/shibou_yuugi_de_meshi_wo_kuu_shiboyugi_playing/",
+            "reddit_title": "Shibou Yuugi de Meshi wo Kuu. • Shiboyugi: Playing Death Games to Put Food on the Table - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 554,
+            "url": "https://www.reddit.com/r/anime/comments/1q6gbbg/shibou_yuugi_de_meshi_wo_kuu_shiboyugi_playing/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "191205": {
+      "id": 191205,
+      "name_jp": "お気楽領主の楽しい領地防衛",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6essa/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/",
+            "reddit_title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni • Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 222,
+            "url": "https://www.reddit.com/r/anime/comments/1q6essa/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "192261": {
+      "id": 192261,
+      "name_jp": "29歳独身中堅冒険者の日常",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6exdn/29sai_dokushin_chuuken_boukensha_no_nichijou_an/",
+            "reddit_title": "29-sai Dokushin Chuuken Boukensha no Nichijou • An Adventurer's Daily Grind at Age 29 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 197,
+            "url": "https://www.reddit.com/r/anime/comments/1q6exdn/29sai_dokushin_chuuken_boukensha_no_nichijou_an/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "182771": {
+      "id": 182771,
+      "name_jp": "穏やか貴族の休暇のすすめ。",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6ho59/odayaka_kizoku_no_kyuuka_no_susume_a_gentle/",
+            "reddit_title": "Odayaka Kizoku no Kyuuka no Susume. • A Gentle Noble's Vacation Recommendation - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 118,
+            "url": "https://www.reddit.com/r/anime/comments/1q6ho59/odayaka_kizoku_no_kyuuka_no_susume_a_gentle/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "191967": {
+      "id": 191967,
+      "name_jp": "地獄先生ぬ～べ～ (2025) 第2クール",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "14": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q6js1o/jigoku_sensei_nube_2025_hell_teacher_jigoku/",
+            "reddit_title": "Jigoku Sensei Nube (2025) • Hell Teacher: Jigoku Sensei Nube - Episode 14 discussion",
+            "created_utc": null,
+            "num_comments": 14,
+            "url": "https://www.reddit.com/r/anime/comments/1q6js1o/jigoku_sensei_nube_2025_hell_teacher_jigoku/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 14
+    },
+    "187942": {
+      "id": 187942,
+      "name_jp": "真夜中ハートチューン",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5jf6v/mayonaka_heart_tune_tune_in_to_the_midnight_heart/",
+            "reddit_title": "Mayonaka Heart Tune • Tune In to the Midnight Heart - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 299,
+            "url": "https://www.reddit.com/r/anime/comments/1q5jf6v/mayonaka_heart_tune_tune_in_to_the_midnight_heart/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "195515": {
+      "id": 195515,
+      "name_jp": "勇者パーティーにかわいい子がいたので、告白してみた。",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5jkix/yuusha_party_ni_kawaii_ko_ga_ita_node_kokuhaku/",
+            "reddit_title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. • There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 242,
+            "url": "https://www.reddit.com/r/anime/comments/1q5jkix/yuusha_party_ni_kawaii_ko_ga_ita_node_kokuhaku/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "177679": {
+      "id": 177679,
+      "name_jp": "ダーウィン事変",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5lwny/darwin_jihen_the_darwin_incident_episode_1/",
+            "reddit_title": "Darwin Jihen • The Darwin Incident - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 215,
+            "url": "https://www.reddit.com/r/anime/comments/1q5lwny/darwin_jihen_the_darwin_incident_episode_1/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "194742": {
+      "id": 194742,
+      "name_jp": "魔王の娘は優しすぎる!!",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5l6c3/maou_no_musume_wa_yasashisugiru_the_demon_kings/",
+            "reddit_title": "Maou no Musume wa Yasashisugiru!! • The Demon King's Daughter is Too Kind!! - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 112,
+            "url": "https://www.reddit.com/r/anime/comments/1q5l6c3/maou_no_musume_wa_yasashisugiru_the_demon_kings/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5l6ci/maou_no_musume_wa_yasashisugiru_the_demon_kings/",
+            "reddit_title": "Maou no Musume wa Yasashisugiru!! • The Demon King's Daughter is Too Kind!! - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 44,
+            "url": "https://www.reddit.com/r/anime/comments/1q5l6ci/maou_no_musume_wa_yasashisugiru_the_demon_kings/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "183661": {
+      "id": 183661,
+      "name_jp": "異世界の沙汰は社畜次第",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5k6bx/isekai_no_sata_wa_shachiku_shidai_isekai_office/",
+            "reddit_title": "Isekai no Sata wa Shachiku Shidai • Isekai Office Worker: The Other World's Books Depend on the Bean Counter - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 295,
+            "url": "https://www.reddit.com/r/anime/comments/1q5k6bx/isekai_no_sata_wa_shachiku_shidai_isekai_office/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "183984": {
+      "id": 183984,
+      "name_jp": "アルネの事件簿",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5p1yi/arne_no_jikenbo_the_case_book_of_arne_episode_1/",
+            "reddit_title": "Arne no Jikenbo • The Case Book of Arne - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 96,
+            "url": "https://www.reddit.com/r/anime/comments/1q5p1yi/arne_no_jikenbo_the_case_book_of_arne_episode_1/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "194318": {
+      "id": 194318,
+      "name_jp": "鎧真伝サムライトルーパー",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q5kxpv/yoroishinden_samurai_troopers_episode_1_discussion/",
+            "reddit_title": "Yoroi-Shinden Samurai Troopers - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 148,
+            "url": "https://www.reddit.com/r/anime/comments/1q5kxpv/yoroishinden_samurai_troopers_episode_1_discussion/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "195322": {
+      "id": 195322,
+      "name_jp": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q4mh08/vigilante_boku_no_hero_academia_illegals_season_2/",
+            "reddit_title": "Vigilante: Boku no Hero Academia Illegals Season 2 • My Hero Academia: Vigilantes Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 176,
+            "url": "https://www.reddit.com/r/anime/comments/1q4mh08/vigilante_boku_no_hero_academia_illegals_season_2/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "189565": {
+      "id": 189565,
+      "name_jp": "幼馴染とはラブコメにならない",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q4pr5g/osananajimi_to_wa_lovecom_ni_naranai_you_cant_be/",
+            "reddit_title": "Osananajimi to wa LoveCom ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends! - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 175,
+            "url": "https://www.reddit.com/r/anime/comments/1q4pr5g/osananajimi_to_wa_lovecom_ni_naranai_you_cant_be/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "166521": {
+      "id": 166521,
+      "name_jp": "ゴールデンカムイ 最終章",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "50": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q4n7a5/golden_kamuy_saishuushou_golden_kamuy_final/",
+            "reddit_title": "Golden Kamuy (Saishuushou) • Golden Kamuy Final Season - Episode 50 discussion",
+            "created_utc": null,
+            "num_comments": 116,
+            "url": "https://www.reddit.com/r/anime/comments/1q4n7a5/golden_kamuy_saishuushou_golden_kamuy_final/",
+            "archived_at": "2026-01-09 01:18:15"
+          }
+        ]
+      },
+      "latest_episode": 50
+    },
+    "194028": {
+      "id": 194028,
+      "name_jp": "綺麗にしてもらえますか。",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q4lwpe/kirei_ni_shitemoraemasu_ka_wash_it_all_away/",
+            "reddit_title": "Kirei ni Shitemoraemasu ka. • Wash It All Away - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 199,
+            "url": "https://www.reddit.com/r/anime/comments/1q4lwpe/kirei_ni_shitemoraemasu_ka_wash_it_all_away/",
+            "archived_at": "2026-01-09 01:18:15"
           }
         ]
       },
