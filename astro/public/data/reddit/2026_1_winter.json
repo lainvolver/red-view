@@ -413,9 +413,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1pwtycn/ao_no_miburo_serizawa_ansatsuhen_blue_miburo/",
             "archived_at": "2026-01-04 06:39:25"
           }
+        ],
+        "3": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8zyn4/ao_no_miburo_serizawa_ansatsuhen_blue_miburo/",
+            "reddit_title": "Ao no Miburo: Serizawa Ansatsu-hen • Blue Miburo Season 2 - Episode 3 discussion",
+            "created_utc": null,
+            "num_comments": 12,
+            "url": "https://www.reddit.com/r/anime/comments/1q8zyn4/ao_no_miburo_serizawa_ansatsuhen_blue_miburo/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
         ]
       },
-      "latest_episode": 2
+      "latest_episode": 3
     },
     "167152": {
       "id": 167152,
@@ -451,9 +461,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q32kvx/fatestrange_fake_episode_1_discussion/",
             "archived_at": "2026-01-10 06:38:23"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q97v2e/fatestrange_fake_episode_2_discussion/",
+            "reddit_title": "Fate/strange Fake - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 366,
+            "url": "https://www.reddit.com/r/anime/comments/1q97v2e/fatestrange_fake_episode_2_discussion/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "199446": {
       "id": 199446,
@@ -470,9 +490,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1q32bsu/saioshi_no_gikei_wo_mederu_tame_nagaiki_shimasu/",
             "archived_at": "2026-01-05 14:25:26"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q9asno/saioshi_no_gikei_wo_mederu_tame_nagaiki_shimasu/",
+            "reddit_title": "Saioshi no Gikei wo Mederu tame, Nagaiki Shimasu! - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1q9asno/saioshi_no_gikei_wo_mederu_tame_nagaiki_shimasu/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "177385": {
       "id": 177385,
@@ -1118,6 +1148,139 @@
             "num_comments": 177,
             "url": "https://www.reddit.com/r/anime/comments/1q8dea5/hell_mode_yarikomizuki_no_gamer_wa_hai_settei_no/",
             "archived_at": "2026-01-10 14:21:28"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "163144": {
+      "id": 163144,
+      "name_jp": "TRIGUN STARGAZE",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q96cq5/trigun_stargaze_episode_1_discussion/",
+            "reddit_title": "Trigun Stargaze - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 71,
+            "url": "https://www.reddit.com/r/anime/comments/1q96cq5/trigun_stargaze_episode_1_discussion/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "187989": {
+      "id": 187989,
+      "name_jp": "勇者のクズ",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q98myg/yuusha_no_kuzu_scum_of_the_brave_episode_1/",
+            "reddit_title": "Yuusha no Kuzu • Scum of the Brave - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 52,
+            "url": "https://www.reddit.com/r/anime/comments/1q98myg/yuusha_no_kuzu_scum_of_the_brave_episode_1/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "187941": {
+      "id": 187941,
+      "name_jp": "転生したらドラゴンの卵だった",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q93l7s/tensei_shitara_dragon_no_tamago_datta/",
+            "reddit_title": "Tensei shitara Dragon no Tamago datta • Reincarnated as a Dragon Hatchling - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 119,
+            "url": "https://www.reddit.com/r/anime/comments/1q93l7s/tensei_shitara_dragon_no_tamago_datta/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "198374": {
+      "id": 198374,
+      "name_jp": "人外教室の人間嫌い教師",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q9739w/jingai_kyoushitsu_no_ningengirai_kyoushi_a/",
+            "reddit_title": "Jingai Kyoushitsu no Ningengirai Kyoushi • A Misanthrope Teaches a Class for Demi-Humans - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 56,
+            "url": "https://www.reddit.com/r/anime/comments/1q9739w/jingai_kyoushitsu_no_ningengirai_kyoushi_a/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "187901": {
+      "id": 187901,
+      "name_jp": "デッドアカウント",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q96cpt/dead_account_episode_1_discussion/",
+            "reddit_title": "Dead Account - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 60,
+            "url": "https://www.reddit.com/r/anime/comments/1q96cpt/dead_account_episode_1_discussion/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "203296": {
+      "id": 203296,
+      "name_jp": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8u3qo/cardfight_vanguard_divinez_genma_seisenhen/",
+            "reddit_title": "CARDFIGHT!! VANGUARD Divinez Genma Seisen-hen • CARDFIGHT!! VANGUARD Divinez Parallactic Clash - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1q8u3qo/cardfight_vanguard_divinez_genma_seisenhen/",
+            "archived_at": "2026-01-10 22:48:43"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "181443": {
+      "id": 181443,
+      "name_jp": "DARK MOON　-黒の月: 月の祭壇-",
+      "seasonYear": 2026,
+      "season": "WINTER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1q8d2lg/dark_moon_tsuki_no_saidan_dark_moon_the_blood/",
+            "reddit_title": "Dark Moon: Tsuki no Saidan • Dark Moon: The Blood Altar - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 58,
+            "url": "https://www.reddit.com/r/anime/comments/1q8d2lg/dark_moon_tsuki_no_saidan_dark_moon_the_blood/",
+            "archived_at": "2026-01-10 22:48:43"
           }
         ]
       },
