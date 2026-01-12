@@ -177,16 +177,18 @@ def archive_reddit_latest(
             "archived_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         }
 
-        # ensure list exists
-        if ep_key not in anime_entry["episodes"]:
-            anime_entry["episodes"][ep_key] = []
+        # Get the list of existing posts for the episode, if any.
+        existing_posts = anime_entry["episodes"].get(ep_key)
 
-        # dedupe by reddit_id/url
-        if any(p.get("reddit_id") == rid or (p.get("url") and p.get("url") == post_record.get("url")) for p in anime_entry["episodes"][ep_key]):
-            # already present
+        # If there are existing posts and the URL of the first one matches the new one,
+        # then there's no change, so we can skip processing this entry.
+        if existing_posts and existing_posts[0].get("url") == post_record.get("url"):
             continue
 
-        anime_entry["episodes"][ep_key].append(post_record)
+        # Otherwise, this is either a completely new episode record, or an existing
+        # one with an updated URL. In both cases, we overwrite the entry to store
+        # the latest post. The list structure is kept for compatibility.
+        anime_entry["episodes"][ep_key] = [post_record]
 
         # update latest_episode numeric if applicable
         try:
