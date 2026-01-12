@@ -58,28 +58,27 @@ def get_current_season_anime(save_path: str | None = "data/anilist.json",
     prev = _prev_season(season, year)
     seasons.append(prev)
 
-    format_list_token = _format_list_token(format_filters)
+    format_list = [_enum_token(f) for f in format_filters]
 
     titles = []
     seen_ids = set()
 
-    for sy, ss in seasons:
-      media_filter = f"media(type: ANIME, format_in: {format_list_token}, season: {ss}, seasonYear: {sy})"
-      query = f"""
-      query ($page:Int,$perPage:Int) {{
-        Page(page: $page, perPage: $perPage) {{
-          {media_filter} {{
-            id
-            title {{
-              romaji
-              english
-              native
-            }}
-          }}
-        }}
-      }}
-      """
+    query = """
+    query ($page:Int, $perPage:Int, $season: MediaSeason, $seasonYear: Int, $format_in: [MediaFormat]) {
+      Page(page: $page, perPage: $perPage) {
+        media(type: ANIME, format_in: $format_in, season: $season, seasonYear: $seasonYear) {
+          id
+          title {
+            romaji
+            english
+            native
+          }
+        }
+      }
+    }
+    """
 
+    for sy, ss in seasons:
       page = 1
       per_page = 50
 
@@ -87,6 +86,9 @@ def get_current_season_anime(save_path: str | None = "data/anilist.json",
         variables = {
           "page": page,
           "perPage": per_page,
+          "season": ss,
+          "seasonYear": sy,
+          "format_in": format_list,
         }
 
         # Debug: print the query and variables for the first page of each season
