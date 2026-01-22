@@ -3,7 +3,7 @@ name: Update json comments daily
 on:
   schedule:
     - cron: '0 6 * * *'   # UTCで毎日 6:00（日本時間15:00）に実行。必要に応じて変更してね
-    - cron: '0 14 * * *'  # UTCで毎日14:00（日本時間23:00）に実行。必要に応じて変更してね
+    # - cron: '0 14 * * *'  # UTCで毎日14:00（日本時間23:00）に実行。必要に応じて変更してね
   workflow_dispatch: {}  # 手動実行も可
 
 permissions:
