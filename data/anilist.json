@@ -64,6 +64,14 @@
     "season": "WINTER"
   },
   {
+    "id": 176509,
+    "romaji": "BAKI-DOU",
+    "english": "BAKI-DOU: The Invincible Samurai",
+    "native": "刃牙道",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
     "id": 177385,
     "romaji": "Ikoku Nikki",
     "english": "Journal with Witch",
@@ -530,7 +538,7 @@
   {
     "id": 202957,
     "romaji": "Meitantei Precure!",
-    "english": null,
+    "english": "Star Detective Precure!",
     "native": "名探偵プリキュア！",
     "seasonYear": 2026,
     "season": "WINTER"
