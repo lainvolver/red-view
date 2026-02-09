@@ -1,10 +1,80 @@
 [
   {
+    "reddit_title": "Suzuki is desperately in love [You and I are polar opposites!]",
+    "matched_anime_id": 184951,
+    "matched_anime_native": "正反対な君と僕",
+    "score": 100.0,
+    "num_comments": 178,
+    "url": "https://v.redd.it/wafdq1jvugig1",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Vigilante: Boku no Hero Academia Illegals Season 2 • My Hero Academia: Vigilantes Season 2 - Episode 6 discussion",
+    "matched_anime_id": 195322,
+    "matched_anime_native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "score": 100.0,
+    "num_comments": 79,
+    "url": "https://www.reddit.com/r/anime/comments/1r053ej/vigilante_boku_no_hero_academia_illegals_season_2/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Golden Kamuy (Saishuushou) • Golden Kamuy Final Season - Episode 55 discussion",
+    "matched_anime_id": 166521,
+    "matched_anime_native": "ゴールデンカムイ 最終章",
+    "score": 100.0,
+    "num_comments": 68,
+    "url": "https://www.reddit.com/r/anime/comments/1r05tuv/golden_kamuy_saishuushou_golden_kamuy_final/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Hime-sama \"Goumon\" no Jikan desu Season 2 • 'Tis Time for \"Torture,\" Princess - Episode 5 discussion",
+    "matched_anime_id": 176370,
+    "matched_anime_native": "姫様“拷問”の時間です 第2期",
+    "score": 94.87179487179486,
+    "num_comments": 47,
+    "url": "https://www.reddit.com/r/anime/comments/1r0878e/himesama_goumon_no_jikan_desu_season_2_tis_time/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Osananajimi to wa LoveCom ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends! - Episode 6 discussion",
+    "matched_anime_id": 189565,
+    "matched_anime_native": "幼馴染とはラブコメにならない",
+    "score": 100.0,
+    "num_comments": 35,
+    "url": "https://www.reddit.com/r/anime/comments/1r08125/osananajimi_to_wa_lovecom_ni_naranai_you_cant_be/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Kirei ni Shitemoraemasu ka. • Wash It All Away - Episode 6 discussion",
+    "matched_anime_id": 194028,
+    "matched_anime_native": "綺麗にしてもらえますか。",
+    "score": 100.0,
+    "num_comments": 77,
+    "url": "https://www.reddit.com/r/anime/comments/1r04e20/kirei_ni_shitemoraemasu_ka_wash_it_all_away/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Can’t say no (Cosmic Princess Kaguya)",
+    "matched_anime_id": 201903,
+    "matched_anime_native": "超かぐや姫！",
+    "score": 100.0,
+    "num_comments": 20,
+    "url": "https://v.redd.it/uedpkow44eig1",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
     "reddit_title": "Jigokuraku Season 2 • Hell's Paradise Season 2 - Episode 5 discussion",
     "matched_anime_id": 166613,
     "matched_anime_native": "地獄楽 第二期",
     "score": 100.0,
-    "num_comments": 139,
+    "num_comments": 193,
     "url": "https://www.reddit.com/r/anime/comments/1qzbjj4/jigokuraku_season_2_hells_paradise_season_2/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -14,7 +84,7 @@
     "matched_anime_id": 177385,
     "matched_anime_native": "違国日記",
     "score": 100.0,
-    "num_comments": 241,
+    "num_comments": 403,
     "url": "https://www.reddit.com/r/anime/comments/1qzc039/ikoku_nikki_journal_with_witch_episode_6/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -24,7 +94,7 @@
     "matched_anime_id": 184951,
     "matched_anime_native": "正反対な君と僕",
     "score": 100.0,
-    "num_comments": 386,
+    "num_comments": 500,
     "url": "https://www.reddit.com/r/anime/comments/1qz3rle/seihantai_na_kimi_to_boku_you_and_i_are_polar/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -34,17 +104,27 @@
     "matched_anime_id": 198117,
     "matched_anime_native": "ガングリオン",
     "score": 87.5,
-    "num_comments": 6,
+    "num_comments": 16,
     "url": "https://i.redd.it/2jdinmglvaig1.png",
     "seasonYear": 2025,
     "season": "FALL"
+  },
+  {
+    "reddit_title": "Hokuto no Ken: Kenougun Zako-tachi no Banka • Elegy for the Henchmen: Fist of the North Star - Episode 5 discussion",
+    "matched_anime_id": 198720,
+    "matched_anime_native": "北斗の拳 拳王軍ザコたちの挽歌",
+    "score": 98.82352941176471,
+    "num_comments": 2,
+    "url": "https://www.reddit.com/r/anime/comments/1r02hf2/hokuto_no_ken_kenougun_zakotachi_no_banka_elegy/",
+    "seasonYear": 2026,
+    "season": "WINTER"
   },
   {
     "reddit_title": "Majutsushi Kunon wa Mieteiru • Kunon the Sorcerer Can See - Episode 7 discussion",
     "matched_anime_id": 186333,
     "matched_anime_native": "魔術師クノンは見えている",
     "score": 100.0,
-    "num_comments": 63,
+    "num_comments": 104,
     "url": "https://www.reddit.com/r/anime/comments/1qz9sdk/majutsushi_kunon_wa_mieteiru_kunon_the_sorcerer/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -54,7 +134,7 @@
     "matched_anime_id": 185993,
     "matched_anime_native": "貴族転生 ～恵まれた生まれから最強の力を得る～",
     "score": 100.0,
-    "num_comments": 71,
+    "num_comments": 132,
     "url": "https://www.reddit.com/r/anime/comments/1qzb8ik/kizoku_tensei_megumareta_umare_kara_saikyou_no/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -64,7 +144,7 @@
     "matched_anime_id": 177580,
     "matched_anime_native": "花ざかりの君たちへ",
     "score": 100.0,
-    "num_comments": 21,
+    "num_comments": 38,
     "url": "https://www.reddit.com/r/anime/comments/1qz9sf6/hanazakari_no_kimitachi_e_hanakimi_episode_7/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -74,7 +154,7 @@
     "matched_anime_id": 183660,
     "matched_anime_native": "カヤちゃんはコワくない",
     "score": 100.0,
-    "num_comments": 108,
+    "num_comments": 157,
     "url": "https://www.reddit.com/r/anime/comments/1qz3rly/kayachan_wa_kowakunai_kayachan_isnt_scary_episode/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -84,7 +164,7 @@
     "matched_anime_id": 195518,
     "matched_anime_native": "悪役令嬢は隣国の王太子に溺愛される",
     "score": 100.0,
-    "num_comments": 20,
+    "num_comments": 39,
     "url": "https://www.reddit.com/r/anime/comments/1qzahv2/akuyaku_reijou_wa_ringoku_no_outaishi_ni_dekiai/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -104,8 +184,18 @@
     "matched_anime_id": 192507,
     "matched_anime_native": "うるわしの宵の月",
     "score": 100.0,
-    "num_comments": 36,
+    "num_comments": 57,
     "url": "https://www.reddit.com/r/anime/comments/1qz39t6/uruwashi_no_yoi_no_tsuki_in_the_clear_moonlit/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "I completed watching “Love Through A Prism” yesterday and wanted to share my thought with someone haha (Spoilers in the body)",
+    "matched_anime_id": 202955,
+    "matched_anime_native": "プリズム輪舞曲",
+    "score": 100.0,
+    "num_comments": 4,
+    "url": "https://www.reddit.com/r/anime/comments/1qzzle2/i_completed_watching_love_through_a_prism/",
     "seasonYear": 2026,
     "season": "WINTER"
   },
@@ -114,7 +204,7 @@
     "matched_anime_id": 166617,
     "matched_anime_native": "Fate/strange Fake",
     "score": 100.0,
-    "num_comments": 690,
+    "num_comments": 716,
     "url": "https://www.reddit.com/r/anime/comments/1qyhk5z/fatestrange_fake_episode_6_discussion/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -124,18 +214,8 @@
     "matched_anime_id": 197731,
     "matched_anime_native": "拷問バイトくんの日常",
     "score": 100.0,
-    "num_comments": 15,
+    "num_comments": 18,
     "url": "https://www.reddit.com/r/anime/comments/1qzb8jt/goumon_baitokun_no_nichijou_the_daily_life_of_a/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Medalist Season 2 - Episode 3 discussion",
-    "matched_anime_id": 189275,
-    "matched_anime_native": "メダリスト 第2期",
-    "score": 100.0,
-    "num_comments": 124,
-    "url": "https://www.reddit.com/r/anime/comments/1qyk7za/medalist_season_2_episode_3_discussion/",
     "seasonYear": 2026,
     "season": "WINTER"
   },
@@ -144,17 +224,27 @@
     "matched_anime_id": 188388,
     "matched_anime_native": "DIGIMON BEATBREAK",
     "score": 100.0,
-    "num_comments": 19,
+    "num_comments": 22,
     "url": "https://www.reddit.com/r/anime/comments/1qyxony/digimon_beatbreak_episode_18_discussion/",
     "seasonYear": 2025,
     "season": "FALL"
+  },
+  {
+    "reddit_title": "Medalist Season 2 - Episode 3 discussion",
+    "matched_anime_id": 189275,
+    "matched_anime_native": "メダリスト 第2期",
+    "score": 100.0,
+    "num_comments": 136,
+    "url": "https://www.reddit.com/r/anime/comments/1qyk7za/medalist_season_2_episode_3_discussion/",
+    "seasonYear": 2026,
+    "season": "WINTER"
   },
   {
     "reddit_title": "Gnosia - Episode 17 discussion",
     "matched_anime_id": 185116,
     "matched_anime_native": "グノーシア",
     "score": 100.0,
-    "num_comments": 228,
+    "num_comments": 232,
     "url": "https://www.reddit.com/r/anime/comments/1qyicd1/gnosia_episode_17_discussion/",
     "seasonYear": 2025,
     "season": "FALL"
@@ -164,7 +254,7 @@
     "matched_anime_id": 187464,
     "matched_anime_native": "東島丹三郎は仮面ライダーになりたい",
     "score": 100.0,
-    "num_comments": 128,
+    "num_comments": 146,
     "url": "https://www.reddit.com/r/anime/comments/1qyj40s/toujima_tanzaburou_wa_kamen_rider_ni_naritai/",
     "seasonYear": 2025,
     "season": "FALL"
@@ -174,18 +264,8 @@
     "matched_anime_id": 163144,
     "matched_anime_native": "TRIGUN STARGAZE",
     "score": 100.0,
-    "num_comments": 30,
+    "num_comments": 36,
     "url": "https://www.reddit.com/r/anime/comments/1qyg6rj/trigun_stargaze_episode_5_discussion/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Yuusha no Kuzu • Scum of the Brave - Episode 5 discussion",
-    "matched_anime_id": 187989,
-    "matched_anime_native": "勇者のクズ",
-    "score": 100.0,
-    "num_comments": 45,
-    "url": "https://www.reddit.com/r/anime/comments/1qyin4o/yuusha_no_kuzu_scum_of_the_brave_episode_5/",
     "seasonYear": 2026,
     "season": "WINTER"
   },
@@ -194,8 +274,18 @@
     "matched_anime_id": 202957,
     "matched_anime_native": "名探偵プリキュア！",
     "score": 100.0,
-    "num_comments": 35,
+    "num_comments": 37,
     "url": "https://www.reddit.com/r/anime/comments/1qyvqrq/meitantei_precure_star_detective_precure_episode/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "Yuusha no Kuzu • Scum of the Brave - Episode 5 discussion",
+    "matched_anime_id": 187989,
+    "matched_anime_native": "勇者のクズ",
+    "score": 100.0,
+    "num_comments": 48,
+    "url": "https://www.reddit.com/r/anime/comments/1qyin4o/yuusha_no_kuzu_scum_of_the_brave_episode_5/",
     "seasonYear": 2026,
     "season": "WINTER"
   },
@@ -204,18 +294,38 @@
     "matched_anime_id": 187941,
     "matched_anime_native": "転生したらドラゴンの卵だった",
     "score": 100.0,
-    "num_comments": 108,
+    "num_comments": 114,
     "url": "https://www.reddit.com/r/anime/comments/1qyd9fp/tensei_shitara_dragon_no_tamago_datta/",
     "seasonYear": 2026,
     "season": "WINTER"
+  },
+  {
+    "reddit_title": "SI-VIS: The Sound of Heroes - Episode 18 discussion",
+    "matched_anime_id": 196553,
+    "matched_anime_native": "SI-VIS: The Sound of Heroes",
+    "score": 100.0,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/anime/comments/1qywe4h/sivis_the_sound_of_heroes_episode_18_discussion/",
+    "seasonYear": 2025,
+    "season": "FALL"
   },
   {
     "reddit_title": "Jingai Kyoushitsu no Ningengirai Kyoushi • A Misanthrope Teaches a Class for Demi-Humans - Episode 5 discussion",
     "matched_anime_id": 198374,
     "matched_anime_native": "人外教室の人間嫌い教師",
     "score": 100.0,
-    "num_comments": 33,
+    "num_comments": 37,
     "url": "https://www.reddit.com/r/anime/comments/1qygsn8/jingai_kyoushitsu_no_ningengirai_kyoushi_a/",
+    "seasonYear": 2026,
+    "season": "WINTER"
+  },
+  {
+    "reddit_title": "More Than Just a Comfy Watch - The Demon King's Daughter is Too Kind!!",
+    "matched_anime_id": 194742,
+    "matched_anime_native": "魔王の娘は優しすぎる!!",
+    "score": 100.0,
+    "num_comments": 15,
+    "url": "https://www.reddit.com/r/anime/comments/1qyfshx/more_than_just_a_comfy_watch_the_demon_kings/",
     "seasonYear": 2026,
     "season": "WINTER"
   },
@@ -230,31 +340,11 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "SI-VIS: The Sound of Heroes - Episode 18 discussion",
-    "matched_anime_id": 196553,
-    "matched_anime_native": "SI-VIS: The Sound of Heroes",
-    "score": 100.0,
-    "num_comments": 7,
-    "url": "https://www.reddit.com/r/anime/comments/1qywe4h/sivis_the_sound_of_heroes_episode_18_discussion/",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "More Than Just a Comfy Watch - The Demon King's Daughter is Too Kind!!",
-    "matched_anime_id": 194742,
-    "matched_anime_native": "魔王の娘は優しすぎる!!",
-    "score": 100.0,
-    "num_comments": 15,
-    "url": "https://www.reddit.com/r/anime/comments/1qyfshx/more_than_just_a_comfy_watch_the_demon_kings/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
     "reddit_title": "Your feelings are nobody's business [Journal with Witch]",
     "matched_anime_id": 177385,
     "matched_anime_native": "違国日記",
     "score": 100.0,
-    "num_comments": 114,
+    "num_comments": 116,
     "url": "https://v.redd.it/dsob785k9xhg1",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -274,7 +364,7 @@
     "matched_anime_id": 187901,
     "matched_anime_native": "デッドアカウント",
     "score": 100.0,
-    "num_comments": 47,
+    "num_comments": 49,
     "url": "https://www.reddit.com/r/anime/comments/1qygsm9/dead_account_episode_5_discussion/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -284,7 +374,7 @@
     "matched_anime_id": 182255,
     "matched_anime_native": "葬送のフリーレン 第2期",
     "score": 100.0,
-    "num_comments": 767,
+    "num_comments": 781,
     "url": "https://www.reddit.com/r/anime/comments/1qxk236/sousou_no_frieren_season_2_frieren_beyond/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -294,7 +384,7 @@
     "matched_anime_id": 184951,
     "matched_anime_native": "正反対な君と僕",
     "score": 100.0,
-    "num_comments": 65,
+    "num_comments": 67,
     "url": "https://youtu.be/avCVBuAOPs4",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -314,7 +404,7 @@
     "matched_anime_id": 179062,
     "matched_anime_native": "炎炎ノ消防隊 参ノ章 第2クール",
     "score": 91.17647058823529,
-    "num_comments": 116,
+    "num_comments": 119,
     "url": "https://www.reddit.com/r/anime/comments/1qxo15k/enen_no_shouboutai_san_no_shou_fire_force_season/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -354,7 +444,7 @@
     "matched_anime_id": 185262,
     "matched_anime_native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
     "score": 100.0,
-    "num_comments": 104,
+    "num_comments": 106,
     "url": "https://www.reddit.com/r/anime/comments/1qxmihc/hell_mode_yarikomizuki_no_gamer_wa_hai_settei_no/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -404,7 +494,7 @@
     "matched_anime_id": 181443,
     "matched_anime_native": "DARK MOON　-黒の月: 月の祭壇-",
     "score": 100.0,
-    "num_comments": 27,
+    "num_comments": 28,
     "url": "https://www.reddit.com/r/anime/comments/1qxmiqv/dark_moon_tsuki_no_saidan_dark_moon_the_blood/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -414,7 +504,7 @@
     "matched_anime_id": 172463,
     "matched_anime_native": "呪術廻戦 死滅回游 前編",
     "score": 98.63013698630137,
-    "num_comments": 764,
+    "num_comments": 770,
     "url": "https://www.reddit.com/r/anime/comments/1qwpgxj/jujutsu_kaisen_shimetsu_kaiyu_zenpen_jujutsu/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -434,7 +524,7 @@
     "matched_anime_id": 167152,
     "matched_anime_native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
     "score": 100.0,
-    "num_comments": 349,
+    "num_comments": 355,
     "url": "https://www.reddit.com/r/anime/comments/1qwlgx6/yuushakei_ni_shosu_choubatsu_yuusha_9004tai_keimu/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -474,7 +564,7 @@
     "matched_anime_id": 176276,
     "matched_anime_native": "魔都精兵のスレイブ2",
     "score": 100.0,
-    "num_comments": 124,
+    "num_comments": 126,
     "url": "https://www.reddit.com/r/anime/comments/1qwoefj/mato_seihei_no_slave_season_2_chained_soldier/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -484,7 +574,7 @@
     "matched_anime_id": 187942,
     "matched_anime_native": "真夜中ハートチューン",
     "score": 98.24561403508771,
-    "num_comments": 125,
+    "num_comments": 127,
     "url": "https://v.redd.it/mf2inwdswlhg1",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -494,7 +584,7 @@
     "matched_anime_id": 191718,
     "matched_anime_native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
     "score": 99.53488372093024,
-    "num_comments": 206,
+    "num_comments": 208,
     "url": "https://www.reddit.com/r/anime/comments/1qwpb4l/omae_gotoki_ga_maou_ni_kateru_to_omouna_to_yuusha/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -514,7 +604,7 @@
     "matched_anime_id": 183270,
     "matched_anime_native": "エリスの聖杯",
     "score": 100.0,
-    "num_comments": 142,
+    "num_comments": 146,
     "url": "https://www.reddit.com/r/anime/comments/1qwnufv/eris_no_seihai_the_holy_grail_of_eris_episode_5/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -534,7 +624,7 @@
     "matched_anime_id": 185514,
     "matched_anime_native": "シャンピニオンの魔女",
     "score": 100.0,
-    "num_comments": 60,
+    "num_comments": 62,
     "url": "https://www.reddit.com/r/anime/comments/1qwthpr/champignon_no_majo_champignon_witch_episode_6/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -554,7 +644,7 @@
     "matched_anime_id": 172463,
     "matched_anime_native": "呪術廻戦 死滅回游 前編",
     "score": 85.39325842696628,
-    "num_comments": 16,
+    "num_comments": 17,
     "url": "https://i.redd.it/hl04a6wi6ohg1.jpeg",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -634,7 +724,7 @@
     "matched_anime_id": 182587,
     "matched_anime_native": "【推しの子】第3期",
     "score": 100.0,
-    "num_comments": 704,
+    "num_comments": 711,
     "url": "https://www.reddit.com/r/anime/comments/1qvqytj/oshi_no_ko_season_3_episode_4_discussion/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -644,20 +734,10 @@
     "matched_anime_id": 180746,
     "matched_anime_native": "死亡遊戯で飯を食う。",
     "score": 100.0,
-    "num_comments": 360,
+    "num_comments": 366,
     "url": "https://www.reddit.com/r/anime/comments/1qvq72w/shibou_yuugi_de_meshi_wo_kuu_shiboyugi_playing/",
     "seasonYear": 2026,
     "season": "WINTER"
-  },
-  {
-    "reddit_title": "My Thoughts on Plus Sized Misadventures In Love",
-    "matched_anime_id": 170936,
-    "matched_anime_native": "デブとラブと過ちと！",
-    "score": 100.0,
-    "num_comments": 0,
-    "url": "https://www.reddit.com/r/anime/comments/1qxdnxi/my_thoughts_on_plus_sized_misadventures_in_love/",
-    "seasonYear": 2025,
-    "season": "FALL"
   },
   {
     "reddit_title": "Ganso! Bandori-chan • GANSO! BanG Dream Chan - Episode 18 discussion",
@@ -670,11 +750,21 @@
     "season": "FALL"
   },
   {
+    "reddit_title": "My Thoughts on Plus Sized Misadventures In Love",
+    "matched_anime_id": 170936,
+    "matched_anime_native": "デブとラブと過ちと！",
+    "score": 100.0,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/anime/comments/1qxdnxi/my_thoughts_on_plus_sized_misadventures_in_love/",
+    "seasonYear": 2025,
+    "season": "FALL"
+  },
+  {
     "reddit_title": "Tamon-kun Ima Docchi!? • Tamon's B-Side - Episode 6 discussion",
     "matched_anime_id": 178005,
     "matched_anime_native": "多聞くん今どっち！？",
     "score": 100.0,
-    "num_comments": 293,
+    "num_comments": 300,
     "url": "https://www.reddit.com/r/anime/comments/1qvskr0/tamonkun_ima_docchi_tamons_bside_episode_6/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -684,7 +774,7 @@
     "matched_anime_id": 187264,
     "matched_anime_native": "勇者パーティを追い出された器用貧乏",
     "score": 100.0,
-    "num_comments": 811,
+    "num_comments": 828,
     "url": "https://www.reddit.com/r/anime/comments/1qvqyuc/yuusha_party_wo_oidasareta_kiyou_binbou/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -734,7 +824,7 @@
     "matched_anime_id": 192261,
     "matched_anime_native": "29歳独身中堅冒険者の日常",
     "score": 100.0,
-    "num_comments": 60,
+    "num_comments": 61,
     "url": "https://www.reddit.com/r/anime/comments/1qvo2fl/29sai_dokushin_chuuken_boukensha_no_nichijou_an/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -864,7 +954,7 @@
     "matched_anime_id": 177679,
     "matched_anime_native": "ダーウィン事変",
     "score": 100.0,
-    "num_comments": 94,
+    "num_comments": 96,
     "url": "https://www.reddit.com/r/anime/comments/1quv5ad/darwin_jihen_the_darwin_incident_episode_5/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -904,7 +994,7 @@
     "matched_anime_id": 194318,
     "matched_anime_native": "鎧真伝サムライトルーパー",
     "score": 100.0,
-    "num_comments": 94,
+    "num_comments": 96,
     "url": "https://www.reddit.com/r/anime/comments/1quuchd/yoroishinden_samurai_troopers_episode_5_discussion/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -954,7 +1044,7 @@
     "matched_anime_id": 195322,
     "matched_anime_native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
     "score": 100.0,
-    "num_comments": 221,
+    "num_comments": 222,
     "url": "https://www.reddit.com/r/anime/comments/1qtvw1t/vigilante_boku_no_hero_academia_illegals_season_2/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -974,7 +1064,7 @@
     "matched_anime_id": 176370,
     "matched_anime_native": "姫様“拷問”の時間です 第2期",
     "score": 94.87179487179486,
-    "num_comments": 89,
+    "num_comments": 90,
     "url": "https://www.reddit.com/r/anime/comments/1qtz1uq/himesama_goumon_no_jikan_desu_season_2_tis_time/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -984,7 +1074,7 @@
     "matched_anime_id": 166521,
     "matched_anime_native": "ゴールデンカムイ 最終章",
     "score": 100.0,
-    "num_comments": 72,
+    "num_comments": 73,
     "url": "https://www.reddit.com/r/anime/comments/1qtwn2s/golden_kamuy_saishuushou_golden_kamuy_final/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1054,7 +1144,7 @@
     "matched_anime_id": 166613,
     "matched_anime_native": "地獄楽 第二期",
     "score": 100.0,
-    "num_comments": 300,
+    "num_comments": 301,
     "url": "https://www.reddit.com/r/anime/comments/1qt17re/jigokuraku_season_2_hells_paradise_season_2/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1064,7 +1154,7 @@
     "matched_anime_id": 184951,
     "matched_anime_native": "正反対な君と僕",
     "score": 100.0,
-    "num_comments": 115,
+    "num_comments": 116,
     "url": "https://v.redd.it/l04x76ldxugg1",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1074,7 +1164,7 @@
     "matched_anime_id": 177385,
     "matched_anime_native": "違国日記",
     "score": 100.0,
-    "num_comments": 359,
+    "num_comments": 364,
     "url": "https://www.reddit.com/r/anime/comments/1qt1j44/ikoku_nikki_journal_with_witch_episode_5/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1114,7 +1204,7 @@
     "matched_anime_id": 186333,
     "matched_anime_native": "魔術師クノンは見えている",
     "score": 100.0,
-    "num_comments": 146,
+    "num_comments": 147,
     "url": "https://www.reddit.com/r/anime/comments/1qsz9u8/majutsushi_kunon_wa_mieteiru_kunon_the_sorcerer/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1174,7 +1264,7 @@
     "matched_anime_id": 177580,
     "matched_anime_native": "花ざかりの君たちへ",
     "score": 100.0,
-    "num_comments": 45,
+    "num_comments": 47,
     "url": "https://www.reddit.com/r/anime/comments/1qsz9vg/hanazakari_no_kimitachi_e_hanakimi_episode_6/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1184,7 +1274,7 @@
     "matched_anime_id": 183660,
     "matched_anime_native": "カヤちゃんはコワくない",
     "score": 100.0,
-    "num_comments": 119,
+    "num_comments": 120,
     "url": "https://www.reddit.com/r/anime/comments/1qst1um/kayachan_wa_kowakunai_kayachan_isnt_scary_episode/",
     "seasonYear": 2026,
     "season": "WINTER"
@@ -1284,7 +1374,7 @@
     "matched_anime_id": 185116,
     "matched_anime_native": "グノーシア",
     "score": 100.0,
-    "num_comments": 327,
+    "num_comments": 332,
     "url": "https://www.reddit.com/r/anime/comments/1qs6ynj/gnosia_episode_16_discussion/",
     "seasonYear": 2025,
     "season": "FALL"
@@ -1480,46 +1570,6 @@
     "season": "WINTER"
   },
   {
-    "reddit_title": "An Actual Sleeper Hit? Journal with Witch",
-    "matched_anime_id": 177385,
-    "matched_anime_native": "違国日記",
-    "score": 100.0,
-    "num_comments": 32,
-    "url": "https://youtu.be/kkkNghFyRpE",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Fate/Strange Fake: What is the song that plays in this scene?",
-    "matched_anime_id": 166617,
-    "matched_anime_native": "Fate/strange Fake",
-    "score": 100.0,
-    "num_comments": 4,
-    "url": "https://www.reddit.com/r/anime/comments/1qsm0qk/fatestrange_fake_what_is_the_song_that_plays_in/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Ao no Miburo: Serizawa Ansatsu-hen • Blue Miburo Season 2 - Episode 6 discussion",
-    "matched_anime_id": 189258,
-    "matched_anime_native": "青のミブロ 芹沢暗殺編",
-    "score": 100.0,
-    "num_comments": 7,
-    "url": "https://www.reddit.com/r/anime/comments/1qry03j/ao_no_miburo_serizawa_ansatsuhen_blue_miburo/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Fate/strange Fake | EPISODE #5: Star's Banquet Preview",
-    "matched_anime_id": 166617,
-    "matched_anime_native": "Fate/strange Fake",
-    "score": 100.0,
-    "num_comments": 2,
-    "url": "https://www.youtube.com/watch?v=3jgkeXwVhGI",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
     "reddit_title": "My Thoughts on Tales of Wedding Rings Season 1",
     "matched_anime_id": 176298,
     "matched_anime_native": "結婚指輪物語Ⅱ",
@@ -1528,36 +1578,6 @@
     "url": "https://www.reddit.com/r/anime/comments/1qstuxj/my_thoughts_on_tales_of_wedding_rings_season_1/",
     "seasonYear": 2025,
     "season": "FALL"
-  },
-  {
-    "reddit_title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru • Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing - Episode 4 discussion",
-    "matched_anime_id": 185262,
-    "matched_anime_native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
-    "score": 100.0,
-    "num_comments": 146,
-    "url": "https://www.reddit.com/r/anime/comments/1qrai4f/hell_mode_yarikomizuki_no_gamer_wa_hai_settei_no/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "「Uruwashi no Yoi no Tsuki」Episode 4 WEB Preview",
-    "matched_anime_id": 192507,
-    "matched_anime_native": "うるわしの宵の月",
-    "score": 100.0,
-    "num_comments": 2,
-    "url": "https://www.youtube.com/watch?v=L52VLT4p6mM",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Android wa Keiken Ninzuu ni Hairimasu ka?? • Does It Count If You Lose Your Innocence to an Android? - Episode 4 discussion",
-    "matched_anime_id": 192867,
-    "matched_anime_native": "アンドロイドは経験人数に入りますか？？",
-    "score": 100.0,
-    "num_comments": 26,
-    "url": "https://www.reddit.com/r/anime/comments/1qralfn/android_wa_keiken_ninzuu_ni_hairimasu_ka_does_it/",
-    "seasonYear": 2026,
-    "season": "WINTER"
   },
   {
     "reddit_title": "My Thoughts on Mechanical Marie",
@@ -1570,24 +1590,14 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "“To Your Eternity” Season 3 | Key Visual",
-    "matched_anime_id": 162669,
-    "matched_anime_native": "不滅のあなたへ Season 3",
+    "reddit_title": "Fate/Strange Fake: What is the song that plays in this scene?",
+    "matched_anime_id": 166617,
+    "matched_anime_native": "Fate/strange Fake",
     "score": 100.0,
-    "num_comments": 29,
-    "url": "https://ogre.natalie.mu/media/news/comic/2026/0130/fumetsu3_nakaoshivisual_mojinashi_RGB.jpg?impolicy=m&imwidth=750&imdensity=1",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "My Thoughts on Yano-kun's Oridinary Days",
-    "matched_anime_id": 183965,
-    "matched_anime_native": "矢野くんの普通の日々",
-    "score": 95.83333333333334,
     "num_comments": 4,
-    "url": "https://www.reddit.com/r/anime/comments/1qrwy4m/my_thoughts_on_yanokuns_oridinary_days/",
-    "seasonYear": 2025,
-    "season": "FALL"
+    "url": "https://www.reddit.com/r/anime/comments/1qsm0qk/fatestrange_fake_what_is_the_song_that_plays_in/",
+    "seasonYear": 2026,
+    "season": "WINTER"
   },
   {
     "reddit_title": "My One Punch Man Season 3 experience",
@@ -1596,96 +1606,6 @@
     "score": 100.0,
     "num_comments": 8,
     "url": "https://www.reddit.com/r/anime/comments/1qsjbu9/my_one_punch_man_season_3_experience/",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Dark Moon: Tsuki no Saidan • Dark Moon: The Blood Altar - Episode 4 discussion",
-    "matched_anime_id": 181443,
-    "matched_anime_native": "DARK MOON　-黒の月: 月の祭壇-",
-    "score": 100.0,
-    "num_comments": 24,
-    "url": "https://www.reddit.com/r/anime/comments/1qrafca/dark_moon_tsuki_no_saidan_dark_moon_the_blood/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Jujutsu Kaisen Shimetsu Kaiyu Zenpen • Jujutsu Kaisen The Culling Game - Episode 5 discussion",
-    "matched_anime_id": 172463,
-    "matched_anime_native": "呪術廻戦 死滅回游 前編",
-    "score": 98.63013698630137,
-    "num_comments": 850,
-    "url": "https://www.reddit.com/r/anime/comments/1qqco8s/jujutsu_kaisen_shimetsu_kaiyu_zenpen_jujutsu/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "High School! Kimengumi - Episode 4 discussion",
-    "matched_anime_id": 200556,
-    "matched_anime_native": "ハイスクール！奇面組 (2026)",
-    "score": 91.66666666666666,
-    "num_comments": 2,
-    "url": "https://www.reddit.com/r/anime/comments/1qrqpwq/high_school_kimengumi_episode_4_discussion/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "No losing, no misunderstanding (You and I Are Polar Opposites)",
-    "matched_anime_id": 184951,
-    "matched_anime_native": "正反対な君と僕",
-    "score": 100.0,
-    "num_comments": 93,
-    "url": "https://v.redd.it/pjl8ju4gsbgg1",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku • Sentenced to Be a Hero - Episode 4 discussion",
-    "matched_anime_id": 167152,
-    "matched_anime_native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
-    "score": 100.0,
-    "num_comments": 427,
-    "url": "https://www.reddit.com/r/anime/comments/1qq8qmw/yuushakei_ni_shosu_choubatsu_yuusha_9004tai_keimu/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "TV Anime \"Fate/strange Fake\" - New Character Visual (True Rider - CV: Sekine Akira)",
-    "matched_anime_id": 166617,
-    "matched_anime_native": "Fate/strange Fake",
-    "score": 100.0,
-    "num_comments": 204,
-    "url": "https://i.redd.it/c94nrn5bt9gg1.jpeg",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "CARDFIGHT!! VANGUARD Divinez Genma Seisen-hen • CARDFIGHT!! VANGUARD Divinez Parallactic Clash - Episode 4 discussion",
-    "matched_anime_id": 203296,
-    "matched_anime_native": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
-    "score": 100.0,
-    "num_comments": 1,
-    "url": "https://www.reddit.com/r/anime/comments/1qrs8su/cardfight_vanguard_divinez_genma_seisenhen/",
-    "seasonYear": 2026,
-    "season": "WINTER"
-  },
-  {
-    "reddit_title": "My Thoughts on Isekai Quartet Season 3",
-    "matched_anime_id": 194447,
-    "matched_anime_native": "異世界かるてっと 3",
-    "score": 93.75,
-    "num_comments": 2,
-    "url": "https://www.reddit.com/r/anime/comments/1qrq4e3/my_thoughts_on_isekai_quartet_season_3/",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "My Thoughts on Isekai Quartet The Movie: Another World",
-    "matched_anime_id": 194447,
-    "matched_anime_native": "異世界かるてっと 3",
-    "score": 93.75,
-    "num_comments": 3,
-    "url": "https://www.reddit.com/r/anime/comments/1qrm5jo/my_thoughts_on_isekai_quartet_the_movie_another/",
     "seasonYear": 2025,
     "season": "FALL"
   }
