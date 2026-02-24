@@ -8,6 +8,7 @@
       rel="stylesheet"
       href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css"
     />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style is:global>
       /* 背景色 */
       body {
@@ -58,27 +59,38 @@
               <option value="previous">前話コメント数</option>
               <option value="total">トータルコメント数</option>
               <option value="average">平均コメント数</option>
+              <option value="history">ランキング推移</option>
             </select>
           </label>
         </div>
 
-        <table border="1" cellpadding="6">
-          <thead>
-            <tr>
-              <th>順位</th>
-              <th>作品名</th>
-              <th>話数</th>
-              <th>コメント数</th>
-              <th>URL</th>
-            </tr>
-          </thead>
-          <tbody id="rankingBody"></tbody>
-        </table>
+        <div id="tableContainer">
+          <table border="1" cellpadding="6">
+            <thead>
+              <tr>
+                <th>順位</th>
+                <th>作品名</th>
+                <th>話数</th>
+                <th>コメント数</th>
+                <th>URL</th>
+              </tr>
+            </thead>
+            <tbody id="rankingBody"></tbody>
+          </table>
+        </div>
+
+        <div id="chartContainer" style="display: none; position: relative; height: 60vh; width: 100%;">
+          <canvas id="rankingChart"></canvas>
+        </div>
       
         <script>
           const seasonSelect = document.getElementById("seasonSelect");
           const modeSelect = document.getElementById("modeSelect");
           const body = document.getElementById("rankingBody");
+          const tableContainer = document.getElementById("tableContainer");
+          const chartContainer = document.getElementById("chartContainer");
+          const canvas = document.getElementById("rankingChart");
+          let chartInstance = null;
 
           // シーズン一覧読み込み
           const res = await fetch("data/reddit/seasons.json");
@@ -102,6 +114,165 @@
             // データ読み込み
             const res = await fetch(`data/reddit/${season}`);
             const data = await res.json();
+            
+            // ランキング推移の場合
+            if (mode === "history") {
+              // テーブル非表示・グラフ表示
+              tableContainer.style.display = "none";
+              chartContainer.style.display = "block";
+
+              // 各作品の最新話を取得
+              const animeList = Object.values(data.anime);
+              
+              // 最大遡及話数を計算
+              let maxOffset = 0;
+              while (true) {
+                let validCount = 0;
+                for (const anime of animeList) {
+                  const targetEp = anime.latest_episode - maxOffset;
+                  if (anime.episodes && anime.episodes[targetEp] && anime.episodes[targetEp].length > 0) {
+                    validCount++;
+                  }
+                }
+                // 有効な作品数が半数以下になったら終了
+                if (validCount <= Math.floor(animeList.length / 2)) {
+                  break;
+                }
+                maxOffset++;
+              }
+              maxOffset = Math.max(0, maxOffset - 1); // 最後に条件を満たしたところまで戻す
+
+              // 各offsetでのランキングを計算し、順位を記録
+              const historyData = {}; 
+              for (const anime of animeList) {
+                historyData[anime.name_jp] = [];
+              }
+
+              for (let offset = maxOffset; offset >= 0; offset--) {
+                const currentRankings = [];
+                for (const anime of animeList) {
+                  const targetEp = anime.latest_episode - offset;
+                  const post = anime.episodes?.[targetEp]?.[0];
+                  const count = post?.num_comments ?? 0;
+                  currentRankings.push({
+                    name: anime.name_jp,
+                    count: count,
+                    valid: count > 0 // トピックが存在するか
+                  });
+                }
+                // 同率の場合は考慮しつつ順位づけ (コメント数が多い順)
+                currentRankings.sort((a, b) => b.count - a.count);
+                
+                // 順位付け
+                let currentRank = 1;
+                for (let i = 0; i < currentRankings.length; i++) {
+                  if (i > 0 && currentRankings[i].count < currentRankings[i-1].count) {
+                    currentRank = i + 1;
+                  }
+                  const animeName = currentRankings[i].name;
+                  if (currentRankings[i].valid) {
+                    historyData[animeName].push(currentRank);
+                  } else {
+                    historyData[animeName].push(null); // エピソードデータがない場合はnull
+                  }
+                }
+              }
+
+              // X軸ラベル
+              const labels = [];
+              for (let offset = maxOffset; offset >= 0; offset--) {
+                if (offset === 0) {
+                  labels.push("最新話");
+                } else {
+                  labels.push(`最新話-${offset}`);
+                }
+              }
+
+              // データセット作成
+              const datasets = [];
+              let colorIndex = 0;
+              for (const anime of animeList) {
+                const ranks = historyData[anime.name_jp];
+                // 全てnullならスキップ
+                if (ranks.every(r => r === null)) continue;
+
+                // 色を生成
+                const hue = Math.floor((colorIndex * 360) / animeList.length);
+                const color = `hsl(${hue}, 70%, 50%)`;
+                
+                datasets.push({
+                  label: anime.name_jp,
+                  data: ranks,
+                  borderColor: color,
+                  backgroundColor: color,
+                  fill: false,
+                  tension: 0.1,
+                  spanGaps: true // nullがあっても線を繋ぐ
+                });
+                colorIndex++;
+              }
+
+              // 最新話（配列の最後）の順位でソートする（1位が上に来るように昇順）
+              datasets.sort((a, b) => {
+                const rankA = a.data[a.data.length - 1];
+                const rankB = b.data[b.data.length - 1];
+                if (rankA === null && rankB === null) return 0;
+                if (rankA === null) return 1; // null（データなし）は下に
+                if (rankB === null) return -1;
+                return rankA - rankB;
+              });
+
+              // 高さの動的調整
+              // 凡例がすべて入り切るように、表示するデータセット1つにつき最低25px程度を確保する。
+              // 最低でも元々の 60vh は維持する（Math.maxを利用）
+              const requiredHeight = datasets.length * 25 + 100; // 100は上下の余白やX軸分
+              chartContainer.style.height = `max(60vh, ${requiredHeight}px)`;
+
+              // グラフ描画
+              if (chartInstance) {
+                chartInstance.destroy();
+              }
+              chartInstance = new Chart(canvas, {
+                type: 'line',
+                data: {
+                  labels: labels,
+                  datasets: datasets
+                },
+                options: {
+                  responsive: true,
+                  maintainAspectRatio: false,
+                  scales: {
+                    y: {
+                      reverse: true, // 1位を上にする
+                      beginAtZero: false,
+                      title: {
+                        display: true,
+                        text: '順位'
+                      },
+                      ticks: {
+                        stepSize: 1
+                      }
+                    }
+                  },
+                  plugins: {
+                    legend: {
+                      position: 'right',
+                    }
+                  }
+                }
+              });
+
+              return; // ここで終了
+            }
+
+            // テーブル表示・グラフ非表示
+            tableContainer.style.display = "block";
+            chartContainer.style.display = "none";
+            if (chartInstance) {
+              chartInstance.destroy();
+              chartInstance = null;
+            }
+
             const rows = [];
             // データ集計
             for (const anime of Object.values(data.anime)) {
