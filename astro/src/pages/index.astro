@@ -60,6 +60,7 @@
               <option value="total">トータルコメント数</option>
               <option value="average">平均コメント数</option>
               <option value="history">ランキング推移</option>
+              <option value="comments_history">コメント数推移</option>
             </select>
           </label>
         </div>
@@ -80,6 +81,7 @@
         </div>
 
         <div id="chartContainer" style="display: none; position: relative; height: 60vh; width: 100%;">
+          <h2 id="selectedAnimeTitle" style="text-align: center; margin-bottom: 1rem; color: #333; display: none;"></h2>
           <canvas id="rankingChart"></canvas>
         </div>
       
@@ -90,7 +92,9 @@
           const tableContainer = document.getElementById("tableContainer");
           const chartContainer = document.getElementById("chartContainer");
           const canvas = document.getElementById("rankingChart");
+          const selectedAnimeTitle = document.getElementById("selectedAnimeTitle");
           let chartInstance = null;
+          let selectedAnimeForCommentsHistory = null;
 
           // シーズン一覧読み込み
           const res = await fetch("data/reddit/seasons.json");
@@ -120,6 +124,9 @@
               // テーブル非表示・グラフ表示
               tableContainer.style.display = "none";
               chartContainer.style.display = "block";
+              
+              // ランキング推移では個別タイトルは表示しない
+              selectedAnimeTitle.style.display = "none";
 
               // 各作品の最新話を取得
               const animeList = Object.values(data.anime);
@@ -257,6 +264,133 @@
                   plugins: {
                     legend: {
                       position: 'right',
+                    }
+                  }
+                }
+              });
+
+              return; // ここで終了
+            }
+
+            // コメント数推移の場合
+            if (mode === "comments_history") {
+              tableContainer.style.display = "none";
+              chartContainer.style.display = "flex";
+              chartContainer.style.flexDirection = "column";
+
+              const animeList = Object.values(data.anime);
+
+              // 最新話コメント数1位の作品を特定するために、現在の順位リストを作成
+              const currentRankings = [];
+              for (const anime of animeList) {
+                const targetEp = anime.latest_episode;
+                const post = anime.episodes?.[targetEp]?.[0];
+                const count = post?.num_comments ?? 0;
+                currentRankings.push({
+                  name: anime.name_jp,
+                  count: count,
+                  animeData: anime
+                });
+              }
+              // コメント数が多い順にソート
+              currentRankings.sort((a, b) => b.count - a.count);
+
+              // 選択中の作品がなければ、最新話1位の作品に設定
+              if (!selectedAnimeForCommentsHistory && currentRankings.length > 0) {
+                selectedAnimeForCommentsHistory = currentRankings[0].name;
+              }
+
+              // シーズン切り替え等で選択中の作品が存在しなくなった場合の処理
+              let selectedAnime = currentRankings.find(r => r.name === selectedAnimeForCommentsHistory)?.animeData;
+              if (!selectedAnime && currentRankings.length > 0) {
+                selectedAnimeForCommentsHistory = currentRankings[0].name;
+                selectedAnime = currentRankings[0].animeData;
+              }
+
+              // 選択作品名の表示
+              selectedAnimeTitle.style.display = "block";
+              selectedAnimeTitle.textContent = selectedAnimeForCommentsHistory;
+
+              // X軸ラベル（エピソードの番号）を作成
+              const epKeys = Object.keys(selectedAnime.episodes || {}).map(Number).sort((a, b) => a - b);
+              const labels = epKeys.map(ep => `第${ep}話`);
+
+              // history の色決定ロジックと同じ色を使用する
+              const colors = {};
+              animeList.forEach((anime, index) => {
+                const hue = Math.floor((index * 360) / animeList.length);
+                colors[anime.name_jp] = `hsl(${hue}, 70%, 50%)`;
+              });
+
+              // ランキング順でデータセットを作成
+              const datasets = currentRankings.map(ranking => {
+                const isSelected = ranking.name === selectedAnimeForCommentsHistory;
+                const color = colors[ranking.name];
+                
+                let chartData = [];
+                if (isSelected) {
+                  // 選択されたアニメのみデータを取得
+                  chartData = epKeys.map(ep => {
+                    const post = ranking.animeData.episodes[ep]?.[0];
+                    return post?.num_comments ?? 0;
+                  });
+                }
+
+                return {
+                  label: ranking.name,
+                  data: chartData,
+                  backgroundColor: color,
+                  borderColor: color,
+                  type: 'bar',
+                  barPercentage: 0.5,
+                  categoryPercentage: 1.0
+                  // データがないものは全て表示されないが、凡例には label が描画される
+                };
+              });
+
+              // 高さの動的調整
+              const requiredHeight = datasets.length * 25 + 100;
+              chartContainer.style.height = `max(60vh, ${requiredHeight}px)`;
+
+              if (chartInstance) {
+                chartInstance.destroy();
+              }
+              chartInstance = new Chart(canvas, {
+                type: 'bar', // 全体を棒グラフに
+                data: {
+                  labels: labels,
+                  datasets: datasets
+                },
+                options: {
+                  responsive: true,
+                  maintainAspectRatio: false,
+                  scales: {
+                    x: {
+                      stacked: true
+                    },
+                    y: {
+                      stacked: true,
+                      beginAtZero: true,
+                      title: {
+                        display: true,
+                        text: 'コメント数'
+                      }
+                    }
+                  },
+                  plugins: {
+                    legend: {
+                      position: 'right',
+                      onClick: function(e, legendItem, legend) {
+                        // 凡例がクリックされたら選択アニメを変更して再描画
+                        selectedAnimeForCommentsHistory = legendItem.text;
+                        loadAndRender();
+                      }
+                    },
+                    tooltip: {
+                      filter: function(tooltipItem) {
+                        // データを持たない要素のツールチップを表示しない
+                        return tooltipItem.dataset.data.length > 0;
+                      }
                     }
                   }
                 }
