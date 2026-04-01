@@ -1,5 +1,597 @@
 [
   {
+    "id": 147105,
+    "romaji": "Tongari Boushi no Atelier",
+    "english": "Witch Hat Atelier",
+    "native": "とんがり帽子のアトリエ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 158036,
+    "romaji": "Hidarikiki no Eren",
+    "english": "Eren the Southpaw",
+    "native": "左ききのエレン",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 169228,
+    "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
+    "english": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
+    "native": "北斗の拳 -FIST OF THE NORTH STAR-",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 169580,
+    "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+    "english": "I Made Friends with the Second Prettiest Girl in My Class",
+    "native": "クラスで２番目に可愛い女の子と友だちになった",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 170019,
+    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+    "english": "The Angel Next Door Spoils Me Rotten 2",
+    "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 171110,
+    "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+    "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "native": "本好きの下剋上 領主の養女",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 173172,
+    "romaji": "Dorohedoro Season 2",
+    "english": "Dorohedoro Season 2",
+    "native": "ドロヘドロ Season 2",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 177501,
+    "romaji": "Awajima Hyakkei",
+    "english": "A Hundred Scenes of AWAJIMA",
+    "native": "淡島百景",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 177508,
+    "romaji": "Kujima Utaeba Ie Hororo",
+    "english": "Kujima: Why Sing, When You Can Warble?",
+    "native": "クジマ歌えば家ほろろ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 177634,
+    "romaji": "Diamond no Ace act II: Second Season",
+    "english": "Ace of the Diamond act II -Second Season-",
+    "native": "ダイヤのA actII -Second Season-",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 178749,
+    "romaji": "Mahou no Shimai Lulutto Lilly",
+    "english": null,
+    "native": "魔法の姉妹ルルットリリィ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 179813,
+    "romaji": "Niwatori Fighter",
+    "english": "Rooster Fighter",
+    "native": "ニワトリ・ファイター",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 179950,
+    "romaji": "Reincarnation no Kaben",
+    "english": "Petals of Reincarnation",
+    "native": "リィンカーネーションの花弁",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 180228,
+    "romaji": "Ganbare! Nakamura-kun!!",
+    "english": "Go For It, Nakamura-kun!!",
+    "native": "ガンバレ！中村くん！！",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 180745,
+    "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+    "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+    "native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 181284,
+    "romaji": "Kirio Fanclub",
+    "english": null,
+    "native": "霧尾ファンクラブ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 182205,
+    "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+    "english": "That Time I Got Reincarnated as a Slime Season 4",
+    "native": "転生したらスライムだった件 第4期",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 182300,
+    "romaji": "Tsue to Tsurugi no Wistoria Season 2",
+    "english": "Wistoria: Wand and Sword Season 2",
+    "native": "杖と剣のウィストリア Season2",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 182483,
+    "romaji": "Hime Kishi wa Barbaroi no Yome",
+    "english": "The Warrior Princess and the Barbaric King",
+    "native": "姫騎士は蛮族の嫁",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 182578,
+    "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+    "english": null,
+    "native": "夜桜さんちの大作戦 第2期",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 183231,
+    "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+    "english": "RILAKKUMA",
+    "native": "リラックマ ～ごゆるり夢の旅～",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 184492,
+    "romaji": "Mairimashita! Iruma-kun 4",
+    "english": "Welcome to Demon School! Iruma-kun Season 4",
+    "native": "魔入りました！入間くん 第4シリーズ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 185211,
+    "romaji": "Yowa Yowa Sensei",
+    "english": "Yowayowa Sensei",
+    "native": "よわよわ先生",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 186497,
+    "romaji": "Koori no Jouheki",
+    "english": "The Ramparts of Ice",
+    "native": "氷の城壁",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 186744,
+    "romaji": "Replica Datte, Koi wo Suru.",
+    "english": "Even a Replica Can Fall in Love",
+    "native": "レプリカだって、恋をする",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 187869,
+    "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    "english": "Botan Kamiina Fully Blossoms When Drunk",
+    "native": "上伊那ぼたん、酔へる姿は百合の花",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 189046,
+    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+    "english": "Re:ZERO -Starting Life in Another World- Season 4",
+    "native": "Re:ゼロから始める異世界生活 4th season",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 189987,
+    "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+    "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+    "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 190143,
+    "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+    "english": "Agents of the Four Seasons: Dance of Spring",
+    "native": "春夏秋冬代行者 春の舞",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 190704,
+    "romaji": "Kanan-sama wa Akumade Choroi",
+    "english": "Mistress Kanan is Devilishly Easy",
+    "native": "カナン様はあくまでチョロい",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 192808,
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 194317,
+    "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+    "english": "The Beginning After the End Season 2",
+    "native": "最強の王様、二度目の人生は 何をする? 第2期",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 194393,
+    "romaji": "Aishiteru Game wo Owarasetai",
+    "english": "I Want to End this Love Game",
+    "native": "愛してるゲームを終わらせたい",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 195268,
+    "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+    "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+    "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 195333,
+    "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
+    "english": "Haibara's Teenage New Game+",
+    "native": "灰原くんの強くて青春ニューゲーム",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 195600,
+    "romaji": "Yomi no Tsugai",
+    "english": "Daemons of the Shadow Realm",
+    "native": "黄泉のツガイ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 195734,
+    "romaji": "Ichijouma Mankitsu Gurashi!",
+    "english": "Ichijyoma Mankitsu Gurashi!",
+    "native": "一畳間まんきつ暮らし！",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 196012,
+    "romaji": "MAO",
+    "english": null,
+    "native": "MAO",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 196029,
+    "romaji": "Kami no Niwatsuki Kusunoki-tei ",
+    "english": "Kusunoki's Garden of Gods",
+    "native": "神の庭付き楠木邸",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 196144,
+    "romaji": "Snowball Earth",
+    "english": "SNOWBALL EARTH",
+    "native": "スノウボールアース",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 196935,
+    "romaji": "Akane-banashi",
+    "english": "Akane-banashi",
+    "native": "あかね噺",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 196974,
+    "romaji": "Kuroneko to Majo no Kyoushitsu",
+    "english": "The Classroom of the Black Cat and a Witch",
+    "native": "黒猫と魔女の教室",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 197754,
+    "romaji": "LIAR GAME",
+    "english": "LIAR GAME",
+    "native": "LIAR GAME",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 197824,
+    "romaji": "Isekai Nonbiri Nouka 2",
+    "english": "Farming Life in Another World 2",
+    "native": "異世界のんびり農家２",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 197868,
+    "romaji": "Maid-san wa Taberu dake",
+    "english": "The Food Diary of Miss Maid",
+    "native": "メイドさんは食べるだけ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 198113,
+    "romaji": "Kill Ao",
+    "english": null,
+    "native": "キルアオ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 198411,
+    "romaji": "Nezumi-kun no Chokki (TV)",
+    "english": null,
+    "native": "ねずみくんのチョッキ (TV)",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 198939,
+    "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+    "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 199029,
+    "romaji": "Kanojo, Okarishimasu 5th Season",
+    "english": "Rent-a-Girlfriend Season 5",
+    "native": "彼女、お借りします 第5期",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 199221,
+    "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
+    "english": "Dr. STONE SCIENCE FUTURE Cour 3",
+    "native": "Dr.STONE SCIENCE FUTURE 3クール",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 199547,
+    "romaji": "MARRIAGETOXIN",
+    "english": "MARRIAGETOXIN",
+    "native": "マリッジトキシン",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 199588,
+    "romaji": "Otaku ni Yasashii Gal wa Inai!?",
+    "english": "Gals Can't Be Kind to Otaku!?",
+    "native": "オタクに優しいギャルはいない!?",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 200769,
+    "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+    "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 201090,
+    "romaji": "Ghost Concert: missing Songs",
+    "english": "GHOST CONCERT : missing Songs",
+    "native": "ゴーストコンサート: missing Songs",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 201817,
+    "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+    "english": "Always a Catch!",
+    "native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 201910,
+    "romaji": "Oshiri Dandy the Young",
+    "english": null,
+    "native": "おしりダンディ ザ・ヤング",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 202102,
+    "romaji": "NEEDY GIRL OVERDOSE",
+    "english": "NEEDY GIRL OVERDOSE",
+    "native": "NEEDY GIRL OVERDOSE",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 202381,
+    "romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "english": "Killed again, Mr. Detective.",
+    "native": "また殺されてしまったのですね、探偵様",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 202386,
+    "romaji": "Shou 3 Ashibe QQ Goma-chan",
+    "english": null,
+    "native": "小3アシベ QQゴマちゃん",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 202508,
+    "romaji": "Kami no Shizuku",
+    "english": "The Drops of God",
+    "native": "神の雫",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 202523,
+    "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+    "english": "Marika's Love Meter Malfunction",
+    "native": "茉莉花ちゃんの好感度はぶっ壊れている",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 202985,
+    "romaji": "Tadaima, Ojamasaremasu!",
+    "english": "Pardon the Intrusion, I'm Home!",
+    "native": "ただいま、おじゃまされます！",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 204269,
+    "romaji": "Odekake Kozame Season 2",
+    "english": null,
+    "native": "おでかけ子ザメ シーズン2",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 204319,
+    "romaji": "Ookii Onnanoko wa Suki desu ka?",
+    "english": "Do You Like Big Girls?",
+    "native": "大きい女の子は好きですか？",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 205772,
+    "romaji": "Candy Caries",
+    "english": null,
+    "native": "キャンディーカリエス",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 206166,
+    "romaji": "Ingoku Danchi",
+    "english": null,
+    "native": "インゴクダンチ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 206523,
+    "romaji": "Onegai AiPri",
+    "english": null,
+    "native": "おねがいアイプリ",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 206914,
+    "romaji": "Nippon Sangoku",
+    "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+    "native": "日本三國",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 206950,
+    "romaji": "Kumarba Season 3",
+    "english": null,
+    "native": "クマーバシーズン3",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 206951,
+    "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+    "english": "My Ribdiculous Reincarnation",
+    "native": "女神「異世界転生先は何になりたいですか」 俺「勇者の肋骨で」",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 207675,
+    "romaji": "Hyakki Yakou Shou",
+    "english": null,
+    "native": "百鬼夜行抄",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 208352,
+    "romaji": "Dandelion",
+    "english": "Dandelion",
+    "native": "ダンデライオン",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 209541,
+    "romaji": "PetitCure: Precure Fairies Season 3",
+    "english": null,
+    "native": "ぷちきゅあ～Precure Fairies～ シーズン3",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 209940,
+    "romaji": "Komekami! Girls",
+    "english": null,
+    "native": "こめかみっ！Girls",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
     "id": 163144,
     "romaji": "TRIGUN STARGAZE",
     "english": "TRIGUN STARGAZE",
@@ -638,685 +1230,5 @@
     "native": "アンドロイドは経験人数に入りますか？？ 5日間続けて……？",
     "seasonYear": 2026,
     "season": "WINTER"
-  },
-  {
-    "id": 129195,
-    "romaji": "Tomodachi no Imouto ga Ore ni dake Uzai",
-    "english": "My Friend's Little Sister Has It In for Me!",
-    "native": "友達の妹が俺にだけウザい",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 140291,
-    "romaji": "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
-    "english": "Disney Twisted-Wonderland: The Animation",
-    "native": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 153800,
-    "romaji": "One Punch Man 3",
-    "english": "One-Punch Man Season 3",
-    "native": "ワンパンマン３",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 162669,
-    "romaji": "Fumetsu no Anata e Season 3",
-    "english": "To Your Eternity Season 3",
-    "native": "不滅のあなたへ Season 3",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 162890,
-    "romaji": "3-nen Z-gumi Ginpachi-sensei",
-    "english": "GINTAMA - Mr. Ginpachi's Zany Class",
-    "native": "3年Z組銀八先生",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 169969,
-    "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
-    "english": "Hero Without a Class: Who Even Needs Skills?!",
-    "native": "無職の英雄 別にスキルなんか要らなかったんだが",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 170018,
-    "romaji": "Ao no Orchestra Season 2",
-    "english": "Blue Orchestra Season 2",
-    "native": "青のオーケストラ Season2",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 170577,
-    "romaji": "Tondemo Skill de Isekai Hourou Meshi 2",
-    "english": "Campfire Cooking in Another World with my Absurd Skill Season 2",
-    "native": "とんでもスキルで異世界放浪メシ2",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 170936,
-    "romaji": "Debu to Love to Ayamachi to!",
-    "english": "Plus-sized Misadventures in Love!",
-    "native": "デブとラブと過ちと！",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 173523,
-    "romaji": "Egao no Taenai Shokuba desu.",
-    "english": "A Mangaka's Weirdly Wonderful Workplace",
-    "native": "笑顔のたえない職場です。",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 173692,
-    "romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-    "english": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
-    "native": "父は英雄、母は精霊、娘の私は転生者。",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 174914,
-    "romaji": "Tensei Akujo no Kuro Rekishi",
-    "english": "The Dark History of the Reincarnated Villainess",
-    "native": "転生悪女の黒歴史",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 176298,
-    "romaji": "Kekkon Yubiwa Monogatari II",
-    "english": "Tales of Wedding Rings Season 2",
-    "native": "結婚指輪物語Ⅱ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 177271,
-    "romaji": "Kakuriyo no Yadomeshi 2nd Season",
-    "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
-    "native": "かくりよの宿飯 第２期",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 177937,
-    "romaji": "SPY×FAMILY Season 3",
-    "english": "SPY x FAMILY Season 3",
-    "native": "SPY×FAMILY Season 3",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 179302,
-    "romaji": "SANDA",
-    "english": "SANDA",
-    "native": "SANDA",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 179992,
-    "romaji": "Kikaijikake no Marie",
-    "english": "Mechanical Marie",
-    "native": "機械じかけのマリー",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 180082,
-    "romaji": "Chitose-kun wa Ramune Bin no Naka",
-    "english": "Chitose Is in the Ramune Bottle",
-    "native": "千歳くんはラムネ瓶のなか",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 180436,
-    "romaji": "WanDance",
-    "english": "Wandance",
-    "native": "ワンダンス",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 180523,
-    "romaji": "Yasei no Last Boss ga Arawareta!",
-    "english": "A Wild Last Boss Appeared!",
-    "native": "野生のラスボスが現れた！",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 181447,
-    "romaji": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
-    "english": "May I Ask for One Final Thing?",
-    "native": "最後にひとつだけお願いしてもよろしいでしょうか",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 182531,
-    "romaji": "Guilty Hole",
-    "english": "Guilty Hole ～ Room of Guilty Pleasure",
-    "native": "ギルティホール",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 182896,
-    "romaji": "Boku no Hero Academia FINAL SEASON",
-    "english": "My Hero Academia FINAL SEASON",
-    "native": "僕のヒーローアカデミア FINAL SEASON",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 183291,
-    "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
-    "english": "Pass the Monster Meat, Milady!",
-    "native": "悪食令嬢と狂血公爵　～その魔物、私が美味しくいただきます！～",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 183385,
-    "romaji": "Watashi wo Tabetai, Hitodenashi",
-    "english": "This Monster Wants to Eat Me",
-    "native": "私を喰べたい、ひとでなし",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 183965,
-    "romaji": "Yano-kun no Futsuu no Hibi",
-    "english": "Yano-kun's Ordinary Days",
-    "native": "矢野くんの普通の日々",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 184322,
-    "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-    "english": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 184642,
-    "romaji": "Star Wars: Visions Volume 3",
-    "english": "Star Wars: Visions Volume 3",
-    "native": "スターウォーズビジョンズ Volume 3",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 184718,
-    "romaji": "Cat's♥Eye (2025)",
-    "english": "Cat's Eye (2025)",
-    "native": "キャッツ♥アイ (2025)",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 184997,
-    "romaji": "Shabake",
-    "english": "Shabake",
-    "native": "しゃばけ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 185116,
-    "romaji": "Gnosia",
-    "english": "GNOSIA",
-    "native": "グノーシア",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 185575,
-    "romaji": "Bukiyou na Senpai.",
-    "english": "My Awkward Senpai",
-    "native": "不器用な先輩。",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 185694,
-    "romaji": "Hyakushou Kizoku 3rd Season",
-    "english": null,
-    "native": "百姓貴族 3rd Season",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 185731,
-    "romaji": "Ranma 1/2 (2024) 2nd Season",
-    "english": "Ranma1/2 (2024) Season 2",
-    "native": "らんま1/2 (2024) 第2期",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 185801,
-    "romaji": "Nageki no Bourei wa Intai Shitai 2",
-    "english": "Let This Grieving Soul Retire Cour 2",
-    "native": "嘆きの亡霊は引退したい 2",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186161,
-    "romaji": "Kimi to Koete Koi ni Naru",
-    "english": "With You, Our Love Will Make It Through",
-    "native": "キミと越えて恋になる",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186190,
-    "romaji": "Alma-chan wa Kazoku ni Naritai",
-    "english": "Alma-chan Wants to Be a Family!",
-    "native": "アルマちゃんは家族になりたい",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186524,
-    "romaji": "Chanto Suenai Kyuuketsuki-chan",
-    "english": "Li'l Miss Vampire Can't Suck Right",
-    "native": "ちゃんと吸えない吸血鬼ちゃん",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186621,
-    "romaji": "Taiyou yori mo Mabushii Hoshi",
-    "english": "A Star Brighter Than the Sun",
-    "native": "太陽よりも眩しい星",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186736,
-    "romaji": "Kagaku×Bouken Survival! 2nd Season",
-    "english": null,
-    "native": "科学×冒険サバイバル！ 第2シリーズ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186794,
-    "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-    "english": "My Status as an Assassin Obviously Exceeds the Hero’s",
-    "native": "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186914,
-    "romaji": "Ninja to Gokudou",
-    "english": "Ninja Vs. Gokudo",
-    "native": "忍者と極道",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 186920,
-    "romaji": "Shuumatsu Touring",
-    "english": "Touring After the Apocalypse",
-    "native": "終末ツーリング",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187166,
-    "romaji": "Ganso! Bandori-chan",
-    "english": "GANSO! BanG Dream Chan",
-    "native": "元祖！バンドリちゃん",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187331,
-    "romaji": "Sawaranaide Kotesashi-kun",
-    "english": "Hands off: Sawaranaide Kotesashi-kun!",
-    "native": "さわらないで小手指くん",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187464,
-    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-    "english": "Tojima Wants to Be a Kamen Rider",
-    "native": "東島丹三郎は仮面ライダーになりたい",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187663,
-    "romaji": "Sozai Saishuka no Isekai Ryokouki",
-    "english": "A Gatherer's Adventure in Isekai",
-    "native": "素材採取家の異世界旅行記",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187860,
-    "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
-    "english": "Style of Hiroshi Nohara's Lunch",
-    "native": "野原ひろし 昼メシの流儀",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187921,
-    "romaji": "Shuumatsu no Valkyrie III",
-    "english": "Record of Ragnarok III",
-    "native": "終末のワルキューレ III",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 187940,
-    "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
-    "english": "Inexpressive Kashiwada and Expressive Oota",
-    "native": "顔に出ない柏田さんと顔に出る太田君",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 188388,
-    "romaji": "DIGIMON BEATBREAK",
-    "english": "DIGIMON BEATBREAK",
-    "native": "DIGIMON BEATBREAK",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 188487,
-    "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
-    "english": "The Banished Court Magician Aims to Become the Strongest",
-    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 188529,
-    "romaji": "Ugoku! Neko Mukashi Banashi",
-    "english": "Cat Tales",
-    "native": "うごく！ねこむかしばなし",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 190840,
-    "romaji": "Kingdom 6th Season",
-    "english": "Kingdom Season 6",
-    "native": "キングダム 第6シリーズ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 193968,
-    "romaji": "Let’s Play: Quest Darake no My Life",
-    "english": "Let’s Play",
-    "native": "Let’s Play クエストだらけのマイライフ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 194389,
-    "romaji": "Koala Enikki",
-    "english": "Koala's Diary",
-    "native": "コアラ絵日記",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 194447,
-    "romaji": "Isekai Quartet 3",
-    "english": "Isekai Quartet 3",
-    "native": "異世界かるてっと 3",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 194832,
-    "romaji": "Oshiri Tantei 9 Part 2",
-    "english": null,
-    "native": "おしりたんてい(第9シリーズ)",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 195153,
-    "romaji": "Towa no Yuugure",
-    "english": "Dusk Beyond the End of the World",
-    "native": "永久のユウグレ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 195173,
-    "romaji": "SHIBUYA♡HACHI Part 4",
-    "english": null,
-    "native": "SHIBUYA♡HACHI 第4クール",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 195240,
-    "romaji": "Uma Musume: Cinderella Gray Part 2",
-    "english": "Umamusume: Cinderella Gray 2nd Cour",
-    "native": "ウマ娘 シンデレラグレイ 第2クール",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 195383,
-    "romaji": "MUZIK TIGER In the Forest 2",
-    "english": null,
-    "native": "MUZIK TIGER In the Forest 第2期 ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 196230,
-    "romaji": "Monster Strike: Deadverse Reloaded",
-    "english": "Strike World: Deadverse Reloaded the Anime",
-    "native": "モンスターストライク　デッドバースリローデッド",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 196553,
-    "romaji": "SI-VIS: The Sound of Heroes",
-    "english": "SI-VIS: The Sound of Heroes",
-    "native": "SI-VIS: The Sound of Heroes",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 198117,
-    "romaji": "GANGLION",
-    "english": null,
-    "native": "ガングリオン",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 198312,
-    "romaji": "Heika Watashi wo Wasurete Kudasai",
-    "english": null,
-    "native": "陛下わたしを忘れてください",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 198413,
-    "romaji": "JOCHUM Season 2",
-    "english": null,
-    "native": "ジェオチャム シーズン2 ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 198561,
-    "romaji": "Potion, Wagami wo Tasukeru",
-    "english": "I Saved Myself with a Potion!: Life in Another World",
-    "native": "ポーション、わが身を助ける",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 198921,
-    "romaji": "Sylvanian Families: Freya no Wonder Days",
-    "english": null,
-    "native": "シルバニアファミリー フレアのワンダーデイズ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 198926,
-    "romaji": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
-    "english": null,
-    "native": "超普通マホウ少女アスミトルバース",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 199008,
-    "romaji": "Uso Tantei Tomanto",
-    "english": null,
-    "native": "うそ探偵トマント",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 199009,
-    "romaji": "2200-nen Neko no Kuni Nippon",
-    "english": null,
-    "native": "2200年ねこの国ニッポン",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 199635,
-    "romaji": "PetitCure: Precure Fairies Season 2",
-    "english": null,
-    "native": "ぷちきゅあ～Precure Fairies～ シーズン２",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 199794,
-    "romaji": "Anila to Cocora",
-    "english": null,
-    "native": "アニラとココラ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 199812,
-    "romaji": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
-    "english": "Hands off: Sawaranaide Kotesashi-kun! Mini Anime",
-    "native": "さわらないで小手指くんミニアニメ劇場",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 199931,
-    "romaji": "Dokodemo Makibao: World Tour",
-    "english": null,
-    "native": "どこでもマキバオー ～ワールドツアー～",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 200374,
-    "romaji": "Kikaijikake no Marie Mini Anime",
-    "english": null,
-    "native": "機械じかけのマリーミニアニメ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 200375,
-    "romaji": "Inpuru-kun no Sonzai Shinai Oshigoto",
-    "english": null,
-    "native": "インプる君の存在しないお仕事",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 201151,
-    "romaji": "THE LENTICULARS",
-    "english": "THE LENTICULARS",
-    "native": "ザ・レンチキュラーズ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 202281,
-    "romaji": "BLUE GALE XABUNGLE SIDE R",
-    "english": null,
-    "native": "BLUE GALE XABUNGLE SIDE R",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 203146,
-    "romaji": "Atashin'chi NEXT 2",
-    "english": null,
-    "native": "あたしンちNEXT 第2期",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 204080,
-    "romaji": "IRIS OUT",
-    "english": null,
-    "native": "IRIS OUT",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 204621,
-    "romaji": "Koikeya SDGs Gekijou Suss to Tina Season 6",
-    "english": "Koikeya SDGs Theater Suss & Tina Season 6",
-    "native": "湖池屋SDGs劇場 サスとテナ シーズン６ ",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 204628,
-    "romaji": "Oshi ga Buka ni Narimashita",
-    "english": null,
-    "native": "推しが部下になりました",
-    "seasonYear": 2025,
-    "season": "FALL"
-  },
-  {
-    "id": 204696,
-    "romaji": "Little Twin Stars: Hajimari no Monogatari",
-    "english": null,
-    "native": "リトルツインスターズはじまりの物語",
-    "seasonYear": 2025,
-    "season": "FALL"
   }
 ]
