@@ -122,7 +122,7 @@
   {
     "id": 181284,
     "romaji": "Kirio Fanclub",
-    "english": null,
+    "english": "Kirio Fan Club",
     "native": "霧尾ファンクラブ",
     "seasonYear": 2026,
     "season": "SPRING"
@@ -522,7 +522,7 @@
   {
     "id": 206166,
     "romaji": "Ingoku Danchi",
-    "english": null,
+    "english": "Ingoku Danchi:Deviant's Apartment Complex",
     "native": "インゴクダンチ",
     "seasonYear": 2026,
     "season": "SPRING"
@@ -555,7 +555,7 @@
     "id": 206951,
     "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
     "english": "My Ribdiculous Reincarnation",
-    "native": "女神「異世界転生先は何になりたいですか」 俺「勇者の肋骨で」",
+    "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」",
     "seasonYear": 2026,
     "season": "SPRING"
   },
@@ -588,6 +588,14 @@
     "romaji": "Komekami! Girls",
     "english": null,
     "native": "こめかみっ！Girls",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 210234,
+    "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
+    "english": null,
+    "native": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~",
     "seasonYear": 2026,
     "season": "SPRING"
   },
