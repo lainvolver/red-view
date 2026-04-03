@@ -464,6 +464,101 @@
         ]
       },
       "latest_episode": 1
+    },
+    "182205": {
+      "id": 182205,
+      "name_jp": "転生したらスライムだった件 第4期",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sbg1yj/that_time_i_got_reincarnated_as_a_slime_season_4/",
+            "reddit_title": "That Time I Got Reincarnated as a Slime Season 4 • Tensei Shitara Slime Datta Ken Season 4 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 305,
+            "url": "https://www.reddit.com/r/anime/comments/1sbg1yj/that_time_i_got_reincarnated_as_a_slime_season_4/",
+            "archived_at": "2026-04-03 23:02:32"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "170019": {
+      "id": 170019,
+      "name_jp": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sbf9ut/the_angel_next_door_spoils_me_rotten_season_2/",
+            "reddit_title": "The Angel Next Door Spoils Me Rotten Season 2 • Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 186,
+            "url": "https://www.reddit.com/r/anime/comments/1sbf9ut/the_angel_next_door_spoils_me_rotten_season_2/",
+            "archived_at": "2026-04-03 23:02:32"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "196144": {
+      "id": 196144,
+      "name_jp": "スノウボールアース",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sbhu9w/snowball_earth_episode_1_discussion/",
+            "reddit_title": "Snowball Earth - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 77,
+            "url": "https://www.reddit.com/r/anime/comments/1sbhu9w/snowball_earth_episode_1_discussion/",
+            "archived_at": "2026-04-03 23:02:32"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "192808": {
+      "id": 192808,
+      "name_jp": "自称悪役令嬢な婚約者の観察記録。",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sbd6g4/observation_records_of_my_fiancée_the/",
+            "reddit_title": "Observation Records of My Fiancée: The Misadventures of a Self-Proclaimed Villainess • Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 110,
+            "url": "https://www.reddit.com/r/anime/comments/1sbd6g4/observation_records_of_my_fiancée_the/",
+            "archived_at": "2026-04-03 23:02:32"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "210234": {
+      "id": 210234,
+      "name_jp": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sao0iy/monster_eater_mamonogurai_no_boukensha_ore_dake/",
+            "reddit_title": "Monster Eater • Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 60,
+            "url": "https://www.reddit.com/r/anime/comments/1sao0iy/monster_eater_mamonogurai_no_boukensha_ore_dake/",
+            "archived_at": "2026-04-03 23:02:32"
+          }
+        ]
+      },
+      "latest_episode": 1
     }
   }
 }
