@@ -81,7 +81,7 @@
   },
   {
     "id": 178749,
-    "romaji": "Mahou no Shimai Lulutto Lilly",
+    "romaji": "Mahou no Shimai LuluttoLilly",
     "english": null,
     "native": "魔法の姉妹ルルットリリィ",
     "seasonYear": 2026,
@@ -298,7 +298,7 @@
   {
     "id": 196012,
     "romaji": "MAO",
-    "english": null,
+    "english": "MAO",
     "native": "MAO",
     "seasonYear": 2026,
     "season": "SPRING"
@@ -488,6 +488,14 @@
     "season": "SPRING"
   },
   {
+    "id": 202895,
+    "romaji": "Otaku no Boku ga Ichigun Gal to Tsukiaeru Made no Hanashi",
+    "english": null,
+    "native": "オタクの僕が一軍ギャルと付き合えるまでの話",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
     "id": 202985,
     "romaji": "Tadaima, Ojamasaremasu!",
     "english": "Pardon the Intrusion, I'm Home!",
@@ -596,6 +604,14 @@
     "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
     "english": null,
     "native": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 210375,
+    "romaji": "Daikenja Riddle no Jikan Gyakko",
+    "english": null,
+    "native": "大賢者リドルの時間逆行",
     "seasonYear": 2026,
     "season": "SPRING"
   },
