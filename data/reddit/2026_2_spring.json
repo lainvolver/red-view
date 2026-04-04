@@ -212,9 +212,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1s8rn6i/the_strongest_job_is_apparently_not_a_hero_or_a/",
             "archived_at": "2026-04-04 07:08:34"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sc9dpp/the_strongest_job_is_apparently_not_a_hero_or_a/",
+            "reddit_title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)! • Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 76,
+            "url": "https://www.reddit.com/r/anime/comments/1sc9dpp/the_strongest_job_is_apparently_not_a_hero_or_a/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "198113": {
       "id": 198113,
@@ -290,6 +300,16 @@
             "url": "https://www.reddit.com/r/anime/comments/1s3n6jg/rewatch_welcome_to_demon_school_irumakun_season_3/",
             "archived_at": "2026-04-01 23:06:37"
           }
+        ],
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sc5rq6/welcome_to_demon_school_irumakun_season_4/",
+            "reddit_title": "Welcome to Demon School! Iruma-kun Season 4 • Mairimashita! Iruma-kun Season 4 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 183,
+            "url": "https://www.reddit.com/r/anime/comments/1sc5rq6/welcome_to_demon_school_irumakun_season_4/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
         ]
       },
       "latest_episode": 21
@@ -328,9 +348,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1s652tq/agents_of_the_four_seasons_dance_of_spring/",
             "archived_at": "2026-04-04 07:08:50"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1scdsjy/agents_of_the_four_seasons_dance_of_spring/",
+            "reddit_title": "Agents of the Four Seasons: Dance of Spring • Shunkashuutou Daikousha: Haru no Mai - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 87,
+            "url": "https://www.reddit.com/r/anime/comments/1scdsjy/agents_of_the_four_seasons_dance_of_spring/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "196012": {
       "id": 196012,
@@ -346,6 +376,16 @@
             "num_comments": 216,
             "url": "https://www.reddit.com/r/anime/comments/1s4btol/omae_gotoki_ga_maou_ni_kateru_to_omouna_to_yuusha/",
             "archived_at": "2026-04-04 07:08:53"
+          }
+        ],
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sccq7g/mao_episode_1_discussion/",
+            "reddit_title": "Mao - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 39,
+            "url": "https://www.reddit.com/r/anime/comments/1sccq7g/mao_episode_1_discussion/",
+            "archived_at": "2026-04-04 22:59:41"
           }
         ]
       },
@@ -555,6 +595,158 @@
             "num_comments": 68,
             "url": "https://www.reddit.com/r/anime/comments/1sao0iy/monster_eater_mamonogurai_no_boukensha_ore_dake/",
             "archived_at": "2026-04-04 07:09:21"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "196935": {
+      "id": 196935,
+      "name_jp": "あかね噺",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1scbj2w/akanebanashi_episode_1_discussion/",
+            "reddit_title": "Akane-banashi - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 267,
+            "url": "https://www.reddit.com/r/anime/comments/1scbj2w/akanebanashi_episode_1_discussion/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "195600": {
+      "id": 195600,
+      "name_jp": "黄泉のツガイ",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1scbof8/daemons_of_the_shadow_realm_yomi_no_tsugai/",
+            "reddit_title": "Daemons of the Shadow Realm • Yomi no Tsugai - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 186,
+            "url": "https://www.reddit.com/r/anime/comments/1scbof8/daemons_of_the_shadow_realm_yomi_no_tsugai/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "202102": {
+      "id": 202102,
+      "name_jp": "NEEDY GIRL OVERDOSE",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sceksf/needy_girl_overdose_episode_1_discussion/",
+            "reddit_title": "Needy Girl Overdose - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 118,
+            "url": "https://www.reddit.com/r/anime/comments/1sceksf/needy_girl_overdose_episode_1_discussion/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "171110": {
+      "id": 171110,
+      "name_jp": "本好きの下剋上 領主の養女",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sc5kln/ascendance_of_a_bookworm_adopted_daughter_of_an/",
+            "reddit_title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke • Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryushu no Youjo - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 433,
+            "url": "https://www.reddit.com/r/anime/comments/1sc5kln/ascendance_of_a_bookworm_adopted_daughter_of_an/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "190704": {
+      "id": 190704,
+      "name_jp": "カナン様はあくまでチョロい",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1scd14y/mistress_kanan_is_devilishly_easy_kanansama_wa/",
+            "reddit_title": "Mistress Kanan is Devilishly Easy • Kanan-sama wa Akumade Choroi - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 111,
+            "url": "https://www.reddit.com/r/anime/comments/1scd14y/mistress_kanan_is_devilishly_easy_kanansama_wa/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "196029": {
+      "id": 196029,
+      "name_jp": "神の庭付き楠木邸",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1scdskk/kusunokis_garden_of_gods_kami_no_niwatsuki/",
+            "reddit_title": "Kusunoki's Garden of Gods • Kami no Niwatsuki Kusunoki-tei - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 34,
+            "url": "https://www.reddit.com/r/anime/comments/1scdskk/kusunokis_garden_of_gods_kami_no_niwatsuki/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "183231": {
+      "id": 183231,
+      "name_jp": "リラックマ ～ごゆるり夢の旅～",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sbvfuu/rilakkuma_episode_1_discussion/",
+            "reddit_title": "Rilakkuma - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 8,
+            "url": "https://www.reddit.com/r/anime/comments/1sbvfuu/rilakkuma_episode_1_discussion/",
+            "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "210375": {
+      "id": 210375,
+      "name_jp": "大賢者リドルの時間逆行",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1saa2jh/daikenja_riddle_no_jikan_gyakkou_episode_1/",
+            "reddit_title": "Daikenja Riddle no Jikan Gyakkou - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 9,
+            "url": "https://www.reddit.com/r/anime/comments/1saa2jh/daikenja_riddle_no_jikan_gyakkou_episode_1/",
+            "archived_at": "2026-04-04 22:59:41"
           }
         ]
       },
