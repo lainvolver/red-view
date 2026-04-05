@@ -193,9 +193,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1s8rn61/the_food_diary_of_miss_maid_maidsan_wa_taberu/",
             "archived_at": "2026-04-04 07:08:32"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sd4guh/the_food_diary_of_miss_maid_maidsan_wa_taberu/",
+            "reddit_title": "The Food Diary of Miss Maid • Maid-san wa Taberu dake - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 38,
+            "url": "https://www.reddit.com/r/anime/comments/1sd4guh/the_food_diary_of_miss_maid_maidsan_wa_taberu/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "200769": {
       "id": 200769,
@@ -329,9 +339,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1s6p9kc/rooster_fighter_niwatori_fighter_episode_3/",
             "archived_at": "2026-04-05 07:15:41"
           }
+        ],
+        "4": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1scxxnr/rooster_fighter_niwatori_fighter_episode_4/",
+            "reddit_title": "Rooster Fighter • Niwatori Fighter - Episode 4 discussion",
+            "created_utc": null,
+            "num_comments": 17,
+            "url": "https://www.reddit.com/r/anime/comments/1scxxnr/rooster_fighter_niwatori_fighter_episode_4/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
         ]
       },
-      "latest_episode": 3
+      "latest_episode": 4
     },
     "190143": {
       "id": 190143,
@@ -747,6 +767,120 @@
             "num_comments": 9,
             "url": "https://www.reddit.com/r/anime/comments/1saa2jh/daikenja_riddle_no_jikan_gyakkou_episode_1/",
             "archived_at": "2026-04-04 22:59:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "206914": {
+      "id": 206914,
+      "name_jp": "日本三國",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sd1vw0/nippon_sangoku_the_three_nations_of_the_crimson/",
+            "reddit_title": "Nippon Sangoku: The Three Nations of the Crimson Sun • Nippon Sangoku - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 107,
+            "url": "https://www.reddit.com/r/anime/comments/1sd1vw0/nippon_sangoku_the_three_nations_of_the_crimson/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "206166": {
+      "id": 206166,
+      "name_jp": "インゴクダンチ",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sd8mi3/ingoku_danchi_deviants_apartment_complex_ingoku/",
+            "reddit_title": "Ingoku Danchi: Deviant's Apartment Complex • Ingoku Danchi - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 42,
+            "url": "https://www.reddit.com/r/anime/comments/1sd8mi3/ingoku_danchi_deviants_apartment_complex_ingoku/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "204319": {
+      "id": 204319,
+      "name_jp": "大きい女の子は好きですか？",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sdedvf/do_you_like_big_girls_ookii_onnanoko_wa_suki_desu/",
+            "reddit_title": "Do You Like Big Girls? • Ookii Onnanoko wa Suki desu ka? - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 10,
+            "url": "https://www.reddit.com/r/anime/comments/1sdedvf/do_you_like_big_girls_ookii_onnanoko_wa_suki_desu/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "177634": {
+      "id": 177634,
+      "name_jp": "ダイヤのA actII -Second Season-",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sdb98m/ace_of_the_diamond_act_ii_season_2_diamond_no_ace/",
+            "reddit_title": "Ace of the Diamond: Act II Season 2 • Diamond no Ace: Act II Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 13,
+            "url": "https://www.reddit.com/r/anime/comments/1sdb98m/ace_of_the_diamond_act_ii_season_2_diamond_no_ace/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "202523": {
+      "id": 202523,
+      "name_jp": "茉莉花ちゃんの好感度はぶっ壊れている",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sd9312/marikas_love_meter_malfunction_marikachan_no/",
+            "reddit_title": "Marika's Love Meter Malfunction • Marika-chan no Koukando wa Bukkowareteiru - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 11,
+            "url": "https://www.reddit.com/r/anime/comments/1sd9312/marikas_love_meter_malfunction_marikachan_no/",
+            "archived_at": "2026-04-05 23:00:22"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "201090": {
+      "id": 201090,
+      "name_jp": "ゴーストコンサート: missing Songs",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sd6n73/ghost_concert_missing_songs_episode_1_discussion/",
+            "reddit_title": "Ghost Concert: Missing Songs - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 92,
+            "url": "https://www.reddit.com/r/anime/comments/1sd6n73/ghost_concert_missing_songs_episode_1_discussion/",
+            "archived_at": "2026-04-05 23:00:22"
           }
         ]
       },
