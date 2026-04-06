@@ -885,6 +885,92 @@
         ]
       },
       "latest_episode": 1
+    },
+    "147105": {
+      "id": 147105,
+      "name_jp": "とんがり帽子のアトリエ",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sdzse5/witch_hat_atelier_tongari_boushi_no_atelier/",
+            "reddit_title": "Witch Hat Atelier • Tongari Boushi no Atelier - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 455,
+            "url": "https://www.reddit.com/r/anime/comments/1sdzse5/witch_hat_atelier_tongari_boushi_no_atelier/",
+            "archived_at": "2026-04-06 23:05:41"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sdzseb/witch_hat_atelier_tongari_boushi_no_atelier/",
+            "reddit_title": "Witch Hat Atelier • Tongari Boushi no Atelier - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 320,
+            "url": "https://www.reddit.com/r/anime/comments/1sdzseb/witch_hat_atelier_tongari_boushi_no_atelier/",
+            "archived_at": "2026-04-06 23:05:41"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "197754": {
+      "id": 197754,
+      "name_jp": "LIAR GAME",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1se338r/liar_game_episode_1_discussion/",
+            "reddit_title": "Liar Game - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 131,
+            "url": "https://www.reddit.com/r/anime/comments/1se338r/liar_game_episode_1_discussion/",
+            "archived_at": "2026-04-06 23:05:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "189987": {
+      "id": 189987,
+      "name_jp": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1se1f6x/the_klutzy_class_monitor_and_the_girl_with_the/",
+            "reddit_title": "The Klutzy Class Monitor and the Girl with the Short Skirt • Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 82,
+            "url": "https://www.reddit.com/r/anime/comments/1se1f6x/the_klutzy_class_monitor_and_the_girl_with_the/",
+            "archived_at": "2026-04-06 23:05:41"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "197824": {
+      "id": 197824,
+      "name_jp": "異世界のんびり農家２",
+      "seasonYear": 2026,
+      "season": "SPRING",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1sdzsf5/farming_life_in_another_world_season_2_isekai/",
+            "reddit_title": "Farming Life in Another World Season 2 • Isekai Nonbiri Nouka Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 106,
+            "url": "https://www.reddit.com/r/anime/comments/1sdzsf5/farming_life_in_another_world_season_2_isekai/",
+            "archived_at": "2026-04-06 23:05:41"
+          }
+        ]
+      },
+      "latest_episode": 1
     }
   }
 }
