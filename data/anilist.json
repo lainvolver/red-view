@@ -362,7 +362,7 @@
   {
     "id": 198113,
     "romaji": "Kill Ao",
-    "english": null,
+    "english": "KILL BLUE",
     "native": "キルアオ",
     "seasonYear": 2026,
     "season": "SPRING"
@@ -612,6 +612,14 @@
     "romaji": "Daikenja Riddle no Jikan Gyakko",
     "english": null,
     "native": "大賢者リドルの時間逆行",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 210687,
+    "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+    "english": null,
+    "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season",
     "seasonYear": 2026,
     "season": "SPRING"
   },
