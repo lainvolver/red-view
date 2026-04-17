@@ -320,6 +320,14 @@
     "season": "SPRING"
   },
   {
+    "id": 196840,
+    "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
+    "english": null,
+    "native": "嫌な顔されながらおパンツ見せてもらいたいR（リターンズ）",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
     "id": 196935,
     "romaji": "Akane-banashi",
     "english": "Akane-banashi",
@@ -570,7 +578,7 @@
   {
     "id": 207675,
     "romaji": "Hyakki Yakou Shou",
-    "english": null,
+    "english": "Hyakki Yakoushou",
     "native": "百鬼夜行抄",
     "seasonYear": 2026,
     "season": "SPRING"
