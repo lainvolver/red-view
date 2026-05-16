@@ -640,6 +640,30 @@
     "season": "SPRING"
   },
   {
+    "id": 212309,
+    "romaji": "Transformers: Wild King W",
+    "english": null,
+    "native": "トランスフォーマー ワイルドキングW",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 212319,
+    "romaji": "Nikke Nichi! Non Non Zenshou Kichi",
+    "english": "NIKKE Outpost: Off-Duty Tales",
+    "native": "にけにち！のんのん前哨基地",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
+    "id": 212323,
+    "romaji": "Shounen to Gundam - Kidou Senshi Gundam 50-shuunen: Road to 50 - Prologue Movie",
+    "english": "\"A boy with GUNDAM\" Mobile Suit Gundam 50th Anniversary - Road to 50 - Prologue Movie",
+    "native": "少年とガンダム｜機動戦士ガンダム50周年 -Road to 50- プロローグムービー",
+    "seasonYear": 2026,
+    "season": "SPRING"
+  },
+  {
     "id": 163144,
     "romaji": "TRIGUN STARGAZE",
     "english": "TRIGUN STARGAZE",
@@ -841,7 +865,7 @@
   },
   {
     "id": 185262,
-    "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
+    "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
     "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
     "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
     "seasonYear": 2026,
