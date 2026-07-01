@@ -6,6 +6,12 @@
     "label": "2026年 春"
   },
   {
+    "key": "2026_3_summer",
+    "year": 2026,
+    "season": "SUMMER",
+    "label": "2026年 夏"
+  },
+  {
     "key": "2026_1_winter",
     "year": 2026,
     "season": "WINTER",
