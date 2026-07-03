@@ -386,7 +386,7 @@
   {
     "id": 203490,
     "romaji": "Uchi no Otouto-domo ga Sumimasen",
-    "english": "Sorry About My Little Brothers",
+    "english": "Please Excuse My Younger Brothers",
     "native": "うちの弟どもがすみません",
     "seasonYear": 2026,
     "season": "SUMMER"
@@ -530,7 +530,7 @@
   {
     "id": 209983,
     "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-    "english": null,
+    "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
     "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
     "seasonYear": 2026,
     "season": "SUMMER"
@@ -612,6 +612,22 @@
     "romaji": "Bananya At-Home Party",
     "english": null,
     "native": "ばなにゃ あっとほーむぱーてぃー",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213831,
+    "romaji": "Snack HAZAMA",
+    "english": "Snack Hazama",
+    "native": "スナックはざま-HAZAMA-",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213847,
+    "romaji": "Star Wars: Visions - Kyuuninme no Jedi",
+    "english": "Star Wars: Visions Presents - The Ninth Jedi",
+    "native": "Star Wars：ビジョンズ 九人目のジェダイ",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
