@@ -114,7 +114,7 @@
   {
     "id": 185692,
     "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
-    "english": null,
+    "english": "Magilumiere Magical Girls Inc. Season 2",
     "native": "株式会社マジルミエ 第2期",
     "seasonYear": 2026,
     "season": "SUMMER"
@@ -218,7 +218,7 @@
   {
     "id": 196017,
     "romaji": "Grow Up Show: Himawari no Circus-dan",
-    "english": "GROW UP SHOW -Sunflower Circus-",
+    "english": "Grow Up Show",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "seasonYear": 2026,
     "season": "SUMMER"
@@ -628,6 +628,14 @@
     "romaji": "Star Wars: Visions - Kyuuninme no Jedi",
     "english": "Star Wars: Visions Presents - The Ninth Jedi",
     "native": "Star Wars：ビジョンズ 九人目のジェダイ",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213861,
+    "romaji": "Let's Roll, Cinnamoroll! 2",
+    "english": "Let's Roll, Cinnamoroll! 2",
+    "native": "レッツロールシナモロール",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
