@@ -106,9 +106,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1ujph50/the_oblivious_saint_cant_contain_her_power/",
             "archived_at": "2026-07-07 09:50:55"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1upv7xd/the_oblivious_saint_cant_contain_her_power/",
+            "reddit_title": "The Oblivious Saint Can't Contain Her Power • Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 136,
+            "url": "https://www.reddit.com/r/anime/comments/1upv7xd/the_oblivious_saint_cant_contain_her_power/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "206521": {
       "id": 206521,
@@ -958,6 +968,139 @@
         ]
       },
       "latest_episode": 13
+    },
+    "177699": {
+      "id": 177699,
+      "name_jp": "攻殻機動隊 THE GHOST IN THE SHELL",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1upy4ap/the_ghost_in_the_shell_koukaku_kidoutai_tv/",
+            "reddit_title": "The Ghost in the Shell • Koukaku Kidoutai (TV) - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 308,
+            "url": "https://www.reddit.com/r/anime/comments/1upy4ap/the_ghost_in_the_shell_koukaku_kidoutai_tv/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "187260": {
+      "id": 187260,
+      "name_jp": "きみが死ぬまで恋をしたい",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1uptt60/i_want_to_love_you_till_your_dying_day_kimi_ga/",
+            "reddit_title": "I Want to Love You Till Your Dying Day • Kimi ga Shinu made Koi wo Shitai - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 179,
+            "url": "https://www.reddit.com/r/anime/comments/1uptt60/i_want_to_love_you_till_your_dying_day_kimi_ga/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "128757": {
+      "id": 128757,
+      "name_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1upup3m/young_ladies_dont_play_fighting_games_taiari/",
+            "reddit_title": "Young Ladies Don’t Play Fighting Games • Tai-Ari deshita.: Ojou-sama wa Kakutou Game Nante Shinai - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 215,
+            "url": "https://www.reddit.com/r/anime/comments/1upup3m/young_ladies_dont_play_fighting_games_taiari/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "207809": {
+      "id": 207809,
+      "name_jp": "天は赤い河のほとり",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1uq28dk/red_river_sora_wa_akai_kawa_no_hotori_episode_1/",
+            "reddit_title": "Red River • Sora wa Akai Kawa no Hotori - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 74,
+            "url": "https://www.reddit.com/r/anime/comments/1uq28dk/red_river_sora_wa_akai_kawa_no_hotori_episode_1/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "198709": {
+      "id": 198709,
+      "name_jp": "手札が多めのビクトリア",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1upxqm8/victoria_of_many_faces_tefuda_ga_oome_no_victoria/",
+            "reddit_title": "Victoria of Many Faces • Tefuda ga Oome no Victoria - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 58,
+            "url": "https://www.reddit.com/r/anime/comments/1upxqm8/victoria_of_many_faces_tefuda_ga_oome_no_victoria/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "209800": {
+      "id": 209800,
+      "name_jp": "鎧真伝サムライトルーパー 第2クール",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1upyroz/yoroi_shin_den_samurai_troopers_part_2/",
+            "reddit_title": "Yoroi Shin Den Samurai Troopers Part 2 • Yoroi-Shinden Samurai Troopers Part 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 7,
+            "url": "https://www.reddit.com/r/anime/comments/1upyroz/yoroi_shin_den_samurai_troopers_part_2/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "195833": {
+      "id": 195833,
+      "name_jp": "炎の闘球女 ドッジ弾子",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1upnw1m/dodgeball_girl_danko_honoo_no_toukyuujo_dodge/",
+            "reddit_title": "Dodgeball Girl Danko • Honoo no Toukyuujo: Dodge Danko - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 15,
+            "url": "https://www.reddit.com/r/anime/comments/1upnw1m/dodgeball_girl_danko_honoo_no_toukyuujo_dodge/",
+            "archived_at": "2026-07-07 23:29:37"
+          }
+        ]
+      },
+      "latest_episode": 1
     }
   }
 }
