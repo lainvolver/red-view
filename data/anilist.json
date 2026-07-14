@@ -1,7 +1,7 @@
 [
   {
     "id": 103303,
-    "romaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
+    "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika",
     "english": "Sparks of Tomorrow",
     "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
     "seasonYear": 2026,
@@ -1044,14 +1044,6 @@
     "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
     "english": "Dr. STONE SCIENCE FUTURE Cour 3",
     "native": "Dr.STONE SCIENCE FUTURE 3クール",
-    "seasonYear": 2026,
-    "season": "SPRING"
-  },
-  {
-    "id": 199418,
-    "romaji": "Wan Ren Zhi Shang",
-    "english": "Above Myriads",
-    "native": "万人之上",
     "seasonYear": 2026,
     "season": "SPRING"
   },
