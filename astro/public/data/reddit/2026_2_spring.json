@@ -1867,9 +1867,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1vcqs39/mao_episode_18_discussion/",
             "archived_at": "2026-08-06 09:00:39"
           }
+        ],
+        "19": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1vizbmk/mao_episode_19_discussion/",
+            "reddit_title": "Mao - Episode 19 discussion",
+            "created_utc": null,
+            "num_comments": 17,
+            "url": "https://www.reddit.com/r/anime/comments/1vizbmk/mao_episode_19_discussion/",
+            "archived_at": "2026-08-08 22:56:55"
+          }
         ]
       },
-      "latest_episode": 18
+      "latest_episode": 19
     },
     "186497": {
       "id": 186497,
@@ -3694,9 +3704,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1vcpos5/daemons_of_the_shadow_realm_yomi_no_tsugai/",
             "archived_at": "2026-08-07 07:42:24"
           }
+        ],
+        "18": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1viyete/daemons_of_the_shadow_realm_yomi_no_tsugai/",
+            "reddit_title": "Daemons of the Shadow Realm • Yomi no Tsugai - Episode 18 discussion",
+            "created_utc": null,
+            "num_comments": 100,
+            "url": "https://www.reddit.com/r/anime/comments/1viyete/daemons_of_the_shadow_realm_yomi_no_tsugai/",
+            "archived_at": "2026-08-08 22:56:55"
+          }
         ]
       },
-      "latest_episode": 17
+      "latest_episode": 18
     },
     "202102": {
       "id": 202102,
@@ -4002,9 +4022,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1vcits7/ascendance_of_a_bookworm_adopted_daughter_of_an/",
             "archived_at": "2026-08-08 07:20:34"
           }
+        ],
+        "17": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1virkq3/ascendance_of_a_bookworm_adopted_daughter_of_an/",
+            "reddit_title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke • Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryushu no Youjo - Episode 17 discussion",
+            "created_utc": null,
+            "num_comments": 138,
+            "url": "https://www.reddit.com/r/anime/comments/1virkq3/ascendance_of_a_bookworm_adopted_daughter_of_an/",
+            "archived_at": "2026-08-08 22:56:55"
+          }
         ]
       },
-      "latest_episode": 16
+      "latest_episode": 17
     },
     "190704": {
       "id": 190704,
@@ -4449,9 +4479,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1vc90pi/rilakkuma_episode_18_discussion/",
             "archived_at": "2026-08-01 23:23:44"
           }
+        ],
+        "19": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1vii6eb/rilakkuma_episode_19_discussion/",
+            "reddit_title": "Rilakkuma - Episode 19 discussion",
+            "created_utc": null,
+            "num_comments": 3,
+            "url": "https://www.reddit.com/r/anime/comments/1vii6eb/rilakkuma_episode_19_discussion/",
+            "archived_at": "2026-08-08 22:56:56"
+          }
         ]
       },
-      "latest_episode": 18
+      "latest_episode": 19
     },
     "210375": {
       "id": 210375,
@@ -8846,9 +8886,49 @@
             "url": "https://www.reddit.com/r/anime/comments/1uo7ft1/onegai_aipri_episode_14_discussion/",
             "archived_at": "2026-07-17 08:38:56"
           }
+        ],
+        "18": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1vifazc/onegai_aipri_episode_18_discussion/",
+            "reddit_title": "Onegai AiPri - Episode 18 discussion",
+            "created_utc": null,
+            "num_comments": 3,
+            "url": "https://www.reddit.com/r/anime/comments/1vifazc/onegai_aipri_episode_18_discussion/",
+            "archived_at": "2026-08-08 22:56:56"
+          }
+        ],
+        "16": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1vifap5/onegai_aipri_episode_16_discussion/",
+            "reddit_title": "Onegai AiPri - Episode 16 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1vifap5/onegai_aipri_episode_16_discussion/",
+            "archived_at": "2026-08-08 22:56:56"
+          }
+        ],
+        "17": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1vifatz/onegai_aipri_episode_17_discussion/",
+            "reddit_title": "Onegai AiPri - Episode 17 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1vifatz/onegai_aipri_episode_17_discussion/",
+            "archived_at": "2026-08-08 22:56:56"
+          }
+        ],
+        "15": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1vifajc/onegai_aipri_episode_15_discussion/",
+            "reddit_title": "Onegai AiPri - Episode 15 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1vifajc/onegai_aipri_episode_15_discussion/",
+            "archived_at": "2026-08-08 22:56:56"
+          }
         ]
       },
-      "latest_episode": 14
+      "latest_episode": 18
     },
     "182300": {
       "id": 182300,
