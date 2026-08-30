@@ -1223,12 +1223,12 @@
         ],
         "20": [
           {
-            "reddit_id": "https://www.reddit.com/r/anime/comments/1s6bvfk/rewatch_welcome_to_demon_school_irumakun_season_3/",
-            "reddit_title": "[Rewatch] Welcome to Demon School! Iruma-kun Season 3 Episode 20 Discussion",
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1w1krrn/welcome_to_demon_school_irumakun_season_4/",
+            "reddit_title": "Welcome to Demon School! Iruma-kun Season 4 • Mairimashita! Iruma-kun Season 4 - Episode 20 discussion",
             "created_utc": null,
-            "num_comments": 15,
-            "url": "https://www.reddit.com/r/anime/comments/1s6bvfk/rewatch_welcome_to_demon_school_irumakun_season_3/",
-            "archived_at": "2026-04-01 23:06:37"
+            "num_comments": 119,
+            "url": "https://www.reddit.com/r/anime/comments/1w1krrn/welcome_to_demon_school_irumakun_season_4/",
+            "archived_at": "2026-08-30 00:22:40"
           }
         ],
         "19": [
@@ -1897,9 +1897,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1vvfupr/mao_episode_21_discussion/",
             "archived_at": "2026-08-25 07:13:42"
           }
+        ],
+        "22": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1w1pz7r/mao_episode_22_discussion/",
+            "reddit_title": "Mao - Episode 22 discussion",
+            "created_utc": null,
+            "num_comments": 23,
+            "url": "https://www.reddit.com/r/anime/comments/1w1pz7r/mao_episode_22_discussion/",
+            "archived_at": "2026-08-30 00:22:40"
+          }
         ]
       },
-      "latest_episode": 21
+      "latest_episode": 22
     },
     "186497": {
       "id": 186497,
@@ -3784,9 +3794,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1vvepp5/daemons_of_the_shadow_realm_yomi_no_tsugai/",
             "archived_at": "2026-08-26 07:17:41"
           }
+        ],
+        "21": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1w1oumf/daemons_of_the_shadow_realm_yomi_no_tsugai/",
+            "reddit_title": "Daemons of the Shadow Realm • Yomi no Tsugai - Episode 21 discussion",
+            "created_utc": null,
+            "num_comments": 133,
+            "url": "https://www.reddit.com/r/anime/comments/1w1oumf/daemons_of_the_shadow_realm_yomi_no_tsugai/",
+            "archived_at": "2026-08-30 00:22:40"
+          }
         ]
       },
-      "latest_episode": 20
+      "latest_episode": 21
     },
     "202102": {
       "id": 202102,
