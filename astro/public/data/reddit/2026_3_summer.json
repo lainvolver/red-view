@@ -3156,9 +3156,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wks3qt/magilumiere_magical_girls_inc_season_2/",
             "archived_at": "2026-09-23 11:15:47"
           }
+        ],
+        "12": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wqwal0/magilumiere_magical_girls_inc_season_2/",
+            "reddit_title": "Magilumiere Magical Girls Inc. Season 2 • Kabushikigaisha Magi-Lumière Season 2 - Episode 12 discussion - FINAL",
+            "created_utc": null,
+            "num_comments": 24,
+            "url": "https://www.reddit.com/r/anime/comments/1wqwal0/magilumiere_magical_girls_inc_season_2/",
+            "archived_at": "2026-09-27 00:45:34"
+          }
         ]
       },
-      "latest_episode": 11
+      "latest_episode": 12
     },
     "196017": {
       "id": 196017,
@@ -3285,9 +3295,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wkqb3s/grow_up_show_sunflower_circus_grow_up_show/",
             "archived_at": "2026-09-22 11:22:55"
           }
+        ],
+        "13": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wqu72n/grow_up_show_sunflower_circus_grow_up_show/",
+            "reddit_title": "Grow Up Show: Sunflower Circus • Grow Up Show: Himawari no Circus-dan - Episode 13 discussion - FINAL",
+            "created_utc": null,
+            "num_comments": 112,
+            "url": "https://www.reddit.com/r/anime/comments/1wqu72n/grow_up_show_sunflower_circus_grow_up_show/",
+            "archived_at": "2026-09-27 00:45:34"
+          }
         ]
       },
-      "latest_episode": 12
+      "latest_episode": 13
     },
     "185875": {
       "id": 185875,
@@ -7888,9 +7908,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wks7d4/hanaorisan_still_wants_to_fight_in_the_next_life/",
             "archived_at": "2026-09-24 11:40:23"
           }
+        ],
+        "12": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wqwd75/hanaorisan_still_wants_to_fight_in_the_next_life/",
+            "reddit_title": "Hanaori-san Still Wants to Fight in the Next Life • Hanaori-san wa Tensei Shite mo Kenka ga Shitai - Episode 12 discussion - FINAL",
+            "created_utc": null,
+            "num_comments": 86,
+            "url": "https://www.reddit.com/r/anime/comments/1wqwd75/hanaorisan_still_wants_to_fight_in_the_next_life/",
+            "archived_at": "2026-09-27 00:45:34"
+          }
         ]
       },
-      "latest_episode": 11
+      "latest_episode": 12
     },
     "188139": {
       "id": 188139,
@@ -8581,9 +8611,38 @@
             "url": "https://www.reddit.com/r/anime/comments/1wk80j9/ghost_meets_gal_episode_1_discussion/",
             "archived_at": "2026-09-20 00:23:22"
           }
+        ],
+        "4": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wqk9ao/ghost_meets_gal_episode_4_discussion/",
+            "reddit_title": "Ghost Meets Gal! - Episode 4 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1wqk9ao/ghost_meets_gal_episode_4_discussion/",
+            "archived_at": "2026-09-27 00:45:34"
+          }
         ]
       },
-      "latest_episode": 3
+      "latest_episode": 4
+    },
+    "208824": {
+      "id": 208824,
+      "name_jp": "プラノサウルス ガチコセイブツ部",
+      "seasonYear": 2026,
+      "season": "SUMMER",
+      "episodes": {
+        "12": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wr4aku/plannosaurus_gachi_koseibutsubu_episode_12/",
+            "reddit_title": "Plannosaurus Gachi Koseibutsu-bu - Episode 12 discussion",
+            "created_utc": null,
+            "num_comments": 2,
+            "url": "https://www.reddit.com/r/anime/comments/1wr4aku/plannosaurus_gachi_koseibutsubu_episode_12/",
+            "archived_at": "2026-09-27 00:45:34"
+          }
+        ]
+      },
+      "latest_episode": 12
     }
   }
 }
