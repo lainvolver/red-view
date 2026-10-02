@@ -256,6 +256,63 @@
         ]
       },
       "latest_episode": 2
+    },
+    "213805": {
+      "id": 213805,
+      "name_jp": "氷の城壁 第2期",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wv2k78/the_ramparts_of_ice_season_2_koori_no_jouheki/",
+            "reddit_title": "The Ramparts of Ice Season 2 • Koori no Jouheki Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 174,
+            "url": "https://www.reddit.com/r/anime/comments/1wv2k78/the_ramparts_of_ice_season_2_koori_no_jouheki/",
+            "archived_at": "2026-10-02 01:46:23"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "206401": {
+      "id": 206401,
+      "name_jp": "FX戦士くるみちゃん",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wuy7tp/fx_fighter_kurumichan_fx_senshi_kurumichan/",
+            "reddit_title": "FX Fighter Kurumi-chan • FX Senshi Kurumi-chan - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 330,
+            "url": "https://www.reddit.com/r/anime/comments/1wuy7tp/fx_fighter_kurumichan_fx_senshi_kurumichan/",
+            "archived_at": "2026-10-02 01:46:23"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "212144": {
+      "id": 212144,
+      "name_jp": "傷だらけ聖女より報復をこめて Season2",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wv44dq/with_vengeance_sincerely_your_broken_saintess/",
+            "reddit_title": "With Vengeance, Sincerely, Your Broken Saintess Season 2 • Kizu darake Seijo yori Houfuku wo Komete Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 9,
+            "url": "https://www.reddit.com/r/anime/comments/1wv44dq/with_vengeance_sincerely_your_broken_saintess/",
+            "archived_at": "2026-10-02 01:46:23"
+          }
+        ]
+      },
+      "latest_episode": 1
     }
   }
 }
