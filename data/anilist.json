@@ -474,7 +474,7 @@
   {
     "id": 211877,
     "romaji": "Kanojo no Tomodachi",
-    "english": null,
+    "english": "My Girlfriend's Friend",
     "native": "彼女の友達",
     "seasonYear": 2026,
     "season": "FALL"
@@ -618,7 +618,7 @@
   {
     "id": 216895,
     "romaji": "Aoki Denshou: Welsh & Shedar",
-    "english": null,
+    "english": "Welsh & Shedar",
     "native": "蒼き伝承 ウェルシュ＆シェダー",
     "seasonYear": 2026,
     "season": "FALL"
@@ -636,6 +636,14 @@
     "romaji": "Mazenchu",
     "english": null,
     "native": "マゼンチュ",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 217624,
+    "romaji": "PetitCure: Precure Fairies Season 4",
+    "english": null,
+    "native": "ぷちきゅあ～Precure Fairies～ シーズン4",
     "seasonYear": 2026,
     "season": "FALL"
   },
