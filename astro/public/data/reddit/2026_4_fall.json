@@ -234,9 +234,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wqqmqx/a_wild_last_boss_appeared_season_2_yasei_no_last/",
             "archived_at": "2026-10-02 12:12:19"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwne1d/a_wild_last_boss_appeared_season_2_yasei_no_last/",
+            "reddit_title": "A Wild Last Boss Appeared! Season 2 • Yasei no Last Boss ga Arawareta! Season 2 - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 98,
+            "url": "https://www.reddit.com/r/anime/comments/1wwne1d/a_wild_last_boss_appeared_season_2_yasei_no_last/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "210482": {
       "id": 210482,
@@ -376,6 +386,254 @@
             "num_comments": 14,
             "url": "https://www.reddit.com/r/anime/comments/1wvxmmy/tougen_anki_nikko_kegon_falls_arc_tougen_anki/",
             "archived_at": "2026-10-03 11:23:45"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "191656": {
+      "id": 191656,
+      "name_jp": "生徒会にも穴はある！",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwt1rm/even_the_student_council_has_its_holes_seitokai/",
+            "reddit_title": "Even the Student Council Has Its Holes! • Seitokai ni mo Ana wa Aru! - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 151,
+            "url": "https://www.reddit.com/r/anime/comments/1wwt1rm/even_the_student_council_has_its_holes_seitokai/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "195604": {
+      "id": 195604,
+      "name_jp": "ブラッククローバー 第2期",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "171": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwpg2h/black_clover_season_2_episode_171_discussion/",
+            "reddit_title": "Black Clover Season 2 - Episode 171 discussion",
+            "created_utc": null,
+            "num_comments": 204,
+            "url": "https://www.reddit.com/r/anime/comments/1wwpg2h/black_clover_season_2_episode_171_discussion/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 171
+    },
+    "180894": {
+      "id": 180894,
+      "name_jp": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwmpe6/romelia_war_chronicle_romelia_senki_episode_1/",
+            "reddit_title": "Romelia War Chronicle • Romelia Senki - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 165,
+            "url": "https://www.reddit.com/r/anime/comments/1wwmpe6/romelia_war_chronicle_romelia_senki_episode_1/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "199007": {
+      "id": 199007,
+      "name_jp": "#ゾンビさがしてます",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwphtq/im_looking_for_a_zombie_zombie_sagashitemasu/",
+            "reddit_title": "#I'm Looking For a Zombie • #Zombie Sagashitemasu - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 63,
+            "url": "https://www.reddit.com/r/anime/comments/1wwphtq/im_looking_for_a_zombie_zombie_sagashitemasu/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "169581": {
+      "id": 169581,
+      "name_jp": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwriov/magical_explorer_magicalexplorer_episode_1/",
+            "reddit_title": "Magical Explorer • Magical★Explorer - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 66,
+            "url": "https://www.reddit.com/r/anime/comments/1wwriov/magical_explorer_magicalexplorer_episode_1/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwrka2/magical_explorer_magicalexplorer_episode_2/",
+            "reddit_title": "Magical Explorer • Magical★Explorer - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 48,
+            "url": "https://www.reddit.com/r/anime/comments/1wwrka2/magical_explorer_magicalexplorer_episode_2/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "202250": {
+      "id": 202250,
+      "name_jp": "貸した魔力は【リボ払い】で強制徴収",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwxtvt/magic_repo_man_dumped_by_my_party_ill_cash_in/",
+            "reddit_title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! • Kashita Maryoku wa \"Ribobarai\" de Kyousei Choushuu - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 69,
+            "url": "https://www.reddit.com/r/anime/comments/1wwxtvt/magic_repo_man_dumped_by_my_party_ill_cash_in/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "212799": {
+      "id": 212799,
+      "name_jp": "マロニエ王国の七人の騎士",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwpdfb/the_seven_knights_of_the_marronnier_kingdom/",
+            "reddit_title": "The Seven Knights of the Marronnier Kingdom • Marronnier Oukoku no Shichinin no Kishi - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 54,
+            "url": "https://www.reddit.com/r/anime/comments/1wwpdfb/the_seven_knights_of_the_marronnier_kingdom/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "209562": {
+      "id": 209562,
+      "name_jp": "バーテックスフォース",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwqtbd/vertex_force_episode_1_discussion/",
+            "reddit_title": "Vertex Force - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 69,
+            "url": "https://www.reddit.com/r/anime/comments/1wwqtbd/vertex_force_episode_1_discussion/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "187402": {
+      "id": 187402,
+      "name_jp": "転生した大聖女は、聖女であることをひた隠す",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwmpej/a_tale_of_the_secret_saint_tensei_shita_daiseijo/",
+            "reddit_title": "A Tale of the Secret Saint • Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 89,
+            "url": "https://www.reddit.com/r/anime/comments/1wwmpej/a_tale_of_the_secret_saint_tensei_shita_daiseijo/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwmpf2/a_tale_of_the_secret_saint_tensei_shita_daiseijo/",
+            "reddit_title": "A Tale of the Secret Saint • Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 70,
+            "url": "https://www.reddit.com/r/anime/comments/1wwmpf2/a_tale_of_the_secret_saint_tensei_shita_daiseijo/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "187316": {
+      "id": 187316,
+      "name_jp": "幻想水滸伝",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwlfw6/suikoden_the_anime_genso_suikoden_episode_1/",
+            "reddit_title": "Suikoden : The Anime • Genso Suikoden - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 76,
+            "url": "https://www.reddit.com/r/anime/comments/1wwlfw6/suikoden_the_anime_genso_suikoden_episode_1/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "194207": {
+      "id": 194207,
+      "name_jp": "パンどろぼう",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwv0fw/pan_dorobo_episode_1_discussion/",
+            "reddit_title": "Pan Dorobo - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 4,
+            "url": "https://www.reddit.com/r/anime/comments/1wwv0fw/pan_dorobo_episode_1_discussion/",
+            "archived_at": "2026-10-04 00:51:05"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "216557": {
+      "id": 216557,
+      "name_jp": "ケロロ軍曹☆",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wwb0h0/sgt_frog_keroro_gunsou_episode_1_discussion/",
+            "reddit_title": "Sgt. Frog☆ • Keroro Gunsou☆ - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 27,
+            "url": "https://www.reddit.com/r/anime/comments/1wwb0h0/sgt_frog_keroro_gunsou_episode_1_discussion/",
+            "archived_at": "2026-10-04 00:51:05"
           }
         ]
       },
