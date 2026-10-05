@@ -177,9 +177,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1ws7kvu/umayuru_full_gate_episode_1_discussion/",
             "archived_at": "2026-10-01 01:33:18"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxe133/umayuru_full_gate_episode_2_discussion/",
+            "reddit_title": "Umayuru: Full Gate! - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 3,
+            "url": "https://www.reddit.com/r/anime/comments/1wxe133/umayuru_full_gate_episode_2_discussion/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "212888": {
       "id": 212888,
@@ -196,9 +206,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wrlqsg/overgeared_tempal_item_no_chikara_episode_1/",
             "archived_at": "2026-10-04 12:04:14"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxh4hn/overgeared_tempal_item_no_chikara_episode_2/",
+            "reddit_title": "Overgeared • Tempal: Item no Chikara - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 180,
+            "url": "https://www.reddit.com/r/anime/comments/1wxh4hn/overgeared_tempal_item_no_chikara_episode_2/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "185756": {
       "id": 185756,
@@ -215,9 +235,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wrmf4y/as_a_reincarnated_aristocrat_ill_use_my_appraisal/",
             "archived_at": "2026-10-04 12:04:16"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxhs2q/as_a_reincarnated_aristocrat_ill_use_my_appraisal/",
+            "reddit_title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 • Tensei Kizoku, Kantei Skill de Nariagaru Season 3 - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 32,
+            "url": "https://www.reddit.com/r/anime/comments/1wxhs2q/as_a_reincarnated_aristocrat_ill_use_my_appraisal/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "204389": {
       "id": 204389,
@@ -634,6 +664,196 @@
             "num_comments": 28,
             "url": "https://www.reddit.com/r/anime/comments/1wwb0h0/sgt_frog_keroro_gunsou_episode_1_discussion/",
             "archived_at": "2026-10-04 12:05:14"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "208025": {
+      "id": 208025,
+      "name_jp": "ダークサモナーとデキている",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxjsdj/im_dating_a_dark_summoner_dark_summoner_to/",
+            "reddit_title": "I'm Dating a Dark Summoner • Dark Summoner to Dekiteiru - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 107,
+            "url": "https://www.reddit.com/r/anime/comments/1wxjsdj/im_dating_a_dark_summoner_dark_summoner_to/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "186541": {
+      "id": 186541,
+      "name_jp": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxgg2u/reborn_as_a_space_mercenary_i_woke_up_piloting/",
+            "reddit_title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! • Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 209,
+            "url": "https://www.reddit.com/r/anime/comments/1wxgg2u/reborn_as_a_space_mercenary_i_woke_up_piloting/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "189123": {
+      "id": 189123,
+      "name_jp": "アオのハコ Season２",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxa87d/blue_box_season_2_ao_no_hako_season_2_episode_1/",
+            "reddit_title": "Blue Box Season 2 • Ao no Hako Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 154,
+            "url": "https://www.reddit.com/r/anime/comments/1wxa87d/blue_box_season_2_ao_no_hako_season_2_episode_1/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "209499": {
+      "id": 209499,
+      "name_jp": "TANK CHAIR-戦車椅子-",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxh9z7/tank_chair_episode_1_discussion/",
+            "reddit_title": "Tank Chair - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 56,
+            "url": "https://www.reddit.com/r/anime/comments/1wxh9z7/tank_chair_episode_1_discussion/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "211877": {
+      "id": 211877,
+      "name_jp": "彼女の友達",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxjbws/my_girlfriends_friend_kanojo_no_tomodachi_episode/",
+            "reddit_title": "My Girlfriend's Friend • Kanojo no Tomodachi - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 25,
+            "url": "https://www.reddit.com/r/anime/comments/1wxjbws/my_girlfriends_friend_kanojo_no_tomodachi_episode/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "191788": {
+      "id": 191788,
+      "name_jp": "アオアシ 第2期",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxb3iz/aoashi_season_2_episode_1_discussion/",
+            "reddit_title": "Aoashi Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 77,
+            "url": "https://www.reddit.com/r/anime/comments/1wxb3iz/aoashi_season_2_episode_1_discussion/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "209463": {
+      "id": 209463,
+      "name_jp": "彼方から",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxjqnk/from_far_away_kanata_kara_episode_1_discussion/",
+            "reddit_title": "From Far Away • Kanata kara - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 68,
+            "url": "https://www.reddit.com/r/anime/comments/1wxjqnk/from_far_away_kanata_kara_episode_1_discussion/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "200455": {
+      "id": 200455,
+      "name_jp": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxh4i7/even_though_im_a_super_timid_noble_girl_i/",
+            "reddit_title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé • Yowaki MAX Reijo Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 79,
+            "url": "https://www.reddit.com/r/anime/comments/1wxh4i7/even_though_im_a_super_timid_noble_girl_i/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "199426": {
+      "id": 199426,
+      "name_jp": "ホテル・インヒューマンズ 第2期",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxi5nj/hotel_inhumans_season_2_episode_1_discussion/",
+            "reddit_title": "Hotel Inhumans Season 2 - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 12,
+            "url": "https://www.reddit.com/r/anime/comments/1wxi5nj/hotel_inhumans_season_2_episode_1_discussion/",
+            "archived_at": "2026-10-05 00:57:01"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "202079": {
+      "id": 202079,
+      "name_jp": "おじさんはカワイイものがお好き。",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxgg33/uncles_obsession_with_cute_things_ojisan_wa/",
+            "reddit_title": "Uncle's Obsession with Cute Things • Ojisan wa Kawaii Mono ga Osuki. - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 38,
+            "url": "https://www.reddit.com/r/anime/comments/1wxgg33/uncles_obsession_with_cute_things_ojisan_wa/",
+            "archived_at": "2026-10-05 00:57:01"
           }
         ]
       },
