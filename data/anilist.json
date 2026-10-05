@@ -361,9 +361,9 @@
   },
   {
     "id": 207217,
-    "romaji": "Koneko no Haitatsuin Uunyan",
-    "english": "Delivery Kitten Unyan",
-    "native": "子猫の配達員うーにゃん",
+    "romaji": "Koneko no Haitatsuin Uunyan (2026)",
+    "english": "Delivery Kitten Unyan (2026)",
+    "native": "子猫の配達員うーにゃん (2026)",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -418,7 +418,7 @@
   {
     "id": 209499,
     "romaji": "TANK CHAIR: Sensha Isu",
-    "english": null,
+    "english": "TANK CHAIR",
     "native": "TANK CHAIR-戦車椅子-",
     "seasonYear": 2026,
     "season": "FALL"
@@ -521,7 +521,7 @@
   },
   {
     "id": 213068,
-    "romaji": "Jyuоu Mujin Dandivine",
+    "romaji": "Juuоu Mujin Dandivine",
     "english": "Dandivine",
     "native": "獣王武神ダンデヴァイン",
     "seasonYear": 2026,
@@ -644,6 +644,22 @@
     "romaji": "PetitCure: Precure Fairies Season 4",
     "english": null,
     "native": "ぷちきゅあ～Precure Fairies～ シーズン4",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 217782,
+    "romaji": "Kanojo no Tomodachi Mini Anime",
+    "english": "My Girlfriend's Friend Mini Anime",
+    "native": "彼女の友達 ミニアニメ",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 217787,
+    "romaji": "Pop Pap Polters",
+    "english": null,
+    "native": "ポップパップポルターズ",
     "seasonYear": 2026,
     "season": "FALL"
   },
