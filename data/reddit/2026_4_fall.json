@@ -858,6 +858,111 @@
         ]
       },
       "latest_episode": 1
+    },
+    "204011": {
+      "id": 204011,
+      "name_jp": "PSYREN -サイレン-",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wya31b/psyren_episode_1_discussion/",
+            "reddit_title": "Psyren - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 230,
+            "url": "https://www.reddit.com/r/anime/comments/1wya31b/psyren_episode_1_discussion/",
+            "archived_at": "2026-10-06 02:33:02"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "207191": {
+      "id": 207191,
+      "name_jp": "どうも、好きな人に惚れ薬を依頼された魔女です。",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wy7e84/hello_i_am_a_witch_and_my_crush_wants_me_to_make/",
+            "reddit_title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! • Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 188,
+            "url": "https://www.reddit.com/r/anime/comments/1wy7e84/hello_i_am_a_witch_and_my_crush_wants_me_to_make/",
+            "archived_at": "2026-10-06 02:33:02"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "160803": {
+      "id": 160803,
+      "name_jp": "魔法少女育成計画 restart",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wyevi5/magical_girl_raising_project_restart_mahou_shoujo/",
+            "reddit_title": "Magical Girl Raising Project restart • Mahou Shoujo Ikusei Keikaku restart - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 67,
+            "url": "https://www.reddit.com/r/anime/comments/1wyevi5/magical_girl_raising_project_restart_mahou_shoujo/",
+            "archived_at": "2026-10-06 02:33:02"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "209219": {
+      "id": 209219,
+      "name_jp": "転生ゴブリンだけど質問ある？",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wy7zqh/so_whats_wrong_with_getting_reborn_as_a_goblin/",
+            "reddit_title": "So What's Wrong with Getting Reborn as a Goblin? • Tensei Goblin dakedo Shitsumon Aru? - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 149,
+            "url": "https://www.reddit.com/r/anime/comments/1wy7zqh/so_whats_wrong_with_getting_reborn_as_a_goblin/",
+            "archived_at": "2026-10-06 02:33:02"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wy80km/so_whats_wrong_with_getting_reborn_as_a_goblin/",
+            "reddit_title": "So What's Wrong with Getting Reborn as a Goblin? • Tensei Goblin dakedo Shitsumon Aru? - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 83,
+            "url": "https://www.reddit.com/r/anime/comments/1wy80km/so_whats_wrong_with_getting_reborn_as_a_goblin/",
+            "archived_at": "2026-10-06 02:33:02"
+          }
+        ]
+      },
+      "latest_episode": 2
+    },
+    "209032": {
+      "id": 209032,
+      "name_jp": "魔法の姉妹ルルットリリィ 第2クール",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "13": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1wxzir3/magical_sisters_luluttolilly_mahou_no_shimai/",
+            "reddit_title": "Magical Sisters LuluttoLilly • Mahou no Shimai Lulutto Lilly - Episode 13 discussion",
+            "created_utc": null,
+            "num_comments": 4,
+            "url": "https://www.reddit.com/r/anime/comments/1wxzir3/magical_sisters_luluttolilly_mahou_no_shimai/",
+            "archived_at": "2026-10-06 02:33:02"
+          }
+        ]
+      },
+      "latest_episode": 13
     }
   }
 }
