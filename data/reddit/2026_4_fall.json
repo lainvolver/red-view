@@ -313,9 +313,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wvo607/steel_ball_run_jojo_no_kimyou_na_bouken_steel/",
             "archived_at": "2026-10-09 12:54:28"
           }
+        ],
+        "4": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x1fpx9/steel_ball_run_jojo_no_kimyou_na_bouken_steel/",
+            "reddit_title": "Steel Ball Run: JoJo no Kimyou na Bouken • Steel Ball Run: JoJo's Bizarre Adventure - Episode 4 discussion",
+            "created_utc": null,
+            "num_comments": 228,
+            "url": "https://www.reddit.com/r/anime/comments/1x1fpx9/steel_ball_run_jojo_no_kimyou_na_bouken_steel/",
+            "archived_at": "2026-10-10 02:00:16"
+          }
         ]
       },
-      "latest_episode": 3
+      "latest_episode": 4
     },
     "213805": {
       "id": 213805,
@@ -409,9 +419,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wvw3bs/the_apothecary_diaries_season_3_kusuriya_no/",
             "archived_at": "2026-10-09 12:54:48"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x1nnsi/the_apothecary_diaries_season_3_kusuriya_no/",
+            "reddit_title": "The Apothecary Diaries Season 3 • Kusuriya no Hitorigoto Season 3 - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 348,
+            "url": "https://www.reddit.com/r/anime/comments/1x1nnsi/the_apothecary_diaries_season_3_kusuriya_no/",
+            "archived_at": "2026-10-10 02:00:16"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "178083": {
       "id": 178083,
@@ -428,9 +448,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wvw7dw/tokyo_revengers_war_of_the_three_titans_arc_tokyo/",
             "archived_at": "2026-10-08 13:08:25"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x1r4gn/tokyo_revengers_war_of_the_three_titans_arc_tokyo/",
+            "reddit_title": "Tokyo Revengers: War of the Three Titans Arc • Tokyo Revengers: Santen Sensou-hen - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 30,
+            "url": "https://www.reddit.com/r/anime/comments/1x1r4gn/tokyo_revengers_war_of_the_three_titans_arc_tokyo/",
+            "archived_at": "2026-10-10 02:00:16"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "204650": {
       "id": 204650,
@@ -447,9 +477,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wvxmmy/tougen_anki_nikko_kegon_falls_arc_tougen_anki/",
             "archived_at": "2026-10-09 12:54:52"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x1p9hb/tougen_anki_nikko_kegon_falls_arc_tougen_anki/",
+            "reddit_title": "Tougen Anki: Nikko Kegon Falls Arc • Tougen Anki: Nikko Kegon no Taki-hen - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 11,
+            "url": "https://www.reddit.com/r/anime/comments/1x1p9hb/tougen_anki_nikko_kegon_falls_arc_tougen_anki/",
+            "archived_at": "2026-10-10 02:00:16"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "191656": {
       "id": 191656,
@@ -695,9 +735,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wwb0h0/sgt_frog_keroro_gunsou_episode_1_discussion/",
             "archived_at": "2026-10-09 12:55:25"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x22711/sgt_frog_keroro_gunsou_episode_2_discussion/",
+            "reddit_title": "Sgt. Frog☆ • Keroro Gunsou☆ - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 1,
+            "url": "https://www.reddit.com/r/anime/comments/1x22711/sgt_frog_keroro_gunsou_episode_2_discussion/",
+            "archived_at": "2026-10-10 02:00:16"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "208025": {
       "id": 208025,
@@ -1274,6 +1324,44 @@
             "num_comments": 3,
             "url": "https://www.reddit.com/r/anime/comments/1x17vyu/tanuki_kitsune_tanuki_to_kitsune_episode_1/",
             "archived_at": "2026-10-09 12:56:39"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "186742": {
+      "id": 186742,
+      "name_jp": "とある暗部の少女共棲",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x1ogcp/a_certain_dark_item_toaru_anbu_no_item_episode_1/",
+            "reddit_title": "A Certain Dark Item • Toaru Anbu no ITEM - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 165,
+            "url": "https://www.reddit.com/r/anime/comments/1x1ogcp/a_certain_dark_item_toaru_anbu_no_item_episode_1/",
+            "archived_at": "2026-10-10 02:00:16"
+          }
+        ]
+      },
+      "latest_episode": 1
+    },
+    "205909": {
+      "id": 205909,
+      "name_jp": "ホタルの嫁入り",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x1nuix/firefly_wedding_hotaru_no_yomeiri_episode_1/",
+            "reddit_title": "Firefly Wedding • Hotaru no Yomeiri - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 133,
+            "url": "https://www.reddit.com/r/anime/comments/1x1nuix/firefly_wedding_hotaru_no_yomeiri_episode_1/",
+            "archived_at": "2026-10-10 02:00:16"
           }
         ]
       },
