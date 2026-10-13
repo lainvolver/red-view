@@ -1184,9 +1184,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wya31b/psyren_episode_1_discussion/",
             "archived_at": "2026-10-12 14:59:57"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x43f60/psyren_episode_2_discussion/",
+            "reddit_title": "Psyren - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 80,
+            "url": "https://www.reddit.com/r/anime/comments/1x43f60/psyren_episode_2_discussion/",
+            "archived_at": "2026-10-13 03:19:05"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "207191": {
       "id": 207191,
@@ -1203,9 +1213,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wy7e84/hello_i_am_a_witch_and_my_crush_wants_me_to_make/",
             "archived_at": "2026-10-12 15:00:00"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x40nab/hello_i_am_a_witch_and_my_crush_wants_me_to_make/",
+            "reddit_title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! • Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 236,
+            "url": "https://www.reddit.com/r/anime/comments/1x40nab/hello_i_am_a_witch_and_my_crush_wants_me_to_make/",
+            "archived_at": "2026-10-13 03:19:05"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "160803": {
       "id": 160803,
@@ -1222,9 +1242,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wyevi5/magical_girl_raising_project_restart_mahou_shoujo/",
             "archived_at": "2026-10-12 15:00:03"
           }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x487pq/magical_girl_raising_project_restart_mahou_shoujo/",
+            "reddit_title": "Magical Girl Raising Project restart • Mahou Shoujo Ikusei Keikaku restart - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 45,
+            "url": "https://www.reddit.com/r/anime/comments/1x487pq/magical_girl_raising_project_restart_mahou_shoujo/",
+            "archived_at": "2026-10-13 03:19:05"
+          }
         ]
       },
-      "latest_episode": 1
+      "latest_episode": 2
     },
     "209219": {
       "id": 209219,
@@ -1251,9 +1281,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1wy80km/so_whats_wrong_with_getting_reborn_as_a_goblin/",
             "archived_at": "2026-10-11 12:28:58"
           }
+        ],
+        "3": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x41a1j/so_whats_wrong_with_getting_reborn_as_a_goblin/",
+            "reddit_title": "So What's Wrong with Getting Reborn as a Goblin? • Tensei Goblin dakedo Shitsumon Aru? - Episode 3 discussion",
+            "created_utc": null,
+            "num_comments": 176,
+            "url": "https://www.reddit.com/r/anime/comments/1x41a1j/so_whats_wrong_with_getting_reborn_as_a_goblin/",
+            "archived_at": "2026-10-13 03:19:05"
+          }
         ]
       },
-      "latest_episode": 2
+      "latest_episode": 3
     },
     "209032": {
       "id": 209032,
@@ -1720,6 +1760,35 @@
         ]
       },
       "latest_episode": 14
+    },
+    "206774": {
+      "id": 206774,
+      "name_jp": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x42yf0/now_that_i_can_control_reality_with_a_mouse/",
+            "reddit_title": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! • Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 20,
+            "url": "https://www.reddit.com/r/anime/comments/1x42yf0/now_that_i_can_control_reality_with_a_mouse/",
+            "archived_at": "2026-10-13 03:19:05"
+          }
+        ],
+        "2": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1x42ylb/now_that_i_can_control_reality_with_a_mouse/",
+            "reddit_title": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! • Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu - Episode 2 discussion",
+            "created_utc": null,
+            "num_comments": 5,
+            "url": "https://www.reddit.com/r/anime/comments/1x42ylb/now_that_i_can_control_reality_with_a_mouse/",
+            "archived_at": "2026-10-13 03:19:05"
+          }
+        ]
+      },
+      "latest_episode": 2
     }
   }
 }
