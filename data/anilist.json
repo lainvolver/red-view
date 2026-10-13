@@ -121,7 +121,7 @@
   },
   {
     "id": 187990,
-    "romaji": "Battle Spirits [Re] Zekkai No Ku",
+    "romaji": "Battle Spirits [Re] Zekkai no Kuu",
     "english": "Battle Spirits [Re] Zekkai No Ku",
     "native": "Battle Spirits [Re] 絶界の空",
     "seasonYear": 2026,
@@ -657,9 +657,9 @@
   },
   {
     "id": 217782,
-    "romaji": "Kanojo no Tomodachi Mini Anime",
+    "romaji": "Kanojo no Tomodachi Mini Anime Gekijou",
     "english": "My Girlfriend's Friend Mini Anime",
-    "native": "彼女の友達 ミニアニメ",
+    "native": "彼女の友達 ミニアニメ劇場",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -676,6 +676,14 @@
     "romaji": "Tanuki to Kitsune (TV)",
     "english": "Raccoon Dog & Fox",
     "native": "タヌキとキツネ",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 218217,
+    "romaji": "JK Dark Summoner to Deki......Dei Nai!?",
+    "english": null,
+    "native": "JKダークサモナーとデキ。。。。。。でいない!?",
     "seasonYear": 2026,
     "season": "FALL"
   },
