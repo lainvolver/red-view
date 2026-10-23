@@ -1,11 +1,231 @@
 [
   {
+    "reddit_title": "The Apothecary Diaries: The Late Lady's Treasure | Movie Key Visual",
+    "matched_anime_id": 195516,
+    "matched_anime_native": "薬屋のひとりごと 第3期",
+    "score": 86.20689655172413,
+    "num_comments": 146,
+    "url": "https://i.redd.it/vqr9it2j70xh1.jpeg",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The Ramparts of Ice Season 2 • Koori no Jouheki Season 2 - Episode 4 discussion",
+    "matched_anime_id": 213805,
+    "matched_anime_native": "氷の城壁 第2期",
+    "score": 100.0,
+    "num_comments": 176,
+    "url": "https://www.reddit.com/r/anime/comments/1xclsop/the_ramparts_of_ice_season_2_koori_no_jouheki/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The Exiled Heavy Knight Knows How to Game the System • Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - Episode 17 discussion",
+    "matched_anime_id": 180136,
+    "matched_anime_native": "追放された転生重騎士はゲーム知識で無双する",
+    "score": 100.0,
+    "num_comments": 327,
+    "url": "https://www.reddit.com/r/anime/comments/1xcmnpy/the_exiled_heavy_knight_knows_how_to_game_the/",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "reddit_title": "FX Fighter Kurumi-chan • FX Senshi Kurumi-chan - Episode 4 discussion",
+    "matched_anime_id": 206401,
+    "matched_anime_native": "FX戦士くるみちゃん",
+    "score": 100.0,
+    "num_comments": 178,
+    "url": "https://www.reddit.com/r/anime/comments/1xchap8/fx_fighter_kurumichan_fx_senshi_kurumichan/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The Iceblade Sorcerer Shall Rule the World Season 2 • Hyouken no Majutsushi ga Sekai wo Suberu Season 2 - Episode 3 discussion",
+    "matched_anime_id": 212503,
+    "matched_anime_native": "冰剣の魔術師が世界を統べるⅡ",
+    "score": 97.72727272727273,
+    "num_comments": 17,
+    "url": "https://www.reddit.com/r/anime/comments/1xcocp9/the_iceblade_sorcerer_shall_rule_the_world_season/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Tetsuryo! Meet with Tetsudou Musume - Episode 3 discussion",
+    "matched_anime_id": 199594,
+    "matched_anime_native": "てつりょー！meet with 鉄道むすめ",
+    "score": 100.0,
+    "num_comments": 20,
+    "url": "https://www.reddit.com/r/anime/comments/1xcmnvr/tetsuryo_meet_with_tetsudou_musume_episode_3/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The Apothecary Diaries: The Late Lady's Treasure | Movie Main PV",
+    "matched_anime_id": 195516,
+    "matched_anime_native": "薬屋のひとりごと 第3期",
+    "score": 86.20689655172413,
+    "num_comments": 5,
+    "url": "https://www.youtube.com/watch?v=1riTxHHBTX4",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Yuki Kaijura is cooking with this one. [Magic Knight Rayearth]",
+    "matched_anime_id": 178868,
+    "matched_anime_native": "魔法騎士レイアース (2026)",
+    "score": 89.36170212765957,
+    "num_comments": 18,
+    "url": "https://v.redd.it/yviyuada40xh1",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "With Vengeance, Sincerely, Your Broken Saintess Season 2 • Kizu darake Seijo yori Houfuku wo Komete Season 2 - Episode 4 discussion",
+    "matched_anime_id": 212144,
+    "matched_anime_native": "傷だらけ聖女より報復をこめて Season2",
+    "score": 100.0,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/anime/comments/1xcnfgl/with_vengeance_sincerely_your_broken_saintess/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Reincarnated as a Sword Season 2 • Tensei Shitara Ken Deshita Season 2 - Episode 4 discussion",
+    "matched_anime_id": 159042,
+    "matched_anime_native": "転生したら剣でした 第2期",
+    "score": 100.0,
+    "num_comments": 166,
+    "url": "https://www.reddit.com/r/anime/comments/1xbqcml/reincarnated_as_a_sword_season_2_tensei_shitara/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The World's Strongest Witch • Sekai Saikyou no Majo, Hajimemashita - Episode 3 discussion",
+    "matched_anime_id": 211778,
+    "matched_anime_native": "世界最強の魔女、始めました",
+    "score": 100.0,
+    "num_comments": 327,
+    "url": "https://www.reddit.com/r/anime/comments/1xbmjcx/the_worlds_strongest_witch_sekai_saikyou_no_majo/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "A Returner's Magic Should Be Special Season 2 • Kikansha no Mahou wa Tokubetsu desu Season 2 - Episode 3 discussion",
+    "matched_anime_id": 172192,
+    "matched_anime_native": "帰還者の魔法は特別です 第2期",
+    "score": 100.0,
+    "num_comments": 43,
+    "url": "https://www.reddit.com/r/anime/comments/1xbt971/a_returners_magic_should_be_special_season_2/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Magic Knight Rayearth (2026) - Episode 3 discussion",
+    "matched_anime_id": 178868,
+    "matched_anime_native": "魔法騎士レイアース (2026)",
+    "score": 100.0,
+    "num_comments": 90,
+    "url": "https://www.reddit.com/r/anime/comments/1xbqclo/magic_knight_rayearth_2026_episode_3_discussion/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Sasaki and Peeps Season 2 • Sasaki to Pii-chan Season 2 - Episode 3 discussion",
+    "matched_anime_id": 176314,
+    "matched_anime_native": "佐々木とピーちゃん シーズン２",
+    "score": 100.0,
+    "num_comments": 87,
+    "url": "https://www.reddit.com/r/anime/comments/1xbmigo/sasaki_and_peeps_season_2_sasaki_to_piichan/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Pairin and lihua [The apothecary diaries]",
+    "matched_anime_id": 195516,
+    "matched_anime_native": "薬屋のひとりごと 第3期",
+    "score": 83.01886792452831,
+    "num_comments": 8,
+    "url": "https://i.redd.it/4iwv0b2syrwh1.jpeg",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "How do you guys find the themes and symbolism in media? Minor spoilers for Cyberpunk Edgerunners 2",
+    "matched_anime_id": 195539,
+    "matched_anime_native": "サイバーパンク: エッジランナーズ2",
+    "score": 100.0,
+    "num_comments": 16,
+    "url": "https://www.reddit.com/r/anime/comments/1xclky0/how_do_you_guys_find_the_themes_and_symbolism_in/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Juuou Mujin Dandivine - Episode 3 discussion",
+    "matched_anime_id": 213068,
+    "matched_anime_native": "獣王武神ダンデヴァイン",
+    "score": 100.0,
+    "num_comments": 35,
+    "url": "https://www.reddit.com/r/anime/comments/1xbsuev/juuou_mujin_dandivine_episode_3_discussion/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The Detective is Already Dead Season 2 • Tantei wa Mou, Shindeiru. Season 2 - Episode 3 discussion",
+    "matched_anime_id": 152677,
+    "matched_anime_native": "探偵はもう、死んでいる。Season2",
+    "score": 100.0,
+    "num_comments": 15,
+    "url": "https://www.reddit.com/r/anime/comments/1xbna44/the_detective_is_already_dead_season_2_tantei_wa/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The World's Strongest Witch (Sekai Saikyou no Majo, Hajimemashita) Creditless ED - Hoshi wo Meguru by Rokudenashi",
+    "matched_anime_id": 211778,
+    "matched_anime_native": "世界最強の魔女、始めました",
+    "score": 100.0,
+    "num_comments": 2,
+    "url": "https://www.youtube.com/watch?v=0MwOp8sk5fM",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match • Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Kettei-sen - Episode 4 discussion",
+    "matched_anime_id": 199068,
+    "matched_anime_native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+    "score": 100.0,
+    "num_comments": 6,
+    "url": "https://www.reddit.com/r/anime/comments/1xbr6ol/the_prince_of_tennis_ii_u17_world_cup_final/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Check out Overgeared's dub. I mean it.",
+    "matched_anime_id": 212888,
+    "matched_anime_native": "テムパル～アイテムの力～",
+    "score": 100.0,
+    "num_comments": 54,
+    "url": "https://www.reddit.com/r/anime/comments/1xck59y/check_out_overgeareds_dub_i_mean_it/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "reddit_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life • Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru. - Episode 3 discussion",
     "matched_anime_id": 207329,
     "matched_anime_native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
     "score": 100.0,
-    "num_comments": 207,
+    "num_comments": 331,
     "url": "https://www.reddit.com/r/anime/comments/1xav9jb/the_laidoff_cheatgranting_mage_enjoys_a_second/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "What do you think of Overgeared?",
+    "matched_anime_id": 212888,
+    "matched_anime_native": "テムパル～アイテムの力～",
+    "score": 100.0,
+    "num_comments": 223,
+    "url": "https://www.reddit.com/r/anime/comments/1xb3pv0/what_do_you_think_of_overgeared/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -14,7 +234,7 @@
     "matched_anime_id": 206949,
     "matched_anime_native": "凶乱令嬢ニア・リストン",
     "score": 100.0,
-    "num_comments": 169,
+    "num_comments": 234,
     "url": "https://www.reddit.com/r/anime/comments/1xarfnr/nia_liston_the_merciless_maiden_kyouran_reijou/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -24,7 +244,7 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 189,
+    "num_comments": 264,
     "url": "https://www.reddit.com/r/anime/comments/1xalif8/cyberpunk_edgerunners_2_episode_1_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -34,8 +254,18 @@
     "matched_anime_id": 198727,
     "matched_anime_native": "千歳くんはラムネ瓶のなか 2クール",
     "score": 90.41095890410959,
-    "num_comments": 42,
+    "num_comments": 113,
     "url": "https://www.reddit.com/r/anime/comments/1xawwbf/chitose_is_in_the_ramune_bottle_chitosekun_wa/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Looking for a movie",
+    "matched_anime_id": 199007,
+    "matched_anime_native": "#ゾンビさがしてます",
+    "score": 84.21052631578947,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/anime/comments/1xc9a0d/looking_for_a_movie/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -44,8 +274,18 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 322,
+    "num_comments": 768,
     "url": "https://www.reddit.com/r/anime/comments/1xalig6/cyberpunk_edgerunners_2_episode_10_discussion/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "\"So What's Wrong with Getting Reborn as a Goblin?\" Creditless ED | ED Theme Song: Ahab \"Chiisana Bokura\"",
+    "matched_anime_id": 209219,
+    "matched_anime_native": "転生ゴブリンだけど質問ある？",
+    "score": 100.0,
+    "num_comments": 0,
+    "url": "https://youtu.be/fCGf1VojfIY",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -54,8 +294,28 @@
     "matched_anime_id": 209502,
     "matched_anime_native": "塩対応の佐藤さんが俺にだけ甘い",
     "score": 100.0,
-    "num_comments": 93,
+    "num_comments": 128,
     "url": "https://www.reddit.com/r/anime/comments/1xas8v0/the_cold_satosan_is_only_sweet_to_me_shiotaiou_no/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Full Clearing Another World under a Goddess with Zero Believers no long available in the US?",
+    "matched_anime_id": 205896,
+    "matched_anime_native": "信者ゼロの女神サマと始める異世界攻略",
+    "score": 100.0,
+    "num_comments": 26,
+    "url": "https://www.reddit.com/r/anime/comments/1xb8f9u/full_clearing_another_world_under_a_goddess_with/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "\"So What's Wrong with Getting Reborn as a Goblin?\" Creditless OP | OP Theme Song: Sou \"Hello\"",
+    "matched_anime_id": 209219,
+    "matched_anime_native": "転生ゴブリンだけど質問ある？",
+    "score": 100.0,
+    "num_comments": 2,
+    "url": "https://youtu.be/en7eOIjby38",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -74,7 +334,7 @@
     "matched_anime_id": 200294,
     "matched_anime_native": "超巡！超条先輩",
     "score": 100.0,
-    "num_comments": 27,
+    "num_comments": 32,
     "url": "https://www.reddit.com/r/anime/comments/1xatqld/super_psychic_policeman_chojo_choujun/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -84,18 +344,8 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 38,
+    "num_comments": 69,
     "url": "https://www.reddit.com/r/anime/comments/1xalifa/cyberpunk_edgerunners_2_episode_2_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "What do you think of Overgeared?",
-    "matched_anime_id": 212888,
-    "matched_anime_native": "テムパル～アイテムの力～",
-    "score": 100.0,
-    "num_comments": 59,
-    "url": "https://www.reddit.com/r/anime/comments/1xb3pv0/what_do_you_think_of_overgeared/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -104,7 +354,7 @@
     "matched_anime_id": 207809,
     "matched_anime_native": "天は赤い河のほとり",
     "score": 100.0,
-    "num_comments": 21,
+    "num_comments": 25,
     "url": "https://www.reddit.com/r/anime/comments/1xayi4k/red_river_sora_wa_akai_kawa_no_hotori_episode_16/",
     "seasonYear": 2026,
     "season": "SUMMER"
@@ -114,8 +364,18 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 38,
+    "num_comments": 70,
     "url": "https://www.reddit.com/r/anime/comments/1xalifg/cyberpunk_edgerunners_2_episode_3_discussion/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "How is the Reincarnated as a Sword anime and webnovel?",
+    "matched_anime_id": 159042,
+    "matched_anime_native": "転生したら剣でした 第2期",
+    "score": 84.375,
+    "num_comments": 17,
+    "url": "https://www.reddit.com/r/anime/comments/1xc3u4m/how_is_the_reincarnated_as_a_sword_anime_and/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -124,18 +384,8 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 12,
+    "num_comments": 24,
     "url": "https://www.reddit.com/r/anime/comments/1xalifj/cyberpunk_edgerunners_2_episode_5_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Cyberpunk: Edgerunners 2 - Episode 6 discussion",
-    "matched_anime_id": 195539,
-    "matched_anime_native": "サイバーパンク: エッジランナーズ2",
-    "score": 100.0,
-    "num_comments": 16,
-    "url": "https://www.reddit.com/r/anime/comments/1xalifn/cyberpunk_edgerunners_2_episode_6_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -144,18 +394,18 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 25,
+    "num_comments": 55,
     "url": "https://www.reddit.com/r/anime/comments/1xalifi/cyberpunk_edgerunners_2_episode_4_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
   },
   {
-    "reddit_title": "Suikoden : The Anime • Genso Suikoden - Episode 3 discussion",
-    "matched_anime_id": 187316,
-    "matched_anime_native": "幻想水滸伝",
-    "score": 93.33333333333333,
-    "num_comments": 23,
-    "url": "https://www.reddit.com/r/anime/comments/1xav8m9/suikoden_the_anime_genso_suikoden_episode_3/",
+    "reddit_title": "Cyberpunk: Edgerunners 2 - Episode 6 discussion",
+    "matched_anime_id": 195539,
+    "matched_anime_native": "サイバーパンク: エッジランナーズ2",
+    "score": 100.0,
+    "num_comments": 30,
+    "url": "https://www.reddit.com/r/anime/comments/1xalifn/cyberpunk_edgerunners_2_episode_6_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -164,7 +414,7 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 13,
+    "num_comments": 51,
     "url": "https://www.reddit.com/r/anime/comments/1xalifu/cyberpunk_edgerunners_2_episode_7_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -174,7 +424,7 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 7,
+    "num_comments": 20,
     "url": "https://www.reddit.com/r/anime/comments/1xalig1/cyberpunk_edgerunners_2_episode_9_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -184,8 +434,18 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 15,
+    "num_comments": 36,
     "url": "https://www.reddit.com/r/anime/comments/1xalifx/cyberpunk_edgerunners_2_episode_8_discussion/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Suikoden : The Anime • Genso Suikoden - Episode 3 discussion",
+    "matched_anime_id": 187316,
+    "matched_anime_native": "幻想水滸伝",
+    "score": 93.33333333333333,
+    "num_comments": 32,
+    "url": "https://www.reddit.com/r/anime/comments/1xav8m9/suikoden_the_anime_genso_suikoden_episode_3/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -204,28 +464,8 @@
     "matched_anime_id": 179876,
     "matched_anime_native": "DARK MACHINE -The Animation-",
     "score": 100.0,
-    "num_comments": 10,
+    "num_comments": 15,
     "url": "https://www.reddit.com/r/anime/comments/1xazr1y/dark_machine_the_animation_episode_2_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "BLEACH: Thousand-Year Blood War: The Calamity • BLEACH: Sennen Kessen-hen: Kashin-tan - Episode 9 discussion",
-    "matched_anime_id": 185874,
-    "matched_anime_native": "BLEACH 千年血戦篇-禍進譚-",
-    "score": 100.0,
-    "num_comments": 653,
-    "url": "https://www.reddit.com/r/anime/comments/1xa0vsp/bleach_thousandyear_blood_war_the_calamity_bleach/",
-    "seasonYear": 2026,
-    "season": "SUMMER"
-  },
-  {
-    "reddit_title": "Full Clearing Another World under a Goddess with Zero Believers no long available in the US?",
-    "matched_anime_id": 205896,
-    "matched_anime_native": "信者ゼロの女神サマと始める異世界攻略",
-    "score": 100.0,
-    "num_comments": 2,
-    "url": "https://www.reddit.com/r/anime/comments/1xb8f9u/full_clearing_another_world_under_a_goddess_with/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -240,42 +480,22 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "Literally one of the best soundtrack I've heard [Magic Knight Rayearth (2026)]",
-    "matched_anime_id": 178868,
-    "matched_anime_native": "魔法騎士レイアース (2026)",
-    "score": 100.0,
-    "num_comments": 10,
-    "url": "https://v.redd.it/sym9da4wnmwh1",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "BLEACH: Thousand-Year Blood War - The Calamity - New Story Visual",
+    "reddit_title": "BLEACH: Thousand-Year Blood War: The Calamity • BLEACH: Sennen Kessen-hen: Kashin-tan - Episode 9 discussion",
     "matched_anime_id": 185874,
     "matched_anime_native": "BLEACH 千年血戦篇-禍進譚-",
     "score": 100.0,
-    "num_comments": 40,
-    "url": "https://pbs.twimg.com/media/HVAHTDMbsAAeQPI.jpg",
+    "num_comments": 702,
+    "url": "https://www.reddit.com/r/anime/comments/1xa0vsp/bleach_thousandyear_blood_war_the_calamity_bleach/",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
   {
-    "reddit_title": "Magical Girl Raising Project restart • Mahou Shoujo Ikusei Keikaku restart - Episode 3 discussion",
-    "matched_anime_id": 160803,
-    "matched_anime_native": "魔法少女育成計画 restart",
-    "score": 100.0,
-    "num_comments": 53,
-    "url": "https://www.reddit.com/r/anime/comments/1xabj3a/magical_girl_raising_project_restart_mahou_shoujo/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Magic Knight Rayearth 2026 - Episode 03 Preview part two",
+    "reddit_title": "Literally one of the best soundtrack I've heard [Magic Knight Rayearth (2026)]",
     "matched_anime_id": 178868,
     "matched_anime_native": "魔法騎士レイアース (2026)",
     "score": 100.0,
-    "num_comments": 6,
-    "url": "https://youtu.be/-ZaivLYjzOk?si=q9RgyqEDMo0iWb7s",
+    "num_comments": 14,
+    "url": "https://v.redd.it/sym9da4wnmwh1",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -284,8 +504,38 @@
     "matched_anime_id": 187990,
     "matched_anime_native": "Battle Spirits [Re] 絶界の空",
     "score": 100.0,
-    "num_comments": 5,
+    "num_comments": 6,
     "url": "https://www.reddit.com/r/anime/comments/1xau08l/battle_spirits_re_zekkai_no_ku_episode_3/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "BLEACH: Thousand-Year Blood War - The Calamity - New Story Visual",
+    "matched_anime_id": 185874,
+    "matched_anime_native": "BLEACH 千年血戦篇-禍進譚-",
+    "score": 100.0,
+    "num_comments": 43,
+    "url": "https://pbs.twimg.com/media/HVAHTDMbsAAeQPI.jpg",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "reddit_title": "Magic Knight Rayearth 2026 - Episode 03 Preview part two",
+    "matched_anime_id": 178868,
+    "matched_anime_native": "魔法騎士レイアース (2026)",
+    "score": 100.0,
+    "num_comments": 7,
+    "url": "https://youtu.be/-ZaivLYjzOk?si=q9RgyqEDMo0iWb7s",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Magical Girl Raising Project restart • Mahou Shoujo Ikusei Keikaku restart - Episode 3 discussion",
+    "matched_anime_id": 160803,
+    "matched_anime_native": "魔法少女育成計画 restart",
+    "score": 100.0,
+    "num_comments": 58,
+    "url": "https://www.reddit.com/r/anime/comments/1xabj3a/magical_girl_raising_project_restart_mahou_shoujo/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -294,7 +544,7 @@
     "matched_anime_id": 207191,
     "matched_anime_native": "どうも、好きな人に惚れ薬を依頼された魔女です。",
     "score": 100.0,
-    "num_comments": 233,
+    "num_comments": 256,
     "url": "https://www.reddit.com/r/anime/comments/1x9vpli/hello_i_am_a_witch_and_my_crush_wants_me_to_make/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -304,7 +554,7 @@
     "matched_anime_id": 204011,
     "matched_anime_native": "PSYREN -サイレン-",
     "score": 100.0,
-    "num_comments": 123,
+    "num_comments": 128,
     "url": "https://www.reddit.com/r/anime/comments/1x9yhwg/psyren_episode_3_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -314,7 +564,7 @@
     "matched_anime_id": 209219,
     "matched_anime_native": "転生ゴブリンだけど質問ある？",
     "score": 100.0,
-    "num_comments": 134,
+    "num_comments": 141,
     "url": "https://www.reddit.com/r/anime/comments/1x9wdqn/so_whats_wrong_with_getting_reborn_as_a_goblin/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -340,6 +590,16 @@
     "season": "FALL"
   },
   {
+    "reddit_title": "Satome Secret Technique [Ranma 1/2 Season 3]",
+    "matched_anime_id": 209872,
+    "matched_anime_native": "らんま1/2 (2024) 第3期",
+    "score": 85.0,
+    "num_comments": 67,
+    "url": "https://v.redd.it/2a1go8otc9wh1",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "reddit_title": "\"Full Clearing Another World under a Goddess with Zero Believers\" | Ending Theme \"Fall in Dream\" / Suupeas",
     "matched_anime_id": 205896,
     "matched_anime_native": "信者ゼロの女神サマと始める異世界攻略",
@@ -350,21 +610,11 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "Satome Secret Technique [Ranma 1/2 Season 3]",
-    "matched_anime_id": 209872,
-    "matched_anime_native": "らんま1/2 (2024) 第3期",
-    "score": 85.0,
-    "num_comments": 63,
-    "url": "https://v.redd.it/2a1go8otc9wh1",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
     "reddit_title": "I’m looking for a anime to watch with my sister",
     "matched_anime_id": 199007,
     "matched_anime_native": "#ゾンビさがしてます",
     "score": 85.71428571428572,
-    "num_comments": 239,
+    "num_comments": 272,
     "url": "https://www.reddit.com/r/anime/comments/1x9hyco/im_looking_for_a_anime_to_watch_with_my_sister/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -384,7 +634,7 @@
     "matched_anime_id": 212888,
     "matched_anime_native": "テムパル～アイテムの力～",
     "score": 100.0,
-    "num_comments": 352,
+    "num_comments": 356,
     "url": "https://www.reddit.com/r/anime/comments/1x94oei/overgeared_tempal_item_no_chikara_episode_4/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -394,7 +644,7 @@
     "matched_anime_id": 152677,
     "matched_anime_native": "探偵はもう、死んでいる。Season2",
     "score": 86.56716417910448,
-    "num_comments": 75,
+    "num_comments": 79,
     "url": "https://natalie.mu/comic/news/694217",
     "seasonYear": 2026,
     "season": "FALL"
@@ -404,7 +654,7 @@
     "matched_anime_id": 206814,
     "matched_anime_native": "ドラゴンボール超 ビルス",
     "score": 100.0,
-    "num_comments": 143,
+    "num_comments": 146,
     "url": "https://www.reddit.com/r/anime/comments/1x96v9v/dragon_ball_super_beerus_episode_2_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -414,7 +664,7 @@
     "matched_anime_id": 186541,
     "matched_anime_native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
     "score": 100.0,
-    "num_comments": 373,
+    "num_comments": 393,
     "url": "https://www.reddit.com/r/anime/comments/1x93z50/reborn_as_a_space_mercenary_i_woke_up_piloting/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -424,7 +674,7 @@
     "matched_anime_id": 205896,
     "matched_anime_native": "信者ゼロの女神サマと始める異世界攻略",
     "score": 100.0,
-    "num_comments": 144,
+    "num_comments": 148,
     "url": "https://www.reddit.com/r/anime/comments/1x94odf/full_clearing_another_world_under_a_goddess_with/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -434,7 +684,7 @@
     "matched_anime_id": 185756,
     "matched_anime_native": "転生貴族、鑑定スキルで成り上がる 第3期",
     "score": 100.0,
-    "num_comments": 119,
+    "num_comments": 121,
     "url": "https://www.reddit.com/r/anime/comments/1x95bvw/as_a_reincarnated_aristocrat_ill_use_my_appraisal/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -444,7 +694,7 @@
     "matched_anime_id": 200455,
     "matched_anime_native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
     "score": 100.0,
-    "num_comments": 93,
+    "num_comments": 95,
     "url": "https://www.reddit.com/r/anime/comments/1x94ofq/even_though_im_a_super_timid_noble_girl_i/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -464,18 +714,8 @@
     "matched_anime_id": 209463,
     "matched_anime_native": "彼方から",
     "score": 100.0,
-    "num_comments": 52,
+    "num_comments": 54,
     "url": "https://www.reddit.com/r/anime/comments/1x96vac/from_far_away_kanata_kara_episode_3_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Aoashi Season 2 - Episode 3 discussion",
-    "matched_anime_id": 191788,
-    "matched_anime_native": "アオアシ 第2期",
-    "score": 100.0,
-    "num_comments": 69,
-    "url": "https://www.reddit.com/r/anime/comments/1x8ykby/aoashi_season_2_episode_3_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -484,8 +724,18 @@
     "matched_anime_id": 209499,
     "matched_anime_native": "TANK CHAIR-戦車椅子-",
     "score": 100.0,
-    "num_comments": 36,
+    "num_comments": 38,
     "url": "https://www.reddit.com/r/anime/comments/1x94odw/tank_chair_episode_3_discussion/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Aoashi Season 2 - Episode 3 discussion",
+    "matched_anime_id": 191788,
+    "matched_anime_native": "アオアシ 第2期",
+    "score": 100.0,
+    "num_comments": 74,
+    "url": "https://www.reddit.com/r/anime/comments/1x8ykby/aoashi_season_2_episode_3_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -494,7 +744,7 @@
     "matched_anime_id": 211877,
     "matched_anime_native": "彼女の友達",
     "score": 100.0,
-    "num_comments": 23,
+    "num_comments": 28,
     "url": "https://www.reddit.com/r/anime/comments/1x96x4r/my_girlfriends_friend_kanojo_no_tomodachi_episode/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -504,18 +754,8 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 97.77777777777777,
-    "num_comments": 172,
+    "num_comments": 173,
     "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-director-searched-cyberpunk-2077-with-a-virtual-camera-to-find-the-best-night-city-spots-to-use-in-the-anime/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! • Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu - Episode 3 discussion",
-    "matched_anime_id": 206774,
-    "matched_anime_native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-    "score": 100.0,
-    "num_comments": 10,
-    "url": "https://www.reddit.com/r/anime/comments/1x96xzt/now_that_i_can_control_reality_with_a_mouse/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -526,6 +766,16 @@
     "score": 90.9090909090909,
     "num_comments": 2,
     "url": "https://i.redd.it/gszcqh1kj8wh1.jpeg",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! • Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu - Episode 3 discussion",
+    "matched_anime_id": 206774,
+    "matched_anime_native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "score": 100.0,
+    "num_comments": 10,
+    "url": "https://www.reddit.com/r/anime/comments/1x96xzt/now_that_i_can_control_reality_with_a_mouse/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -544,7 +794,7 @@
     "matched_anime_id": 202079,
     "matched_anime_native": "おじさんはカワイイものがお好き。",
     "score": 100.0,
-    "num_comments": 49,
+    "num_comments": 52,
     "url": "https://www.reddit.com/r/anime/comments/1x93z5w/uncles_obsession_with_cute_things_ojisan_wa/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -554,18 +804,8 @@
     "matched_anime_id": 209032,
     "matched_anime_native": "魔法の姉妹ルルットリリィ 第2クール",
     "score": 90.9090909090909,
-    "num_comments": 5,
+    "num_comments": 9,
     "url": "https://www.reddit.com/r/anime/comments/1x9edpy/magical_sisters_luluttolilly_mahou_no_shimai/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "'The Laid-Off Cheat-Granting Mage Enjoys a Second Lease On Life' | Episode 3 Preview",
-    "matched_anime_id": 207329,
-    "matched_anime_native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
-    "score": 100.0,
-    "num_comments": 10,
-    "url": "https://www.youtube.com/watch?v=B9TZTwr9egc",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -576,6 +816,16 @@
     "score": 100.0,
     "num_comments": 24,
     "url": "https://www.reddit.com/r/anime/comments/1x8z5ib/mission_yozakura_family_season_2_part_2/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "'The Laid-Off Cheat-Granting Mage Enjoys a Second Lease On Life' | Episode 3 Preview",
+    "matched_anime_id": 207329,
+    "matched_anime_native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
+    "score": 100.0,
+    "num_comments": 10,
+    "url": "https://www.youtube.com/watch?v=B9TZTwr9egc",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -594,7 +844,7 @@
     "matched_anime_id": 191656,
     "matched_anime_native": "生徒会にも穴はある！",
     "score": 100.0,
-    "num_comments": 192,
+    "num_comments": 195,
     "url": "https://www.reddit.com/r/anime/comments/1x8fbq4/even_the_student_council_has_its_holes_seitokai/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -624,7 +874,7 @@
     "matched_anime_id": 213658,
     "matched_anime_native": "ダイヤのA actⅡ -Second Season- 第2クール",
     "score": 90.14084507042254,
-    "num_comments": 9,
+    "num_comments": 10,
     "url": "https://www.reddit.com/r/anime/comments/1x8ykct/ace_of_the_diamond_act_ii_season_2_part_2_diamond/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -634,7 +884,7 @@
     "matched_anime_id": 195604,
     "matched_anime_native": "ブラッククローバー 第2期",
     "score": 100.0,
-    "num_comments": 214,
+    "num_comments": 217,
     "url": "https://www.reddit.com/r/anime/comments/1x8cedr/black_clover_season_2_episode_173_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -654,7 +904,7 @@
     "matched_anime_id": 180894,
     "matched_anime_native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜",
     "score": 100.0,
-    "num_comments": 347,
+    "num_comments": 358,
     "url": "https://www.reddit.com/r/anime/comments/1x89qg5/romelia_war_chronicle_romelia_senki_episode_3/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -664,7 +914,7 @@
     "matched_anime_id": 204389,
     "matched_anime_native": "野生のラスボスが現れた！ 第2期",
     "score": 100.0,
-    "num_comments": 138,
+    "num_comments": 139,
     "url": "https://www.reddit.com/r/anime/comments/1x8acbt/a_wild_last_boss_appeared_season_2_yasei_no_last/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -674,7 +924,7 @@
     "matched_anime_id": 169581,
     "matched_anime_native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
     "score": 100.0,
-    "num_comments": 117,
+    "num_comments": 120,
     "url": "https://www.reddit.com/r/anime/comments/1x8emkg/magical_explorer_magicalexplorer_episode_4/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -684,7 +934,7 @@
     "matched_anime_id": 202250,
     "matched_anime_native": "貸した魔力は【リボ払い】で強制徴収",
     "score": 100.0,
-    "num_comments": 148,
+    "num_comments": 150,
     "url": "https://www.reddit.com/r/anime/comments/1x8gsbb/magic_repo_man_dumped_by_my_party_ill_cash_in/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -704,7 +954,7 @@
     "matched_anime_id": 187402,
     "matched_anime_native": "転生した大聖女は、聖女であることをひた隠す",
     "score": 100.0,
-    "num_comments": 132,
+    "num_comments": 133,
     "url": "https://www.reddit.com/r/anime/comments/1x89ove/a_tale_of_the_secret_saint_tensei_shita_daiseijo/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -734,7 +984,7 @@
     "matched_anime_id": 209562,
     "matched_anime_native": "バーテックスフォース",
     "score": 100.0,
-    "num_comments": 73,
+    "num_comments": 74,
     "url": "https://www.reddit.com/r/anime/comments/1x8dui5/vertex_force_episode_3_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -754,7 +1004,7 @@
     "matched_anime_id": 203473,
     "matched_anime_native": "恐怖コレクター",
     "score": 100.0,
-    "num_comments": 30,
+    "num_comments": 41,
     "url": "https://www.reddit.com/r/anime/comments/1x8fq6x/horror_collector_kyoufu_collector_episode_2/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -764,7 +1014,7 @@
     "matched_anime_id": 195571,
     "matched_anime_native": "朱色の仮面",
     "score": 100.0,
-    "num_comments": 78,
+    "num_comments": 82,
     "url": "https://www.reddit.com/r/anime/comments/1x860io/the_vermilion_mask_shuiro_no_kamen_episode_2/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -774,7 +1024,7 @@
     "matched_anime_id": 195516,
     "matched_anime_native": "薬屋のひとりごと 第3期",
     "score": 100.0,
-    "num_comments": 649,
+    "num_comments": 665,
     "url": "https://www.reddit.com/r/anime/comments/1x7ikgb/the_apothecary_diaries_season_3_kusuriya_no/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -824,7 +1074,7 @@
     "matched_anime_id": 186742,
     "matched_anime_native": "とある暗部の少女共棲",
     "score": 100.0,
-    "num_comments": 209,
+    "num_comments": 221,
     "url": "https://www.reddit.com/r/anime/comments/1x7jdhx/a_certain_dark_item_toaru_anbu_no_item_episode_2/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -834,7 +1084,7 @@
     "matched_anime_id": 205909,
     "matched_anime_native": "ホタルの嫁入り",
     "score": 100.0,
-    "num_comments": 130,
+    "num_comments": 132,
     "url": "https://www.reddit.com/r/anime/comments/1x7ikfn/firefly_wedding_hotaru_no_yomeiri_episode_2/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -854,7 +1104,7 @@
     "matched_anime_id": 210482,
     "matched_anime_native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
     "score": 83.01886792452831,
-    "num_comments": 246,
+    "num_comments": 248,
     "url": "https://www.reddit.com/r/anime/comments/1x7aiv2/steel_ball_run_jojo_no_kimyou_na_bouken_steel/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -864,7 +1114,7 @@
     "matched_anime_id": 186742,
     "matched_anime_native": "とある暗部の少女共棲",
     "score": 100.0,
-    "num_comments": 13,
+    "num_comments": 14,
     "url": "https://youtu.be/D3D5UpQNwJo?si=9oZe1FP8UGNoXWrB",
     "seasonYear": 2026,
     "season": "FALL"
@@ -894,7 +1144,7 @@
     "matched_anime_id": 199007,
     "matched_anime_native": "#ゾンビさがしてます",
     "score": 86.36363636363636,
-    "num_comments": 9,
+    "num_comments": 10,
     "url": "https://www.reddit.com/r/anime/comments/1x8ov6n/im_looking_for_a_cozy_fall_show/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -944,8 +1194,18 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 97.77777777777777,
-    "num_comments": 490,
+    "num_comments": 501,
     "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-creator-received-dozens-of-dms-a-day-about-bringing-david-back-but-hes-sure-you-dont-really-want-that/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Anime like the apothecary diaries?",
+    "matched_anime_id": 195516,
+    "matched_anime_native": "薬屋のひとりごと 第3期",
+    "score": 83.01886792452831,
+    "num_comments": 102,
+    "url": "https://www.reddit.com/r/anime/comments/1x76hdj/anime_like_the_apothecary_diaries/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -958,16 +1218,6 @@
     "url": "https://www.reddit.com/r/anime/comments/1x7ur71/ghost_meets_gal_episode_7_discussion/",
     "seasonYear": 2026,
     "season": "SUMMER"
-  },
-  {
-    "reddit_title": "Anime like the apothecary diaries?",
-    "matched_anime_id": 195516,
-    "matched_anime_native": "薬屋のひとりごと 第3期",
-    "score": 83.01886792452831,
-    "num_comments": 99,
-    "url": "https://www.reddit.com/r/anime/comments/1x76hdj/anime_like_the_apothecary_diaries/",
-    "seasonYear": 2026,
-    "season": "FALL"
   },
   {
     "reddit_title": "Tougen Anki: Nikko Kegon Falls Arc (Tougen Anki: Nikko Kegon no Taki-hen) Creditless Ending - Te to Te by TRACK15",
@@ -994,7 +1244,7 @@
     "matched_anime_id": 213805,
     "matched_anime_native": "氷の城壁 第2期",
     "score": 100.0,
-    "num_comments": 314,
+    "num_comments": 315,
     "url": "https://www.reddit.com/r/anime/comments/1x6ots9/the_ramparts_of_ice_season_2_koori_no_jouheki/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1024,7 +1274,7 @@
     "matched_anime_id": 180136,
     "matched_anime_native": "追放された転生重騎士はゲーム知識で無双する",
     "score": 100.0,
-    "num_comments": 438,
+    "num_comments": 441,
     "url": "https://www.reddit.com/r/anime/comments/1x6pi6h/the_exiled_heavy_knight_knows_how_to_game_the/",
     "seasonYear": 2026,
     "season": "SUMMER"
@@ -1034,7 +1284,7 @@
     "matched_anime_id": 206401,
     "matched_anime_native": "FX戦士くるみちゃん",
     "score": 100.0,
-    "num_comments": 401,
+    "num_comments": 421,
     "url": "https://www.reddit.com/r/anime/comments/1x6kdoy/fx_fighter_kurumichan_fx_senshi_kurumichan/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1104,7 +1354,7 @@
     "matched_anime_id": 159042,
     "matched_anime_native": "転生したら剣でした 第2期",
     "score": 89.65517241379311,
-    "num_comments": 90,
+    "num_comments": 91,
     "url": "https://v.redd.it/op1ysuqfxgvh1",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1134,7 +1384,7 @@
     "matched_anime_id": 159042,
     "matched_anime_native": "転生したら剣でした 第2期",
     "score": 100.0,
-    "num_comments": 214,
+    "num_comments": 220,
     "url": "https://www.reddit.com/r/anime/comments/1x5v8pe/reincarnated_as_a_sword_season_2_tensei_shitara/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1144,7 +1394,7 @@
     "matched_anime_id": 195539,
     "matched_anime_native": "サイバーパンク: エッジランナーズ2",
     "score": 100.0,
-    "num_comments": 114,
+    "num_comments": 115,
     "url": "https://i.redd.it/9mmffrncydvh1.jpeg",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1164,7 +1414,7 @@
     "matched_anime_id": 211778,
     "matched_anime_native": "世界最強の魔女、始めました",
     "score": 100.0,
-    "num_comments": 354,
+    "num_comments": 355,
     "url": "https://www.reddit.com/r/anime/comments/1x5tepr/the_worlds_strongest_witch_sekai_saikyou_no_majo/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1180,16 +1430,6 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "This is the power of the Internet! [The World’s Strongest Witch]",
-    "matched_anime_id": 211778,
-    "matched_anime_native": "世界最強の魔女、始めました",
-    "score": 100.0,
-    "num_comments": 53,
-    "url": "https://v.redd.it/m7e03leu8gvh1",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
     "reddit_title": "Magic Knight Rayearth (2026) - Episode 2 discussion",
     "matched_anime_id": 178868,
     "matched_anime_native": "魔法騎士レイアース (2026)",
@@ -1200,11 +1440,21 @@
     "season": "FALL"
   },
   {
+    "reddit_title": "This is the power of the Internet! [The World’s Strongest Witch]",
+    "matched_anime_id": 211778,
+    "matched_anime_native": "世界最強の魔女、始めました",
+    "score": 100.0,
+    "num_comments": 53,
+    "url": "https://v.redd.it/m7e03leu8gvh1",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "reddit_title": "A Returner's Magic Should Be Special Season 2 • Kikansha no Mahou wa Tokubetsu desu Season 2 - Episode 2 discussion",
     "matched_anime_id": 172192,
     "matched_anime_native": "帰還者の魔法は特別です 第2期",
     "score": 100.0,
-    "num_comments": 88,
+    "num_comments": 90,
     "url": "https://www.reddit.com/r/anime/comments/1x5x5zl/a_returners_magic_should_be_special_season_2/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1224,7 +1474,7 @@
     "matched_anime_id": 176314,
     "matched_anime_native": "佐々木とピーちゃん シーズン２",
     "score": 100.0,
-    "num_comments": 149,
+    "num_comments": 151,
     "url": "https://www.reddit.com/r/anime/comments/1x5te89/sasaki_and_peeps_season_2_sasaki_to_piichan/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1250,22 +1500,22 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "Juuou Mujin Dandivine - Episode 2 discussion",
-    "matched_anime_id": 213068,
-    "matched_anime_native": "獣王武神ダンデヴァイン",
-    "score": 100.0,
-    "num_comments": 69,
-    "url": "https://www.reddit.com/r/anime/comments/1x5wsxl/juuou_mujin_dandivine_episode_2_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
     "reddit_title": "The Detective is Already Dead Season 2 • Tantei wa Mou, Shindeiru. Season 2 - Episode 2 discussion",
     "matched_anime_id": 152677,
     "matched_anime_native": "探偵はもう、死んでいる。Season2",
     "score": 100.0,
     "num_comments": 17,
     "url": "https://www.reddit.com/r/anime/comments/1x5w7kn/the_detective_is_already_dead_season_2_tantei_wa/",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "reddit_title": "Juuou Mujin Dandivine - Episode 2 discussion",
+    "matched_anime_id": 213068,
+    "matched_anime_native": "獣王武神ダンデヴァイン",
+    "score": 100.0,
+    "num_comments": 70,
+    "url": "https://www.reddit.com/r/anime/comments/1x5wsxl/juuou_mujin_dandivine_episode_2_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -1324,7 +1574,7 @@
     "matched_anime_id": 207329,
     "matched_anime_native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
     "score": 100.0,
-    "num_comments": 438,
+    "num_comments": 441,
     "url": "https://www.reddit.com/r/anime/comments/1x4zsi8/the_laidoff_cheatgranting_mage_enjoys_a_second/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1374,7 +1624,7 @@
     "matched_anime_id": 198727,
     "matched_anime_native": "千歳くんはラムネ瓶のなか 2クール",
     "score": 90.41095890410959,
-    "num_comments": 59,
+    "num_comments": 61,
     "url": "https://www.reddit.com/r/anime/comments/1x533lk/chitose_is_in_the_ramune_bottle_chitosekun_wa/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1390,16 +1640,6 @@
     "season": "FALL"
   },
   {
-    "reddit_title": "The Cold Sato-san is Only Sweet to Me • Shiotaiou no Satou-san ga Ore ni dake Amai - Episode 2 discussion",
-    "matched_anime_id": 209502,
-    "matched_anime_native": "塩対応の佐藤さんが俺にだけ甘い",
-    "score": 100.0,
-    "num_comments": 122,
-    "url": "https://www.reddit.com/r/anime/comments/1x4wql9/the_cold_satosan_is_only_sweet_to_me_shiotaiou_no/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
     "reddit_title": "Red River • Sora wa Akai Kawa no Hotori - Episode 15 discussion",
     "matched_anime_id": 207809,
     "matched_anime_native": "天は赤い河のほとり",
@@ -1408,6 +1648,16 @@
     "url": "https://www.reddit.com/r/anime/comments/1x55xjv/red_river_sora_wa_akai_kawa_no_hotori_episode_15/",
     "seasonYear": 2026,
     "season": "SUMMER"
+  },
+  {
+    "reddit_title": "The Cold Sato-san is Only Sweet to Me • Shiotaiou no Satou-san ga Ore ni dake Amai - Episode 2 discussion",
+    "matched_anime_id": 209502,
+    "matched_anime_native": "塩対応の佐藤さんが俺にだけ甘い",
+    "score": 100.0,
+    "num_comments": 123,
+    "url": "https://www.reddit.com/r/anime/comments/1x4wql9/the_cold_satosan_is_only_sweet_to_me_shiotaiou_no/",
+    "seasonYear": 2026,
+    "season": "FALL"
   },
   {
     "reddit_title": "Super Psychic Policeman Chojo • Choujun! Choujou-senpai - Episode 2 discussion",
@@ -1424,7 +1674,7 @@
     "matched_anime_id": 187316,
     "matched_anime_native": "幻想水滸伝",
     "score": 93.33333333333333,
-    "num_comments": 76,
+    "num_comments": 78,
     "url": "https://www.reddit.com/r/anime/comments/1x4z6jm/suikoden_the_anime_genso_suikoden_episode_2/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1444,7 +1694,7 @@
     "matched_anime_id": 207329,
     "matched_anime_native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
     "score": 100.0,
-    "num_comments": 2,
+    "num_comments": 3,
     "url": "https://www.youtube.com/watch?v=hvcWx-8RfDQ",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1524,7 +1774,7 @@
     "matched_anime_id": 160803,
     "matched_anime_native": "魔法少女育成計画 restart",
     "score": 100.0,
-    "num_comments": 105,
+    "num_comments": 108,
     "url": "https://www.reddit.com/r/anime/comments/1x487pq/magical_girl_raising_project_restart_mahou_shoujo/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1644,7 +1894,7 @@
     "matched_anime_id": 212888,
     "matched_anime_native": "テムパル～アイテムの力～",
     "score": 100.0,
-    "num_comments": 316,
+    "num_comments": 317,
     "url": "https://www.reddit.com/r/anime/comments/1x39p5m/overgeared_tempal_item_no_chikara_episode_3/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1654,7 +1904,7 @@
     "matched_anime_id": 186541,
     "matched_anime_native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
     "score": 100.0,
-    "num_comments": 533,
+    "num_comments": 541,
     "url": "https://www.reddit.com/r/anime/comments/1x38znf/reborn_as_a_space_mercenary_i_woke_up_piloting/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1664,7 +1914,7 @@
     "matched_anime_id": 205896,
     "matched_anime_native": "信者ゼロの女神サマと始める異世界攻略",
     "score": 100.0,
-    "num_comments": 243,
+    "num_comments": 245,
     "url": "https://www.reddit.com/r/anime/comments/1x39slz/full_clearing_another_world_under_a_goddess_with/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1714,7 +1964,7 @@
     "matched_anime_id": 206814,
     "matched_anime_native": "ドラゴンボール超 ビルス",
     "score": 100.0,
-    "num_comments": 70,
+    "num_comments": 69,
     "url": "https://youtu.be/p7j-iOhl8GI?si=F3C5i8xi3R_B1W2o",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1754,7 +2004,7 @@
     "matched_anime_id": 191788,
     "matched_anime_native": "アオアシ 第2期",
     "score": 100.0,
-    "num_comments": 94,
+    "num_comments": 95,
     "url": "https://www.reddit.com/r/anime/comments/1x33eek/aoashi_season_2_episode_2_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1854,7 +2104,7 @@
     "matched_anime_id": 207329,
     "matched_anime_native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
     "score": 100.0,
-    "num_comments": 4,
+    "num_comments": 5,
     "url": "https://www.youtube.com/watch?v=v49Z7pVnrnw",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1884,7 +2134,7 @@
     "matched_anime_id": 191656,
     "matched_anime_native": "生徒会にも穴はある！",
     "score": 100.0,
-    "num_comments": 184,
+    "num_comments": 185,
     "url": "https://www.reddit.com/r/anime/comments/1x2kakk/even_the_student_council_has_its_holes_seitokai/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1964,7 +2214,7 @@
     "matched_anime_id": 195604,
     "matched_anime_native": "ブラッククローバー 第2期",
     "score": 100.0,
-    "num_comments": 137,
+    "num_comments": 138,
     "url": "https://www.reddit.com/r/anime/comments/1x2hgbo/black_clover_season_2_episode_172_discussion/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1984,7 +2234,7 @@
     "matched_anime_id": 169581,
     "matched_anime_native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
     "score": 100.0,
-    "num_comments": 121,
+    "num_comments": 122,
     "url": "https://www.reddit.com/r/anime/comments/1x2jmed/magical_explorer_magicalexplorer_episode_3/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -1994,7 +2244,7 @@
     "matched_anime_id": 204389,
     "matched_anime_native": "野生のラスボスが現れた！ 第2期",
     "score": 100.0,
-    "num_comments": 164,
+    "num_comments": 165,
     "url": "https://www.reddit.com/r/anime/comments/1x2ff0x/a_wild_last_boss_appeared_season_2_yasei_no_last/",
     "seasonYear": 2026,
     "season": "FALL"
@@ -2048,305 +2298,5 @@
     "url": "https://www.reddit.com/r/anime/comments/1x2hi9q/the_seven_knights_of_the_marronnier_kingdom/",
     "seasonYear": 2026,
     "season": "FALL"
-  },
-  {
-    "reddit_title": "Horror Collector • Kyoufu Collector - Episode 1 discussion",
-    "matched_anime_id": 203473,
-    "matched_anime_native": "恐怖コレクター",
-    "score": 100.0,
-    "num_comments": 55,
-    "url": "https://www.reddit.com/r/anime/comments/1x2kqch/horror_collector_kyoufu_collector_episode_1/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Vertex Force - Episode 2 discussion",
-    "matched_anime_id": 209562,
-    "matched_anime_native": "バーテックスフォース",
-    "score": 100.0,
-    "num_comments": 49,
-    "url": "https://www.reddit.com/r/anime/comments/1x2ivpq/vertex_force_episode_2_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "The Vermilion Mask • Shuiro no Kamen - Episode 1 discussion",
-    "matched_anime_id": 195571,
-    "matched_anime_native": "朱色の仮面",
-    "score": 100.0,
-    "num_comments": 49,
-    "url": "https://www.reddit.com/r/anime/comments/1x2b2cq/the_vermilion_mask_shuiro_no_kamen_episode_1/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "\"Magic Knight Rayearth\" — Non-Credit Opening | Toaka — \"Otome no Ken\"",
-    "matched_anime_id": 178868,
-    "matched_anime_native": "魔法騎士レイアース (2026)",
-    "score": 91.66666666666666,
-    "num_comments": 7,
-    "url": "https://youtu.be/eyps2lFMx18?si=IMizQIFOjWIILsEJ",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Magical★Explorer OP Song: \"Remedy\" by ASCA",
-    "matched_anime_id": 169581,
-    "matched_anime_native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
-    "score": 100.0,
-    "num_comments": 3,
-    "url": "https://www.youtube.com/watch?v=kK2vTiEQ_BE",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Magical★Explorer ED Song: \"Double Wings\" by ASCA",
-    "matched_anime_id": 169581,
-    "matched_anime_native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
-    "score": 100.0,
-    "num_comments": 0,
-    "url": "https://www.youtube.com/watch?v=nxpUVd6LHFg",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "The Apothecary Diaries Season 3 • Kusuriya no Hitorigoto Season 3 - Episode 2 discussion",
-    "matched_anime_id": 195516,
-    "matched_anime_native": "薬屋のひとりごと 第3期",
-    "score": 100.0,
-    "num_comments": 569,
-    "url": "https://www.reddit.com/r/anime/comments/1x1nnsi/the_apothecary_diaries_season_3_kusuriya_no/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Vertex Force Creditless Ending - Emerald by Hashimero",
-    "matched_anime_id": 209562,
-    "matched_anime_native": "バーテックスフォース",
-    "score": 100.0,
-    "num_comments": 0,
-    "url": "https://www.youtube.com/watch?v=oJESb0W2J3A",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "#I'm Looking For a Zombie (#Zombie Sagashitemasu) Creditless Ending - Soft Apocalypse by cadode",
-    "matched_anime_id": 199007,
-    "matched_anime_native": "#ゾンビさがしてます",
-    "score": 100.0,
-    "num_comments": 3,
-    "url": "https://www.youtube.com/watch?v=h6Vsivg4jyM",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Magic Knight Rayearth 2026 - Episode 2 Preview",
-    "matched_anime_id": 178868,
-    "matched_anime_native": "魔法騎士レイアース (2026)",
-    "score": 100.0,
-    "num_comments": 2,
-    "url": "https://youtu.be/aiE5pDamlu8",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "\"The Vermilion Mask\" — Non-Credit Opening | Opening Theme: MAN WITH A MISSION — \"Firestarter\"",
-    "matched_anime_id": 195571,
-    "matched_anime_native": "朱色の仮面",
-    "score": 100.0,
-    "num_comments": 3,
-    "url": "https://youtu.be/w9Y4BqDs_DU?si=Aqs8VoEQE8WaMED-",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "\"The Vermilion Mask\" — Non-Credit Ending | Ending Theme: yutori — \"Koe\"",
-    "matched_anime_id": 195571,
-    "matched_anime_native": "朱色の仮面",
-    "score": 100.0,
-    "num_comments": 0,
-    "url": "https://youtu.be/-cv3r0fV3F8?si=e2Qmct-XNbuShGIu",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Firefly Wedding • Hotaru no Yomeiri - Episode 1 discussion",
-    "matched_anime_id": 205909,
-    "matched_anime_native": "ホタルの嫁入り",
-    "score": 100.0,
-    "num_comments": 226,
-    "url": "https://www.reddit.com/r/anime/comments/1x1nuix/firefly_wedding_hotaru_no_yomeiri_episode_1/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "A Certain Dark Item • Toaru Anbu no ITEM - Episode 1 discussion",
-    "matched_anime_id": 186742,
-    "matched_anime_native": "とある暗部の少女共棲",
-    "score": 100.0,
-    "num_comments": 328,
-    "url": "https://www.reddit.com/r/anime/comments/1x1ogcp/a_certain_dark_item_toaru_anbu_no_item_episode_1/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Nia Liston: Merciless Maiden seems like it’s going to be a fun watch.",
-    "matched_anime_id": 206949,
-    "matched_anime_native": "凶乱令嬢ニア・リストン",
-    "score": 93.10344827586206,
-    "num_comments": 8,
-    "url": "https://www.reddit.com/r/anime/comments/1x25yrb/nia_liston_merciless_maiden_seems_like_its_going/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Finishing Love Unseen Beneath the Clear Night Sky",
-    "matched_anime_id": 202269,
-    "matched_anime_native": "透明な夜に駆ける君と、目に見えない恋をした。",
-    "score": 100.0,
-    "num_comments": 27,
-    "url": "https://www.reddit.com/r/anime/comments/1x254r4/finishing_love_unseen_beneath_the_clear_night_sky/",
-    "seasonYear": 2026,
-    "season": "SUMMER"
-  },
-  {
-    "reddit_title": "Steel Ball Run: JoJo no Kimyou na Bouken • Steel Ball Run: JoJo's Bizarre Adventure - Episode 4 discussion",
-    "matched_anime_id": 210482,
-    "matched_anime_native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
-    "score": 83.01886792452831,
-    "num_comments": 286,
-    "url": "https://www.reddit.com/r/anime/comments/1x1fpx9/steel_ball_run_jojo_no_kimyou_na_bouken_steel/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Sgt. Frog☆ • Keroro Gunsou☆ - Episode 2 discussion",
-    "matched_anime_id": 216557,
-    "matched_anime_native": "ケロロ軍曹☆",
-    "score": 100.0,
-    "num_comments": 15,
-    "url": "https://www.reddit.com/r/anime/comments/1x22711/sgt_frog_keroro_gunsou_episode_2_discussion/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Tokyo Revengers: War of the Three Titans Arc • Tokyo Revengers: Santen Sensou-hen - Episode 2 discussion",
-    "matched_anime_id": 178083,
-    "matched_anime_native": "東京リベンジャーズ 三天戦争編",
-    "score": 100.0,
-    "num_comments": 54,
-    "url": "https://www.reddit.com/r/anime/comments/1x1r4gn/tokyo_revengers_war_of_the_three_titans_arc_tokyo/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "The Iceblade Sorcerer Shall Rule the World Season 2",
-    "matched_anime_id": 212503,
-    "matched_anime_native": "冰剣の魔術師が世界を統べるⅡ",
-    "score": 97.72727272727273,
-    "num_comments": 29,
-    "url": "https://www.reddit.com/r/anime/comments/1x22gx6/the_iceblade_sorcerer_shall_rule_the_world_season/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Tougen Anki: Nikko Kegon Falls Arc • Tougen Anki: Nikko Kegon no Taki-hen - Episode 2 discussion",
-    "matched_anime_id": 204650,
-    "matched_anime_native": "桃源暗鬼 日光・華厳の滝編",
-    "score": 100.0,
-    "num_comments": 28,
-    "url": "https://www.reddit.com/r/anime/comments/1x1p9hb/tougen_anki_nikko_kegon_falls_arc_tougen_anki/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Please Excuse My Younger Brothers • Uchi no Otouto-domo ga Sumimasen - Episode 14 discussion",
-    "matched_anime_id": 203490,
-    "matched_anime_native": "うちの弟どもがすみません",
-    "score": 100.0,
-    "num_comments": 49,
-    "url": "https://www.reddit.com/r/anime/comments/1x1q2ja/please_excuse_my_younger_brothers_uchi_no/",
-    "seasonYear": 2026,
-    "season": "SUMMER"
-  },
-  {
-    "reddit_title": "Firefly Wedding is listed for 12 episodes long",
-    "matched_anime_id": 205909,
-    "matched_anime_native": "ホタルの嫁入り",
-    "score": 100.0,
-    "num_comments": 1,
-    "url": "https://www.aniplex.co.jp/hotaru-anime/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Ghost Meets Gal! - Episode 6 discussion",
-    "matched_anime_id": 214703,
-    "matched_anime_native": "ごーすと・みーつ・ぎゃる！",
-    "score": 100.0,
-    "num_comments": 2,
-    "url": "https://www.reddit.com/r/anime/comments/1x1zow4/ghost_meets_gal_episode_6_discussion/",
-    "seasonYear": 2026,
-    "season": "SUMMER"
-  },
-  {
-    "reddit_title": "Firefly Wedding OP Song: \"Period\" by iri",
-    "matched_anime_id": 205909,
-    "matched_anime_native": "ホタルの嫁入り",
-    "score": 100.0,
-    "num_comments": 4,
-    "url": "https://www.youtube.com/watch?v=C2xa1Yn_Nbc",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Firefly Wedding ED Song: \"Yumegokochi\" by TOOBOE",
-    "matched_anime_id": 205909,
-    "matched_anime_native": "ホタルの嫁入り",
-    "score": 100.0,
-    "num_comments": 1,
-    "url": "https://www.youtube.com/watch?v=IqJEHa3PLCQ",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "The Ramparts of Ice Season 2 • Koori no Jouheki Season 2 - Episode 2 discussion",
-    "matched_anime_id": 213805,
-    "matched_anime_native": "氷の城壁 第2期",
-    "score": 100.0,
-    "num_comments": 623,
-    "url": "https://www.reddit.com/r/anime/comments/1x0u12m/the_ramparts_of_ice_season_2_koori_no_jouheki/",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Overgeared (Tempal: Item no Chikara) Creditless Opening - SATISFY by Re:name",
-    "matched_anime_id": 212888,
-    "matched_anime_native": "テムパル～アイテムの力～",
-    "score": 100.0,
-    "num_comments": 1,
-    "url": "https://www.youtube.com/watch?v=bMtoYP135bc",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "Overgeared (Tempal: Item no Chikara) Creditless Ending - Ray of Emotion by TAO",
-    "matched_anime_id": 212888,
-    "matched_anime_native": "テムパル～アイテムの力～",
-    "score": 100.0,
-    "num_comments": 0,
-    "url": "https://www.youtube.com/watch?v=m_w460cA1ko",
-    "seasonYear": 2026,
-    "season": "FALL"
-  },
-  {
-    "reddit_title": "You and I are polar opposites feels incredibly harsh",
-    "matched_anime_id": 210031,
-    "matched_anime_native": "正反対な君と僕 第2期",
-    "score": 89.1891891891892,
-    "num_comments": 6,
-    "url": "https://www.reddit.com/r/anime/comments/1x21tl5/you_and_i_are_polar_opposites_feels_incredibly/",
-    "seasonYear": 2026,
-    "season": "SUMMER"
   }
 ]
