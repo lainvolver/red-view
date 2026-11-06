@@ -612,9 +612,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1xin7f4/the_ramparts_of_ice_season_2_koori_no_jouheki/",
             "archived_at": "2026-11-04 14:05:36"
           }
+        ],
+        "6": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1xolxz5/the_ramparts_of_ice_season_2_koori_no_jouheki/",
+            "reddit_title": "The Ramparts of Ice Season 2 • Koori no Jouheki Season 2 - Episode 6 discussion",
+            "created_utc": null,
+            "num_comments": 152,
+            "url": "https://www.reddit.com/r/anime/comments/1xolxz5/the_ramparts_of_ice_season_2_koori_no_jouheki/",
+            "archived_at": "2026-11-06 02:27:51"
+          }
         ]
       },
-      "latest_episode": 5
+      "latest_episode": 6
     },
     "206401": {
       "id": 206401,
@@ -671,9 +681,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1xiiq2b/fx_fighter_kurumichan_fx_senshi_kurumichan/",
             "archived_at": "2026-11-05 14:25:34"
           }
+        ],
+        "6": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1xohi1d/fx_fighter_kurumichan_fx_senshi_kurumichan/",
+            "reddit_title": "FX Fighter Kurumi-chan • FX Senshi Kurumi-chan - Episode 6 discussion",
+            "created_utc": null,
+            "num_comments": 210,
+            "url": "https://www.reddit.com/r/anime/comments/1xohi1d/fx_fighter_kurumichan_fx_senshi_kurumichan/",
+            "archived_at": "2026-11-06 02:27:51"
+          }
         ]
       },
-      "latest_episode": 5
+      "latest_episode": 6
     },
     "212144": {
       "id": 212144,
@@ -730,9 +750,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1xiotit/with_vengeance_sincerely_your_broken_saintess/",
             "archived_at": "2026-10-30 02:03:07"
           }
+        ],
+        "6": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1xon5lv/with_vengeance_sincerely_your_broken_saintess/",
+            "reddit_title": "With Vengeance, Sincerely, Your Broken Saintess Season 2 • Kizu darake Seijo yori Houfuku wo Komete Season 2 - Episode 6 discussion",
+            "created_utc": null,
+            "num_comments": 2,
+            "url": "https://www.reddit.com/r/anime/comments/1xon5lv/with_vengeance_sincerely_your_broken_saintess/",
+            "archived_at": "2026-11-06 02:27:51"
+          }
         ]
       },
-      "latest_episode": 5
+      "latest_episode": 6
     },
     "195516": {
       "id": 195516,
@@ -3227,9 +3257,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1xipm58/the_iceblade_sorcerer_shall_rule_the_world_season/",
             "archived_at": "2026-11-01 13:06:30"
           }
+        ],
+        "5": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1xonw09/the_iceblade_sorcerer_shall_rule_the_world_season/",
+            "reddit_title": "The Iceblade Sorcerer Shall Rule the World Season 2 • Hyouken no Majutsushi ga Sekai wo Suberu Season 2 - Episode 5 discussion",
+            "created_utc": null,
+            "num_comments": 23,
+            "url": "https://www.reddit.com/r/anime/comments/1xonw09/the_iceblade_sorcerer_shall_rule_the_world_season/",
+            "archived_at": "2026-11-06 02:27:51"
+          }
         ]
       },
-      "latest_episode": 4
+      "latest_episode": 5
     },
     "199594": {
       "id": 199594,
@@ -3276,9 +3316,19 @@
             "url": "https://www.reddit.com/r/anime/comments/1xio2dq/tetsuryo_meet_with_tetsudou_musume_episode_4/",
             "archived_at": "2026-11-05 14:33:57"
           }
+        ],
+        "5": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1xomh9f/tetsuryo_meet_with_tetsudou_musume_episode_5/",
+            "reddit_title": "Tetsuryo! Meet with Tetsudou Musume - Episode 5 discussion",
+            "created_utc": null,
+            "num_comments": 22,
+            "url": "https://www.reddit.com/r/anime/comments/1xomh9f/tetsuryo_meet_with_tetsudou_musume_episode_5/",
+            "archived_at": "2026-11-06 02:27:51"
+          }
         ]
       },
-      "latest_episode": 4
+      "latest_episode": 5
     },
     "218011": {
       "id": 218011,
@@ -3897,6 +3947,25 @@
         ]
       },
       "latest_episode": 10
+    },
+    "216895": {
+      "id": 216895,
+      "name_jp": "蒼き伝承 ウェルシュ&シェーダー",
+      "seasonYear": 2026,
+      "season": "FALL",
+      "episodes": {
+        "1": [
+          {
+            "reddit_id": "https://www.reddit.com/r/anime/comments/1xos9hc/welsh_shedar_aoki_denshou_welsh_shedar_episode_1/",
+            "reddit_title": "Welsh & Shedar • Aoki Denshou: Welsh & Shedar - Episode 1 discussion",
+            "created_utc": null,
+            "num_comments": 8,
+            "url": "https://www.reddit.com/r/anime/comments/1xos9hc/welsh_shedar_aoki_denshou_welsh_shedar_episode_1/",
+            "archived_at": "2026-11-06 02:27:51"
+          }
+        ]
+      },
+      "latest_episode": 1
     }
   }
 }
