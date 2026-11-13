@@ -5,30 +5,55 @@ from datetime import datetime
 from pathlib import Path
 import shutil
 import praw
+import prawcore
 import os
 
 SEASON_COUNT = 4  # 直近何シーズン分を更新するか 1~
 EPISODE_COUNT = 6  # 直近何話分を更新するか 1~
 
 # 環境変数から取得
-CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
-CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
-USERNAME = os.getenv("REDDIT_USERNAME")
-PASSWORD = os.getenv("REDDIT_PASSWORD")
-USER_AGENT = os.getenv("REDDIT_USER_AGENT", "r-anime-scraper/0.1 by example")
+CLIENT_ID = (os.getenv("REDDIT_CLIENT_ID") or "").strip()
+CLIENT_SECRET = (os.getenv("REDDIT_CLIENT_SECRET") or "").strip()
+USERNAME = (os.getenv("REDDIT_USERNAME") or "").strip()
+PASSWORD = (os.getenv("REDDIT_PASSWORD") or "").strip()
 
-if not all([CLIENT_ID, CLIENT_SECRET, USERNAME, PASSWORD]):
-    raise SystemExit("Missing Reddit credentials in environment variables.")
+# GitHub Actions で未設定のシークレットは空文字になるため、空文字や汎用文字列の場合は
+# Reddit 規約に準拠した User-Agent 形式へフォールバックする
+_raw_ua = (os.getenv("REDDIT_USER_AGENT") or "").strip()
+_ua_user = USERNAME or "LedazenOshyqizan"
+if not _raw_ua or "example" in _raw_ua.lower() or "scraper" in _raw_ua.lower():
+    USER_AGENT = f"linux:red-view:v1.0 (by /u/{_ua_user})"
+else:
+    USER_AGENT = _raw_ua
 
-reddit = praw.Reddit(
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    username=USERNAME,
-    password=PASSWORD,
-    user_agent=USER_AGENT,
-    check_for_updates=False,
-    ratelimit_seconds=60
-)
+if not all([CLIENT_ID, CLIENT_SECRET]):
+    raise SystemExit("Missing Reddit CLIENT_ID or CLIENT_SECRET in environment variables.")
+
+
+def create_reddit_client(read_only=True):
+    """PRAW クライアントを生成する（公開データ取得のためデフォルトは Read-Only モード）"""
+    if not read_only and USERNAME and PASSWORD:
+        return praw.Reddit(
+            client_id=CLIENT_ID,
+            client_secret=CLIENT_SECRET,
+            username=USERNAME,
+            password=PASSWORD,
+            user_agent=USER_AGENT,
+            check_for_updates=False,
+            ratelimit_seconds=60,
+        )
+    client = praw.Reddit(
+        client_id=CLIENT_ID,
+        client_secret=CLIENT_SECRET,
+        user_agent=USER_AGENT,
+        check_for_updates=False,
+        ratelimit_seconds=60,
+    )
+    client.read_only = True
+    return client
+
+
+reddit = create_reddit_client(read_only=True)
 
 # PRAWを使ったコメント数取得
 def fetch_comment_count_praw(reddit_url):
@@ -111,11 +136,18 @@ for key in season_keys:
                 post["archived_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 updated += 1
             checked += 1
-            time.sleep(1.5) # API負荷を下げるためにわずかに待つ
-        except requests.exceptions.HTTPError as e:
-            if e.response is not None and e.response.status_code == 403:
+            count_403 = 0
+            time.sleep(1.5)  # API負荷を下げるためにわずかに待つ
+        except (prawcore.exceptions.Forbidden, prawcore.exceptions.ResponseException, requests.exceptions.HTTPError) as e:
+            status_code = getattr(getattr(e, "response", None), "status_code", None)
+            if isinstance(e, prawcore.exceptions.Forbidden) or status_code == 403:
                 count_403 += 1
                 print(f"403 skip ({count_403}/{MAX_403}):", post["reddit_id"])
+
+                # 初回の403発生時、認証情報があれば別モードへ切り替えて試行
+                if count_403 == 1 and USERNAME and PASSWORD and reddit.read_only:
+                    print("info: switching Reddit client to user-auth mode after 403")
+                    reddit = create_reddit_client(read_only=False)
 
                 if count_403 >= MAX_403:
                     print("Too many 403s, abort this season")
