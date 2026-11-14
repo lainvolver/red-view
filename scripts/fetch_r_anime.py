@@ -3,6 +3,7 @@ import os
 import time
 import json
 from datetime import datetime, timezone
+import requests
 import praw
 import prawcore
 
@@ -21,8 +22,11 @@ if not _raw_ua or "example" in _raw_ua.lower() or "scraper" in _raw_ua.lower():
 else:
     USER_AGENT = _raw_ua
 
-if not all([CLIENT_ID, CLIENT_SECRET]):
-    raise SystemExit("Missing Reddit CLIENT_ID or CLIENT_SECRET in environment variables.")
+SUB = "anime"
+MAX_PER_LIST = 800  # hot/new で取る数。1000がAPI上の深さ制限に近いので余裕を持たせる
+ARCTIC_SHIFT_SEARCH_URL = "https://arctic-shift.photon-reddit.com/api/posts/search"
+MIN_FALLBACK_POSTS = 1000  # フォールバック時に最低限取得する件数
+MAX_FALLBACK_PAGES = 30    # フォールバック時の最大ページ数（100件×30＝最大3000件）
 
 
 def create_reddit_client(read_only=True):
@@ -49,10 +53,8 @@ def create_reddit_client(read_only=True):
     return client
 
 
-reddit = create_reddit_client(read_only=True)
-
-SUB = "anime"
-MAX_PER_LIST = 800  # hot/new で取る数。1000がAPI上の深さ制限に近いので余裕を持たせる
+reddit = create_reddit_client(read_only=True) if (CLIENT_ID and CLIENT_SECRET) else None
+praw_disabled = reddit is None
 
 
 def _make_generator(client, list_type, limit):
@@ -69,10 +71,12 @@ def _make_generator(client, list_type, limit):
 
 
 def pull_listing(list_type="hot", limit=MAX_PER_LIST):
-    """hot / new / top listing を取得して dict のリストで返す"""
-    global reddit
-    items = []
+    """hot / new / top listing を PRAW で取得して dict のリストで返す"""
+    global reddit, praw_disabled
+    if praw_disabled:
+        return []
 
+    items = []
     # 1回目: Read-Only モード (client_credentials)、失敗時は Password 認証にフォールバックして試行
     auth_modes = [True, False] if (USERNAME and PASSWORD) else [True]
 
@@ -109,7 +113,7 @@ def pull_listing(list_type="hot", limit=MAX_PER_LIST):
             # 正常に取得完了したらループを抜ける
             break
 
-        except (prawcore.exceptions.Forbidden, prawcore.exceptions.ResponseException, prawcore.exceptions.OAuthException) as e:
+        except prawcore.exceptions.PrawcoreException as e:
             status = getattr(getattr(e, "response", None), "status_code", "unknown")
             body = getattr(getattr(e, "response", None), "text", "")
             print(f"warn: Reddit API error on '{list_type}' (mode={'read-only' if use_read_only else 'user-auth'}, status={status}): {e}")
@@ -119,14 +123,124 @@ def pull_listing(list_type="hot", limit=MAX_PER_LIST):
             if items:
                 print(f"info: keeping {len(items)} posts collected before error on '{list_type}'")
                 break
-            time.sleep(5)
+            time.sleep(2)
         except Exception as e:
             print(f"warn: unexpected error while pulling '{list_type}': {e}")
             if items:
                 break
-            time.sleep(5)
+            time.sleep(2)
+
+    if not items:
+        # 全ての認証モードで0件だった場合、以降のリストでも失敗するため PRAW を無効化してフォールバックへ移行する
+        print(f"warn: PRAW failed for '{list_type}'; disabling PRAW for remaining listings and using fallback API.")
+        praw_disabled = True
 
     print(f"info: pulled {len(items)} posts from '{list_type}'")
+    return items
+
+
+def _get_last_max_created_utc(path="data/reddit_latest.json") -> int:
+    """既存の reddit_latest.json から最新の created_utc を取得する（ギャップ補完用）"""
+    if not os.path.exists(path):
+        return 0
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        posts = data.get("posts", []) if isinstance(data, dict) else data
+        if not posts:
+            return 0
+        return max(int(p.get("created_utc") or 0) for p in posts)
+    except Exception:
+        return 0
+
+
+def pull_via_arctic_shift(min_posts=MIN_FALLBACK_POSTS, max_pages=MAX_FALLBACK_PAGES):
+    """PRAW が利用できない・403等で失敗した場合に Arctic Shift API から最新の投稿一覧を取得する"""
+    last_max_utc = _get_last_max_created_utc()
+    now_utc = int(datetime.now(timezone.utc).timestamp())
+    # 既存データが直近14日以内の場合は、その時刻に追いつくまで遡って取得する
+    target_utc = last_max_utc if (last_max_utc > 0 and (now_utc - last_max_utc) <= 14 * 86400) else 0
+
+    if target_utc:
+        print(f"info: fetching from Arctic Shift API (min {min_posts} posts, or back to created_utc={target_utc})")
+    else:
+        print(f"info: fetching from Arctic Shift API (target {min_posts} posts)")
+
+    items = []
+    seen_ids = set()
+    before_utc = None
+    headers = {"User-Agent": USER_AGENT}
+
+    for page in range(1, max_pages + 1):
+        params = {
+            "subreddit": SUB,
+            "limit": 100,
+            "sort": "desc",
+        }
+        if before_utc is not None:
+            params["before"] = before_utc
+
+        batch = []
+        for retry in range(3):
+            try:
+                resp = requests.get(ARCTIC_SHIFT_SEARCH_URL, params=params, headers=headers, timeout=20)
+                if resp.status_code in (422, 429, 500, 502, 503, 504) and retry < 2:
+                    time.sleep(2 * (retry + 1))
+                    continue
+                resp.raise_for_status()
+                payload = resp.json()
+                batch = payload.get("data") or []
+                break
+            except Exception as e:
+                if retry < 2:
+                    time.sleep(2 * (retry + 1))
+                    continue
+                print(f"warn: Arctic Shift API request failed on page {page}: {e}")
+                batch = []
+
+        if not batch:
+            break
+
+        oldest_in_batch = None
+        added_in_batch = 0
+        for post in batch:
+            created_utc = int(post.get("created_utc") or 0)
+            if oldest_in_batch is None or created_utc < oldest_in_batch:
+                oldest_in_batch = created_utc
+
+            pid = post.get("id")
+            if not pid or pid in seen_ids:
+                continue
+            seen_ids.add(pid)
+            added_in_batch += 1
+
+            permalink = post.get("permalink") or f"/r/{SUB}/comments/{pid}/"
+            url = post.get("url") or f"https://www.reddit.com{permalink}"
+
+            items.append({
+                "id": pid,
+                "title": post.get("title") or "",
+                "score": int(post.get("score") or 0),
+                "num_comments": int(post.get("num_comments") or 0),
+                "created_utc": created_utc,
+                "author": post.get("author"),
+                "permalink": permalink,
+                "url": url,
+                "is_self": bool(post.get("is_self", True)),
+                "flair": post.get("link_flair_text"),
+            })
+
+        # 十分な件数を取得し、かつ前回スナップショットの最新時刻まで遡れたら終了
+        if len(items) >= min_posts:
+            if not target_utc or (oldest_in_batch is not None and oldest_in_batch <= target_utc):
+                break
+
+        if oldest_in_batch is None or added_in_batch == 0:
+            break
+        before_utc = oldest_in_batch
+        time.sleep(0.5)
+
+    print(f"info: pulled {len(items)} posts via Arctic Shift API")
     return items
 
 
@@ -144,18 +258,19 @@ def merge_unique(list_of_lists):
 def main():
     now = datetime.now(timezone.utc)
     date_str = now.strftime("%Y-%m-%dT%H%M%SZ")
-    # 取得：hot と new と top を取ってユニーク化
+    # 取得：まず PRAW で hot / new / top を試み、取得できなければ Arctic Shift API にフォールバック
     hot = pull_listing("hot")
     new = pull_listing("new")
     top_day = pull_listing("top")
     merged = merge_unique([hot, new, top_day])
 
     if not merged:
-        # 全リストが0件だった場合、既存の data/reddit_latest.json があれば空データで上書きしない
-        if os.path.exists("data/reddit_latest.json"):
-            print("warn: no posts fetched from Reddit API; keeping existing data/reddit_latest.json to prevent data loss.")
-            return
-        raise SystemExit("Error: failed to fetch any posts from Reddit API and no existing data/reddit_latest.json found.")
+        fallback_items = pull_via_arctic_shift()
+        new = fallback_items
+        merged = merge_unique([fallback_items])
+
+    if not merged:
+        raise SystemExit("Error: failed to fetch any posts from both Reddit API (PRAW) and fallback API.")
 
     out = {
         "snapshot_at": date_str,
@@ -170,16 +285,12 @@ def main():
     }
 
     os.makedirs("data", exist_ok=True)
-    # Test mode: skip writing full dated snapshot to avoid creating many files in tests
-    # filename = f"data/r_anime_snapshot_{now.strftime('%Y%m%d')}.json"
-    # with open(filename, "w", encoding="utf-8") as f:
-    #     json.dump(out, f, ensure_ascii=False, indent=2)
 
     # reddit_latest.json を上書き（Pages 側で常に最新を参照する用）
     with open("data/reddit_latest.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated data/reddit_latest.json (total {len(merged)} posts). Snapshot file creation skipped in test mode.")
+    print(f"Updated data/reddit_latest.json (total {len(merged)} posts).")
 
 
 if __name__ == "__main__":
