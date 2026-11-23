@@ -11,6 +11,14 @@ const seasonLabel = {
   fall: "秋",
 };
 
+// シーズンの時系列順（新しい季節ほど数値が大きい）
+const seasonOrder = {
+  WINTER: 1,
+  SPRING: 2,
+  SUMMER: 3,
+  FALL: 4,
+};
+
 const files = fs.readdirSync(SRC_DIR).filter(f => f.endsWith(".json"));
 
 const seasons = files.map(file => {
@@ -25,7 +33,7 @@ const seasons = files.map(file => {
   };
 }).sort((a, b) => {
   if (a.year !== b.year) return b.year - a.year;
-  return a.season.localeCompare(b.season);
+  return (seasonOrder[b.season] ?? 0) - (seasonOrder[a.season] ?? 0);
 });
 
 fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });

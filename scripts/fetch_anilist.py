@@ -98,7 +98,7 @@ def get_current_season_anime(save_path: str | None = "data/anilist.json",
           print("--- variables ---")
           print(variables)
 
-        resp = requests.post(url, json={"query": query, "variables": variables})
+        resp = requests.post(url, json={"query": query, "variables": variables}, timeout=20)
         try:
           resp.raise_for_status()
         except Exception:
