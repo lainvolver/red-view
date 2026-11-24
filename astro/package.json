@@ -11,9 +11,5 @@
   "dependencies": {
     "astro": "^7.0.4",
     "chart.js": "^4.6.1"
-  },
-  "devDependencies": {
-    "@emnapi/core": "^1.11.1",
-    "@emnapi/runtime": "^1.11.1"
   }
 }
