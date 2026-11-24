@@ -24,6 +24,14 @@
     "season": "FALL"
   },
   {
+    "id": 168085,
+    "romaji": "Dali Si Rizhi 3",
+    "english": "White Cat Legend 3",
+    "native": "大理寺日志 第3季",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "id": 169581,
     "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
     "english": "Magical Explorer",
@@ -232,6 +240,14 @@
     "season": "FALL"
   },
   {
+    "id": 199353,
+    "romaji": "Dawang Raoming 3",
+    "english": null,
+    "native": "大王饶命 第三季",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "id": 199426,
     "romaji": "Hotel Inhumans 2nd Season",
     "english": "HOTEL INHUMANS Season 2",
@@ -332,6 +348,22 @@
     "romaji": "Hotaru no Yomeiri",
     "english": "Firefly Wedding",
     "native": "ホタルの嫁入り",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 206189,
+    "romaji": "Zhu Xian Final",
+    "english": null,
+    "native": "诛仙 最终季",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 206244,
+    "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
+    "english": null,
+    "native": "罗小黑战记 学前篇",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -608,6 +640,14 @@
     "season": "FALL"
   },
   {
+    "id": 214974,
+    "romaji": "Da Xia Shou Mu Ren",
+    "english": "The Guardian of Daxia",
+    "native": "大夏守墓人",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "id": 215835,
     "romaji": "Umayuru: Full Gate!",
     "english": null,
@@ -620,6 +660,14 @@
     "romaji": "Keroro Gunsou☆",
     "english": "KERORO☆",
     "native": "ケロロ軍曹☆",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 216620,
+    "romaji": "Lingjing Xingzhe",
+    "english": "Spiritual Realm Walker",
+    "native": "灵境行者",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -664,6 +712,22 @@
     "season": "FALL"
   },
   {
+    "id": 217627,
+    "romaji": "Xian Ni Movie: Shi Xian Zhi Zhan",
+    "english": "Renegade Immortal: Slaying the Blood Progenitor",
+    "native": "仙逆剧场版 弑仙之战",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 217628,
+    "romaji": "Wanmei Shijie 7",
+    "english": null,
+    "native": "完美世界 第七季",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "id": 217782,
     "romaji": "Kanojo no Tomodachi Mini Anime Gekijou",
     "english": "My Girlfriend's Friend Mini Anime",
@@ -704,6 +768,14 @@
     "season": "FALL"
   },
   {
+    "id": 218679,
+    "romaji": "Jewel Star Catch! Tiniping",
+    "english": null,
+    "native": "쥬얼스타 캐치! 티니핑",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "id": 218938,
     "romaji": "Hotaru no Yomeiri: Choitashi",
     "english": null,
@@ -720,10 +792,34 @@
     "season": "FALL"
   },
   {
+    "id": 219034,
+    "romaji": "Kuang Wang 2",
+    "english": "Asura S2",
+    "native": "狂王2",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
     "id": 219507,
     "romaji": "Ocha-ken: Chobitto Monogatari",
     "english": null,
     "native": "お茶犬 ーちょびっとものがたりー",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 219986,
+    "romaji": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan",
+    "english": "Battle Through The Heavens: Battle Of The Two Emperors",
+    "native": "斗破苍穹剧场版 双帝之战",
+    "seasonYear": 2026,
+    "season": "FALL"
+  },
+  {
+    "id": 220171,
+    "romaji": "Mu Shen Ji 5",
+    "english": null,
+    "native": "牧神记5",
     "seasonYear": 2026,
     "season": "FALL"
   },
@@ -760,10 +856,42 @@
     "season": "SUMMER"
   },
   {
+    "id": 141953,
+    "romaji": "Jiyi Guanli Ju (2026)",
+    "english": "False Memory (2026)",
+    "native": "记忆管理局 (2026)",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 154122,
+    "romaji": "Nano List",
+    "english": null,
+    "native": "나노리스트",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 159309,
     "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
     "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
     "native": "乙女ゲー世界はモブに厳しい世界です2",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 166444,
+    "romaji": "Cheng Ye Xiao He",
+    "english": "To Be Winner",
+    "native": "成也萧河",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 168134,
+    "romaji": "Hua Xianzi: Mofa Xiang Dui Lun",
+    "english": null,
+    "native": "花仙子之魔法香对论",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -832,6 +960,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 184356,
+    "romaji": "Dogul Wang",
+    "english": "Tomb Raider King",
+    "native": "도굴왕",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 185542,
     "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
     "english": "Skeleton Knight in Another World Season 2",
@@ -888,6 +1024,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 187594,
+    "romaji": "Wanmei Shijie Movie: Jiu Jie Fen Tian",
+    "english": "Perfect World Movie: Ninefold The Burning Sky",
+    "native": "完美世界剧场版 九劫焚天",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 188139,
     "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
     "english": "Though I Am an Inept Villainess",
@@ -908,6 +1052,14 @@
     "romaji": "Tenmaku no Jaadugar",
     "english": "Jaadugar: A Witch in Mongolia",
     "native": "天幕のジャードゥーガル",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 191832,
+    "romaji": "Shiguang Dailiren III Part 1",
+    "english": "Link Click Season 3 Part 1",
+    "native": "时光代理人 第三季 Part One",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1016,6 +1168,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 198708,
+    "romaji": "Huyao Xiao Hongniang: Huang Feng Ling",
+    "english": null,
+    "native": "狐妖小红娘 黄风岭",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 198709,
     "romaji": "Tefuda ga Oome no Victoria",
     "english": "Victoria of Many Faces",
@@ -1052,6 +1212,22 @@
     "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
     "english": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
     "native": "ブチ切れ令嬢は報復を誓いました。　～魔導書の力で祖国を叩き潰します～",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 199409,
+    "romaji": "Yi Nian Yongheng 4",
+    "english": null,
+    "native": "一念永恒 第四季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 199418,
+    "romaji": "Wan Ren Zhi Shang",
+    "english": "Above Myriads",
+    "native": "万人之上",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1104,6 +1280,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 202851,
+    "romaji": "Fanren Xiu Xian Zhuan Di Wu Ji",
+    "english": null,
+    "native": "凡人修仙传 第五季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 202896,
     "romaji": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
     "english": null,
@@ -1144,6 +1328,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 205068,
+    "romaji": "Wollum Jogyonim",
+    "english": "One-Room TA",
+    "native": "원룸 조교님",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 205116,
     "romaji": "Aware! Meisaku-kun (2026)",
     "english": null,
@@ -1152,10 +1344,34 @@
     "season": "SUMMER"
   },
   {
+    "id": 206194,
+    "romaji": "Zhan Shen: Fanchen Shen Yu 2",
+    "english": "Slay The Gods 2",
+    "native": "斩神之凡尘神域 第2季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 206249,
     "romaji": "Iwamoto-senpai no Suisen",
     "english": "Recommendations from Iwamoto-Senpai",
     "native": "岩元先輩ノ推薦",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 206273,
+    "romaji": "Yi Zhan Cangqiong",
+    "english": "GuAn",
+    "native": "一斩苍穹",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 206282,
+    "romaji": "Wangu Zhizun: Li Yunxiao Zhuan",
+    "english": "The Eternal Supreme, Li Yunxiao",
+    "native": "万古至尊：李云霄传",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1272,6 +1488,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 211220,
+    "romaji": "Li Xiongmao",
+    "english": "Raised by Demons: Panda Li",
+    "native": "李熊猫",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 212308,
     "romaji": "Pan no Akachan (TV)",
     "english": null,
@@ -1280,10 +1504,34 @@
     "season": "SUMMER"
   },
   {
+    "id": 212969,
+    "romaji": "Dongda Gao Wu Xueyuan",
+    "english": "Oriental Martial Academy",
+    "native": "东大高武学院",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 213097,
     "romaji": "TOMICA & TOM Season 2",
     "english": null,
     "native": "トミカとトム シーズン2",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213188,
+    "romaji": "Jueshi Zhan Hun 2",
+    "english": null,
+    "native": "绝世战魂 第2季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213356,
+    "romaji": "Guangyin Zhi Wai 2",
+    "english": "Beyond Time's Gaze 2",
+    "native": "光阴之外2",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1312,10 +1560,34 @@
     "season": "SUMMER"
   },
   {
+    "id": 213484,
+    "romaji": "Bai Ri Cheng Wang",
+    "english": "Crowned in a Hundred Days",
+    "native": "百日成王",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213486,
+    "romaji": "You Shou Yan 6",
+    "english": "Fabulous Beasts 6",
+    "native": "有兽焉 第六季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 213506,
     "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2",
     "english": null,
     "native": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213638,
+    "romaji": "Xi Yangyang Yu Hui Tailang: Po Jie Shanhai Jue",
+    "english": null,
+    "native": "喜羊羊与灰太狼之破界山海诀",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1332,6 +1604,14 @@
     "romaji": "Perfect Addiction",
     "english": "Perfect Addiction",
     "native": "パーフェクトアディクション",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 213703,
+    "romaji": "Jiaonang Jihua: Qiji",
+    "english": null,
+    "native": "胶囊计划 奇迹",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1368,6 +1648,22 @@
     "season": "SUMMER"
   },
   {
+    "id": 214259,
+    "romaji": "Yao Shen Ji 10",
+    "english": null,
+    "native": "妖神记 第十季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 214260,
+    "romaji": "Zeri Feisheng",
+    "english": "A Good Day to Ascend",
+    "native": "择日飞升",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 214551,
     "romaji": "Oushun Jogakuen no Danyuu",
     "english": null,
@@ -1384,6 +1680,14 @@
     "season": "SUMMER"
   },
   {
+    "id": 214829,
+    "romaji": "Di Ling Ai: Shui Xin Chan",
+    "english": null,
+    "native": "缔灵爱水心缠",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 214855,
     "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 4",
     "english": null,
@@ -1392,10 +1696,42 @@
     "season": "SUMMER"
   },
   {
+    "id": 215521,
+    "romaji": "Zhangmen Didiao Dian",
+    "english": "Stay Low Profile, Sect Chief",
+    "native": "掌门低调点",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 215522,
+    "romaji": "Caishen Dou Zhanlong",
+    "english": "Golden Curse",
+    "native": "财神窦占龙",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 215526,
+    "romaji": "Taigu Shen Zun",
+    "english": "Primeval Overlord",
+    "native": "太古神尊",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
     "id": 215761,
     "romaji": "POKÉTOON (2026)",
     "english": "POKÉTOON (2026)",
     "native": "POKÉTOON (2026)",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 216176,
+    "romaji": "Lian Qi Shi Wan Nian Special: Yangji Tianxia",
+    "english": "One Hundred Thousand Years of Qi Training: Yang Ascendant",
+    "native": "炼气十万年特别篇 阳极天下",
     "seasonYear": 2026,
     "season": "SUMMER"
   },
@@ -1420,6 +1756,38 @@
     "romaji": "Hetalia World★Stars (2026)",
     "english": null,
     "native": "ヘタリア World★Stars (2026)",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 217246,
+    "romaji": "Shi Wang Zhe A? 6",
+    "english": null,
+    "native": "是王者啊？第六季",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 217391,
+    "romaji": "1999! Shenmi Xue Duice Bu",
+    "english": "1999! Occult Countermeasures Department",
+    "native": "1999！神秘学对策部",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 219969,
+    "romaji": "Wollum Jogyonim Special Episode",
+    "english": "One-Room TA Special Episode",
+    "native": "원룸 조교님 특별 회",
+    "seasonYear": 2026,
+    "season": "SUMMER"
+  },
+  {
+    "id": 220079,
+    "romaji": "Shixiong A Shixiong Final",
+    "english": null,
+    "native": "师兄啊师兄 最终季",
     "seasonYear": 2026,
     "season": "SUMMER"
   }
